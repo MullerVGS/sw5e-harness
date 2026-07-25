@@ -103,13 +103,30 @@ Quatro regras de leitura da tabela:
   Beguiler tem `Sneak Attack` da classe e `Force Points` do arquétipo.
   Multiclasse que repete a coluna grava o total efetivo, e o `notas` explica.
 - **Coluna `*Known` não entra** quando a lista correspondente já está na ficha —
-  `Force Powers Known` é o tamanho de `poderes.forca`.
+  `Force Powers Known` é o tamanho de `poderes.forca`. E é exatamente o tamanho:
+  ver `poderes`, abaixo.
 - **`�` quer dizer "nada neste nível"**, não conteúdo. A API perdeu travessões
   na origem, e `Operative Exploits: "�"` no nível 1 é uma coluna que ainda não
   vale — não copie.
 
 `Max Power Level` é a única normalização: a tabela escreve `"1st"`, a ficha grava
 `1`, porque é com o `level` inteiro da Fatia do poder que ele se compara.
+
+### `poderes`
+
+`forca[]` e `tech[]` guardam os poderes **escolhidos** — os que a coluna `*Known`
+da tabela conta. Por isso a lista tem o tamanho exato da coluna, e é isso que
+torna a evolução mecânica: a coluna sobe, e a diferença é quanto se escolhe.
+
+**Poder concedido não entra aqui.** Espécie e arquétipo dão poder de graça — o
+Miraluka já nasce com `Mind Trick` e ganha `Sanctuary` no 3º —, e poder concedido
+não é escolha: ele é derivável da entidade que o deu. Quem o nomeia é o `resumo`
+da feature que o concede, e ele tem linha em `fontes` como qualquer outro nome em
+inglês. Somá-lo à lista faria a conta com a coluna parar de fechar e duplicaria o
+Espelho dentro da ficha.
+
+A ficha então não tem uma lista só do que o personagem conjura — quem monta isso
+é o Agente, ao fechar a conversa. `notas` é onde se diz que existe concedido.
 
 ### `proficiencias`
 
@@ -426,8 +443,10 @@ Antes de gravar, além do que o `AGENTS.md` já manda:
    (finesse decide se o bônus é de Dexterity ou Strength).
 5. **`recursos` é a linha certa da tabela** — nível certo, classe **e**
    arquétipo, valor efetivo.
-6. **Poder cabe no `Max Power Level`** e a lista tem o tamanho da coluna
-   `*Known`.
+6. **Poder cabe no `Max Power Level`**, a lista tem o tamanho exato da coluna
+   `*Known`, e todo poder concedido está fora dela e nomeado na feature que o
+   concede.
 7. **Cada proficiência tem quem a concedeu**, e a mesma não foi concedida duas
-   vezes por fontes diferentes.
+   vezes por fontes diferentes — ou, se foi, a Fatia diz no que a segunda vira
+   (o `Loremaster` troca proficiência repetida em `Lore` por expertise).
 8. **`features` cobre a coluna `Features` de todas as linhas até o nível atual.**
