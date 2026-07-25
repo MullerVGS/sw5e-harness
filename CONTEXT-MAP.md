@@ -14,7 +14,7 @@ Um contexto por mesa em `campanhas/<slug>/CONTEXT.md`. A skill `nova-campanha` r
 - [Nome da campanha](./campanhas/<slug>/CONTEXT.md) — papel do Jogador, era, uma linha sobre o tom
 ```
 
-_(nenhuma campanha ainda)_
+- [Tauó dos Vitoriosos](./campanhas/tauo-dos-vitoriosos/CONTEXT.md) — jogador, 25 BBY (Legends), clã mercenário mandaloriano sem trono vivendo de contrato
 
 ## Relações
 
