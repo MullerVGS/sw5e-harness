@@ -75,12 +75,6 @@ Vivem em `.agents/skills/<nome>/SKILL.md`. As regras acima valem para todas e **
 
 ## Estado atual
 
-O esqueleto está de pé; o resto está em construção, rastreado no mapa `.scratch/sw5e-harness/map.md` e nos tickets em `.scratch/sw5e-harness/issues/`, na raiz do workspace (`/root/projetos`).
-
-Já existem: o espelho `sw5e/` com as 3.629 fatias e os nove índices, e o `tools/sync-espelho.py` que o produz (issue 03); o esquema `sw5e-ficha/1` em `FICHA.md` (issue 04); as skills `nova-campanha` (issue 05) e `criar-personagem` (issue 06).
-
-Ainda **não existem**: `criar-npc`, `registrar-sessao` e `evoluir-personagem` (issue 07). Até cada uma chegar, as regras acima descrevem o alvo, não o presente — não finja que a peça existe. Nenhuma ficha foi escrita ainda: o exemplo do `FICHA.md` é exemplo, e a mesa dele não existe como Campanha.
-
 **O espelho tem um buraco conhecido.** Manobra, fighting style, forma de sabre, fighting mastery, weapon focus e weapon supremacy existem em SW5e e a API os publica, mas o sync não os baixa — e a prosa da classe manda ver um capítulo que não foi sincronizado. **Oito das dez classes** mandam escolher pelo menos um deles; só Consular e Engineer escapam. Enquanto a issue 12 não fechar, isso não é "o conteúdo não existe": é o espelho incompleto. Diga isso ao Jogador em vez de inventar nome ou negar a regra.
 
-Apague esta seção quando a issue 07 fechar.
+Apague esta seção quando a issue 12 fechar. O mapa e os tickets vivem em `.scratch/sw5e-harness/`, na raiz do workspace (`/root/projetos`).
