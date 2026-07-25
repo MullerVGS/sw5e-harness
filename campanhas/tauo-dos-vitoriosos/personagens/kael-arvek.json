@@ -1,0 +1,201 @@
+{
+  "esquema": "sw5e-ficha/1",
+  "tipo": "pc",
+  "campanha": "tauo-dos-vitoriosos",
+  "identidade": {
+    "nome": "Kael Arvek",
+    "especie": "Arkanian",
+    "idade": 29,
+    "alinhamento": "leal e equilibrada",
+    "aparencia": "Pele tan, cabelo branco raspado nos lados, quatro dedos com garras curtas e olhos brancos sem íris. Quase nunca tira o capacete de beskar — a luz forte o cega, e é a única peça do conjunto que ele tem; o resto é combat suit remendado com placas que não combinam. O B3-SK flutua sempre à altura do ombro esquerdo dele."
+  },
+  "narrativa": {
+    "conceito": "Engenheiro arkaniano adotado por um clã mandaloriano sem trono, que entra em qualquer sistema e sai com ele obedecendo.",
+    "tracos": [
+      "Fala com o B3-SK em voz alta o tempo todo, e responde no lugar dele quando perguntam.",
+      "Só tira o capacete em sala onde confia em todo mundo — e todo mundo já percebeu isso."
+    ],
+    "ideais": [
+      "Quem me deu nome não precisa pedir duas vezes.",
+      "Sistema nenhum é sagrado. O que alguém montou, alguém desmonta."
+    ],
+    "vinculos": [
+      "O clã o tomou como filho sem lhe cobrar nada, e ele nunca soube o que fazer com isso além de ser útil.",
+      "O B3-SK é a única coisa que já era dele antes da adoção."
+    ],
+    "fraquezas": [
+      "Arkaniano até o osso: assume que é o mais inteligente da sala e conserta o plano dos outros sem pedir licença.",
+      "Sob sol aberto ele é meio cego, e prefere abortar a operação a admitir que precisa de ajuda para enxergar."
+    ],
+    "historia": "Arvek não é sobrenome arkaniano — é o nome que o clã lhe deu quando o tomou como seu. Antes disso ele mantinha nós da holonet, e ainda tem os códigos de uma estação distribuidora que nunca cancelaram. Foi de lá que saiu o hábito de saber o que os outros ainda não sabem, e foi lá que montou o B3-SK pela primeira vez, com peça de refugo. Já o reconstruiu cinco ou seis vezes desde então; nenhuma das versões durou uma temporada inteira, e ele guarda as carcaças anteriores.",
+    "ganchos": [
+      "O B3-SK carrega peça de todas as reconstruções — e há uma que Kael jura não ter instalado.",
+      "Os códigos da estação distribuidora ainda funcionam, e o empregador que os emitiu não sabe que ele saiu.",
+      "Ele quer transformar o B3-SK em algo que ande sozinho de verdade, e para isso precisa de astrotech's implements, que ainda não tem."
+    ]
+  },
+  "build": {
+    "nivel": 1,
+    "classes": [{ "classe": "Engineer", "nivel": 1 }],
+    "background": "Holonet Technician",
+    "feats": ["Techie"]
+  },
+  "atributos": {
+    "Strength": 11,
+    "Dexterity": 13,
+    "Constitution": 14,
+    "Intelligence": 17,
+    "Wisdom": 14,
+    "Charisma": 10
+  },
+  "derivados": {
+    "modificadores": {
+      "Strength": 0,
+      "Dexterity": 1,
+      "Constitution": 2,
+      "Intelligence": 3,
+      "Wisdom": 2,
+      "Charisma": 0
+    },
+    "bonusProficiencia": 2,
+    "pv": 10,
+    "ca": 12,
+    "iniciativa": 1,
+    "deslocamento": 30,
+    "dcPoder": 13,
+    "bonusAtaquePoder": 5
+  },
+  "recursos": {
+    "Tech Points": 5,
+    "Max Power Level": 1,
+    "Potent Aptitude": "d4"
+  },
+  "proficiencias": {
+    "salvaguardas": ["Constitution", "Intelligence"],
+    "pericias": ["Insight", "Investigation", "Piloting", "Stealth", "Technology"],
+    "expertise": ["Technology"],
+    "armas": ["Simple blasters", "Simple vibroweapons"],
+    "armaduras": ["Light armor"],
+    "ferramentas": [
+      "Tinker's implements",
+      "Mechanic's kit",
+      "Slicer's kit",
+      "Security kit",
+      "Astrotech's implements"
+    ],
+    "idiomas": ["Galactic Basic", "Arkanian"]
+  },
+  "poderes": {
+    "tech": [
+      "Short Circuit",
+      "Haywire",
+      "On/Off",
+      "Encrypted Message",
+      "Tracker Droid Interface",
+      "Execute Command"
+    ]
+  },
+  "equipamento": {
+    "itens": [
+      { "nome": "Combat suit", "qtd": 1 },
+      { "nome": "Wristpad", "qtd": 1 },
+      { "nome": "Vibrodagger", "qtd": 1 },
+      { "nome": "Blaster pistol", "qtd": 1 },
+      { "nome": "Power cell", "qtd": 2 },
+      { "nome": "Blaster rifle", "qtd": 1 },
+      { "nome": "Tinker's implements", "qtd": 1 },
+      { "nome": "Slicer's kit", "qtd": 1 },
+      { "nome": "Security kit", "qtd": 1 },
+      { "nome": "Clothes, common", "qtd": 1 },
+      { "nome": "capacete de beskar, única peça do conjunto", "qtd": 1 },
+      { "nome": "B3-SK, droid flutuante reconstruído", "qtd": 1 },
+      { "nome": "droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento)", "qtd": 3 },
+      { "nome": "antena transceptora velha", "qtd": 1 },
+      { "nome": "mochila de viagem", "qtd": 1 }
+    ]
+  },
+  "ataques": [
+    {
+      "nome": "Short Circuit",
+      "bonus": 5,
+      "dano": "1d8",
+      "tipo": "Lightning",
+      "alcance": "120 pés, ataque tech à distância"
+    },
+    {
+      "nome": "Blaster pistol",
+      "bonus": 3,
+      "dano": "1d6+1",
+      "tipo": "Energy",
+      "alcance": "50/200, reload 16"
+    },
+    {
+      "nome": "Vibrodagger",
+      "bonus": 3,
+      "dano": "1d4+1",
+      "tipo": "Kinetic",
+      "alcance": "corpo a corpo, ou arremesso 20/60"
+    },
+    {
+      "nome": "Blaster rifle",
+      "bonus": 1,
+      "dano": "1d8+1",
+      "tipo": "Energy",
+      "alcance": "105/420, reload 12, two-handed"
+    }
+  ],
+  "features": [
+    {
+      "nome": "Arkanian Brilliance",
+      "origem": "Arkanian",
+      "resumo": "soma 1d4 a uma rolagem de Intelligence depois de rolar, 1x por descanso"
+    },
+    { "nome": "Crafters", "origem": "Arkanian", "resumo": "proficiência em uma ferramenta à escolha", "escolha": "Astrotech's implements" },
+    { "nome": "Darkvision", "origem": "Arkanian", "resumo": "enxerga 60 pés no escuro, em tons de cinza" },
+    { "nome": "Honed Mind", "origem": "Arkanian", "resumo": "vantagem em salvaguardas de Int, Wis e Cha contra poderes de Força e tech" },
+    { "nome": "Infrared Sight", "origem": "Arkanian", "resumo": "conta como tendo expertise em Perception quando o teste depende da visão" },
+    { "nome": "Sunlight Sensitivity", "origem": "Arkanian", "resumo": "desvantagem em ataque e em Perception de visão sob luz solar direta" },
+    {
+      "nome": "Potent Aptitude",
+      "origem": "Engineer 1",
+      "resumo": "ação bônus dá a um aliado a até 60 pés um d4 para somar a um teste, ataque ou salvaguarda; 2 usos por descanso"
+    },
+    {
+      "nome": "Holonet Access",
+      "origem": "Holonet Technician",
+      "resumo": "códigos de uma estação distribuidora dão informação diária sobre um tema, de confiabilidade variável"
+    }
+  ],
+  "fontes": {
+    "Arkanian": "sw5e/especies/arkanian.json",
+    "Engineer": "sw5e/classes/engineer.json",
+    "Holonet Technician": "sw5e/backgrounds/holonet-technician.json",
+    "Techie": "sw5e/feats/techie.json",
+    "Insight": "sw5e/pericias/insight.json",
+    "Investigation": "sw5e/pericias/investigation.json",
+    "Piloting": "sw5e/pericias/piloting.json",
+    "Stealth": "sw5e/pericias/stealth.json",
+    "Technology": "sw5e/pericias/technology.json",
+    "Short Circuit": "sw5e/poderes/short-circuit.json",
+    "Haywire": "sw5e/poderes/haywire.json",
+    "On/Off": "sw5e/poderes/on-off.json",
+    "Encrypted Message": "sw5e/poderes/encrypted-message.json",
+    "Tracker Droid Interface": "sw5e/poderes/tracker-droid-interface.json",
+    "Execute Command": "sw5e/poderes/execute-command.json",
+    "Repair Droid": "sw5e/poderes/repair-droid.json",
+    "Combat suit": "sw5e/equipamentos/combat-suit.json",
+    "Wristpad": "sw5e/equipamentos/wristpad.json",
+    "Vibrodagger": "sw5e/equipamentos/vibrodagger.json",
+    "Blaster pistol": "sw5e/equipamentos/blaster-pistol.json",
+    "Power cell": "sw5e/equipamentos/power-cell.json",
+    "Blaster rifle": "sw5e/equipamentos/blaster-rifle.json",
+    "Tinker's implements": "sw5e/equipamentos/tinker-s-implements.json",
+    "Mechanic's kit": "sw5e/equipamentos/mechanic-s-kit.json",
+    "Slicer's kit": "sw5e/equipamentos/slicer-s-kit.json",
+    "Security kit": "sw5e/equipamentos/security-kit.json",
+    "Astrotech's implements": "sw5e/equipamentos/astrotech-s-implements.json",
+    "Clothes, common": "sw5e/equipamentos/clothes-common.json",
+    "DRK-1 Tracker Droid": "sw5e/monstros/drk-1-tracker-droid.json"
+  },
+  "notas": "Intelligence 17 = 14 rolado + 2 (Arkanian) + 1 (Techie); Wisdom 14 = 13 rolado + 1 (Arkanian). Tech Points 5 = nível x 2 + modificador de Intelligence, e não o 2 da coluna da tabela. O Techie concede o poder repair droid, que fica fora de poderes.tech por ser concedido: ele é conjurável 1x por descanso longo sem wristpad e sem gastar tech point. Technology é proficiência do Engineer e o Techie a converte em expertise. Astrotech's implements é proficiência (Crafters), mas o item ainda não foi comprado — ele é pré-requisito do arquétipo Astrotech Engineering no 3º nível. O Blaster rifle é MartialBlaster e o Engineer só tem proficiência em Simple blasters: o ataque com ele não soma bônus de proficiência. Short Circuit entra em ataques por ser o ataque de todo dia do personagem, embora o exemplo do FICHA.md só liste armas. B3-SK usa o bloco DRK-1 Tracker Droid e depende do poder tracker droid interface, que leva 1 hora para conjurar e mantém link com um droid por vez; os outros três droids-ferramenta são cor, sem mecânica. Encrypted Message exige que o alvo tenha um commlink, e nenhum foi comprado ainda. Mando'a não tem fonte nesta build: o único background que concede o idioma é o Mandalorian, e a build usa Holonet Technician. A regra de que todo personagem recebe um feat no 1º nível não existe como fatia no Espelho — o que existe é featOptions em todo background, e Techie está na lista do Holonet Technician."
+}

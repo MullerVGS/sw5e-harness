@@ -13,7 +13,7 @@ Jogador · 25 BBY, Legends · clã mercenário mandaloriano sem trono, vivendo d
 
 Mestre: Tutti. Todos os personagens são mandalorianos, sem lealdade a Sundari nem ao Death Watch.
 
-- **Kael Arvek (Arthur)** — _ficha a criar_. Engenheiro, slicer e construtor de droids; age por discrição, invade sistemas e reaproveita peças achadas em viagem. Anda com B3-SK, droid flutuante que ele já reconstruiu várias vezes, e três droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento).
+- **Kael Arvek (Arthur)** — Arkanian Engineer 1, adotado pelo clã. Slicer e construtor de droids; age por discrição, vira o sistema da sala contra quem está nela e reaproveita peças achadas em viagem. Anda com B3-SK, droid flutuante que ele já reconstruiu várias vezes, e três droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento). Quase não tira o capacete de beskar — é a única peça do conjunto que tem, e a luz forte o cega.
 - **_a criar_ (Vih)** —
 - **_a criar_ (Brunin)** —
 - **_a criar_ (Thata)** —
@@ -28,6 +28,6 @@ _nenhuma_ — Legends como é.
 
 ## Situação
 
-A mesa ainda não começou. Só Kael tem conceito; os personagens de Vih, Brunin e Thata entram
+A mesa ainda não começou. Só Kael tem ficha; os personagens de Vih, Brunin e Thata entram
 aqui quando existirem. A postura de Sundari, do Death Watch e de quem contrata o clã ainda não
 foi estabelecida pelo Tutti.
