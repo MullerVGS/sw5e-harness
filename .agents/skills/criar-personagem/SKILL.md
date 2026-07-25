@@ -73,12 +73,13 @@ e ataques, que dependem de tudo acima.
 
 A aritmética é sua. Se ajudar a fechar, escreva um script na hora e jogue fora.
 
-**Escolha que o Espelho não tem, você não inventa.** Há coisa que a classe manda
-escolher e que não existe como Fatia nem como prosa — a Fatia manda ver um
-capítulo que não foi sincronizado. Quando cair numa dessas: pare, diga ao Jogador
-qual escolha ficou em aberto, e resolva com ele — outra build, ou a ficha gravada
-sem ela e com a pendência em `notas`. Nome inventado é pior que buraco declarado,
-porque some na leitura seguinte.
+**Regra que o Espelho não tem, você não inventa.** Toda escolha que a classe
+manda fazer tem Fatia, mas a regra que a decide nem sempre: a Fatia manda ver um
+capítulo que não foi sincronizado — `Blade Focus` vale para "blade weapons" e
+nada diz que arma é lâmina. Quando cair numa dessas: pare, diga ao Jogador o que
+ficou em aberto, e resolva com ele — outra build, ou a ficha gravada com a
+pendência em `notas`, dizendo o que foi leitura sua e não Fatia. Nome inventado é
+pior que buraco declarado, porque some na leitura seguinte.
 
 ## Conferir
 
