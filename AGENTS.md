@@ -1,12 +1,12 @@
 # AGENTS.md — sw5e-harness
 
-Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador conduz; o agente pergunta pouco, monta a ficha, valida e grava. O vocabulário desta ferramenta vive em `CONTEXT.md` (raiz) — use-o com precisão.
+Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador conduz; o agente pergunta pouco, monta a ficha, confere e grava. O vocabulário desta ferramenta vive em `CONTEXT.md` (raiz) — use-o com precisão.
 
 ## Papéis
 
 - O **Jogador** (Arthur) é jogador numa mesa e mestre em outra. Ele decide conceito e rumo; o agente cuida de regra, aritmética e arquivos.
 - O agente **não pergunta o que já está registrado no contexto da campanha**. Repetir pergunta que a mesa já respondeu é o defeito que esta harness existe para não ter.
-- Julgamento de build (o personagem é bom? é interessante?) é do agente. Legalidade e aritmética são das ferramentas.
+- Tudo que não é conceito é do agente: julgamento de build (o personagem é bom? é interessante?), legalidade e aritmética. Não há ferramenta que confira ficha — a responsabilidade é sua e não passa para ninguém.
 
 ## Layout
 
@@ -20,7 +20,7 @@ Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador cond
 | `campanhas/<slug>/personagens/` | PCs do Jogador |
 | `campanhas/<slug>/npcs/` | Aliados, contatos, tripulação |
 | `campanhas/<slug>/inimigos/` | Adversários |
-| `tools/` | `sync-espelho.py` e `validar-ficha.py` |
+| `tools/` | `sync-espelho.py`, o único artefato de código do repo |
 | `.agents/memory/` | Memória do workspace (índice em `MEMORY.md`) |
 | `.agents/skills/` | Skills deste workspace |
 
@@ -32,9 +32,11 @@ Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador cond
 
 ## Regras duras
 
+**A harness não é software.** É harness de jogo de interpretação: o que ela tem de valioso é contexto e disciplina, não código. Você lê, entende, procura no espelho e — se ajudar a fechar os números de uma ficha — **escreve um script na hora**. Esse script morre no chat: não vai para `tools/`, não é commitado, não vira dependência da próxima conversa. `sync-espelho.py` é a única exceção, e ela já está tomada.
+
 **A saída é genérica.** A ficha canônica é o JSON do esquema `sw5e-ficha/1` e não pertence a nenhum VTT. Converter para o formato do Roll20 ou de outro tabletop é tarefa de conversa, feita na hora e entregue no chat — **nunca vira arquivo do repo**. O Jogador pode trocar de VTT, e um renderizador acoplado viraria dívida no dia seguinte.
 
-**Ficha que não valida não é gravada.** Rode `tools/validar-ficha.py` antes de escrever qualquer ficha, em criação e em evolução. Se reprovar, corrija e revalide. Não grave "para arrumar depois".
+**Ficha que não fecha não é gravada.** Antes de escrever qualquer ficha, em criação e em evolução, confira você mesmo: toda entidade nomeada existe como fatia no espelho, os derivados fecham, as chaves e os tipos são os do esquema. Se não fechar, corrija e confira de novo. Não grave "para arrumar depois" — não há ferramenta para pegar isso depois.
 
 **O espelho é a fonte de conteúdo.** Espécie, classe, arquétipo, background, poder, feat e item vêm de `sw5e/`. Escolha lendo o `INDEX.md` da coleção e só então abra a fatia — abrir a coleção inteira custa quase mil vezes mais e não é necessário. Conteúdo de SW5e que você "lembra" mas não está no espelho **não existe**.
 
@@ -54,15 +56,13 @@ Vivem em `.agents/skills/<nome>/SKILL.md`. As regras acima valem para todas e **
 | `criar-personagem` | Um PC do Jogador |
 | `criar-npc` | Um NPC, aliado ou inimigo |
 | `registrar-sessao` | "Joguei ontem", "registra a sessão" |
-| `evoluir-personagem` | "Subi de nível" — sempre a partir do export que ele trouxer do VTT |
+| `evoluir-personagem` | "Subi de nível" — a partir da ficha guardada, com o que mudou na mesa entrando falando |
 
 ## Ferramentas
 
 `python3 tools/sync-espelho.py` sincroniza o espelho com a API pública do sw5e. Rodado sob demanda, quando a comunidade atualiza conteúdo — não é ritual de sessão.
 
-`python3 tools/validar-ficha.py <caminho>` roda esquema, aritmética e legalidade. Sai não-zero listando as falhas.
-
-Ambas em Python 3 stdlib puro, sem dependência externa. Mantenha assim.
+É a única ferramenta do repo, em Python 3 stdlib puro, sem dependência externa. Mantenha assim, e não acrescente outra.
 
 ## Regras gerais
 
@@ -72,8 +72,8 @@ Ambas em Python 3 stdlib puro, sem dependência externa. Mantenha assim.
 
 ## Estado atual
 
-O esqueleto está de pé; o resto está em construção, rastreado em `.scratch/sw5e-harness/issues/` na raiz do workspace (`/root/projetos`).
+O esqueleto está de pé; o resto está em construção, rastreado no mapa `.scratch/sw5e-harness/map.md` e nos tickets em `.scratch/sw5e-harness/issues/`, na raiz do workspace (`/root/projetos`).
 
-Ainda **não existem**: o espelho `sw5e/` (issue 02), as ferramentas em `tools/` (issues 02 e 04), o esquema `sw5e-ficha/1` documentado (issue 04) e as cinco skills (issues 03, 05 e 06). Até cada um chegar, as regras acima descrevem o alvo, não o presente — não finja que a peça existe.
+Ainda **não existem**: o espelho `sw5e/` e o `tools/sync-espelho.py` que o produz (issue 03), o esquema `sw5e-ficha/1` documentado (issue 04) e as cinco skills (issues 05, 06 e 07). Até cada um chegar, as regras acima descrevem o alvo, não o presente — não finja que a peça existe.
 
 Apague esta seção quando a issue 07 fechar.

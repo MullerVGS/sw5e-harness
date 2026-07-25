@@ -13,7 +13,7 @@ O usuário da harness (Arthur). Dono do conceito e do rumo de cada personagem. J
 _Avoid_: usuário, mestre (o papel varia por campanha)
 
 **Agente**:
-O agente de IA que executa a harness. Pergunta pouco, monta a ficha consultando o Espelho, valida e grava.
+O agente de IA que executa a harness. Pergunta pouco, monta a ficha consultando o Espelho, confere e grava.
 
 ### Campanha
 
@@ -54,10 +54,7 @@ NPC adversário. Mesmo esquema, pasta `inimigos/`. A distinção é de intençã
 A frase com que o Jogador abre um pedido de ficha ("um bothan spy que trai o grupo"). O Agente completa o resto perguntando só o que trava.
 
 **Derivados**:
-Os valores calculados da ficha — modificadores, bônus de proficiência, PV, CA, iniciativa, salvaguardas, perícias, DC de poder, bônus de ataque. Gravados na ficha e recalculados pela validação.
-
-**Export do VTT**:
-A ficha que o Jogador tira do tabletop virtual e entrega ao Agente para evoluir o personagem. É a verdade do **estado atual** (PV, equipamento adquirido em jogo); a Ficha canônica guardada é a verdade da **build e da narrativa**. Evoluir reconcilia os dois.
+Os valores calculados da ficha — modificadores, bônus de proficiência, PV, CA, iniciativa, salvaguardas, perícias, DC de poder, bônus de ataque. Gravados na ficha e conferidos pelo Agente antes de gravar.
 
 ### Espelho
 
@@ -74,10 +71,11 @@ O `INDEX.md` de uma coleção do Espelho: nome e uma linha por entidade. O Agent
 **Sync**:
 A execução de `tools/sync-espelho.py`, que rebaixa a API e reescreve Fatias e Índices. Sob demanda, quando a comunidade atualiza conteúdo.
 
-### Validação
+### Conferência
 
-**Validação**:
-As três checagens de `tools/validar-ficha.py` sobre uma Ficha canônica, obrigatórias antes de gravar: **esquema** (chaves e tipos), **aritmética** (derivados recalculados e comparados) e **legalidade** (as entidades existem no Espelho, o nível do poder é acessível, o pré-requisito confere).
+**Conferência**:
+O que o Agente faz sobre uma Ficha canônica antes de gravar, em criação e em evolução: **esquema** (as chaves e os tipos de `sw5e-ficha/1`), **aritmética** (os Derivados fecham) e **Legalidade**. Ficha que não fecha não é gravada.
+_Avoid_: validação, validar (nomeiam uma ferramenta que não existe — quem confere é o Agente)
 
 **Legalidade**:
-A checagem de que a ficha é permitida pelas regras e pelo conteúdo existente. Não é juízo de qualidade — se a build é boa é julgamento do Agente, e a Validação não opina.
+A ficha ser permitida pelas regras e pelo conteúdo existente: toda entidade nomeada existe como Fatia do Espelho, o nível do poder é acessível, o pré-requisito confere. Não é juízo de qualidade — se a build é boa é julgamento do Agente, e a Conferência não opina.

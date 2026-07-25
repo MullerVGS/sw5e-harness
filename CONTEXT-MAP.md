@@ -4,7 +4,7 @@ Mapa dos contextos deste workspace de criação de personagens.
 
 ## Contextos
 
-- [Harness](./CONTEXT.md) — vocabulário da própria ferramenta (papéis, campanha, ficha, espelho, validação)
+- [Harness](./CONTEXT.md) — vocabulário da própria ferramenta (papéis, campanha, ficha, espelho, conferência)
 
 ### Campanhas
 
