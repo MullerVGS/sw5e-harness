@@ -38,7 +38,7 @@ Onde a mesa contraria ou inventa sobre o Star Wars conhecido. É a única parte 
 ### Ficha
 
 **Ficha canônica**:
-O JSON do esquema `sw5e-ficha/1` que descreve um personagem por inteiro: identidade, narrativa, build, atributos, derivados, proficiências, poderes, equipamento, ataques, features e fontes. É a saída do projeto e é **genérica**: nenhum campo existe por causa de um VTT.
+O JSON do esquema `sw5e-ficha/1` que descreve um personagem por inteiro: identidade, narrativa, build, atributos, derivados, recursos, proficiências, poderes, equipamento, ataques, features e fontes. Documentado campo por campo em `FICHA.md`. É a saída do projeto e é **genérica**: nenhum campo existe por causa de um VTT.
 _Avoid_: ficha do Roll20, sheet
 
 **PC**:
@@ -54,7 +54,10 @@ NPC adversário. Mesmo esquema, pasta `inimigos/`. A distinção é de intençã
 A frase com que o Jogador abre um pedido de ficha ("um bothan spy que trai o grupo"). O Agente completa o resto perguntando só o que trava.
 
 **Derivados**:
-Os valores calculados da ficha — modificadores, bônus de proficiência, PV, CA, iniciativa, salvaguardas, perícias, DC de poder, bônus de ataque. Gravados na ficha e conferidos pelo Agente antes de gravar.
+Os valores calculados da ficha — modificadores, bônus de proficiência, PV, CA, iniciativa, deslocamento, DC de poder, bônus de ataque de poder. Gravados na ficha e conferidos pelo Agente antes de gravar. São sempre o **máximo**: PV corrente, ponto gasto e crédito no bolso são estado de mesa e não entram na ficha.
+
+**Recursos**:
+O que a tabela de nível da classe e a do arquétipo concedem neste nível — `Sneak Attack`, `Force Points`, `Max Power Level`, `Rages`, `Superiority Dice`… As chaves são as colunas do Espelho: são 31 colunas distintas nas 10 classes e só três se repetem em todas, então não existe lista fixa de recurso que sirva a todo personagem.
 
 ### Espelho
 

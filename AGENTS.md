@@ -14,6 +14,7 @@ Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador cond
 | --- | --- |
 | `CONTEXT.md` | Vocabulário da harness |
 | `CONTEXT-MAP.md` | Mapa das campanhas |
+| `FICHA.md` | O esquema `sw5e-ficha/1`, campo por campo, com exemplo — leia antes de escrever ficha |
 | `sw5e/` | Espelho de regras: uma fatia por entidade, mais `INDEX.md` por coleção |
 | `campanhas/<slug>/CONTEXT.md` | Estado da mesa |
 | `campanhas/<slug>/CRONICA.md` | Histórico da mesa, append-only |
@@ -34,7 +35,7 @@ Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador cond
 
 **A harness não é software.** É harness de jogo de interpretação: o que ela tem de valioso é contexto e disciplina, não código. Você lê, entende, procura no espelho e — se ajudar a fechar os números de uma ficha — **escreve um script na hora**. Esse script morre no chat: não vai para `tools/`, não é commitado, não vira dependência da próxima conversa. `sync-espelho.py` é a única exceção, e ela já está tomada.
 
-**A saída é genérica.** A ficha canônica é o JSON do esquema `sw5e-ficha/1` e não pertence a nenhum VTT. Converter para o formato do Roll20 ou de outro tabletop é tarefa de conversa, feita na hora e entregue no chat — **nunca vira arquivo do repo**. O Jogador pode trocar de VTT, e um renderizador acoplado viraria dívida no dia seguinte.
+**A saída é genérica.** A ficha canônica é o JSON do esquema `sw5e-ficha/1`, documentado em `FICHA.md` — leia-o antes de escrever ou editar ficha, e não pertence a nenhum VTT. Converter para o formato do Roll20 ou de outro tabletop é tarefa de conversa, feita na hora e entregue no chat — **nunca vira arquivo do repo**. O Jogador pode trocar de VTT, e um renderizador acoplado viraria dívida no dia seguinte.
 
 **Ficha que não fecha não é gravada.** Antes de escrever qualquer ficha, em criação e em evolução, confira você mesmo: toda entidade nomeada existe como fatia no espelho, os derivados fecham, as chaves e os tipos são os do esquema. Se não fechar, corrija e confira de novo. Não grave "para arrumar depois" — não há ferramenta para pegar isso depois.
 
@@ -76,8 +77,8 @@ Vivem em `.agents/skills/<nome>/SKILL.md`. As regras acima valem para todas e **
 
 O esqueleto está de pé; o resto está em construção, rastreado no mapa `.scratch/sw5e-harness/map.md` e nos tickets em `.scratch/sw5e-harness/issues/`, na raiz do workspace (`/root/projetos`).
 
-Já existem: o espelho `sw5e/` com as 3.629 fatias e os nove índices, e o `tools/sync-espelho.py` que o produz (issue 03).
+Já existem: o espelho `sw5e/` com as 3.629 fatias e os nove índices, e o `tools/sync-espelho.py` que o produz (issue 03); o esquema `sw5e-ficha/1` em `FICHA.md` (issue 04).
 
-Ainda **não existem**: o esquema `sw5e-ficha/1` documentado (issue 04) e quatro das cinco skills — só `nova-campanha` está escrita (issue 05); faltam as outras (issues 06 e 07). Até cada um chegar, as regras acima descrevem o alvo, não o presente — não finja que a peça existe.
+Ainda **não existem**: quatro das cinco skills — só `nova-campanha` está escrita (issue 05); faltam as outras (issues 06 e 07). Até cada uma chegar, as regras acima descrevem o alvo, não o presente — não finja que a peça existe. Nenhuma ficha foi escrita ainda: o exemplo do `FICHA.md` é exemplo, e a mesa dele não existe como Campanha.
 
 Apague esta seção quando a issue 07 fechar.
