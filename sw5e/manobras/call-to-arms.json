@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "If you are surprised at the start of combat and aren't incapacitated, you can expend one superiority die to act normally.",
+  "metadata": null,
+  "name": "Call to Arms",
+  "prerequisite": "Proficiency in Persuasion",
+  "rowKey": "Call to Arms",
+  "type": "Mental"
+}

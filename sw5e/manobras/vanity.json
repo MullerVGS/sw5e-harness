@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When you reduce a hostile creature to 0 hit points, you can expend and roll a superiority die (no action required), regaining a number of hit points equal to the result of the roll + your maneuver ability modifier.",
+  "metadata": null,
+  "name": "Vanity",
+  "prerequisite": null,
+  "rowKey": "Vanity",
+  "type": "General"
+}

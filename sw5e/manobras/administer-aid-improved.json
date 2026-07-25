@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You can use your Administer Aid maneuver as an action or bonus action.",
+  "metadata": null,
+  "name": "Administer Aid (Improved)",
+  "prerequisite": "Administer Aid maneuver",
+  "rowKey": "Administer Aid (Improved)",
+  "type": "Mental"
+}

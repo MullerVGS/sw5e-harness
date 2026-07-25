@@ -1,0 +1,7 @@
+{
+  "content": "| Starship Size | Cost Modifier |\r\n|:----:|:-------------:|\r\n| Tiny  |x 0.5 |\r\n| Small |x 1 |\r\n| Medium|x 2 |\r\n| Large |x 5 |\r\n| Huge |x 50 |\r\n| Gargantuan |x 500 |",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Starship Size Modification Cost",
+  "rowKey": "Starship Size Modification Cost"
+}

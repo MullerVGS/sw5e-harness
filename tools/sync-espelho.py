@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Sincroniza o espelho de regras de SW5e a partir da API pública da comunidade.
 
-Baixa as nove coleções, escreve uma fatia por entidade sob `sw5e/<colecao>/` e
-gera o `INDEX.md` de cada coleção. Relata o que entrou, saiu ou mudou desde o
-sync anterior.
+Baixa as coleções de `COLECOES`, escreve uma fatia por entidade sob
+`sw5e/<colecao>/` e gera o `INDEX.md` de cada coleção. Relata o que entrou, saiu
+ou mudou desde o sync anterior.
 
 Uso:
     python3 tools/sync-espelho.py [--api URL] [--destino DIR] [--dry-run]
@@ -169,6 +169,83 @@ def resumo_monstro(ent):
     )
 
 
+def _prosa(ent):
+    """O texto da entidade — a API alterna entre `description`, `text` e `content`."""
+    for chave in ("description", "text", "content"):
+        bruto = ent.get(chave)
+        if isinstance(bruto, str) and bruto.strip():
+            return bruto
+    return ""
+
+
+PRE_EMBUTIDO = re.compile(r"^_\*\*Prerequisite:\*\*\s*(.+?)_$")
+BORDAO = re.compile(r"\s*You gain the following benefits[^.]*[.:]?\s*$", re.I)
+CORTE_GIST = 110
+
+
+def _gist(texto):
+    """O pré-requisito embutido e a abertura da prosa, em uma linha.
+
+    Manobra à parte, as coleções de escolha não têm campo estruturado nenhum
+    além do nome, então o resumo do índice só pode sair da própria prosa. Fica
+    de fora o cabeçalho `#### Nome`, que repete o nome, e o bordão
+    "You gain the following benefits", que não distingue nada.
+    """
+    pre = None
+    corpo = ""
+    for linha in texto.replace("\r", "").split("\n"):
+        linha = linha.strip()
+        if not linha or linha.startswith("#"):
+            continue
+        achado = PRE_EMBUTIDO.match(linha)
+        if achado:
+            pre = achado.group(1).strip()
+            continue
+        corpo = linha
+        break
+    corpo = BORDAO.sub("", " ".join(corpo.split()))
+    if len(corpo) > CORTE_GIST:
+        corpo = corpo[:CORTE_GIST].rsplit(" ", 1)[0] + "…"
+    return " · ".join(p for p in (f"pré-req: {pre}" if pre else None, corpo) if p)
+
+
+def resumo_manobra(ent):
+    pre = val(ent, "prerequisite")
+    return " · ".join(
+        p for p in (val(ent, "type"), f"pré-req: {pre}" if pre else None) if p
+    )
+
+
+def resumo_prosa(ent):
+    return _gist(_prosa(ent))
+
+
+def resumo_grupo_de_arma(ent):
+    """Nenhum: a prosa destas duas repete o nome, e o nome é o grupo de arma."""
+    return ""
+
+
+def resumo_pericia(ent):
+    return val(ent, "baseAttribute") or ""
+
+
+def resumo_tabela(ent):
+    """As colunas da tabela; onde a API não devolveu tabela, a prosa que veio.
+
+    Doze das tabelas chegam vazias ou só com o aviso genérico do livro — quase
+    todas de nave. O espelho as reflete como estão, e o índice mostra o que há.
+    """
+    texto = _prosa(ent).replace("\r", "")
+    for linha in texto.split("\n"):
+        linha = linha.strip()
+        if linha.startswith("|"):
+            colunas = [c.strip() for c in linha.split("|") if c.strip()]
+            if colunas:
+                return "colunas: " + " · ".join(colunas)
+            break
+    return _gist(texto)
+
+
 def resumo_item(ent):
     pre = val(ent, "prerequisite")
     return " · ".join(
@@ -192,8 +269,18 @@ COLECOES = [
     fatiar("power", "poderes", resumo_poder),
     fatiar("equipment", "equipamentos", resumo_equipamento),
     fatiar("feat", "feats", resumo_feat),
+    fatiar("Maneuvers", "manobras", resumo_manobra),
+    fatiar("FightingStyle", "estilos-de-combate", resumo_prosa),
+    fatiar("FightingMastery", "maestrias-de-combate", resumo_prosa),
+    fatiar("LightsaberForm", "formas-de-sabre", resumo_prosa),
+    fatiar("WeaponFocus", "focos-de-arma", resumo_grupo_de_arma),
+    fatiar("WeaponSupremacy", "supremacias-de-arma", resumo_grupo_de_arma),
+    fatiar("skills", "pericias", resumo_pericia),
     fatiar("monster", "monstros", resumo_monstro),
     fatiar("enhancedItem", "itens", resumo_item),
+    fatiar("WeaponProperty", "propriedades-de-arma", resumo_prosa),
+    fatiar("ArmorProperty", "propriedades-de-armadura", resumo_prosa),
+    fatiar("ReferenceTable", "tabelas", resumo_tabela),
 ]
 
 

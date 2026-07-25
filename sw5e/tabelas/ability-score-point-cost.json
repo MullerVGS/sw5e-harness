@@ -1,0 +1,7 @@
+{
+  "content": "|Score|Cost|\r\n|:--:|:--:|\r\n|8|0|\r\n|9|1|\r\n|10|2|\r\n|11|3|\r\n|12|4|\r\n|13|5|\r\n|14|7|\r\n|15|9|",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Ability Score Point Cost",
+  "rowKey": "Ability Score Point Cost"
+}

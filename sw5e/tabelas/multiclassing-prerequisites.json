@@ -1,0 +1,7 @@
+{
+  "content": "|Class||Ability Score Minimum|\r\n|:--|:--:|:--|\r\n|Berserker||Strength 13|\r\n|Consular||Wisdom or Charisma 13|\r\n|Engineer||Intelligence 13|\r\n|Fighter||Strength or Dexterity 13|\r\n|Guardian||Constitution 13, Wisdom or Charisma 13|\r\n|Monk||Dexterity 13, Wisdom or Charisma 13|\r\n|Operative||Dexterity 13|\r\n|Scholar||Intelligence 13|\r\n|Scout||Strength or Dexterity 13, Intelligence 13|\r\n|Sentinel||Dexterity 13, Wisdom or Charisma 13|",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Multiclassing Prerequisites",
+  "rowKey": "Multiclassing Prerequisites"
+}

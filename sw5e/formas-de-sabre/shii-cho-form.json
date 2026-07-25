@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "As a part of the bonus action to adopt this form, if you took the Attack action, you can engage in Double- or Two-Weapon Fighting.\r\n\r\nAdditionally, the first time you hit a Large or smaller creature within 5 feet of you with a weapon attack before the end of your next turn, you can force the target to make a Strength saving throw (DC = 8 + your bonus to attacks with the weapon). On a failed save, it is pushed back 5 feet, and you can immediately move into the space it just vacated without provoking opportunity attacks.\r\n",
+  "metadata": null,
+  "name": "Shii-Cho Form",
+  "rowKey": "Shii-Cho Form"
+}

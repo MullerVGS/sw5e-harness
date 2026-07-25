@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When you cast a tech power, you may expend a superiority die to cast the power without any visual or auditory cues. Creatures have disadvantage on any Intelligence (Investigation) or Wisdom (Perception) checks made to determine if you were the caster.",
+  "metadata": null,
+  "name": "Subtle Execution",
+  "prerequisite": "The ability to cast tech powers",
+  "rowKey": "Subtle Execution",
+  "type": "Mental"
+}

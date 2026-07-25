@@ -1,0 +1,7 @@
+{
+  "content": "#### Power Cell\r\nWeapons with this property are fueled by power cells, which must be loaded in order to fire the weapon. A power cell fuels a number of attacks equal to the weapon's reload number.",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Power Cell",
+  "rowKey": "Power Cell"
+}

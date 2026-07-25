@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When you make a melee weapon attack against a creature, you can expend one superiority die and add the number rolled to the attack roll. On a hit, the target takes additional force damage equal to the number rolled. ",
+  "metadata": null,
+  "name": "Strikeforce",
+  "prerequisite": "The ability to cast force powers",
+  "rowKey": "Strikeforce",
+  "type": "Physical"
+}

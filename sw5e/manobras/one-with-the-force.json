@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Once per turn, when you make a Constitution saving throw to maintain concentration on a force power, you can expend a superiority die and add the number rolled to the saving throw.",
+  "metadata": null,
+  "name": "One with the Force",
+  "prerequisite": "The ability to cast force powers",
+  "rowKey": "One with the Force",
+  "type": "Mental"
+}

@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Immediately after you deal damage to a target with a force attack, you can expend a superiority die and target a second creature that you can see within 30 feet of the first creature. Roll the die, and the second creature takes force damage equal to the roll + your forcecasting modifier. ",
+  "metadata": null,
+  "name": "Force Resonance",
+  "prerequisite": "The ability to cast force powers",
+  "rowKey": "Force Resonance",
+  "type": "Mental"
+}

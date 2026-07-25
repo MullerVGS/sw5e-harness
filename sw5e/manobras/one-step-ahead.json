@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When you roll initiative and you are not surprised, you can expend a superiority die and add the number rolled to your Initiative check.",
+  "metadata": null,
+  "name": "One Step Ahead",
+  "prerequisite": null,
+  "rowKey": "One Step Ahead",
+  "type": "Physical"
+}

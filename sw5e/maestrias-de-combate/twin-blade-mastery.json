@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "metadata": null,
+  "name": "Twin-Blade Mastery",
+  "rowKey": "Twin-Blade Mastery",
+  "text": "You've mastered fighting with double-bladed weapons, using both ends to devastating effect. You gain the following benefits:\r\n- While you are wielding a double weapon with which you are proficient, whenever you roll the maximum on a weapon damage die against a creature, you gain a +1 bonus to the next attack roll you make against that creature before the end of your next turn.\r\n- You can engage in Double-Weapon Fighting even when the weapon you are wielding lacks the light property.\r\n- Before you make a melee weapon attack while wielding a double weapon in two hands, you can choose to forgo your proficiency bonus. If the attack hits, you add one and a half times your proficiency bonus to the attack's damage.\r\n- Before you make a melee weapon attack while wielding a double weapon in one hand, you can choose to forgo your proficiency bonus. If the attack hits, you add your proficiency bonus to the attack's damage.\r\n"
+}

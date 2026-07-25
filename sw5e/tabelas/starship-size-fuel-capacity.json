@@ -1,0 +1,7 @@
+{
+  "content": "|Starship Size|Fuel Capacity|\r\n|:--|--:|\r\n|Tiny| 5 units|\r\n|Small| 10 units|\r\n|Medium| 30 units|\r\n|Large| 300 units|\r\n|Huge| 600 units|\r\n|Gargantuan| 1,800 units|",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Starship Size Fuel Capacity",
+  "rowKey": "Starship Size Fuel Capacity"
+}

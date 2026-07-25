@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When a creature makes a saving throw against a tech power you cast, you may expend a superiority die, subtracting the number rolled from their total.",
+  "metadata": null,
+  "name": "Automatic Startup Sequence",
+  "prerequisite": "The ability to cast tech powers",
+  "rowKey": "Automatic Startup Sequence",
+  "type": "Mental"
+}

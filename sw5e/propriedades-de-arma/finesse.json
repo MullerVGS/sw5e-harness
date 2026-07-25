@@ -1,0 +1,7 @@
+{
+  "content": "#### Finesse\r\nWhen making an attack with a weapon with this property, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Finesse",
+  "rowKey": "Finesse"
+}

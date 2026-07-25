@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You are skilled at fighting with explosives. You gain the following benefits:\r\n- You can throw grenades and set mines with your bonus action, instead of your action. If you could already throw grenades and set mines as a bonus action, you can instead do so as a reaction on your turn.\r\n- When a creature rolls a 1 on the saving throw against a grenade, mine, or missile you control, they treat the effect's damage as if it had rolled the maximum.\r\n",
+  "metadata": null,
+  "name": "Explosives Style",
+  "rowKey": "Explosives Style"
+}

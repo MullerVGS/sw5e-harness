@@ -1,0 +1,7 @@
+{
+  "content": "#### Special\r\nA weapon with this property has unusual rules governing its use, explained in the weapon's description (see \"Special Weapons\" later in this section).",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Special",
+  "rowKey": "Special"
+}

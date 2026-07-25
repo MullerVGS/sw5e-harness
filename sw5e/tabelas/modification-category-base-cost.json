@@ -1,0 +1,7 @@
+{
+  "content": "| Modification Category | Base Cost |\r\n|:----|----:|\r\n| Engineering  | 3,500 cr |\r\n| Operation | 3,500 cr |\r\n| Suite | 5,000 cr |\r\n| Universal | 4,000 cr |\r\n| Weapon | 3,000 cr |",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Modification Category Base Cost",
+  "rowKey": "Modification Category Base Cost"
+}

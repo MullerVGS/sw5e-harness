@@ -1,0 +1,7 @@
+{
+  "content": "#### Slug Cartridge\r\nWeapons with this property fire slug cartridges, which must be loaded in order to fire the weapon.",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Slug Cartridge",
+  "rowKey": "Slug Cartridge"
+}

@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When you make an attack roll, you can expend a superiority die and add it to the attack roll. On a hit, the creature's next attack has disadvantage and it cannot regain hit points until the start of your next turn.",
+  "metadata": null,
+  "name": "Neuroblock",
+  "prerequisite": "Proficiency in Medicine",
+  "rowKey": "Neuroblock",
+  "type": "Mental"
+}

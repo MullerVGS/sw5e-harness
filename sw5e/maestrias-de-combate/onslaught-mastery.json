@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "metadata": null,
+  "name": "Onslaught Mastery",
+  "rowKey": "Onslaught Mastery",
+  "text": "You've mastered using your momentum to your advantage, effectively pummeling creatures into submission and keeping them down once they fall. You gain the following benefits:\r\n- When a creature falls prone within 5 feet of you, they provoke an opportunity attack from you.\r\n- When you would have advantage on a melee weapon attack due to a creature being prone, you can reroll one of the dice once.\r\n- When a prone creature within 5 feet of you attempts to stand, they provoke an opportunity attack from you.\r\n- Once on each of your turns, if you move at least 10 feet in a straight line towards a creature immediately before hitting it with a melee weapon attack, you can deal additional damage equal to your proficiency bonus.\r\n"
+}

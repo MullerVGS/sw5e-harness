@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "metadata": null,
+  "name": "Split Mastery",
+  "rowKey": "Split Mastery",
+  "text": "You've mastered fighting with interlocking weapons, seamlessly transitioning between twin blades and dual wielding. You gain the following benefits:\r\n- Once on each of your turns, detaching or reattaching your interlocking weapon no longer requires your object interaction.\r\n- You can engage in Double- and Two-Weapon Fighting even when the weapons you are wielding lack the light property.\r\n- Before you make a melee weapon attack while you are wielding separate weapons in each hand with which you are proficient, you can choose to forgo your proficiency bonus. If the attack hits, you add your proficiency bonus to the attack's damage.\r\n- When you use your bonus action to engage in Double-Weapon Fighting, you can choose to forgo your proficiency bonus. If you do so, you can make an additional attack with that weapon, also without your proficiency bonus. If you would normally make more than one attack with your bonus action, only one attack is made without your proficiency bonus.\r\n"
+}

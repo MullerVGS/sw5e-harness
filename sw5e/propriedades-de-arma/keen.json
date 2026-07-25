@@ -1,0 +1,7 @@
+{
+  "content": "#### Keen\r\nWhen you make a weapon attack with a weapon with the keen property, the critical hit range increases by an amount equal to the keen number.",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Keen",
+  "rowKey": "Keen"
+}

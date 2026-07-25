@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When you hit a creature with a weapon attack, you can expend a superiority die to temporarily daze the creature. Add the number rolled to the damage of the weapon attack and the creature must succeed on a Constitution saving throw or be stunned until the end of its next turn.",
+  "metadata": null,
+  "name": "Weak Point Strike",
+  "prerequisite": "Proficiency in Medicine",
+  "rowKey": "Weak Point Strike",
+  "type": "Physical"
+}

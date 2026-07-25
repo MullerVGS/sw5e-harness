@@ -1,0 +1,7 @@
+{
+  "content": "|Starship Size|Food Capacity|\r\n|:--|--:|\r\n|Tiny| -|\r\n|Small| 10 portions|\r\n|Medium| 120 portions|\r\n|Large| 240,000 portions|\r\n|Huge| 9,600,000 portions|\r\n|Gargantuan| 576,000,000 portions|",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Starship Size Food Capacity",
+  "rowKey": "Starship Size Food Capacity"
+}

@@ -1,0 +1,125 @@
+# manobras — 119 entidades
+
+Índice do espelho: escolha por aqui e só então abra a fatia. O arquivo é o
+nome em slug (minúsculas, hífens); onde o nome não basta, ele vem entre
+backticks na linha.
+
+- **Administer Aid** — Mental · pré-req: Proficiency in Medicine
+- **Administer Aid (Greater)** — Mental · pré-req: Administer Aid (Improved) maneuver
+- **Administer Aid (Improved)** — Mental · pré-req: Administer Aid maneuver
+- **Adrenaline Hit** — Mental · pré-req: Proficiency in Medicine
+- **Agonizing Lethargy** — Mental
+- **Assess the Situation** — General
+- **Assist** — General · pré-req: Proficiency in Medicine
+- **Automatic Startup Sequence** — Mental · pré-req: The ability to cast tech powers
+- **Befogging Ichor** — Mental
+- **Body Over Bother** — Physical
+- **Call the Guards** — Mental · pré-req: Proficiency in Persuasion
+- **Call to Arms** — Mental · pré-req: Proficiency in Persuasion
+- **Call to Arms (Improved)** — Mental · pré-req: Call to Arms (Improved) maneuver
+- **Calling Card** — Physical
+- **Chains of Transfixing** — Mental
+- **Charge** — Mental · pré-req: Proficiency in Persuasion
+- **Charging Attack** — Physical
+- **Charming Presence** — Mental · pré-req: Proficiency in Persuasion
+- **Commander's Strike** — Physical
+- **Commander's Strike (Greater)** — Physical · pré-req: Commander's Strike (Improved) maneuver
+- **Commander's Strike (Improved)** — Physical · pré-req: Commander's Strike maneuver
+- **Conceal** — General · pré-req: Proficiency in Stealth
+- **Crippling Blow** — Physical
+- **Daring Escape** — General
+- **Dark Transference** — Mental
+- **Deathseek** — Mental
+- **Deceive** — General · pré-req: Proficiency in Deception
+- **Deliberate Movement** — General
+- **Disarming Blow** — Physical
+- **Distracting Blow** — Mental
+- **Effective Flanking** — Mental
+- **Effective Flanking (Greater)** — Mental · pré-req: Effective Flanking (Improved) maneuver
+- **Effective Flanking (Improved)** — Mental · pré-req: Effective Flanking maneuver
+- **Empathize** — General · pré-req: Proficiency in Insight
+- **Encouraging Pace** — Mental
+- **Encouraging Speech** — Mental · pré-req: Proficiency in Persuasion
+- **Enhancement Injection** — Mental · pré-req: Proficiency in Medicine
+- **Evasive Footwork** — General
+- **Exploit Weakness** — Physical
+- **Fast Access Programs** — Mental · pré-req: The ability to cast tech powers
+- **Feinting Attack** — General
+- **Firewall** — Mental · pré-req: The ability to cast tech powers
+- **Flex** — General · pré-req: Proficiency in Athletics
+- **Flourish** — General · pré-req: Proficiency in Sleight of Hand
+- **Force Resonance** — Mental · pré-req: The ability to cast force powers
+- **Fortune and Glory** — Mental · pré-req: The ability to cast force powers
+- **Go Get 'Em** — General · pré-req: Companion
+- **Goading Attack** — Mental
+- **Hacked Communications** — Mental · pré-req: Proficiency in Technology
+- **Handle Animal** — General · pré-req: Proficiency in Animal Handling
+- **Heads Up** — Mental
+- **Incite** — Mental · pré-req: Proficiency in Persuasion
+- **Inner Strength** — General
+- **Intimidating Presence** — Mental · pré-req: Proficiency in Intimidation
+- **Investigate** — General · pré-req: Proficiency in Investigation
+- **Loyal Bond** — General · pré-req: Companion
+- **Lunging Attack** — Physical
+- **Maneuvering Attack** — General
+- **Menacing Attack** — Mental
+- **Mind Over Matter** — Mental
+- **Naturalize** — General · pré-req: Proficiency in Nature
+- **Neuroblock** — Mental · pré-req: Proficiency in Medicine
+- **No Escape** — Physical
+- **One Step Ahead** — Physical
+- **One With Shadows** — General · pré-req: Proficiency in Stealth
+- **One with the Force** — Mental · pré-req: The ability to cast force powers
+- **Overcapacity Powers** — Mental · pré-req: The ability to cast tech powers
+- **Overwhelming Wit** — Mental · pré-req: The ability to cast force powers
+- **Parry** — Physical
+- **Parry (Improved)** — General · pré-req: Parry maneuver
+- **Penetrating Shot** — Physical
+- **Perceive** — General · pré-req: Proficiency in Perception
+- **Perform** — General · pré-req: Proficiency in Performance
+- **Persuade** — General · pré-req: Proficiency in Persuasion
+- **Pilot** — General · pré-req: Proficiency in Piloting
+- **Pin Down** — General · pré-req: Companion
+- **Precise Movements** — General
+- **Precision Attack** — General
+- **Primal Endurance** — General · pré-req: Companion
+- **Program** — General · pré-req: Proficiency in Technology
+- **Pure Sabacc** — Physical
+- **Pushing Attack** — Physical
+- **Rally** — Mental
+- **Rampage** — Physical
+- **Rattle** — Physical · pré-req: Proficiency in Intimidation
+- **Reassure** — Mental · pré-req: Proficiency in Medicine
+- **Remove Toxins** — Mental · pré-req: Proficiency in Medicine
+- **Return Fire** — Physical
+- **Reverse Curse** — Mental
+- **Riposte** — Physical
+- **Riposte (Improved)** — Physical · pré-req: Riposte maneuver
+- **Runtime Extension** — Mental · pré-req: The ability to cast tech powers
+- **Self-Preservation** — General
+- **Shadow Puppetry** — Mental
+- **Short Round** — Mental · pré-req: The ability to cast force powers
+- **Sic 'Em** — General · pré-req: Companion
+- **Spine-Chilling Howls** — General · pré-req: Companion
+- **Steady the Nerves** — General · pré-req: Proficiency in Persuasion
+- **Strikeforce** — Physical · pré-req: The ability to cast force powers
+- **Study** — General · pré-req: Proficiency in Lore
+- **Subtle Execution** — Mental · pré-req: The ability to cast tech powers
+- **Survive** — General · pré-req: Proficiency in Survival
+- **Sweeping Attack** — Physical
+- **Sweeping Attack (Improved)** — Physical · pré-req: Sweeping Attack maneuver
+- **Targeted Strike** — Mental
+- **Tenacity** — Physical · pré-req: Proficiency in Stealth
+- **Threaten** — General · pré-req: Proficiency in Intimidation
+- **Trip Attack** — Physical
+- **Tumble** — General · pré-req: Proficiency in Acrobatics
+- **Tyrannical Strike** — Mental · pré-req: Proficiency with Intimidation
+- **Unrelenting Grasp** — Physical · pré-req: Proficiency in Athletics
+- **Vanity** — General
+- **Water of Life** — Mental
+- **Weak Point Strike** — Physical · pré-req: Proficiency in Medicine
+- **Wild Senses** — General · pré-req: Companion
+- **World on Fire** — Physical
+- **Wracking Torment** — Mental
+- **Wrestle and Drag** — Physical · pré-req: Proficiency in Athletics
+- **You Call This Archaeology?** — Mental · pré-req: The ability to cast force powers

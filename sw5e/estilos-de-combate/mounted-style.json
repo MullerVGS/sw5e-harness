@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You are skilled at fighting while mounted. You gain the following benefits:\r\n- Mounting a vehicle or beast only uses 5 feet of your movement, provided you can reach it.\r\n- You can force an attack targeted at your mount to target you instead, provided you are a valid target for that attack.\r\n",
+  "metadata": null,
+  "name": "Mounted Style",
+  "rowKey": "Mounted Style"
+}

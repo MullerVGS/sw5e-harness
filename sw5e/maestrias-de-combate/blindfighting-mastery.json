@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "metadata": null,
+  "name": "Blindfighting Mastery",
+  "rowKey": "Blindfighting Mastery",
+  "text": "You've mastered fighting without sight, finding a home in the darkness that your enemies fear. You gain the following benefits:\r\n- Once per round, when a creature would have disadvantage on an attack roll against you due to being blinded, they must reroll one of the dice once.\r\n- Once per round, when you would have advantage on an attack roll against a creature that is blinded, you can reroll one of the dice once.\r\n- You gain blindsight out to a number of feet equal to 5 x your proficiency bonus. If you already have blindsight, it instead increases by a number of feet equal to 5 x your proficiency bonus.\r\n"
+}

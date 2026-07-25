@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You are skilled at using your shield to defend your allies as well as yourself. You gain the following benefits:\r\n- You are no longer restricted to wielding light weapons while wielding a heavy shield.\r\n- You can use a bonus action to try to shove or trip a creature within 5 feet of you with your shield.\r\n- When you use a shield as an improvised weapon, you are considered proficient in it, light shields are considered to have the light and fixed weapon properties, and heavy shields are considered to have the heavy weapon property.\r\n",
+  "metadata": null,
+  "name": "Shield Style",
+  "rowKey": "Shield Style"
+}

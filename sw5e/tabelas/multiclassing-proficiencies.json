@@ -1,0 +1,7 @@
+{
+  "content": "|Class||Proficiencies Gained|\r\n|:--|:--:|:--|\r\n|Berserker||Light armor, all vibroweapons||\r\n|Consular||Simple lightweapons|\r\n|Fighter||Light armor, medium armor, all blasters, all vibroweapons|\r\n|Engineer||Light armor, one skill from the class's skill list, one tool from the class's list|\r\n|Guardian||Light armor, medium armor, all lightweapons, all vibroweapons|\r\n|Operative||Light armor, any one skill, one tool from the class's list|\r\n|Monk||Techblades|\r\n|Scout||Light armor, medium armor, all blasters, all vibroweapons, one skill from the class's list|\r\n|Scholar||Light armor, one skill from the class's list|\r\n|Sentinel||Light armor, simple lightweapons, one skill from the class's list|",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Multiclassing Proficiencies",
+  "rowKey": "Multiclassing Proficiencies"
+}

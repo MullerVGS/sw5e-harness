@@ -1,0 +1,7 @@
+{
+  "content": "#### Returning \r\nWhen you throw a weapon with this property, it automatically returns to your hand after the attack is complete, whether you hit or miss.",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Returning",
+  "rowKey": "Returning"
+}

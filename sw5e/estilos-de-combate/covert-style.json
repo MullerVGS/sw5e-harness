@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You are skilled at fighting from unseen angles. You gain the following benefits:\r\n- You can take the Hide action as a bonus action. If you could already take the Hide action as a bonus action, you can instead take it as a reaction on your turn.\r\n- Creatures you've dealt damage to since the start of your last turn have disadvantage on Wisdom (Perception) checks made to find you.\r\n",
+  "metadata": null,
+  "name": "Covert Style",
+  "rowKey": "Covert Style"
+}

@@ -1,0 +1,7 @@
+{
+  "content": "|DeploymentRank|TotalPrestige|\r\n|:--:|:--:|\r\n|1st|1|\r\n|2nd|4|\r\n|3rd|8|\r\n|4th|12|\r\n|5th|16|",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Deployment Rank Prestige",
+  "rowKey": "Deployment Rank Prestige"
+}

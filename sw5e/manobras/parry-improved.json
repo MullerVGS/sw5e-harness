@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Parry becomes a general maneuver for you.",
+  "metadata": null,
+  "name": "Parry (Improved)",
+  "prerequisite": "Parry maneuver",
+  "rowKey": "Parry (Improved)",
+  "type": "General"
+}

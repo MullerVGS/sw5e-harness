@@ -1,0 +1,7 @@
+{
+  "content": "|Experience Points|Level|Proficiency Bonus|\r\n|:--:|:--:|:--:|\r\n|0\t|1\t|+2|\r\n|300\t|2\t|+2|\r\n|900\t|3\t|+2|\r\n|2,700\t|4\t|+2|\r\n|6,500\t|5\t|+3|\r\n|14,000\t|6\t|+3|\r\n|23,000\t|7\t|+3|\r\n|34,000\t|8\t|+3|\r\n|48,000\t|9\t|+4|\r\n|64,000\t|10\t|+4|\r\n|85,000\t|11\t|+4|\r\n|100,000\t|12\t|+4|\r\n|120,000\t|13\t|+5|\r\n|140,000\t|14\t|+5|\r\n|165,000\t|15\t|+5|\r\n|195,000\t|16\t|+5|\r\n|225,000\t|17\t|+6|\r\n|265,000\t|18\t|+6|\r\n|305,000\t|19\t|+6|\r\n|355,000\t|20\t|+6|",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "XP and PB by Level",
+  "rowKey": "XP and PB by Level"
+}

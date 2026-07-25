@@ -131,10 +131,15 @@ A ficha então não tem uma lista só do que o personagem conjura — quem monta
 ### `proficiencias`
 
 `salvaguardas` e `pericias` usam os nomes em inglês das Fatias
-(`Piloting`, `Technology`, `Lore` — SW5e não tem Arcana nem History).
-**Perícia e idioma não são coleções do Espelho**: só existem como prosa dentro de
-Fatias, então não têm linha em `fontes` e a conferência é achar o nome na prosa
-que os concede.
+(`Piloting`, `Technology`, `Lore` — SW5e não tem Arcana nem History). **Perícia é
+coleção do Espelho**, com as 18 e o atributo-base de cada uma, e a fatia é a
+única defesa contra o reflexo de 5e: quem escolhe de memória escreve `History` e
+põe `Piloting` em Dexterity, quando em SW5e ela é de Intelligence. Escolha pelo
+`INDEX.md` de `pericias/` sempre que a Fatia que concede disser "of your choice"
+— o `skillChoicesList` de uma classe é literalmente `["Any"]`.
+
+**Idioma não é coleção**: só existe como prosa dentro de Fatias, então não tem
+linha em `fontes` e a conferência é achar o nome na prosa que o concede.
 
 `expertise` é a lista de proficiências com bônus dobrado — é aqui que a escolha
 de `Expertise` mora, não em `features`.
@@ -168,10 +173,17 @@ Espelho, a uma linha de `fontes` de distância.
 
 ### `fontes`
 
-Nome da entidade → caminho da Fatia, para tudo que a ficha nomeia nas nove
-coleções. É o **recibo da Conferência de Legalidade**: quem escreveu a ficha
-provou que cada nome existe, e quem a reabre daqui a meses reabre a origem de
-cada escolha sem adivinhar.
+Nome da entidade → caminho da Fatia, para tudo que a ficha **escolhe**: espécie,
+classe, arquétipo, background, feat, poder, item, perícia e as escolhas de
+combate — manobra, fighting style, fighting mastery, forma de sabre, weapon
+focus, weapon supremacy. É o **recibo da Conferência de Legalidade**: quem
+escreveu a ficha provou que cada nome existe, e quem a reabre daqui a meses
+reabre a origem de cada escolha sem adivinhar.
+
+As três coleções de referência do Espelho — `propriedades-de-arma`,
+`propriedades-de-armadura` e `tabelas` — ficam de fora: elas não são escolha, e
+sim a regra que a Fatia do item ou da classe referencia por nome. `reload 16`
+dentro de `ataques.alcance` é citação da Fatia da arma, que já tem linha.
 
 Não é derivável, e é por isso que existe: o slug engole apóstrofo e vírgula
 (`Mechanic's kit` → `mechanic-s-kit.json`, `Clothes, common` →
@@ -335,6 +347,14 @@ exemplo. É exemplo: nenhuma Campanha com este slug existe no repo.
     "Beguiler Practice": "sw5e/arquetipos/beguiler-practice.json",
     "Spacer": "sw5e/backgrounds/spacer.json",
     "Ace Pilot": "sw5e/feats/ace-pilot.json",
+    "Deception": "sw5e/pericias/deception.json",
+    "Insight": "sw5e/pericias/insight.json",
+    "Investigation": "sw5e/pericias/investigation.json",
+    "Perception": "sw5e/pericias/perception.json",
+    "Persuasion": "sw5e/pericias/persuasion.json",
+    "Piloting": "sw5e/pericias/piloting.json",
+    "Stealth": "sw5e/pericias/stealth.json",
+    "Technology": "sw5e/pericias/technology.json",
     "Denounce": "sw5e/poderes/denounce.json",
     "Force Disarm": "sw5e/poderes/force-disarm.json",
     "Hex": "sw5e/poderes/hex.json",
@@ -433,14 +453,17 @@ A ficha vira PC ao contrário quando o NPC é construído com níveis: aí ele t
 Antes de gravar, além do que o `AGENTS.md` já manda:
 
 1. **Nome em inglês tem linha em `fontes`** e o arquivo existe — ou o nome está
-   na prosa da Fatia que o `origem` aponta (exploit, maneuver, fighting style).
-   Nome em PT-BR não carrega mecânica.
+   na prosa da Fatia que o `origem` aponta (exploit, idioma, opção de
+   Channel the Force). Nome em PT-BR não carrega mecânica.
 2. **Atributo final confere** com base + espécie + feat + ASI, e nenhum passa de
    20.
 3. **`modificadores`, `bonusProficiencia`, `pv`, `ca`, `iniciativa` fecham** — CA
    pela string `ac` da armadura, PV pelos números de dado de vida da classe.
-4. **Ataque fecha** com a Fatia da arma: dado, `damageType` e propriedade
-   (finesse decide se o bônus é de Dexterity ou Strength).
+4. **Ataque fecha** com a Fatia da arma: dado, `damageType` e propriedade — e a
+   propriedade tem Fatia em `propriedades-de-arma/`, que é onde SW5e diverge de
+   5e sem avisar: `mighty` deixa o bônus escolher entre Strength e Dexterity
+   como `finesse`, e `strength` e `dexterity` são propriedades de mínimo, que dão
+   desvantagem a quem não as atinge.
 5. **`recursos` é a linha certa da tabela** — nível certo, classe **e**
    arquétipo, valor efetivo.
 6. **Poder cabe no `Max Power Level`**, a lista tem o tamanho exato da coluna

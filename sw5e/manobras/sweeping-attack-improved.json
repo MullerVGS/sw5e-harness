@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When you use the Sweeping Attack maneuver, you add your maneuver ability modifier to the damage roll of the second creature.",
+  "metadata": null,
+  "name": "Sweeping Attack (Improved)",
+  "prerequisite": "Sweeping Attack maneuver",
+  "rowKey": "Sweeping Attack (Improved)",
+  "type": "Physical"
+}

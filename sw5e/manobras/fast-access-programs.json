@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When you cast a tech power of 1st-level or higher that has a casting time of 1 action, you can expend a superiority die to change the casting time to 1 bonus action for this casting.",
+  "metadata": null,
+  "name": "Fast Access Programs",
+  "prerequisite": "The ability to cast tech powers",
+  "rowKey": "Fast Access Programs",
+  "type": "Mental"
+}

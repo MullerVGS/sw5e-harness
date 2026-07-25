@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "metadata": null,
+  "name": "Sentinel Mastery",
+  "rowKey": "Sentinel Mastery",
+  "text": "You've mastered techniques to take advantage of every drop in any enemy's guard; in tight spaces you are indomitable. You gain the following benefits:\r\n- Creatures within your reach provoke opportunity attacks from you even if they take the Disengage action.\r\n- When you take the Dodge action, once per round, you can take two reactions on the same turn, instead of only one. You can only take one reaction per trigger.\r\n- You can use a bonus action to enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you have a number of special reactions equal to your proficiency bonus that you can only use to make opportunity attacks.\r\n"
+}

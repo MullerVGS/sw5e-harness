@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You can use your Administer Aid maneuver as an action, bonus action, or reaction on your turn.",
+  "metadata": null,
+  "name": "Administer Aid (Greater)",
+  "prerequisite": "Administer Aid (Improved) maneuver",
+  "rowKey": "Administer Aid (Greater)",
+  "type": "Mental"
+}

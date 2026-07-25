@@ -1,0 +1,10 @@
+{
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "description": "While your companion is moving, you can expend a superiority die and add 5 times the number rolled to its movement speed.",
+  "metadata": null,
+  "name": "Go Get 'Em",
+  "prerequisite": "Companion",
+  "rowKey": "Go Get 'Em",
+  "type": "General"
+}

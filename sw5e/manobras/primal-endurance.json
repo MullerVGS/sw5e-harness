@@ -1,0 +1,10 @@
+{
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "description": "As an action, you can expend a superiority die to improve your companion's defense. Roll the die and add it to your companion's AC until the beginning of your next turn.",
+  "metadata": null,
+  "name": "Primal Endurance",
+  "prerequisite": "Companion",
+  "rowKey": "Primal Endurance",
+  "type": "General"
+}

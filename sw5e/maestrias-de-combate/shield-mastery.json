@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "metadata": null,
+  "name": "Shield Mastery",
+  "rowKey": "Shield Mastery",
+  "text": "You've mastered using a shield to defend your allies as well as yourself, strategically imposing your shield to capitalize on its protection. You gain the following benefits:\r\n\r\n- If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a power or other harmful effect.\r\n- While you are wielding a shield with which you are proficient, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, and you succeed on the saving throw, you can use your reaction to take no damage.\r\n- When a creature you can see damages you while you are wielding a shield with which you are proficient, you can use your reaction to reduce the damage by an amount equal to your proficiency bonus.\r\n"
+}

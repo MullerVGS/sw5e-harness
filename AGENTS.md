@@ -39,7 +39,9 @@ Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador cond
 
 **Ficha que não fecha não é gravada.** Antes de escrever qualquer ficha, em criação e em evolução, confira você mesmo: toda entidade nomeada existe como fatia no espelho, os derivados fecham, as chaves e os tipos são os do esquema. Se não fechar, corrija e confira de novo. Não grave "para arrumar depois" — não há ferramenta para pegar isso depois.
 
-**O espelho é a fonte de conteúdo.** Espécie, classe, arquétipo, background, poder, feat e item vêm de `sw5e/`. Escolha lendo o `INDEX.md` da coleção e só então abra a fatia — abrir a coleção inteira custa quase mil vezes mais e não é necessário. Conteúdo de SW5e que você "lembra" mas não está no espelho **não existe**.
+**O espelho é a fonte de conteúdo.** Tudo que a ficha escolhe vem de `sw5e/`: espécie, classe, arquétipo, background, poder, feat, item, perícia e as escolhas de combate — manobra, fighting style, fighting mastery, forma de sabre, weapon focus, weapon supremacy. Escolha lendo o `INDEX.md` da coleção e só então abra a fatia — abrir a coleção inteira custa quase mil vezes mais e não é necessário. Conteúdo de SW5e que você "lembra" mas não está no espelho **não existe**.
+
+Três coleções não são escolha e sim regra que a fatia referencia: `propriedades-de-arma`, `propriedades-de-armadura` e `tabelas`. Abra-as quando uma propriedade ou uma tabela de sistema decidir a conta — `mighty` deixa o ataque escolher entre Strength e Dexterity, `powered` fixa a Strength de quem veste a armadura, e o mínimo de atributo para multiclasse só existe lá. Elas não entram em `fontes`: quem as referencia é a fatia do item ou da classe, que já tem linha.
 
 O arquivo da fatia é o nome da entidade em slug (`Bo-rifle` → `bo-rifle.json`). Onde dois nomes colidem, o índice traz o arquivo entre backticks na linha — são poucos casos, e o índice é quem manda. A fatia não é cópia crua da API: saem dela as duplicações do mesmo dado e o plumbing de armazenamento, e nada mais.
 
@@ -72,9 +74,4 @@ Vivem em `.agents/skills/<nome>/SKILL.md`. As regras acima valem para todas e **
 - Idioma da conversa: **PT-BR**.
 - Commits sem trailer de coautoria.
 - Descoberta operacional durável vira memória em `.agents/memory/`, não comentário em arquivo.
-
-## Estado atual
-
-**O espelho tem um buraco conhecido.** Manobra, fighting style, forma de sabre, fighting mastery, weapon focus e weapon supremacy existem em SW5e e a API os publica, mas o sync não os baixa — e a prosa da classe manda ver um capítulo que não foi sincronizado. **Oito das dez classes** mandam escolher pelo menos um deles; só Consular e Engineer escapam. Enquanto a issue 12 não fechar, isso não é "o conteúdo não existe": é o espelho incompleto. Diga isso ao Jogador em vez de inventar nome ou negar a regra.
-
-Apague esta seção quando a issue 12 fechar. O mapa e os tickets vivem em `.scratch/sw5e-harness/`, na raiz do workspace (`/root/projetos`).
+- A harness ainda está sendo construída: o mapa e os tickets vivem em `.scratch/sw5e-harness/`, na raiz do workspace (`/root/projetos`).

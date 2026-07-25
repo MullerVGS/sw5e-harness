@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When you use your Call to Arms maneuver, you can roll the superiority die and extend the benefits of the maneuver to a number of allies up to the result of the roll, provided those allies can see or hear you.",
+  "metadata": null,
+  "name": "Call to Arms (Improved)",
+  "prerequisite": "Call to Arms (Improved) maneuver",
+  "rowKey": "Call to Arms (Improved)",
+  "type": "Mental"
+}

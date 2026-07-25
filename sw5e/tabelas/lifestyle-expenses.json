@@ -1,0 +1,7 @@
+{
+  "content": "|\tLifestyle\t\t|\tPrice/Day\t|\r\n|:--|--:|\r\n|\tWretched\t\t|\t�\t|\r\n|\tSqualid\t\t|\t1 cr\t|\r\n|\tPoor\t\t|\t2 cr\t|\r\n|\tModest\t\t|\t10 cr\t|\r\n|\tComfortable\t\t|\t20 cr\t|\r\n|\tWealthy\t\t|\t40 cr\t|\r\n|\tAristocratic\t\t|\tat least 100 cr \t|",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Lifestyle Expenses",
+  "rowKey": "Lifestyle Expenses"
+}

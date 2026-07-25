@@ -71,6 +71,12 @@ Um arquivo do Espelho, uma entidade por arquivo (uma espécie, um poder, um mons
 **Índice**:
 O `INDEX.md` de uma coleção do Espelho: nome e uma linha por entidade. O Agente escolhe pelo Índice e só então abre a Fatia — a coleção inteira custa quase mil vezes mais.
 
+**Coleção de escolha**:
+Coleção de onde a ficha tira uma escolha: espécie, classe, arquétipo, background, poder, equipamento, feat, item, perícia, manobra, estilo de combate, maestria de combate, forma de sabre, foco de arma, supremacia de arma, monstro. O que sai dela é nomeado na ficha e ganha linha em `fontes`.
+
+**Coleção de referência**:
+Coleção que as Fatias referenciam por nome em vez de a ficha escolher: `propriedades-de-arma`, `propriedades-de-armadura` e `tabelas`. O Agente a abre para fechar uma conta ou uma legalidade, e ela não vira campo da ficha nem linha de `fontes`.
+
 **Sync**:
 A execução de `tools/sync-espelho.py`, que rebaixa a API e reescreve Fatias e Índices. Sob demanda, quando a comunidade atualiza conteúdo.
 

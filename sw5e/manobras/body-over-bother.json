@@ -1,0 +1,10 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "When you are forced to make an Strength, Dexterity, or Constitution saving throw, you can expend a superiority die to change the saving throw ability to your maneuver ability modifier.",
+  "metadata": null,
+  "name": "Body Over Bother",
+  "prerequisite": null,
+  "rowKey": "Body Over Bother",
+  "type": "Physical"
+}

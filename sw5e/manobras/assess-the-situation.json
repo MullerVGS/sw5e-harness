@@ -1,0 +1,10 @@
+{
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "description": "You can expend one superiority die to make a Wisdom (Perception) or Intelligence (Investigation) check as a bonus action, adding the superiority die to the check.",
+  "metadata": null,
+  "name": "Assess the Situation",
+  "prerequisite": null,
+  "rowKey": "Assess the Situation",
+  "type": "General"
+}

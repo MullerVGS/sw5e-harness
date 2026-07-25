@@ -1,0 +1,7 @@
+{
+  "baseAttribute": "Intelligence",
+  "contentSource": "None",
+  "contentType": "Lookup",
+  "name": "Nature",
+  "rowKey": "Nature"
+}

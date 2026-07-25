@@ -1,0 +1,10 @@
+{
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "description": "When your companion attempts to grapple or knock a creature prone, you can expend a superiority die to give it direction as long as it can see or hear you. Roll a superiority die and add it to your companion's Strength (Athletics) check.",
+  "metadata": null,
+  "name": "Pin Down",
+  "prerequisite": "Companion",
+  "rowKey": "Pin Down",
+  "type": "General"
+}

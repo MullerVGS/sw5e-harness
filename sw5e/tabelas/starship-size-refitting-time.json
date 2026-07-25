@@ -1,0 +1,7 @@
+{
+  "content": "|Starship Size|Time|\r\n|:--|--:|\r\n|Tiny|4 hours|\r\n|Small|8 hours|\r\n|Medium|1 day|\r\n|Large|3 days|\r\n|Huge|1 week|\r\n|Gargantuan|1 month|",
+  "contentSource": "None",
+  "contentType": "Core",
+  "name": "Starship Size Refitting Time",
+  "rowKey": "Starship Size Refitting Time"
+}

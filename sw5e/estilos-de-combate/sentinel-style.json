@@ -1,0 +1,8 @@
+{
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You are skilled at techniques that take advantage of every drop in any enemy's guard. You gain the following benefits:\r\n- Creatures provoke an opportunity attack when they move to within your reach or move 5 feet or greater while within your reach.\r\n- When you hit a creature that is no more than one size larger than you with an opportunity attack, the creature gains 4 slowed levels until the end of the current turn.\r\n",
+  "metadata": null,
+  "name": "Sentinel Style",
+  "rowKey": "Sentinel Style"
+}
