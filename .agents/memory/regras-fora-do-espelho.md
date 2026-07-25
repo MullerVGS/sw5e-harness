@@ -1,6 +1,6 @@
 ---
 name: regras-fora-do-espelho
-description: Onde achar as regras de SW5e que a API não serve — custo de casting, o que cada kit faz, feat de 1º nível e as regras de companheiro
+description: Onde achar as regras de SW5e que o Espelho não guarda — custo de casting, o que cada kit faz, feat de 1º nível e as regras de companheiro
 metadata:
   type: reference
 ---
@@ -27,12 +27,16 @@ que falta e onde achar, verificado em 2026-07-25:
   inteira de Força ou de tech, o que torna o `INDEX.md` de `poderes/` a única
   restrição real na escolha.
 
-**Por quê:** o `sync-espelho.py` rebaixa `https://sw5eapi.azurewebsites.net`, e a
-API publica entidades, não capítulos. O site sw5e.com é SPA e não responde a
-fetch — as páginas voltam vazias.
+**Por quê:** o `sync-espelho.py` rebaixa as entidades escolhíveis de
+`https://sw5eapi.azurewebsites.net`. Os dois livros **estão** na API —
+`/api/playerHandbookRule` (16 capítulos) e `/api/wretchedHivesRule` (10) — e
+ficaram fora do Espelho de propósito (issue 13): regra se pesquisa na hora,
+baixando a coleção e filtrando o capítulo com script descartável. O documento de
+Companions não tem endpoint; é o link de GMBinder acima. O site sw5e.com é SPA e
+não responde a fetch — as páginas voltam vazias.
 
 **Como aplicar:** conteúdo que vira campo de ficha continua vindo só do Espelho —
-nome que não tem Fatia não entra em `fontes`. **Regra** é outra coisa: quando o
-Jogador precisar entender como algo funciona, buscar fora é legítimo, e o que se
-deve a ele é dizer **de onde veio** — Fatia, esta memória, ou web. Ver
-[[droid-companheiro-no-nivel-1]] e [[numeros-sw5e-divergem-de-5e]].
+nome que não tem Fatia não entra em `fontes`. **Regra** é outra coisa: pesquisá-la
+é obrigação do Agente — esta memória, o capítulo na API, a web, na ordem do
+custo — e o que se deve ao Jogador é dizer **de onde veio**, nunca a dúvida
+crua. Ver [[droid-companheiro-no-nivel-1]] e [[numeros-sw5e-divergem-de-5e]].

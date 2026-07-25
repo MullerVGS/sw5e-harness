@@ -13,7 +13,7 @@ O usuário da harness (Arthur). Dono do conceito e do rumo de cada personagem. J
 _Avoid_: usuário, mestre (o papel varia por campanha)
 
 **Agente**:
-O agente de IA que executa a harness. Pergunta pouco, monta a ficha consultando o Espelho, confere e grava.
+O agente de IA que executa a harness. Pergunta pouco, monta a ficha consultando o Espelho, pesquisa a regra que ele não guarda, confere e grava.
 
 ### Campanha
 
@@ -62,7 +62,7 @@ O que a tabela de nível da classe e a do arquétipo concedem neste nível — `
 ### Espelho
 
 **Espelho**:
-A cópia local do conteúdo de SW5e em `sw5e/`, sincronizada da API pública da comunidade. É a fonte de verdade de conteúdo: o que não está nele não existe.
+A cópia local do conteúdo escolhível de SW5e em `sw5e/`, sincronizada da API pública da comunidade. É o atalho que faz a escolha ser rápida e a grafia exata: autoridade sobre nome e número do que a ficha escolhe, não o limite do que o Agente sabe — regra que ele não guarda se resolve com Pesquisa.
 _Avoid_: base de dados, cache
 
 **Fatia**:
@@ -79,6 +79,9 @@ Coleção que as Fatias referenciam por nome em vez de a ficha escolher: `propri
 
 **Sync**:
 A execução de `tools/sync-espelho.py`, que rebaixa a API e reescreve Fatias e Índices. Sob demanda, quando a comunidade atualiza conteúdo.
+
+**Pesquisa**:
+Ir atrás da regra que o Espelho não guarda: a memória do workspace, os capítulos dos livros na API, a web — nesta ordem, que é a do custo. É obrigação do Agente antes de qualquer pendência; ao Jogador se deve a origem da regra, não a dúvida. Só a ambiguidade que sobrevive à Pesquisa vira ruling de mesa.
 
 ### Conferência
 

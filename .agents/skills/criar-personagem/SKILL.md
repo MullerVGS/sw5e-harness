@@ -73,13 +73,15 @@ e ataques, que dependem de tudo acima.
 
 A aritmética é sua. Se ajudar a fechar, escreva um script na hora e jogue fora.
 
-**Regra que o Espelho não tem, você não inventa.** Toda escolha que a classe
+**Regra que o Espelho não tem, você pesquisa.** Toda escolha que a classe
 manda fazer tem Fatia, mas a regra que a decide nem sempre: a Fatia manda ver um
 capítulo que não foi sincronizado — `Blade Focus` vale para "blade weapons" e
-nada diz que arma é lâmina. Quando cair numa dessas: pare, diga ao Jogador o que
-ficou em aberto, e resolva com ele — outra build, ou a ficha gravada com a
-pendência em `notas`, dizendo o que foi leitura sua e não Fatia. Nome inventado é
-pior que buraco declarado, porque some na leitura seguinte.
+nada na Fatia diz que arma é lâmina. Isso não é buraco para devolver ao Jogador:
+a resposta existe, e ir atrás dela é seu trabalho — memória do workspace,
+capítulo na API, web, na ordem do custo. Quando a fonte não foi Fatia, `notas`
+diz de onde veio. Ao Jogador só volta o que continuar ambíguo depois da Pesquisa
+— aí é ruling de mesa, e a decisão é dele. Nome inventado segue pior que dúvida
+declarada, porque some na leitura seguinte.
 
 ## Conferir
 
