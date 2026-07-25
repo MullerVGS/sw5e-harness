@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Powered Armoring Mk III",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Powered Armoring Mk III",
+  "searchableRarity": "Prototype",
+  "subtype": "armor",
+  "text": "This armor gains the powered 15 property. If it already has the powered property, its powered number increases by three steps (from 11 to 17, 13 to 19, or 15 to 21).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

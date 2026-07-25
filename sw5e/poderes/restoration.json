@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You touch a creature and end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned. This power has no effect on droids or constructs.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Restoration",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Touch",
+  "rowKey": "Restoration"
+}

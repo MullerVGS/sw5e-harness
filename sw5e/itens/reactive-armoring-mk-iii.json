@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Reactive Armoring Mk III",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Reactive Armoring Mk III",
+  "searchableRarity": "Artifact",
+  "subtype": "armor",
+  "text": "This armor gains the reactive 3 property. If it already has the reactive property, its reactive number increases to 3.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

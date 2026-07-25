@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Semiauto Core",
+  "prerequisite": " Auto property",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Semiauto Core",
+  "searchableRarity": "Prototype",
+  "subtype": "blaster",
+  "text": "This weapon loses the auto property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

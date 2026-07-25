@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 50,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrodagger",
+  "properties": [
+    "Finesse",
+    "light",
+    "thrown (range 20/60)"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Light": "light",
+    "Range": "thrown (range 20/60)"
+  },
+  "rowKey": "Vibrodagger",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleVibroweapon",
+  "weight": "0.5"
+}

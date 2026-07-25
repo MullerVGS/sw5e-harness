@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Intuitive Facial Prosthesis",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Intuitive Facial Prosthesis",
+  "searchableRarity": "Standard",
+  "subtype": "replacement",
+  "text": "This augmentation replaces your face.\r\n\r\nYour Intelligence score becomes 13. If your Intelligence score is already equal to or greater than 13, it has no effect on you. Additionally, you can add half your proficiency bonus (rounded down) to any Intelligence check you make that doesn't already include your proficiency bonus.\r\n\r\n**Side Effect:** When you roll a 1 an Intelligence saving throw, the implant stutters, causing any ability checks in which you are proficient you make before the start of your next turn to not include your proficiency bonus.\r\n\r\n_This facial prosthetic includes a solid state drive, allowing for quick recall._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

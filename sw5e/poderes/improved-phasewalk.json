@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "BonusAction",
+  "castingPeriodText": "1 bonus action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the power ends, you can use a bonus action to teleport in this way again.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 5,
+  "name": "Improved Phasewalk",
+  "powerType": "Force",
+  "prerequisite": "Phasewalk",
+  "range": "Self",
+  "rowKey": "Improved Phasewalk"
+}

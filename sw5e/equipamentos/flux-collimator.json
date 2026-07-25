@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 180,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "As an action, you can apply this collimator to one lightweapon within 5 feet, granting it a +1 bonus to damage rolls for 1 minute. This bonus is in addition to any bonuses granted by the weapon.",
+  "equipmentCategory": "Ammunition",
+  "modes": [],
+  "name": "Flux collimator",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Flux collimator",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "1"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Absorbing Amplifier Mk III",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Absorbing Amplifier Mk III",
+  "searchableRarity": "Prototype",
+  "subtype": "wristpad",
+  "text": "This item gains the absorbing 6 property. If it already has the absorbing property, its absorbing number increases by 6, to a maximum of 12.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

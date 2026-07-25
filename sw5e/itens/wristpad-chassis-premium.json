@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "Other",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Wristpad Chassis (Premium)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": true,
+  "rowKey": "Wristpad Chassis (Premium)",
+  "searchableRarity": "Premium",
+  "subtype": "tech",
+  "text": "_**Requires attunement**_\r\nThis modifiable wristpad chassis comes with vacant modification slots for wristpad modifications. It can house modifications of premium rarity or lower.",
+  "type": "Focus",
+  "valuableType": "None",
+  "valueText": null
+}

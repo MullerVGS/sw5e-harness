@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Spiked Shielding",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Spiked Shielding",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "_**Prerequiste:** Shield_\r\nThis shield gains the spiked (1d4) property. If it already has the spiked property, the spiked damage increases by one step (from d4 to d6, or from d6 to d8). ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

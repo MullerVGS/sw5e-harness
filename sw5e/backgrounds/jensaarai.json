@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "The Jensaarai took me in when nobody else would. I back the order 100%.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I was once a Jedi, but grew disillusioned by their inactivity.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I fight for those who cannot fight for themselves.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I lost my mentor in battle. I will honor their sacrifice by destroying their killer.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I was able to slough off Dark Side corruption, but I couldn't avoid making amends.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "The powerful use their strength to raise people up, not keep them down.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of common clothes including a robe, a sturdy knife, and a belt pouch containing 150 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Threatening",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Perceptive",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Alert",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Observant",
+      "roll": 8
+    }
+  ],
+  "featureName": "Depths of Duality",
+  "featureRowKeys": null,
+  "featureText": "Due to the corruption of the Jedi training done to the pre-Jensaarai, you have a unique insight into both the Light and Dark side of the Force, as well as its history, applications, and techniques in a scholarly manner.\r\n\r\nYou are well versed in the above concepts, and can recall key information related to them. However, if the research was hidden from the public and you have not had experience working with it, you can only partially understand it. You also recognize well-known Jedi Masters and Sith Lords by their works and marks.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "You are a Jensaarai, a Force user who has come to understand the failings of both Jedi inactivity and Sith malevolence. While they wield lightsabers, a true mark of skill among the Jensaarai is the crafting of their armor. Each suit is perfectly unique to the wearer, and is frequently (but not always) adorned and shaped to represent an animal that the Jensaarai finds kinship with, up to and potentially including additional mounted weapons or sensors to further emulate that creature.\r\n\r\nWhile the Jensaarai train in, and will use dark side powers when necessary, they seek to avoid true corruption. They are not evil, nor are they wholly good either. They are anti-heroes, and well-practiced in this craft. In addition, the Jensaarai train in more than the lightsaber, employing whatever tools are at hand to best fit the job.",
+  "flawOptions": [
+    {
+      "description": "I might be a little too enamored with force choking my enemies.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I am my own worst critic, in everything I do.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "My armor is precision crafted and has served me faithfully. I never give up a chance to prove how well.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have a collection of lightsabers from fallen foes, and I love adding to it.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "The Jedi and Sith worship the Force as a religion. I do everything I can to remind them they're just worshipping a hammer.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "The minute you tell me that someone should not be crossed, I'm already crossing them.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "Respect will be shown to everyone, disrespect will be shown to those who earn it. (Lawful)",
+      "name": "Respect",
+      "roll": 1
+    },
+    {
+      "description": "People should be free to make their own way without interference. (Chaotic)",
+      "name": "Freedom",
+      "roll": 2
+    },
+    {
+      "description": "Self-improvement is an unending chore, but one that must be done. (Any)",
+      "name": "Growth",
+      "roll": 3
+    },
+    {
+      "description": "I will immediately end a hostile situation with all means at my disposal. (Neutral)",
+      "name": "Escalation",
+      "roll": 4
+    },
+    {
+      "description": "Given our luck with both Jedi and Sith, I need all I can get. (Dark)",
+      "name": "Power",
+      "roll": 5
+    },
+    {
+      "description": "There's a spark of good in everyone. (Light)",
+      "name": "Redemption",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Jensaarai",
+  "personalityTraitOptions": [
+    {
+      "description": "I ignore the rhetoric a person spouts when meeting them, preferring to judge them by action.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I'm the first to swing a punch, but the last to draw a weapon.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Danger is my middle name.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "Goodwill is in short supply in the galaxy, and I always try to foster a little more wherever I go.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "Both the Republic and the Empire have tried to crush us under their bootheels. I refuse to yield.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Defiant to the last isn't good enough. Upon death I will become a force spirit and continue to defy my killer.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "Well-behaved people rarely make history.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "What gave you the idea that I was going to give you a fair fight?",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Jensaarai",
+  "skillProficiencies": "Choose two from Insight, Intimidation, Lore, and Perception",
+  "suggestedCharacteristics": "Jensaarai are shaped by the unique capacity of their upbringing. Their study of the duality of the Force manifests in their mannerisms and ideals. Their bond might be their family or their armor. Their flaws might be some a hatred of the Jedi or Sith or a desire to become one or the other.",
+  "toolProficiencies": "Armormech's implements"
+}

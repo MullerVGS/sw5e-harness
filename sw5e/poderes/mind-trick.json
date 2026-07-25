@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Choose a target within range that isn't hostile toward you. The target must make a Wisdom saving throw. On a failed save, the target has disadvantage on Wisdom (Perception) and Intelligence (Investigation) checks. \r\n\r\nOn a successful save, the creature realizes that you tried to use the Force to influence its awareness and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the GM's discretion), depending on the nature of your interaction with it. This power has no effect on droids or constructs.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 0,
+  "name": "Mind Trick",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "30 feet",
+  "rowKey": "Mind Trick"
+}

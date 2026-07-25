@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Pinpoint Subroutine",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "Premium",
+  "requiresAttunement": false,
+  "rowKey": "Pinpoint Subroutine",
+  "searchableRarity": "Premium",
+  "subtype": "wristpad",
+  "text": "When you cast a power that allows you to force creatures in an area to make a saving throw you can instead spend 1 tech point and make a ranged tech attack against a single target that would be in the range. On a hit the target suffers the effects as though they failed their saving throw. \r\n\r\nYou can only spend a number of tech points in this way equal to your proficiency bonus. You regain the ability to do so when you complete a long rest. \r\n\r\nYou can use only one Subroutine modification on a power when you cast it, unless otherwise noted.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

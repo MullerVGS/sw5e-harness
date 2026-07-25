@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "Any",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Shield (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Shield (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "any",
+  "text": "You have a +3 bonus to AC while wielding this shield. Additionally, while wielding this shield, damage you take is reduced by 1. If this would reduce the damage to 0, the damage is instead reduced to 1.",
+  "type": "Shield",
+  "valuableType": "None",
+  "valueText": null
+}

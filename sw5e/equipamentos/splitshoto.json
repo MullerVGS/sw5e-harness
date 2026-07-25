@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1150,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Splitshoto",
+  "properties": [
+    "Double (1d8 energy)",
+    "interlocking",
+    "light",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Double": "Double (1d8 energy)",
+    "Interlocking": "interlocking",
+    "Light": "light",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Splitshoto",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "2"
+}

@@ -1,0 +1,240 @@
+{
+  "bondOptions": [
+    {
+      "description": "I lost someone dear to me in battle, I will always honor them.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "Honor is everything to me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I will lay down my life for those beside me.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I must keep the traditions of my ancestors alive.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "No matter where I go, Mandalore is my home.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "In death, I will find glory.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "equipment": "A set of traveler's clothes, a trophy from a previous victory, and a pouch containing 200 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Brawny",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Threatening",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Ace Pilot",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Survivalist",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Durable",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Weapon Expert",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Athlete",
+      "roll": 8
+    }
+  ],
+  "featureName": "Child of Mandalore",
+  "featureRowKeys": null,
+  "featureText": "Other Mandalorians know, and will look out for you. If you're ever in need of a place to stay, or a meal to eat, other Mandalorians  will help you as long as your clans aren't feuding. This could be in the form of shelters, meals, even healing. If the Mandalorians are of your clan or a clan friendly to you, they may be willing to help you even at cost to themselves.\r\n",
+  "features": null,
+  "flavorDescription": "Mandalorian culture is built on the backbone of various clans. The clan you are a part of has it's own history, allegiances, and fueds which shape your persepctive. Choose an option or roll on the table below to determine your clan.\r\n\r\n|d8|Clan|\r\n|:---:|:----------:|\r\n|1|Vizsla|\r\n|2|Fett|\r\n|3|Kryze|\r\n|4|Ordo|\r\n\r\n|d8|Clan|\r\n|:---:|:----------:|\r\n|5|Wren|\r\n|6|Lok|\r\n|7|Cadera|\r\n|8|Clanless|\r\n",
+  "flavorName": "Mandalorian Clan",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "Vizsla",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Fett",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Kryze",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Ordo",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Wren",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Lok",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Cadera",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Clanless",
+      "roll": 8
+    }
+  ],
+  "flavorText": "You are a child of Mandalore. As a member of the most renowned warrior culture in history, your people are known for being strong and hardy. Mandalorian culture is built around the honor and glory that come from victory in battle.",
+  "flawOptions": [
+    {
+      "description": "I look down on outsiders.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I have no respect for anyone who flees. Cowardice is unacceptable.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I don't see much use in talking, a blaster is all I need to make my point.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I stick to my traditions no matter what, even at the cost of others.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I retreated once, and I've regretted it ever since.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I value a victory regardless of the ethics behind the victory.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I live by my clan's ways, and will continue to do so. (Lawful)",
+      "name": "Tradition",
+      "roll": 1
+    },
+    {
+      "description": "I strive to be the best warrior, no matter who stands in my way. (Dark)",
+      "name": "Power",
+      "roll": 2
+    },
+    {
+      "description": "I have earned the respect of many, and I intend to keep it. (Light)",
+      "name": "Respect",
+      "roll": 3
+    },
+    {
+      "description": "I enjoy having the ability to do whatever I want. (Chaotic)",
+      "name": "Freedom",
+      "roll": 4
+    },
+    {
+      "description": "I'll put everything on the line for those dear to me. (Any)",
+      "name": "Comradery",
+      "roll": 5
+    },
+    {
+      "description": "I'll succeed in my goals, it just takes time and effort. (Any)",
+      "name": "Aspiration",
+      "roll": 6
+    }
+  ],
+  "languages": "Mando'a",
+  "name": "Mandalorian",
+  "personalityTraitOptions": [
+    {
+      "description": "I try and bring my culture to outsiders.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I always put my clan first.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I follow the Resol'nare to the letter.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I love a good spar.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I enjoy traveling the galaxy.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I keep a small trophy on me to remind me of a past victory.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I view the force as dishonorable in combat.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I've seen the horrors of battle and try to prevent it.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Mandalorian",
+  "skillProficiencies": "Choose two from Athletics, Intimidation, Piloting, and Survival",
+  "suggestedCharacteristics": "Mandalorians are a meritocracy where birthplace, rank, status, and citizenship mean nothing. You are what you do. Mandalorians live by the Resol'nare (the \"Six Actions\"). As a true Mandalorian you should strive to live by this code as much as possible by remaining honorable. Your flaw(s) might consist of any dishonor you've committed, or even being too honorable.",
+  "toolProficiencies": "One set of artisan's implements"
+}

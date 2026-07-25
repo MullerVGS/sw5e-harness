@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Poisons",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Poison (Deadly)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Poison (Deadly)",
+  "searchableRarity": "Advanced",
+  "subtype": "poison",
+  "text": "As an action, you can use the poison in this vial to coat one vibroweapon, one slug cartridge, or one wrist launcher dart. A creature hit by the poisoned weapon must make a DC 20 Constitution saving throw, taking 8d4 poison damage on a failed save or half as much on a successful one. Once applied, the poison retains potency for 1 minute before drying.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

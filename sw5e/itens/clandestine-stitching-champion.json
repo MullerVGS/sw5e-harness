@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Clandestine Stitching (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Clandestine Stitching (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "clothing",
+  "text": "This article of clothing come with six hidden pockets, each of which can store up to 1 lb. Finding these hidden pockets requires a DC 30 Investigation check. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

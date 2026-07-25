@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 160,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "MusicalInstrument",
+  "modes": [],
+  "name": "Fizzz",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Fizzz",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "3"
+}

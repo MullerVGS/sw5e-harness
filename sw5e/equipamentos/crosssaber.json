@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1650,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Crosssaber",
+  "properties": [
+    "Dexterity 15",
+    "double (2d4 energy)",
+    "heavy",
+    "luminous",
+    "reach"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 15",
+    "Double": "double (2d4 energy)",
+    "Heavy": "heavy",
+    "Luminous": "luminous",
+    "Reach": "reach"
+  },
+  "rowKey": "Crosssaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "5.25"
+}

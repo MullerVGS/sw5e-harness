@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the power has no effect.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Dark",
+  "higherLevelDescription": null,
+  "level": 9,
+  "name": "Kill",
+  "powerType": "Force",
+  "prerequisite": "Ruin",
+  "range": "60 feet",
+  "rowKey": "Kill"
+}

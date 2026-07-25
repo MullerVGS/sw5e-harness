@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Insulated Pattern (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Insulated Pattern (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "clothing",
+  "text": "This clothing gains the insulated 10 armor property. If it already has the insulated armor property, its insulated number increases to 10.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

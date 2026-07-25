@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You dampen sound and light and dull the scent from creatures in your vicinity. For the duration, each creature you choose within 30 feet of you has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by enhanced means while within this radius. You can choose yourself as well. A creature that receives this bonus leaves behind no traces of its passage.",
+  "duration": "up to 1 hour",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Smuggle",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Smuggle"
+}

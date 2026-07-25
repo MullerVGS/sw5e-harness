@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Your attunement to the Force warns you when you are about to enter danger. Until the power ends, your base AC becomes 13 + your Dexterity modifier. This power has no effect if you are wearing armor.",
+  "duration": "8 hours",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Battle Precognition",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Battle Precognition"
+}

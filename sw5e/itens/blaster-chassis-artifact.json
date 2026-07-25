@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "AnyBlaster",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Blaster Chassis (Artifact)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": true,
+  "rowKey": "Blaster Chassis (Artifact)",
+  "searchableRarity": "Artifact",
+  "subtype": "any blaster",
+  "text": "_**Requires attunement**_\r\nThis modifiable blaster chassis comes with vacant modification slots for blaster modifications, as well as two augment slots. It can house modifications of artifact rarity or lower.",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

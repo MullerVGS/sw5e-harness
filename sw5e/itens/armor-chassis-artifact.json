@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "Any",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Armor Chassis (Artifact)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": true,
+  "rowKey": "Armor Chassis (Artifact)",
+  "searchableRarity": "Artifact",
+  "subtype": "any",
+  "text": "_**Requires attunement**_\r\nThis modifiable armor chassis comes with vacant modification slots for armor modifications, as well as two augment slots. It can house modifications of artifact rarity or lower.",
+  "type": "Armor",
+  "valuableType": "None",
+  "valueText": null
+}

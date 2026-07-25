@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1550,
+  "damageDiceDieTypeEnum": 12,
+  "damageDieModifier": 0,
+  "damageDieType": 12,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightaxe",
+  "properties": [
+    "Dexterity 11",
+    "heavy",
+    "luminous",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Heavy": "heavy",
+    "Luminous": "luminous",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Lightaxe",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "3.75"
+}

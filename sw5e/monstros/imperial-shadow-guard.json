@@ -1,0 +1,106 @@
+{
+  "alignment": "lawful dark",
+  "armorClass": 17,
+  "armorType": "powered battle armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The Imperial Shadow Guard makes two attacks.",
+      "descriptionWithLinks": " The Imperial Shadow Guard makes two attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 8,
+      "attackType": "RangedWeapon",
+      "damage": "7",
+      "damageRoll": "1d6 + 4",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +8 to hit, range 40/160, one target. Hit: 7 (1d6 + 4) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +8 to hit, range 40/160, one target. Hit: 7 (1d6 + 4) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Pistol",
+      "numberOfTargets": "one target.",
+      "range": "range 40/160",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 9,
+      "attackType": "MeleeWeapon",
+      "damage": "10",
+      "damageRoll": "1d10 + 5",
+      "damageType": "Energy",
+      "description": " Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit 10 (1d10 + 5) energy damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit 10 (1d10 + 5) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Lightsaber Pike",
+      "numberOfTargets": "one target.",
+      "range": "reach 10 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "10",
+  "charisma": 11,
+  "charismaModifier": 0,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 18,
+  "dexterityModifier": 4,
+  "experiencePoints": 5900,
+  "flavorText": "The Emperor's Shadow Guard is an organization of elite, Force-sensitive soldiers.  Many suspect that they are former Jedi that have been captured, tortured, and brainwashed by Palpatine. They have been trained by Darth Vader. They were silent and enigmatic warriors that received orders directly from Emperor Palpatine himself and are often sent to eliminate suspected Jedi and other Force users.  The Shadow Guards command a great level of respect within the Empire's ranks and often lead quartets of Imperial Stormtroopers into battle against the Emperor's most hated foes. Shadow Guard members are often guarded by their own detail made up of Imperial Navy Commandos or stormtroopers, or in certain cases, members of the standard Royal Guard,",
+  "hitPointRoll": "15d8 + 45",
+  "hitPoints": 118,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "Glactic Basic"
+  ],
+  "name": "Imperial Shadow Guard",
+  "rowKey": "Imperial Shadow Guard",
+  "savingThrows": [
+    "Dex +8",
+    "Con +5",
+    "Wis +8"
+  ],
+  "sectionText": "The Galactic Empire, also known as the Old Empire, the First Galactic Empire, Palpatine's New Order, the Imperium or simply the Empire, is the galactic government established by Supreme Chancellor Palpatine to replace the Galactic Republic in 19 BBY and bring Sith rule to the galaxy.  The government personnel of this new Empire are protected by some of its most highly trained warriors. ",
+  "senses": [
+    "passive Perception 18"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Athletics +9",
+    "Perception +8",
+    "Insight +8"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 19,
+  "strengthModifier": 4,
+  "types": [
+    "humanoid"
+  ],
+  "wisdom": 19,
+  "wisdomModifier": 4
+}

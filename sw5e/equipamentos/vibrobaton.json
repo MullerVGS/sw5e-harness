@@ -1,0 +1,27 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 250,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrobaton",
+  "properties": [
+    "—"
+  ],
+  "propertiesMap": {
+    "": "—"
+  },
+  "rowKey": "Vibrobaton",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "4"
+}

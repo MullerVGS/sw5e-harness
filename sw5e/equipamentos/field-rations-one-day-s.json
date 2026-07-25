@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 5,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Utility",
+  "modes": [],
+  "name": "Field rations (one day's)",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Field rations (one day's)",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "1"
+}

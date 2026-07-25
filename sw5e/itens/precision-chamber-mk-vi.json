@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Precision Chamber Mk VI",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Precision Chamber Mk VI",
+  "searchableRarity": "Artifact",
+  "subtype": "blaster",
+  "text": "This weapon's range increases by 60/240.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

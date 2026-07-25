@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1900,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 2,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Anti-materiel rifle",
+  "properties": [
+    "Slug cartridge (range 180/720)",
+    "reload 2",
+    "penetrating 2",
+    "strength 19",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Penetrating": "penetrating 2",
+    "Range": "Slug cartridge (range 180/720)",
+    "Reload": "reload 2",
+    "Strength": "strength 19",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Anti-materiel rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "17"
+}

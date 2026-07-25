@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "My band and I will be known across the world, and we'll never be forgotten.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "My ill-gotten gains go to support my family.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Everything I do is for the good of my people.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "My ship and many of her crew were lost to treachery, and I won't rest until I discover who was behind it.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "My ship comes first, and all other loyalties simply pale in comparison.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "A crew member of a ship we raided saved my life, and I don't know how to resolve that debt.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "equipment": "One set of traveler's clothes, a gaming set you are proficient with, poorly wrought maps of Outer Rim worlds in your territory, a small piece of jewelry worth 100 cr from some exotic planet, and a pouch containing 50 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Brawny",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Threatening",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Ace Pilot",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Competitor",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Feigned Confidence",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Force of Personality",
+      "roll": 8
+    }
+  ],
+  "featureName": "Galactic Scourge",
+  "featureRowKeys": null,
+  "featureText": "You've been from one end of the galaxy to the other. You know the most lucrative trade routes. You have expert knowledge of the various hyperlanes. In addition to this, you know a large number of the models and designs of common space ships that are found in the galaxy. Further, the bonds you formed with your crew are strong, and you can call on their aid even if you've been away from their side for some time. You can expect your former comrades to offer you passage aboard ship, reasonable aid, or shelter when you are in need. Keep in mind that this bond goes both ways, and they may come to you expecting the same.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "You are an experienced pirate. Banditry and raiding are common in the Outer Rim, and little negative stigma is given to pirates.  Those that prey on the Empire are sometimes even held in high regard as bold warriors. However, you still have contacts within the criminal underworld and you're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of finer society.",
+  "flawOptions": [
+    {
+      "description": "I never back down from a fight.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "When faced with a choice between money and my friends, I usually choose the money.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I was drunk on watch when my ship was lost to an ambush. I can't set the shame aside.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I feel I'm entitled to a greater share of the spoils, no matter the circumstances.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I won't let myself be captured. If a raid goes sour, I'm the first to run for cover.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I get lost in the thrill of the raid and can't focus on the details of a plan.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "All hands who spend sweat and blood earn their share of the credits. (Lawful)",
+      "name": "Equal Shares",
+      "roll": 1
+    },
+    {
+      "description": "I'm far from home, and everything is strange and wonderful! (Chaotic)",
+      "name": "Adventure",
+      "roll": 2
+    },
+    {
+      "description": "I raid to weaken the Empire that threatens my people, but I don't steal from civilians.  (Light)",
+      "name": "Greater Good",
+      "roll": 3
+    },
+    {
+      "description": "The weak exist to feed the strong, and I am strong. (Dark)",
+      "name": "Strength",
+      "roll": 4
+    },
+    {
+      "description": "A ship is nothing without her crew. Protect your mates. (Neutral)",
+      "name": "Crew",
+      "roll": 5
+    },
+    {
+      "description": "One day I will be so much more than a captain. (Any)",
+      "name": "Ambition",
+      "roll": 6
+    }
+  ],
+  "languages": null,
+  "name": "Pirate",
+  "personalityTraitOptions": [
+    {
+      "description": "I respect my captain and trust my crew. It may be all that saves my life one day.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "Whether the credits comes from the split of the spoils or from a side wager, I'll get my hands on it.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "When my blood gets up, my swearing could boil the icy tundra of Hoth.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I enjoy spreading the tales of my exploits, no matter who hears.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I never let witnesses escape from a raid.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I take what I need, but I don't kill without reason.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I always have an exit planned.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I assume everyone else wants to take what I have.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Pirate",
+  "skillProficiencies": "Choose two from Athletics, Deception, Intimidation, and Piloting",
+  "suggestedCharacteristics": "Despite the cutthroat nature of the business, pirates come in all shapes and personalities. Some are bloodthirsty brigands who leave no survivors, others are free spirits who believe in strength over weakness. The hardened warriors of deep space can be implacable foes who often form unshakable bonds with their crewmates. The same circumstances that give them their edge can also grind them down, leaving them vulnerable to greed, shame, and the scars of fear and horror left by battle.",
+  "toolProficiencies": "One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit"
+}

@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Minute",
+  "castingPeriodText": "1 minute",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You touch a willing creature. For the duration, the target can add 1d8 to its Initiative checks.",
+  "duration": "or until the end of your next short or long rest; whichever happens first",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Preparedness",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Touch",
+  "rowKey": "Preparedness"
+}

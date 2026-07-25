@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Light Core",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Light Core",
+  "searchableRarity": "Premium",
+  "subtype": "blaster",
+  "text": "This weapon gains the light property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

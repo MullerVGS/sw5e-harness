@@ -1,0 +1,119 @@
+{
+  "alignment": "lawful balanced",
+  "armorClass": 14,
+  "armorType": "heavy combat suit",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The Kolkpravis Warrior makes two meelee attacks with its Shoni Spear or two ranged attack with its slugthrower.",
+      "descriptionWithLinks": " The Kolkpravis Warrior makes two meelee attacks with its Shoni Spear or two ranged attack with its slugthrower.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "MeleeWeapon",
+      "damage": "5",
+      "damageRoll": "1d8 + 1",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +4 to hit, reach 5 ft, one target. Hit 5 (1d8 + 1) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +4 to hit, reach 5 ft, one target. Hit 5 (1d8 + 1) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Lig Sword",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 3,
+      "attackType": "MeleeWeapon",
+      "damage": "4",
+      "damageRoll": "1d6 + 1",
+      "damageType": "Kinetic",
+      "description": " Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60, one target. Hit 4 (1d6 + 1) kinetic damage.",
+      "descriptionWithLinks": " Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60, one target. Hit 4 (1d6 + 1) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Shoni Spear",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft. or range 20/60",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Until the end of the turn, the Kolkpravis Warrior's speed increases by 60 feet and it doesn't provoke opportunity attacks.",
+      "descriptionWithLinks": " Until the end of the turn, the Kolkpravis Warrior's speed increases by 60 feet and it doesn't provoke opportunity attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Sudden Rush",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1",
+  "charisma": 14,
+  "charismaModifier": 2,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 14,
+  "dexterityModifier": 2,
+  "experiencePoints": 200,
+  "flavorText": "The Kolkpravis were a large united band of Kaleesh tribal warriors from the eastern hemisphere of the planet Kalee. The organization of the kolkpravis was naturally tribal, as well as the names. The beginning rank of the kolkpravis was a warrior, who made up a kamen. Kamen was lead by a blackarm. Roughly 100 kamen made up a horde, which was lead by a tarkhan. Around 100 to 200 hordes made up a brigade which was lead by baatars.From several brigades came a khanate' which was lead by one of the eight khans of the Izvoshra. The Supreme Commander of the kolkpravis was the khagan, a title held first by Qymaen jai Sheelal, the infamous Lord Grievous.",
+  "hitPointRoll": "4d8 + 4",
+  "hitPoints": 22,
+  "imageUrls": [],
+  "intelligence": 11,
+  "intelligenceModifier": 0,
+  "languages": [
+    "Kaleesh",
+    "Galactic Basic"
+  ],
+  "name": "Kolkpravis Warrior",
+  "rowKey": "Kolkpravis Warrior",
+  "savingThrows": [
+    "Dex +4"
+  ],
+  "sectionText": "Kaleesh were reptilian humanoids from the planet Kalee. They had scaly skin, tusks, and long nostrils, though few outsiders ever saw a Kaleesh face that wasn't obscured behind a traditional mask. Kaleesh culture was deeply spiritual and warlike. War was seen as an essential part of life, and wars between tribes were common.",
+  "senses": [
+    "darkvision 60ft",
+    "passive Perception 12"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Perception +2",
+    "Stealth +4"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 12,
+  "strengthModifier": 1,
+  "types": [
+    "humanoid"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

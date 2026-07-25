@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Protocol",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Interfaced Crafting Protocol",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Interfaced Crafting Protocol",
+  "searchableRarity": "Standard",
+  "subtype": "protocol",
+  "text": "While you are interfaced via the *tracker droid interface* tech power, whenever your handler makes an ability check using tools with which the you are also proficient, they have advantage on the check. If they already have advantage, they can instead reroll one of the dice once.",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

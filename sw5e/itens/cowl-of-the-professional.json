@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Cowl of the Professional",
+  "prerequisite": " at least 3 levels in operative",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Cowl of the Professional",
+  "searchableRarity": "Prototype",
+  "subtype": "shoulders",
+  "text": "This item can hold a number of charges equal to half your operative level (rounded up). When you complete a long rest, this item regains all missing charges. When you deal Sneak Attack damage, you can spend charges to reroll any number of dice and use either result.\r\n\r\nWhen you reach 5th level in operative, while the hood is drawn, creatures can't see within the hood's confines unless you choose to allow it, you are in a source of enhanced light, or the creatures possess truesight. Additionally, you have resistance to all damage until the end of your first turn.\r\n\r\nWhen you reach 11th level in operative, when you use your Uncanny Dodge feature, an illusory duplicate of yourself appears in your space until the start of your next turn. The first attack roll made against you before the start of your next turn has disadvantage.\r\n\r\nWhen you reach 17th level in operative, when you are conscious and fail an Intelligence, Wisdom, or Charisma saving throw, you can choose to instead succeed. Once you've done so, you must complete a short or long rest before you can do so again.\r\n\r\n_The color of this hood shifts between light gray and black depending on light._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

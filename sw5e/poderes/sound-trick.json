@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You use the Force to produce an effect within range. You create one of the following special effects within range:\r\n- Your voice booms up to three times as loud as normal, and you can alter its tone, for 1 minute.\r\n- You cause harmless tremors in the ground for 1 minute.\r\n- You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a bird, or ominous whispers.\r\n- You gain the ability to speak like another species for 1 minute, allowing you to speak in a language you know but otherwise lack the physical ability to speak, such as a Wookiee speaking Basic.\r\n- You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, a billowing of someone's clothes, or a flickering of unenhanced light fixtures within range.\r\n\r\nA wary creature can use its action to make an Intelligence (Investigation) check against your force save DC, discerning that the effects are illusory on a success.\r\n\r\nIf you cast this power multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.",
+  "duration": "1 minute",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 0,
+  "name": "Sound Trick",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "30 feet",
+  "rowKey": "Sound Trick"
+}

@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 450,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A vocoder mask is worn over the nose and mouth of a creature, and can translate verbal communications between up to 15 languages. The languages can be changed out while interfaced with a protocol droid or appropriate computer.",
+  "equipmentCategory": "Communications",
+  "modes": [],
+  "name": "Vocoder mask",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Vocoder mask",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "0.5"
+}

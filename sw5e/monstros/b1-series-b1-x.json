@@ -1,0 +1,145 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 15,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " When an ally of the battle droid hits a hostile creature that it can see with a weapon attack, the battle droid can use its reaction to make one weapon attack against that creature.",
+      "descriptionWithLinks": " When an ally of the battle droid hits a hostile creature that it can see with a weapon attack, the battle droid can use its reaction to make one weapon attack against that creature.",
+      "monsterBehaviorType": "Trait",
+      "name": "Battle Droid Swarm",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "RangedWeapon",
+      "damage": "6",
+      "damageRoll": "1d6+3",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +5 to hit, range 40/160 ft., one target. Hit: 6 (1d6+3) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +5 to hit, range 40/160 ft., one target. Hit: 6 (1d6+3) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Pistol",
+      "numberOfTargets": "one target.",
+      "range": "range 40/160 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 2,
+      "attackType": "MeleeWeapon",
+      "damage": "2",
+      "damageRoll": "1d4",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Stock Strike",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " When a creature the battle droid can see targets it with an attack, the battle droid chooses another battle droid within 5 feet of it. The two battle droids swap places, and the chosen battle droid becomes the target instead.",
+      "descriptionWithLinks": " When a creature the battle droid can see targets it with an attack, the battle droid chooses another battle droid within 5 feet of it. The two battle droids swap places, and the chosen battle droid becomes the target instead.",
+      "monsterBehaviorType": "Reaction",
+      "name": "Redirect Attack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1/2",
+  "charisma": 9,
+  "charismaModifier": -1,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 16,
+  "dexterityModifier": 3,
+  "experiencePoints": 100,
+  "flavorText": "B1 battle droids, also referred to as standard battle droids, are the most widely-used battle droids manufactured by Baktoid Combat Automata and Baktoid Armor Workshop and were the successor to the OOM-series battle droids. The B1 battle droid sees extensive service as the mainlines soldiers due to their cheap, mass produced nature. The B1-X model serves as an officer unit.***History.*** Early versions of the model required the use of a Central Control Computer, but despite these weaknesses they saw extensive service as the mainlines soldier of the Trade Federation's mechanized droid army.  Despite their limitations and despite battle droids being outlawed under the Empire, B1 battle droids continued to see use through Separatist holdouts and the black market during the Imperial Era.",
+  "hitPointRoll": "3d8+3",
+  "hitPoints": 16,
+  "imageUrls": [],
+  "intelligence": 14,
+  "intelligenceModifier": 2,
+  "languages": [
+    "Binary",
+    "Galactic Basic"
+  ],
+  "name": "B1 Series, B1-X",
+  "rowKey": "B1 Series, B1-X",
+  "savingThrows": null,
+  "sectionText": "Battle droids, also known as combat droids or battle bots, are a type of droid designed for combat. One thing most battle droids have in common is limited intelligence. They are programmed to follow orders, and not much else, though they do have personalities. Some battle droids, however, have some form of intelligence. These droids are much more expensive to make, due to their advanced brains.***Clone Wars.*** Over the years, many different models of battle droid have been utilized by various factions throughout the galaxy. The Confederacy of Independent Systems, for example, used a number of different models of battle droid during the Clone Wars to make up the Separatist Droid Army. Under the command of General Grievous, varying models of battle droid fought against the Galactic Republic's clone troopers until the final days of the war, when the Confederate battle droids were deactivated by the Galactic Empire.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 12"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Perception +2"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 11,
+  "strengthModifier": 0,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

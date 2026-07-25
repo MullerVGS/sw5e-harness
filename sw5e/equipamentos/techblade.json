@@ -1,0 +1,29 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 100,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Techblade",
+  "properties": [
+    "Finesse",
+    "light"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Light": "light"
+  },
+  "rowKey": "Techblade",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "1.5"
+}

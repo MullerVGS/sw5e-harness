@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Dart (Devastating)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Dart (Devastating)",
+  "searchableRarity": "Artifact",
+  "subtype": "ammunition",
+  "text": "You have a +3 bonus to attack rolls and deal an additional 1d10 damage with this enhanced wrist launcher dart, which deals 1d6 kinetic damage on a hit. This bonus is in addition to any bonuses granted by the weapon. Once the dart has been fired, it no longer gives a bonus.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Electrifying Dart (Average)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Electrifying Dart (Average)",
+  "searchableRarity": "Premium",
+  "subtype": "ammunition",
+  "text": "You have a +1 bonus to attack and damage rolls made with this wrist launcher dart, which deals 1d6 kinetic damage on a hit. This bonus is in addition to any bonuses granted by the weapon. Once the dart has been fired, it no longer gives a bonus. Also on a hit, the creature must make a DC 16 Dexterity saving throw, taking 1d4 lightning damage on a failed save. \r\n\r\nAdditionally, on a failed save, a creature is shocked for 1 minute. At the end of an affected creature's turn, it can repeat this save, ending the effect on a success.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

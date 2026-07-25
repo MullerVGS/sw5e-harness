@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Animal Handler's Pattern (Elite)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Animal Handler's Pattern (Elite)",
+  "searchableRarity": "Legendary",
+  "subtype": "clothing",
+  "text": "Your level of proficiency in Animal Handling increases by five steps (to high mastery or from trained to grand mastery).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

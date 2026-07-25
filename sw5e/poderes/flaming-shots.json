@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You channel tech power through a blaster weapon you are wielding. When a target takes damage from the chosen weapon, the target takes an extra 1d6 fire damage. The power ends when twelve shots have been fired.\r\n\r\n***Overcharge Tech.*** When you cast this power using a tech slot of 4th level or higher, the number of shots you can take with this power increases by two for each slot level above 3rd.",
+  "duration": "up to 1 hour",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Flaming Shots",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Touch",
+  "rowKey": "Flaming Shots"
+}

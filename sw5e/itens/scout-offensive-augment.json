@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "Augment",
+  "name": "Scout Offensive Augment",
+  "prerequisite": " At least 3 levels in scout",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Scout Offensive Augment",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "You can apply the additional damage from your Ranger's Quarry feature one additional time per turn. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

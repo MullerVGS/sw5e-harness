@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Rocket, Incendiary (Lethal)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Rocket, Incendiary (Lethal)",
+  "searchableRarity": "Legendary",
+  "subtype": "ammunition",
+  "text": "You have a +3 bonus to attack rolls made with this enhanced rocket launcher ammunition, which deals 3d6 kinetic damage on a hit. This bonus is in addition to any bonuses granted by the weapon. Additionally, hit or miss, the rocket then explodes, setting the ground beneath it in a 15 foot radius ablaze for 1 minute. When a creature enters the fire or starts its turn there it must make a DC 22 Dexterity saving throw. On a failed save, the creature takes 10d8 fire damage or half as much on a successful one. A construct makes this save with disadvantage.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

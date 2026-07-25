@@ -1,0 +1,277 @@
+# monstros — 271 entidades
+
+Índice do espelho: escolha por aqui e só então abra a fatia. O arquivo é o
+nome em slug (minúsculas, hífens); onde o nome não basta, ele vem entre
+backticks na linha.
+
+- **000 Series Protocol Droid** — CR 2 · Medium droid · CA 11 · 27 PV
+- **1.4 FD P-Tower Turret** — CR 5 · Large construct · CA 10 · 52 PV
+- **3P0 Series** — CR 0 · Medium droid · CA 10 · 18 PV
+- **74-Z Speeder Bike** — CR 2 · Large construct · CA 14 · 39 PV
+- **AAT** — CR 13 · Huge construct · CA 19 · 168 PV
+- **AT-AT** — CR 19 · Gargantuan construct · CA 20 · 330 PV
+- **AT-RT** — CR 4 · Large construct · CA 15 · 58 PV
+- **AT-ST** — CR 11 · Huge construct · CA 17 · 168 PV
+- **AT-TE** — CR 18 · Gargantuan construct · CA 18 · 248 PV
+- **Acklay, Adolescent** — CR 5 · Huge beast · CA 13 · 95 PV
+- **Acklay, Adult** — CR 8 · Huge beast · CA 14 · 149 PV
+- **Aiwha** — CR 3 · Huge beast · CA 12 · 82 PV
+- **Anooba** — CR 1 · Medium beast · CA 14 · 36 PV
+- **Aryx** — CR 1/4 · Large beast · CA 12 · 19 PV
+- **Auto-Turret** — CR 1/2 · Medium construct · CA 14 · 19 PV
+- **Ax-108 Sentry Gun** — CR 1 · Medium construct · CA 12 · 33 PV
+- **B'omarr Brain Walker** — CR CR · Medium construct · CA 14 · 54 PV
+- **B'omarr Monk Initiate** — CR 1/8 · Medium humanoid · CA 12 · 9 PV
+- **B1 Series, B1-A** — CR 1/8 · Medium droid · CA 14 · 7 PV
+- **B1 Series, B1-X** — CR 1/2 · Medium droid · CA 15 · 16 PV
+- **B1 Series, Squad** — CR 4 · Huge swarm of Medium droids · CA 14 · 110 PV
+- **B2 Series, B2-A** — CR 1 · Medium droid · CA 16 · 26 PV
+- **B2 Series, B2-HA** — CR 4 · Medium droid · CA 17 · 84 PV
+- **BB Series Astromech Droid** — CR 1/8 · Small droid · CA 13 · 14 PV
+- **BX Series, BX-5C** — CR 5 · Medium droid · CA 16 · 96 PV
+- **BX Series, BX-A** — CR 2 · Medium droid · CA 15 · 49 PV
+- **Bantha, Adolescent** — CR 4 · Huge beast · CA 12 · 76 PV
+- **Bantha, Adult** — CR 6 · Huge beast · CA 13 · 126 PV
+- **Battle Hydra** — CR 9 · Huge aberration · CA 14 · 126 PV
+- **Beggar's Canyon Womp Rat** — CR 1/4 · Medium beast · CA 13 · 11 PV
+- **Blastromech Series, BT-1** — CR 9 · Small droid · CA 17 · 90 PV
+- **Blurrg** — CR 2 · Large beast · CA 11 · 67 PV
+- **Boar-wolf** — CR 2 · Large beast · CA 12 · 42 PV
+- **Bogwing, Greater** — CR 1 · Small beast · CA 13 · 14 PV
+- **Bogwing, Lesser** — CR 1/8 · Tiny beast · CA 12 · 4 PV
+- **Bor Gullet** — CR 13 · Large beast · CA 12 · 180 PV
+- **Brain Worm** — CR 2 · Tiny beast · CA 12 · 21 PV
+- **C1 Series Astromech Droid** — CR 1/8 · Small droid · CA 12 · 7 PV
+- **Cantina Brawl** — CR 3 · Huge swarm of Medium humanoids · CA 12 · 67 PV
+- **Carnivorous Plant** — CR 1 · Small plant · CA 8 · 24 PV
+- **Cliff Wampa** — CR 5 · Large beast · CA 13 · 96 PV
+- **Clodhopper** — CR 1/4 · Small beast · CA 13 · 22 PV
+- **Condor Dragon** — CR 3 · Large beast · CA 13 · 67 PV
+- **Cyborg Khagan** — CR 10 · Medium humanoid (Villainous · CA 17 · 77 PV
+- **DF.9 Anti-Infantry Turret** — CR 8 · Large construct · CA 10 · 75 PV
+- **DRK-1 Tracker Droid** — CR 0 · Tiny droid · CA 11 · 1 PV
+- **DSD1 Dwarf Spider Droid** — CR 2 · Large droid · CA 16 · 32 PV
+- **DUM-Series PIT Droid** — CR 0 · Small droid · CA 11 · 3 PV
+- **Dark Lord Spirit** — CR 24 · Medium undead · CA 20 · 313 PV
+- **Dark Side Spirit** — CR 5 · Medium undead · CA 13 · 40 PV
+- **Death Trooper** — CR 6 · Medium humanoid · CA 16 · 97 PV
+- **Destroyer Droid** — CR 7 · Large droid · CA 17 · 142 PV
+- **Dewback, Adolescent** — CR 1 · Large beast · CA 11 · 34 PV
+- **Dewback, Adult** — CR 2 · Large beast · CA 12 · 42 PV
+- **Dianoga, Adolescent** — CR 2 · Large beast · CA 13 · 51 PV
+- **Dianoga, Adult** — CR 5 · Huge beast · CA 14 · 105 PV
+- **Dragonsnake** — CR 8 · Large beast · CA 14 · 85 PV
+- **Emperor's Hand** — CR 16 · Medium human · CA 19 · 238 PV
+- **Energy Spider** — CR 1/2 · Small beast · CA 13 · 18 PV
+- **Eopie** — CR 1/8 · Large beast · CA 9 · 13 PV
+- **Ewok Pony** — CR 1/8 · Medium beast · CA 10 · 11 PV
+- **Exogorth, Adolescent** — CR 11 · Huge beast · CA 17 · 168 PV
+- **Exogorth, Adult** — CR 15 · Gargantuan beast · CA 18 · 247 PV
+- **Fambaa** — CR 3 · Huge beast · CA 14 · 85 PV
+- **Fambaa Howdah** — CR 5 · Huge beast · CA 16 · 102 PV
+- **Fathier** — CR 1/2 · Large beast · CA 11 · 26 PV
+- **Fexian Skullborer** — CR 3 · Small beast · CA 14 · 20 PV
+- **Flesh Raider** — CR 1/8 · Medium aberration · CA 12 · 8 PV
+- **Flesh Raider Apprentice** — CR 2 · Medium aberration · CA 13 · 30 PV
+- **Flesh Raider Berserker** — CR 1 · Medium aberration · CA 13 · 19 PV
+- **Flutterplume** — CR 0 · Medium beast · CA 10 · 5 PV
+- **Force Storm Eye** — CR 23 · Gargantuan elemental · CA 19 · 264 PV
+- **Forest Nexu, Adult** — CR 5 · Medium beast · CA 14 · 58 PV
+- **Fyrnock** — CR 1/2 · Medium beast · CA 14 · 16 PV
+- **GH-7 Medical Analysis Unit** — CR 0 · Small droid · CA 11 · 1 PV
+- **Gamorrean Guard** — CR 2 · Medium humanoid · CA 15 · 84 PV
+- **Geejaw** — CR 0 · Tiny beast · CA 12 · 1 PV
+- **Ghest** — CR 6 · Huge beast · CA 14 · 104 PV
+- **Giant Worrt** — CR 4 · Large beast · CA 14 · 45 PV
+- **Gizka** — CR 0 · Tiny beast · CA 12 · 1 PV
+- **Gizka Swarm** — CR 1/4 · Medium swarm of Tiny beasts · CA 12 · 22 PV
+- **Gonk Droid** — CR 0 · Small droid · CA 13 · 5 PV
+- **Gorax** — CR 6 · Huge humanoid · CA 17 · 126 PV
+- **Grand Admiral** — CR 20 · Medium humanoid · CA 19 · 255 PV
+- **Greysor** — CR 1/8 · Small beast · CA 12 · 7 PV
+- **Gundark, Adolescent** — CR 1/2 · Medium beast · CA 13 · 22 PV
+- **Gundark, Adult** — CR 2 · Medium beast · CA 13 · 44 PV
+- **Gundark, Alpha** — CR 9 · Large beast · CA 14 · 157 PV
+- **Gundark, Matriarch** — CR 4 · Large beast · CA 15 · 90 PV
+- **Gutkurr** — CR 4 · Large beast · CA 16 · 45 PV
+- **HK Series, HK-47** — CR 8 · Medium droid · CA 18 · 75 PV
+- **Hawk-bat** — CR 1/4 · Small beast · CA 12 · 7 PV
+- **Hawk-bat Swarm** — CR 2 · Large swarm of Small beasts · CA 12 · 44 PV
+- **Hidden Turret** — CR 1/4 · Medium construct · CA 13 · 11 PV
+- **Hive Rat** — CR 1/4 · Medium beast · CA 11 · 22 PV
+- **Horned Kath Hound** — CR 2 · Medium beast · CA 13 · 22 PV
+- **Hrumph** — CR 2 · Large beast · CA 11 · 45 PV
+- **Hssiss** — CR 7 · Large aberration · CA 18 · 125 PV
+- **Hutt Crime Lord** — CR 10 · Large humanoid · CA 14 · 128 PV
+- **Hutt Wrestler** — CR 8 · Large humanoid · CA 11 · 126 PV
+- **Hyena-Class Bomber** — CR 6 · Huge droid · CA 14 · 168 PV
+- **ID9 Seeker Droid** — CR 0 · Tiny droid · CA 11 · 1 PV
+- **IG Series, Model 88** — CR 10 · Medium droid · CA 17 · 112 PV
+- **IG-100 Series** — CR 4 · Medium droid · CA 16 · 58 PV
+- **IG-227 Hailfire-Class Droid** — CR 14 · Huge droid · CA 16 · 168 PV
+- **ISB Infiltrator** — CR 3 · Medium humanoid · CA 15 · 36 PV
+- **ISB Officer** — CR 3 · Medium humanoid · CA 16 · 44 PV
+- **IT-O Interrog. Unit** — CR 1/4 · Tiny droid · CA 11 · 6 PV
+- **Ig Series, Model 86** — CR 3 · Medium droid · CA 16 · 58 PV
+- **Imperial Guard Champion** — CR 11 · Medium humanoid · CA 18 · 180 PV
+- **Imperial Guard Sentinel** — CR 6 · Medium humanoid · CA 17 · 84 PV
+- **Imperial Royal Guard** — CR 9 · Medium humanoid · CA 17 · 91 PV
+- **Imperial Senate Guard** — CR 3 · Medium humanoid · CA 17 · 49 PV
+- **Imperial Shadow Guard** — CR 10 · Medium humanoid · CA 17 · 118 PV
+- **Inquisitor, Grand** — CR 14 · Medium humanoid · CA 17 · 143 PV
+- **Inquisitor, Knight** — CR 4 · Medium humanoid · CA 15 · 36 PV
+- **Inquisitor, Master** — CR 8 · Medium humanoid · CA 16 · 110 PV
+- **JK-13 Security Droid** — CR 9 · Large droid · CA 18 · 150 PV
+- **Jakrab** — CR 0 · Tiny beast · CA 12 · 3 PV
+- **Jawa Scrapper** — CR 1/2 · Small humanoid · CA 12 · 13 PV
+- **Jawa Shaman** — CR 2 · Small humanoid · CA 12 · 27 PV
+- **Jawa Tinkerer** — CR 1/2 · Small humanoid · CA 12 · 10 PV
+- **Jubba Bird** — CR 1/4 · Tiny beast · CA 12 · 5 PV
+- **Jundland Wastes Womp Rat** — CR 1/2 · Large beast · CA 13 · 26 PV
+- **Junk Behemoth** — CR 1 · Huge droid · CA 12 · 57 PV
+- **Junk Droid** — CR 1/4 · Medium droid · CA 13 · 13 PV
+- **K'lor'slug** — CR 1/4 · Small beast · CA 13 · 4 PV
+- **KX-Series Security Droid** — CR 1 · Medium droid · CA 15 · 34 PV
+- **Kaadu** — CR 1/8 · Large beast · CA 10 · 13 PV
+- **Katarn** — CR 2 · Large beast · CA 13 · 37 PV
+- **Kath Hound** — CR 1/2 · Small beast · CA 12 · 10 PV
+- **Knobby White Spider** — CR 5 · Large plant · CA 15 · 112 PV
+- **Knobby White Spiderling** — CR 1 · Tiny plant · CA 11 · 10 PV
+- **Kolkpravis Baatar** — CR 4 · Medium humanoid · CA 17 · 72 PV
+- **Kolkpravis Blackarm** — CR 2 · Medium humanoid · CA 15 · 49 PV
+- **Kolkpravis Khagan** — CR 9 · Medium humanoid · CA 18 · 113 PV
+- **Kolkpravis Khan** — CR 6 · Medium humanoid · CA 18 · 82 PV
+- **Kolkpravis Tarkhan** — CR 3 · Medium humanoid · CA 16 · 55 PV
+- **Kolkpravis Warrior** — CR 1 · Medium humanoid · CA 14 · 22 PV
+- **Krayt Dragon, Adult** — CR 17 · Huge beast · CA 19 · 262 PV
+- **Krayt Dragon, Greater** — CR 23 · Gargantuan beast · CA 22 · 487 PV
+- **Krayt Dragon, Juvenile** — CR 9 · Large beast · CA 18 · 168 PV
+- **L0M Series** — CR 2 · Medium droid · CA 12 · 27 PV
+- **LR1K Sonic Cannon** — CR 3 · Large construct · CA 14 · 76 PV
+- **Lylek** — CR 7 · Large beast · CA 14 · 85 PV
+- **Maalraas** — CR 2 · Medium beast · CA 13 · 33 PV
+- **Manifestation of Abeloth** — CR 26 · Medium undead · CA 22 · 406 PV
+- **Marksman-H Remote** — CR 0 · Tiny droid · CA 11 · 1 PV
+- **Massiff** — CR 1 · Small beast · CA 15 · 18 PV
+- **Melee Destroyer Droid** — CR 7 · Large droid · CA 17 · 157 PV
+- **Mistryl Apprentice** — CR 3 · Medium human · CA 16 · 60 PV
+- **Mistryl Master** — CR 5 · Medium human · CA 16 · 84 PV
+- **Mistryl Prime** — CR 8 · Medium human · CA 17 · 105 PV
+- **Mob** — CR 5 · Huge swarm of Medium humanoids · CA 11 · 91 PV
+- **Mole Serpent, Adult** — CR 10 · Gargantuan beast · CA 17 · 232 PV
+- **Monkey-Lizard** — CR 0 · Small beast · CA 12 · 3 PV
+- **Monkey-Lizard Swarm** — CR 1/2 · Medium swarm of Tiny beasts · CA 12 · 24 PV
+- **Moof** — CR 2 · Large beast · CA 11 · 34 PV
+- **Mott** — CR 2 · Small beast · CA 10 · 10 PV
+- **Mucous Salamander** — CR 2 · Medium beast · CA 13 · 44 PV
+- **Mynock** — CR 1/8 · Small beast · CA 14 · 7 PV
+- **Mynock Swarm** — CR 2 · Large swarm of Small beasts · CA 14 · 39 PV
+- **NR-N99 Persuader-Class Enforcer** — CR 8 · Huge droid · CA 15 · 138 PV
+- **Narglatch** — CR 3 · Large beast · CA 14 · 60 PV
+- **Navy Pilot** — CR 1/8 · Medium humanoid · CA 13 · 9 PV
+- **Navy Trooper** — CR 1/2 · Medium humanoid · CA 14 · 13 PV
+- **Nerf** — CR 2 · Large beast · CA 11 · 30 PV
+- **Nuna** — CR 1/4 · Tiny beast · CA 11 · 5 PV
+- **Officer, Junior** — CR 1/2 · Medium humanoid · CA 12 · 13 PV
+- **Officer, Senior** — CR 3 · Medium humanoid · CA 15 · 38 PV
+- **Opee Sea Killer** — CR 5 · Gargantuan beast · CA 17 · 139 PV
+- **Orbalisk** — CR 1 · Tiny beast · CA 14 · 21 PV
+- **Orbalisk Swarm** — CR 3 · Large swarm of Tiny beasts · CA 14 · 39 PV
+- **Pelko Bug** — CR 0 · Tiny beast · CA 18 · 1 PV
+- **Pelko Bug Swarm** — CR 3 · Large swarm of Tiny beasts · CA 12 · 63 PV
+- **Pistoeka sabotage droid** — CR 0 · Tiny droid · CA 12 · 1 PV
+- **Porg** — CR 0 · Tiny beast · CA 12 · 1 PV
+- **Porg Swarm** — CR 1/4 · Medium swarm of Tiny beasts · CA 12 · 24 PV
+- **Probe Killer Swarm** — CR 4 · Medium swarm of Tiny droids · CA 15 · 38 PV
+- **Purge Trooper** — CR 3 · Medium humanoid · CA 16 · 77 PV
+- **R2 Series Astromech Droid** — CR 1/8 · Small droid · CA 12 · 13 PV
+- **Rakghoul** — CR 1 · Medium aberration · CA 12 · 27 PV
+- **Rakghoul, Hulking** — CR 5 · Large aberration · CA 15 · 120 PV
+- **Rancor, Adolescent** — CR 8 · Large beast · CA 14 · 157 PV
+- **Rancor, Adult** — CR 12 · Huge beast · CA 15 · 250 PV
+- **Rancor, Ancient** — CR 19 · Huge beast · CA 17 · 432 PV
+- **Rancor, Juvenile** — CR 2 · Medium beast · CA 13 · 95 PV
+- **Rathtar** — CR 9 · Large beast · CA 16 · 153 PV
+- **Rathtar, Dwarf** — CR 5 · Large beast · CA 15 · 114 PV
+- **Reek, Adolescent** — CR 2 · Large beast · CA 12 · 45 PV
+- **Reek, Adult** — CR 7 · Huge beast · CA 13 · 114 PV
+- **Riot** — CR 10 · Gargantuan swarm of Medium humanoids · CA 11 · 199 PV
+- **Rock Wart** — CR 1/8 · Small beast · CA 12 · 13 PV
+- **Ronto** — CR 4 · Huge beast · CA 12 · 76 PV
+- **SD-K4 Assassin Droid** — CR 4 · Large droid · CA 15 · 45 PV
+- **Sando Aqua Monster** — CR 25 · Gargantuan beast · CA 23 · 546 PV
+- **Sarlacc, Adult** — CR 21 · Gargantuan plant · CA 18 · 464 PV
+- **Scrange** — CR 7 · Huge beast · CA 13 · 126 PV
+- **Scurrier** — CR 1/4 · Small beast · CA 11 · 7 PV
+- **Shaak** — CR 1/8 · Large beast · CA 10 · 25 PV
+- **Shrub** — CR 0 · Small plant · CA 9 · 10 PV
+- **Shyrack** — CR 0 · Small beast · CA 12 · 2 PV
+- **Shyrack Swarm** — CR 1 · Large swarm of Small beasts · CA 12 · 38 PV
+- **Sibian Hound** — CR 1/4 · Medium beast · CA 13 · 11 PV
+- **Sith Probe Droid** — CR 0 · Tiny droid · CA 11 · 1 PV
+- **Sketto** — CR 1/4 · Small beast · CA 13 · 3 PV
+- **Snow Wampa** — CR 3 · Large beast · CA 12 · 51 PV
+- **Spotlight Sloth** — CR 2 · Medium beast · CA 11 · 26 PV
+- **Starweird** — CR 4 · Medium aberration · CA 15 · 66 PV
+- **Steelpecker** — CR 1/8 · Tiny beast · CA 11 · 9 PV
+- **Steep** — CR 2 · Medium beast · CA 13 · 55 PV
+- **Stintaril** — CR 0 · Tiny beast · CA 10 · 1 PV
+- **Stintaril Swarm** — CR 1/4 · Medium swarm of Tiny beasts · CA 10 · 24 PV
+- **Super Tactical Droid** — CR 15 · Medium droid · CA 17 · 105 PV
+- **Swamp Slug** — CR 14 · Huge beast · CA 14 · 175 PV
+- **Swamp Wampa** — CR 4 · Large beast · CA 13 · 76 PV
+- **T-Series Tactical Droid** — CR 2 · Medium droid · CA 13 · 50 PV
+- **T3-Series Utility Droid** — CR 1/8 · Small droid · CA 10 · 7 PV
+- **TX-225 Occupier Tank** — CR 6 · Huge construct · CA 16 · 85 PV
+- **Tauntaun** — CR 1/8 · Large beast · CA 9 · 15 PV
+- **Terentatek** — CR 9 · Large aberration · CA 16 · 190 PV
+- **Trandoshan Elite Warrior** — CR 6 · Medium humanoid · CA 15 · 127 PV
+- **Trandoshan Hunter** — CR 3 · Medium humanoid · CA 15 · 77 PV
+- **Trandoshan Huntmaster** — CR 7 · Medium humanoid · CA 16 · 127 PV
+- **Trandoshan T'doshok** — CR 14 · Medium humanoid · CA 17 · 144 PV
+- **Trandoshan Warrior** — CR 2 · Medium humanoid · CA 14 · 60 PV
+- **Tree** — CR 2 · Large plant · CA 13 · 73 PV
+- **Trooper** — CR 1/2 · Medium humanoid · CA 15 · 13 PV
+- **Trooper, Captain** — CR 4 · Medium humanoid · CA 16 · 90 PV
+- **Trooper, Demolitions** — CR 1/2 · Medium humanoid · CA 16 · 16 PV
+- **Trooper, Flame** — CR 2 · Medium humanoid · CA 16 · 45 PV
+- **Trooper, Headhunter** — CR 2 · Medium humanoid · CA 14 · 23 PV
+- **Trooper, Heavy** — CR 3 · Medium humanoid · CA 17 · 42 PV
+- **Trooper, Jump** — CR 2 · Medium humanoid · CA 15 · 32 PV
+- **Trooper, Mounted** — CR 2 · Medium Humanoid · CA 19 · 75 PV
+- **Trooper, Scout** — CR 1/2 · Medium humanoid · CA 15 · 13 PV
+- **Trooper, Shore** — CR 1 · Medium humanoid · CA 16 · 26 PV
+- **Trooper, Sniper** — CR 1/2 · Medium humanoid · CA 15 · 13 PV
+- **Trooper, Squad** — CR 5 · Gargantuan swarm of Medium humanoids · CA 15 · 175 PV
+- **Tuk'ata** — CR 2 · Large aberration · CA 14 · 59 PV
+- **Tusk Cat** — CR 2 · Large beast · CA 13 · 32 PV
+- **Tusken Brute** — CR 2 · Medium humanoid · CA 13 · 68 PV
+- **Tusken Chieftain** — CR 4 · Medium humanoid · CA 16 · 93 PV
+- **Tusken Raider** — CR 1/2 · Medium humanoid · CA 12 · 15 PV
+- **Twirrl** — CR 1/2 · Tiny beast · CA 13 · 3 PV
+- **Uprising** — CR 15 · Gargantuan swarm of Medium humanoids · CA 11 · 315 PV
+- **Varactyl, Adolescent** — CR 1/4 · Large beast · CA 10 · 13 PV
+- **Varactyl, Adult** — CR 1/2 · Large beast · CA 11 · 19 PV
+- **Veermok** — CR 2 · Large beast · CA 12 · 30 PV
+- **Vessel of Abeloth** — CR 21 · Medium undead · CA 17 · 153 PV
+- **Vesuvague Tree** — CR 7 · Large tree · CA 12 · 164 PV
+- **Vines** — CR 2 · Large plant · CA 12 · 84 PV
+- **Viper Probe Droid** — CR 1 · Large droid · CA 14 · 37 PV
+- **Vornskr** — CR 1 · Small beast · CA 12 · 14 PV
+- **Voxyn** — CR 15 · Large beast · CA 17 · 170 PV
+- **Vulptex** — CR 1/8 · Small beast · CA 12 · 10 PV
+- **Vulture-Class Droid** — CR 3 · Huge droid · CA 13 · 90 PV
+- **War Wyrm** — CR 20 · Gargantuan aberration · CA 19 · 261 PV
+- **Weaponized Gonk Droid** — CR 1/8 · Small droid · CA 14 · 5 PV
+- **Whisper Bird** — CR 0 · Tiny beast · CA 11 · 1 PV
+- **Woodoo** — CR 3 · Large beast · CA 12 · 68 PV
+- **Wookiee Berserker** — CR 1 · Medium humanoid · CA 14 · 30 PV
+- **Wookiee Engineer** — CR 4 · Medium humanoid · CA 15 · 60 PV
+- **Wookiee Hunter** — CR 6 · Medium humanoid · CA 17 · 117 PV
+- **Worrt** — CR 2 · Medium beast · CA 13 · 22 PV
+- **Wraid** — CR 2 · Large beast · CA 16 · 68 PV
+- **Wyyyschokk** — CR 4 · Medium beast · CA 14 · 78 PV
+- **Ysalamir** — CR 0 · Small beast · CA 10 · 3 PV
+- **Ysalamiri Swarm** — CR 1/2 · Medium swarm of Tiny beasts · CA 10 · 28 PV
+- **Z-58 Series Security Droid** — CR 0 · Tiny droid · CA 11 · 2 PV
+- **Zalaaca** — CR 2 · Large beast · CA 12 · 45 PV

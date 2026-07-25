@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:\r\n- One effect that charmed the target.\r\n- One curse, including the target's attunement to a cursed item.\r\n- Any reduction to one of the target's ability scores.\r\n- One effect reducing the target's hit point maximum.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 5,
+  "name": "Improved Restoration",
+  "powerType": "Force",
+  "prerequisite": "Restoration",
+  "range": "Touch",
+  "rowKey": "Improved Restoration"
+}

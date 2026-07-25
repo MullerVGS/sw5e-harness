@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Barbed Armoring Mk II",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Barbed Armoring Mk II",
+  "searchableRarity": "Advanced",
+  "subtype": "armor",
+  "text": "This armor gains the barbed (1d6) property. If it already has the barbed property, the barbed damage increases by two steps (from d4 to d8). ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

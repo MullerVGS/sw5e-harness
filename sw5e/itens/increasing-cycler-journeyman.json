@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Increasing Cycler (Journeyman)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Increasing Cycler (Journeyman)",
+  "searchableRarity": "Prototype",
+  "subtype": "focus generator",
+  "text": "This item gains the increasing 30 property. If it already has the increasing property, its increasing number increases by 30, to a maximum of 60.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

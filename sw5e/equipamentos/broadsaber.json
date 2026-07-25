@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1000,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Broadsaber",
+  "properties": [
+    "Dexterity 13",
+    "dire 1",
+    "luminous",
+    "versatile (1d8)"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 13",
+    "Dire": "dire 1",
+    "Luminous": "luminous",
+    "Versatile": "versatile (1d8)"
+  },
+  "rowKey": "Broadsaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "2.75"
+}

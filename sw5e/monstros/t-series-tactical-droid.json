@@ -1,0 +1,140 @@
+{
+  "alignment": "lawful dark",
+  "armorClass": 13,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The T-series Tactical droid can innately cast the following tech powers (tech save DC 14): assess the situation, encrypted message, on/off, alarm, element of surprise (3/day), repair droid, stack the deck",
+      "descriptionWithLinks": " Innate Tech-casting. The T-series Tactical droid can innately cast the following tech powers (tech save DC 14): [assess the situation](#assess%20the%20situation), [encrypted message](#encrypted%20message), [on/off](#on/off), [alarm](#alarm), [element of surprise (3/day)](#element%20of%20surprise%20(3/day)), [repair droid](#repair%20droid), [stack the deck](#stack%20the%20deck)",
+      "monsterBehaviorType": "Trait",
+      "name": "Innate Tech-casting",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The tactical droid can enter a state of higher programming as an action. While concentrating, the droid can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target. This lasts for 1 hour.",
+      "descriptionWithLinks": " The tactical droid can enter a state of higher programming as an action. While concentrating, the droid can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target. This lasts for 1 hour.",
+      "monsterBehaviorType": "Trait",
+      "name": "Predictive AI",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "RangedWeapon",
+      "damage": "5",
+      "damageRoll": "1d6 + 2",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +4 to hit, Ammunition (range40/160), one target. Hit 5 (1d6 + 2) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +4 to hit, Ammunition (range40/160), one target. Hit 5 (1d6 + 2) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Pistol",
+      "numberOfTargets": "one target.",
+      "range": "Ammunition (range40/160)",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 11,
+  "charismaModifier": 0,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 15,
+  "dexterityModifier": 2,
+  "experiencePoints": 450,
+  "flavorText": "Super tactical droids are advanced tactical droids that had command capabilities during the Clone Wars, acting as generals of the Separatist Droid Army. They would often resort to threats and torture as interrogation routes. These droids were created to analyze a battle, calculate a possible battle-winning solution, and a time frame to carry out their plan. Being programmed with Separatist beliefs, they ruled through fear and through the lack of courage and hope in their victims and specifically \"freedom from the tyranny of the republic.\" Although Super Tactical Droids were not directly involved in combat, they were able to effectively use self-defense and an E-5 blaster rifle. Being programmed for success, they are willing to kill for the advancement of the Confederacy of Independent Systems.Building off their predecessors, the T-series tactical droid, they had a much more robotic inflection to their voices, as well a larger, more imposing and more damage-resistant body. These droids were also able to better process and adapt to sudden changes and unexpected complications and have more variables in their calculations. Although better than those before them, flaws in their programming were still prevalent. These included the difficulty to see approaches and plans that differ from their own, and the overconfidence in the Confederacy of Independent Systems and its army.",
+  "hitPointRoll": "9d8+10",
+  "hitPoints": 50,
+  "imageUrls": [],
+  "intelligence": 19,
+  "intelligenceModifier": 4,
+  "languages": [
+    "Galactic basic",
+    "binary",
+    "",
+    "two others"
+  ],
+  "name": "T-Series Tactical Droid",
+  "rowKey": "T-Series Tactical Droid",
+  "savingThrows": [
+    "Int +6",
+    "Wis +5"
+  ],
+  "sectionText": "Tactical droids are a type of battle droid designed to plan battle strategies. Baktoid Combat Automata manufactured several models of tactical droid, including the T-series tactical droid and a more advanced super tactical droid. Later, L-1 tactical droids would be used during the Galactic Civil War.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 13"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Deception +2",
+    "Insight +5",
+    "Investigation +6",
+    "Lore +6",
+    "Technology +6"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 10,
+  "strengthModifier": 0,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 16,
+  "wisdomModifier": 3
+}

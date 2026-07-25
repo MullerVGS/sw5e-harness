@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Part",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Four-Armed Combatant",
+  "prerequisite": " Class IV droid",
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Four-Armed Combatant",
+  "searchableRarity": "Standard",
+  "subtype": "part",
+  "text": "You install two additional arms which you can use independently of one another. You can only gain the benefit of items held by two of your arms at any given time, and once per round you can switch which arms your are benefiting from (no action required).\r\n\r\nWhile you have at least 3 arms free, you have a climbing speed equal to your walking speed.",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

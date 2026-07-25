@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 500,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Gravity generators are special devices typically worn on belts that function as a portable, personal artificial gravity source. Activating or deactivating the belt requires a bonus action and, while active, you are able to move as if in a standard gravitational pull. The generator lasts for 10 minutes and can be recharged by a power source or replacing the power cell.",
+  "equipmentCategory": "Utility",
+  "modes": [],
+  "name": "Gravity generator",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Gravity generator",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "3"
+}

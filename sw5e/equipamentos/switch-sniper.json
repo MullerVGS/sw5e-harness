@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1800,
+  "damageDiceDieTypeEnum": 12,
+  "damageDieModifier": 0,
+  "damageDieType": 12,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Switch sniper",
+  "properties": [
+    "Power cell (range 150/600)",
+    "reload 2",
+    "strength 13",
+    "switch (1d10 cold)",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 150/600)",
+    "Reload": "reload 2",
+    "Strength": "strength 13",
+    "Switch": "switch (1d10 cold)",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Switch sniper",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "15.5"
+}

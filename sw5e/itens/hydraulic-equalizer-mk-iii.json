@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Hydraulic Equalizer Mk III",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Hydraulic Equalizer Mk III",
+  "searchableRarity": "Prototype",
+  "subtype": "armor",
+  "text": "This armor or shield's strength number is reduced by three steps (from 21 to 15, 19 to 13, or 17 to 11). If the strength number is 15 or lower, this modification removes the strength property from it entirely.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

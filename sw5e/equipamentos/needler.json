@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 475,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": "The needler includes a specialized compartment for poison. One dose of poison, when installed in this compartment, retains its potency for 1 hour before drying. One dose of poison is effective for the next 10 shots fired by the weapon.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Needler",
+  "properties": [
+    "Slug cartridge (range 30/160)",
+    "piercing 1",
+    "reload 12",
+    "silent",
+    "special"
+  ],
+  "propertiesMap": {
+    "Piercing": "piercing 1",
+    "Range": "Slug cartridge (range 30/160)",
+    "Reload": "reload 12",
+    "Silent": "silent",
+    "Special": "special"
+  },
+  "rowKey": "Needler",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "3"
+}

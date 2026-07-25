@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Multispectral Optics (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Multispectral Optics (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "blaster",
+  "text": "While looking through this weapon's scope, you have truesight out to a distance equal to the long range of this weapon and you can see creatures that are lightly or heavily obscured. Additionally, you gain a +2 bonus to attack rolls.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

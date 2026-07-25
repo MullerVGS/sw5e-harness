@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Deuterium-pyro (Matured)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Deuterium-pyro (Matured)",
+  "searchableRarity": "Prototype",
+  "subtype": "substance",
+  "text": "This alcoholic beverage, favored amongst ruffians, features a terrible flavor and strong aftertaste. As an action, you can apply this substance to a creature within 5 feet. For the next 10 minutes, the creature experiences a high that allows them to roll an additional d6 when making an ability check, attack roll, or saving throw using Strength. At the end of the high, the creature must succeed on a DC 18 Constitution saving throw or experience a low that lasts 1 hour, during which they must roll a d6 and subtract the result when making an ability check, attack roll, or saving throw using Strength. At the end of the low, the creature must make a DC 18 Wisdom saving throw to resist addiction.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

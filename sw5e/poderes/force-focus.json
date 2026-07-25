@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "BonusAction",
+  "castingPeriodText": "1 bonus action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You let the Force guide you, empowering your strikes. Until the power ends, your weapon attacks deal an extra 1d4 force damage on a hit.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Force Focus",
+  "powerType": "Force",
+  "prerequisite": "Force Technique",
+  "range": "Self",
+  "rowKey": "Force Focus"
+}

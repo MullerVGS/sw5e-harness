@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Choose a spot within range. All force powers of 5th level or lower in the area end. For each force power of 6th level or higher in the area, make an ability check using your forcecasting ability. The DC equals 10 + the power's level. On a successful check, the force power ends.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 6th level or higher, you automatically end the effects of a force power on the target if the power's level is equal to or less than the level of the force slot you used.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 5,
+  "name": "Force Breach",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "120 feet (20-foot cube)",
+  "rowKey": "Force Breach"
+}

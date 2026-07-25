@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 325,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Slugpistol",
+  "properties": [
+    "Rapid 8",
+    "reload 16",
+    "slug cartridge (range 40/160)",
+    "strength 11"
+  ],
+  "propertiesMap": {
+    "Range": "slug cartridge (range 40/160)",
+    "Rapid": "Rapid 8",
+    "Reload": "reload 16",
+    "Strength": "strength 11"
+  },
+  "rowKey": "Slugpistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "3"
+}

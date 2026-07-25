@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Repelling Motherboard (Outstanding)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Repelling Motherboard (Outstanding)",
+  "searchableRarity": "Legendary",
+  "subtype": "wristpad",
+  "text": "This item gains the repelling property, but the DC to interrupt or dispel your powers is equal to 10 + the power's level, or 8 + twice your proficiency bonus + your casting modifier for that power, whichever is greater. Additionally, creatures always have disadvantage on ability checks to dispel or interrupt your powers, and when a creatures make an ability check to dispel or interrupt your powers with disadvantage, they must reroll one of the dice once (your choice).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

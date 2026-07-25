@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "For the duration, you understand the literal meaning of any spoken language that you hear.",
+  "duration": "1 hour",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Comprehend Speech",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Comprehend Speech"
+}

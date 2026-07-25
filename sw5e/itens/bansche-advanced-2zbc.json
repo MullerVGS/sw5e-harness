@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Bansche Advanced 2ZBc",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Bansche Advanced 2ZBc",
+  "searchableRarity": "Prototype",
+  "subtype": "wristpad",
+  "text": "When you spend tech points and deal damage with a tech power cast through this wristpad, you deal additional damage equal to the number of tech points spent.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

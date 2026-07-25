@@ -1,0 +1,87 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Constitution"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Large eyes, single horn on head, pointed ears",
+  "eyeColorOptions": "Black or red",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nAdvozsec evolved from herbivorous reptile-analogs which fed on the vegetation known to form around Riflor's hot springs. Evolving into a class of reptomammal, advozsec have a single horn at the crown of their heads, four digits on each hand and foot, pointed ears, and large eyes. Advozsec are strictly vegetarian, unable to properly digest meat. The geothermal hot springs that appear on their homeworld forced the species to evolve thick skin in order to survive. The large eyes of the advozsec are adaptations to the clouds of volcanic ash which darken Riflor's skies. \r\n\r\n### Society and Culture\r\nSince so much of the sunlight on Riflor is blocked by volcanic eruptions, advozsec tend to settle near geothermal springs for heat. Unfortunately, these springs also tend to be in geologically unstable regions, and anything built near them is often destroyed or abandoned due to eruptions or groundquakes. As a result, the advozse people ended up having little attachment to material goods or long-term plans, and developed a pessimistic, selfish, and even paranoid outlook on life. This facet of their culture remained long after contact with the Galactic Republic gave them access to modern construction techniques allowing for more permanent buildings. Seeing financial stability as the only truly achievable stability one could find in life, the advozsec constantly strive to accumulate as much monetary wealth as they can in a lifetime in order to have the ability to rebuild when the worst happens.\r\n\r\n### Names\r\nAdvozsec have simple names that do not distinguish between genders, using familiar surnames.\r\n\r\n**First Names.** Dleck, Fjemm, Gorde, Rollar, Xon\r\n\r\n**Surnames.** Ghantere, Leventraim, Timack, Vy, Zimda",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'9\"",
+  "heightRollMod": "+2d6\"",
+  "homeworld": "Riflor",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_advozse.png"
+  ],
+  "language": "Advb",
+  "manufacturer": null,
+  "name": "Advozse",
+  "rowKey": "Advozse",
+  "size": "Medium",
+  "skinColorOptions": "Green, brown, muddy yellow, or tan",
+  "traits": [
+    {
+      "description": "Your Constitution score increases by 2, and your Wisdom score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Advozsec reach adulthood in their late teens and typically live for over half a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Advozsec's paranoid and pessimistic nature causes them to tend towards balanced alignments, particularly lawful balanced, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Advozsec typically stand 5 to 6 feet tall and generally weigh about 130 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "You have a thick hide. While you are unarmored or wearing light armor, your AC is 12 + your Dexterity modifier.",
+      "name": "Hide"
+    },
+    {
+      "description": "Your sharp horn is a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d4 kinetic damage.",
+      "name": "Horn"
+    },
+    {
+      "description": "Your body is well accustomed to extreme heat, giving you resistance to fire damage.",
+      "name": "Lava Dweller"
+    },
+    {
+      "description": "When you would roll initiative, you can choose to have advantage on the roll. Once you've done so, you must complete a short or long rest before you can do so again.",
+      "name": "Vigilant"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Advb. Advb sounds quick and aggressive. It's incredibly rare to find a non-advozsec speaking Advb, some linguists even considering it all but a dead language.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "100 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

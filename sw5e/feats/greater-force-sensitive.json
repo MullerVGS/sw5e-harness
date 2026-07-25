@@ -1,0 +1,9 @@
+{
+  "attributesIncreased": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "name": "Greater Force-Sensitive",
+  "prerequisite": "The ability to cast 3rd-level force powers",
+  "rowKey": "Greater Force-Sensitive",
+  "text": "You know one at-will force power. Additionally, you know one 4th-level force power, which you can cast once per long rest. Your forcecasting ability is Wisdom or Charisma (depending on power alignment).\r\n"
+}

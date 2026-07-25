@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "I'm searching for instruction in the ways of the Force.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I am fully dedicated to the will of the Force.  It leads and I follow.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I must return a relic to the temple it was taken from.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I will become the greatest user of the Force that ever lived.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I�m guilty of a terrible crime. I hope I can redeem myself for it.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Someone I loved died because of a mistake I made. That will never happen again.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "equipment": "A set of common clothes, a sturdy knife, and a belt pouch containing 150 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Perceptive",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Charmer",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Competitor",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Entertainer",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Force-Sensitive",
+      "roll": 8
+    }
+  ],
+  "featureName": "Guided by the Force",
+  "featureRowKeys": null,
+  "featureText": "When you attempt to learn a piece of knowledge, you often instinctively know where or from whom you can obtain it. Usually, this information comes from a seemingly random person, book, or data file. Your GM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "You are keenly attuned to the flow of the mysterious energy field known as the Force.  With proper training, you could learn to consciously sense and manipulate that energy further.  As it is, you may appear to have heightened senses, extremely quick reflexes, an intuitive understanding of others, or an uncanny ability to persuade people to your way of thinking. Your powers may have lain dormant for a long time, perhaps you felt something inside of you but never knew what it was. Perhaps your abilities were awoken by a strong encounter with another force-sensitive with the powers of the Force, or an object associated with the Force, such as a lightsaber.\r\n",
+  "flawOptions": [
+    {
+      "description": "My faith in the Force sometimes leads me to blindly trust others that profess that same faith.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "The Jedi and Sith worship the Force as a religion. I think they are idiots for worshipping a hammer.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I'm convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have trouble trusting in my allies that don't share my connection to the Force.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I remember every insult I've received and nurse a silent resentment toward anyone who's ever wronged me.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I seek to prove myself worthy of the Force by matching my actions against the Jedi teachings. (Lawful)",
+      "name": "Dilligence",
+      "roll": 1
+    },
+    {
+      "description": "We must help bring about the changes the Force is constantly working in the world. (Chaotic)",
+      "name": "Change",
+      "roll": 2
+    },
+    {
+      "description": "There's a spark of good in everyone. (Light)",
+      "name": "Redemption",
+      "roll": 3
+    },
+    {
+      "description": "I will do whatever it takes to have power. (Dark)",
+      "name": "Power",
+      "roll": 4
+    },
+    {
+      "description": "I trust that the Force will guide my actions; I have faith that if I work hard, things will go well. (Neutral)",
+      "name": "Faith",
+      "roll": 5
+    },
+    {
+      "description": "Self-improvement is an unending chore, but one that must be done. (Any)",
+      "name": "Growth",
+      "roll": 6
+    }
+  ],
+  "languages": null,
+  "name": "Force Adept",
+  "personalityTraitOptions": [
+    {
+      "description": "I see omens in every event and action. The Force tries to speak to us, we just need to listen.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I am always calm, no matter what the situation. I never raise my voice or let my emotions control me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "The Force has chosen me for a greater purpose.  I am destined for greatness.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I would rather make a new friend than a new enemy. We are all connected to each other.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I've always been good at everything and things come to me naturally, but I am proud of my accomplishments.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I don�t pay attention to the risks in a situation. The odds are always in my favor.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "The best way to get me to do something is to tell me I can�t do it.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "My emotions sometimes get the most of me, but they help me succeed.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Force Adept",
+  "skillProficiencies": "Choose two from Deception, Insight, Perception, and Persuasion",
+  "suggestedCharacteristics": "Force adepts can come from all walks of life and have varied life experiences.  Often, though, there is an underlying influence that the Force has on the personalities of Force Adepts, especially once they begin to be conscious of their connection to the Force. ",
+  "toolProficiencies": "Two of your choice of artisan's implements, gaming sets, or musical instruments"
+}

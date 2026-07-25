@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You create a strong magnetic field around you in a 10-foot radius which moves with you, remaining centered on you. The field lasts for the power's duration.\r\n\r\nThe field has the following effects:\r\n- The area is difficult terrain for creatures other than you.\r\n- The attack rolls of ranged weapon attacks which deal kinetic, energy, or ion damage have disadvantage if the attacks pass in or out of the field.\r\n- Communications equipment cannot communicate into or out of the field.",
+  "duration": "up to 1 hour",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Magnetic Field",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Magnetic Field"
+}

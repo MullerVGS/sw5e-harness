@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Constitution Emitter (Fine)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Constitution Emitter (Fine)",
+  "searchableRarity": "Premium",
+  "subtype": "focus generator",
+  "text": "This item's constitution number is reduced by two steps (from 21 to 17, 19 to 15, 17 to 13, or 15 to 11). If the constitution number is 13 or lower, this modification removes the constitution property from it entirely.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

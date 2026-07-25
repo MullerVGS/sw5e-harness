@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Enhancement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Dexterity Enhancement (Basic)",
+  "prerequisite": " Dexterity 11",
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Dexterity Enhancement (Basic)",
+  "searchableRarity": "Standard",
+  "subtype": "enhancement",
+  "text": "Your Dexterity score increases by 1, to a maximum of 20.\r\n\r\n**Side Effect:** One ability score other than Dexterity (chosen by the GM) decreases by 1.",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

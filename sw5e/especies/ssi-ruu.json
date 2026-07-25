@@ -1,0 +1,99 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Strength"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Reptilian, tails, scent-tongues",
+  "eyeColorOptions": "Solid black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nSsi-ruuk are a predatory, warm-blooded saurian species gifted with ferocious strength, remarkable speed, and sharp fangs and claws, traits that serve them well in the volcanic jungles of their homeworld of Lwhekk. Their muscular forms combined with their powerful tails make them very agile hunters, and their colorfully-scaled hides have been proven to be resistant even to blaster bolts. From their nostrils, two scent-tongues protrude that grant them enhanced olfactory senses, compensating for the poor vision afforded them by their dark, three-lidded eyes. No Ssi-ruu has ever been known to be Force-sensitive.\r\n\r\n### Society and Culture\r\nThe citizens of the Ssi-ruuvi Imperium follow a rigid caste system in which their station in society is determined by the color of the scales they are born with. Among these, the brown-scaled outcasts are regarded as the lowest of the low, and have no place in the Imperium beyond menial labor or death at birth. Deeply xenophobic and religious, the Ssi-ruuk view the rest of the galaxy as populated by lesser beings whose worlds rightfully belong to the Imperium. Despite their fierce nature, most ssi-ruuk are afraid of dying on a world unconsecrated by their priest caste, as they believe their souls would be doomed, so they harvest and \"entech\" the life-energy of other species to power droids that fight for them. The entechment process is torturous and painful to its victims, and is the main power source of Ssi-ruuvi technology.\r\n\r\n### Names\r\nSsi-ruuvi names are difficult to pronounce and gender neutral. Many ssi-ruuk adopt nicknames to make the lives of their associates easier. Ssi-ruuk do not have surnames.\r\n\r\n**Names.** Firwirrung, Ivpikkis, Sh'tk'ith, Th'twirirl, Yifaii",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'7\"",
+  "heightRollMod": "+2d12\"",
+  "homeworld": "Lwhekk",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ssi-ruu.png"
+  ],
+  "language": "Ssi-ruuvi",
+  "manufacturer": null,
+  "name": "Ssi-Ruu",
+  "rowKey": "Ssi-Ruu",
+  "size": "Medium",
+  "skinColorOptions": "Brown, red, or tan scales",
+  "traits": [
+    {
+      "description": "Your Strength score increases by 2, and your Dexterity score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Ssi-ruuk reach adulthood in their early teens and live to between 100 and 120 years.",
+      "name": "Age"
+    },
+    {
+      "description": "Ssi-ruuk's cultural drive to enslave and entech others cause them to tend toward the dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Ssi-ruuk typically stand between 6 or 7 feet tall and weigh over 300 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 35 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Your creature type is both beast and humanoid.",
+      "name": "Type"
+    },
+    {
+      "description": "While Ssi-ruuk can be manipulated by many force powers, they can not sense the Force. You can not use force powers or take levels in forcecasting classes.",
+      "name": "Force-Insensitive"
+    },
+    {
+      "description": "You are proficient in Survival.",
+      "name": "Hunter"
+    },
+    {
+      "description": "You have advantage on Wisdom (Perception) checks that rely on smell.",
+      "name": "Keen Smell"
+    },
+    {
+      "description": "Ssi-ruuk have scent-tongues that let them read the emotions of individuals. You have advantage on Wisdom (Insight) checks to determine emotions against humanoids and beasts within 10 feet of you.",
+      "name": "Natural Empathy"
+    },
+    {
+      "description": "You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.",
+      "name": "Sunlight Sensitivity"
+    },
+    {
+      "description": "You have tough, scaly skin and prefer not to wear clothes. While you are unarmored or wearing light armor, your AC is 13 + your Dexterity modifier.",
+      "name": "Thick Skin"
+    },
+    {
+      "description": "Your fangs and claws are natural weapons, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.",
+      "name": "Tooth and Nail"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Ssi-ruuvi. Ssi-ruuvi is a language of musical whistles, honks and clicks, and is nigh impossible for humans and similar species to speak.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "200 lb.",
+  "weightRollMod": "x(2d6) lb."
+}

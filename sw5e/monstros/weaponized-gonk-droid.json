@@ -1,0 +1,120 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 14,
+  "armorType": "reinforced steel plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " When the Gonk droid is reduced to zero hit points, it explodes. Each creature within 20 feet of it must make a DC 13 Dexterity saving throw, taking 6d6 fire damage on a failed save, or half as much on a successful one.",
+      "descriptionWithLinks": " When the Gonk droid is reduced to zero hit points, it explodes. Each creature within 20 feet of it must make a DC 13 Dexterity saving throw, taking 6d6 fire damage on a failed save, or half as much on a successful one.",
+      "monsterBehaviorType": "Trait",
+      "name": "Explosive Destruction",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 2,
+      "attackType": "MeleeWeapon",
+      "damage": "2",
+      "damageRoll": "1d4 + 0",
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 2 (1d4 + 0)",
+      "descriptionWithLinks": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 2 (1d4 + 0)",
+      "monsterBehaviorType": "Action",
+      "name": "Kick",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "RangedWeapon",
+      "damage": "6",
+      "damageRoll": "1d8 + 2",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 6 (1d8 + 2) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 6 (1d8 + 2) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Rifle",
+      "numberOfTargets": "one target.",
+      "range": "range 100/400 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1/8",
+  "charisma": 8,
+  "charismaModifier": -1,
+  "conditionImmunities": [
+    "Poisoned"
+  ],
+  "conditionImmunitiesOther": [
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [
+    10
+  ],
+  "constitution": 14,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion",
+    "Lightning"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6,
+    8
+  ],
+  "dexterity": 12,
+  "dexterityModifier": 1,
+  "experiencePoints": 25,
+  "flavorText": "While Gonk Droids are generally harmless, Groodo the Hutt, in his bid to destroy the Fondor Shipyards and Spaceport, employed, as part of his Droid Control Army, GNK Power Droids that were modified with rapid-repeating blasters in their upper casings.Likewise, the Alliance to Restore the Republic modified GNK units so they would march slowly across the battlefield, until they collided with an enemy building, and explode.",
+  "hitPointRoll": "1d6 + 2",
+  "hitPoints": 5,
+  "imageUrls": [],
+  "intelligence": 9,
+  "intelligenceModifier": -1,
+  "languages": [
+    "Binary",
+    "Galactic Basic",
+    "Gonkian"
+  ],
+  "name": "Weaponized Gonk Droid",
+  "rowKey": "Weaponized Gonk Droid",
+  "savingThrows": null,
+  "sectionText": "Power droids are boxy droids with two or four legs that serve as mobile batteries, capable of powering a variety of machinery and vehicles. They are, effectively, power generators with legs and simple artificial intelligence so that they can understand rudimentary commands. They are most commonly found on under-developed worlds that do not have an expansive power grid, or in mobile (often military) operations.They often make a low honking noise that sounds like the word \"gonk,\" resulting in the nickname gonk droid or simply gonk. This form of droidspeak was referred to as \"Gonkian.\"***Models.*** Notable power droid models included the EG-4 and EG-6 power droids produced by Veril Line Systems; the S9-series heavy power droid, a larger and more powerful version of the EG-6; the PLNK \"plunk\" power droid; and the popular GNK power droid manufactured by Industrial Automaton.",
+  "senses": [
+    "passive Perception 8"
+  ],
+  "size": "Small",
+  "skills": null,
+  "speed": 15,
+  "speeds": "15 ft.",
+  "strength": 10,
+  "strengthModifier": 0,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 7,
+  "wisdomModifier": -2
+}

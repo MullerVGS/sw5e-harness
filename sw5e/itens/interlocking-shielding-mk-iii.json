@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Interlocking Shielding Mk III",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Interlocking Shielding Mk III",
+  "searchableRarity": "Artifact",
+  "subtype": "armor",
+  "text": "_**Prerequiste:** Shield_\r\nThis shield gains the interlocking 3 property. If it already has the interlocking property, its interlocking number increases to 3.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

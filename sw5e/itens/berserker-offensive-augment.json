@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "Augment",
+  "name": "Berserker Offensive Augment",
+  "prerequisite": " At least 3 levels in berserker",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Berserker Offensive Augment",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "Your Rage damage bonus increases by 1, and when you score a critical hit, you can roll one additional weapon damage die and add the result to the total.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Celerity Oscillator",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Celerity Oscillator",
+  "searchableRarity": "Standard",
+  "subtype": "vibroweapon",
+  "text": "Once per turn, when you deal damage with this weapon, your walking speed increases by 10 feet until the start of your next turn, and the damaged creature can't make opportunity attacks against you for the rest of your turn.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

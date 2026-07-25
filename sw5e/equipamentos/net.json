@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 300,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on formless or Huge or larger creatures. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. The net has an AC of 10, 5 hit points, and immunity to all damage not dealt by melee weapons. Destroying the net frees the creature without harming it and immediately ends the net's effects. While a creature is restrained by a net, you can make no further attacks with it.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Net",
+  "properties": [
+    "Light",
+    "finesse",
+    "special",
+    "thrown (range 15)"
+  ],
+  "propertiesMap": {
+    "Finesse": "finesse",
+    "Light": "Light",
+    "Range": "thrown (range 15)",
+    "Special": "special"
+  },
+  "rowKey": "Net",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "3"
+}

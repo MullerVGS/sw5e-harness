@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "Specific",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Hewey",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Hewey",
+  "searchableRarity": "Advanced",
+  "subtype": "vibroblade",
+  "text": "You gain a +1 bonus to attack and damage rolls with this enhanced weapon.\r\n\r\nThis weapon has 6 charges and regains 1d6 charges when you complete a long rest. Once per turn when you hit with a melee weapon attack with this weapon, you can expend a charge to have the weapon deal an additional 1d8 kinetic damage. \r\n\r\n_Hewey is an N-30 battle blade owned by the mercenary Corso Riggs during the Galactic Cold War._",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

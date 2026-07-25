@@ -1,0 +1,91 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Prehensile tail and feet, furred body",
+  "eyeColorOptions": "Yellow or orange",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nLurmen's bodies are covered entirely in fur, which range in color from a dark brown to a white-gray, though they do wear garments. They can walk either upright on their two legs, and can also use their arms and legs for faster movement. Many lurmen have the ability to roll themselves into a wheeled shape; this allows them to cover distances at great speed. They may have learned this ability from the native amani on Maridun. \r\n\r\n### Society and Culture\r\nThe lurmen use fallen seedpods from the giant trees as shelter and home. Living near the trees proves too dangerous, as the falling pods can be deadly. Instead, the lurmen drag the pods into a clearing and use them as huts. They also extract essential oils from the pods for nutrition and healing medicines. Most lurmen are pacifistic by nature and refuse to fight or run even in the face of death. They often will hide instead of using violence. As pacifists, they carry no weapons but carry farming tools or ropes. The greatest native threat to the lurmen are the amani and the mastiff phalones, raptor-headed quadrupeds that hunted in groups. However, even in defeating these beasts the lurmen attempt to remain true to their pacifist ideals, and not inflict any injury to the creatures. Instead, when cornered by a mastiff phalone, an agile lurmen will try to unbalance the creature by tying a rope around its stout legs. \r\n\r\n### Names\r\nLurmen names are sharp and made up of a single syllable. Instead of surnames, lurmen are granted additional names based on their importance to the village. Common lurmen possess one name, with leaders having as many as four. \r\n\r\n**Male Names.** Fee, Gatt, Nub, Shoo, Yup\r\n\r\n**Female Names.** Kal, Laa, Shal, Vook, Yiit",
+  "hairColorOptions": "Brown to gray",
+  "halfHumanTableEntries": {},
+  "heightAverage": "2'11\"",
+  "heightRollMod": "+2d4\"",
+  "homeworld": "Mygeeto, Maridun",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lurmen.png"
+  ],
+  "language": "Lurmese",
+  "manufacturer": null,
+  "name": "Lurmen",
+  "rowKey": "Lurmen",
+  "size": "Small",
+  "skinColorOptions": "Black or gray",
+  "traits": [
+    {
+      "description": "Your Dexterity score increases by 2, and your Wisdom score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Lurmen reach adulthood in their late teens and live less than 80 years.",
+      "name": "Age"
+    },
+    {
+      "description": "The pacifistic nature of the lurmen causes them to be neutral light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Lurmen typically stand around 3 feet tall and generally weigh about 45 lbs. Regardless of your position in that range, your size is Small.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 25 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have a keen eyesight, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "You have proficiency in the Medicine and Nature skills, and the bioanalysis kit.",
+      "name": "Natural Healer"
+    },
+    {
+      "description": "You have supreme control over your tail and feet and can use them to manipulate objects as well as your hands.",
+      "name": "Prehensile Tail and Feet"
+    },
+    {
+      "description": "As a lurmen, you can run on all fours, or curl into a ball, to move quickly along the ground. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.",
+      "name": "Rolling Agility"
+    },
+    {
+      "description": "You have a climbing speed of 25 feet. You have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing.",
+      "name": "Treeclimber"
+    },
+    {
+      "description": "Your small stature makes it hard for you to wield bigger weapons. You can't use heavy shields. Additionally, you can't use martial weapons with the two-handed property unless it also has the light property, and if a martial weapon has the versatile property, you can only wield it in two hands.",
+      "name": "Undersized"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Lurmese. Lurmese is a name collectively given to the various tribal languages spoken by the lurmen people. While each language is distinct, shared phrases allow translation between dialects.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "40 lb.",
+  "weightRollMod": "x1 lb."
+}

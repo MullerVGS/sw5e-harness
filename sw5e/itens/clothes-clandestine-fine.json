@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Body",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Clothes, Clandestine (Fine)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Clothes, Clandestine (Fine)",
+  "searchableRarity": "Premium",
+  "subtype": "body",
+  "text": "These clothes come with three hidden pockets, each of which can store up to 1 lb. Finding these hidden pockets requires a DC 18 Investigation check.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

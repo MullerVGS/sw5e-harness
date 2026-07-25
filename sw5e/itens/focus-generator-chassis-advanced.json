@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "Force",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Focus Generator Chassis (Advanced)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": true,
+  "rowKey": "Focus Generator Chassis (Advanced)",
+  "searchableRarity": "Advanced",
+  "subtype": "force",
+  "text": "_**Requires attunement**_\r\nThis modifiable focus generator chassis comes with vacant modification slots for focus generator modifications, as well as one augment slot. It can house modifications of advanced rarity or lower.",
+  "type": "Focus",
+  "valuableType": "None",
+  "valueText": null
+}

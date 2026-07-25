@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Corrosive Cartridge (Lethal)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Corrosive Cartridge (Lethal)",
+  "searchableRarity": "Legendary",
+  "subtype": "ammunition",
+  "text": "You have a +3 bonus to attack and damage rolls made with this enhanced corrosive cartridge. This bonus is in addition to any bonuses granted by the weapon. Once the corrosive cartridge has been fired, it no longer gives a bonus. Additionally, when you hit with a shot with the loaded weapon, the creature must make a DC 22 Constitution saving throw, taking 1d10 acid damage on a failed save or half as much on a successful one. If you reduce a creature to 0 hit points with the loaded weapon, it must make a DC 13 Constitution saving throw. On a failed save, it dies immediately without making death saving throws. A disintegrated creature and everything unenhanced it is wearing and carrying are reduced to a pile of fine gray dust. A creature destroyed in this way can not be revitalized.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

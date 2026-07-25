@@ -40,6 +40,8 @@ Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador cond
 
 **O espelho é a fonte de conteúdo.** Espécie, classe, arquétipo, background, poder, feat e item vêm de `sw5e/`. Escolha lendo o `INDEX.md` da coleção e só então abra a fatia — abrir a coleção inteira custa quase mil vezes mais e não é necessário. Conteúdo de SW5e que você "lembra" mas não está no espelho **não existe**.
 
+O arquivo da fatia é o nome da entidade em slug (`Bo-rifle` → `bo-rifle.json`). Onde dois nomes colidem, o índice traz o arquivo entre backticks na linha — são poucos casos, e o índice é quem manda. A fatia não é cópia crua da API: saem dela as duplicações do mesmo dado e o plumbing de armazenamento, e nada mais.
+
 **Cânon não vira arquivo.** A era, os planetas e as facções do Star Wars você já conhece. O `CONTEXT.md` da campanha registra apenas onde a mesa **diverge** do cânon ou o que ela inventou.
 
 **Estado e histórico são coisas diferentes.** `CONTEXT.md` é o que é verdade agora e é lido inteiro antes de toda ficha, então tem que ficar pequeno. `CRONICA.md` é append-only e quase nunca é lido inteiro. Ao registrar uma sessão, promova ao `CONTEXT.md` só o que virou estado permanente; na dúvida, não promova.
@@ -74,6 +76,8 @@ Vivem em `.agents/skills/<nome>/SKILL.md`. As regras acima valem para todas e **
 
 O esqueleto está de pé; o resto está em construção, rastreado no mapa `.scratch/sw5e-harness/map.md` e nos tickets em `.scratch/sw5e-harness/issues/`, na raiz do workspace (`/root/projetos`).
 
-Ainda **não existem**: o espelho `sw5e/` e o `tools/sync-espelho.py` que o produz (issue 03), o esquema `sw5e-ficha/1` documentado (issue 04) e quatro das cinco skills — só `nova-campanha` está escrita (issue 05); faltam as outras (issues 06 e 07). Até cada um chegar, as regras acima descrevem o alvo, não o presente — não finja que a peça existe.
+Já existem: o espelho `sw5e/` com as 3.629 fatias e os nove índices, e o `tools/sync-espelho.py` que o produz (issue 03).
+
+Ainda **não existem**: o esquema `sw5e-ficha/1` documentado (issue 04) e quatro das cinco skills — só `nova-campanha` está escrita (issue 05); faltam as outras (issues 06 e 07). Até cada um chegar, as regras acima descrevem o alvo, não o presente — não finja que a peça existe.
 
 Apague esta seção quando a issue 07 fechar.

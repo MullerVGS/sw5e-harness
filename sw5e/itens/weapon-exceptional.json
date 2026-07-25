@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "Any",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Weapon (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Weapon (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "any",
+  "text": "You have a +3 bonus to attack rolls and deal an additional 1d8 damage with this enhanced weapon.",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

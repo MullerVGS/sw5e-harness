@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 3300,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Fire",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Incinerator sniper",
+  "properties": [
+    "Dire 1",
+    "disintegrate 13",
+    "power cell (range 120/480)",
+    "reload 2",
+    "strength 15",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Dire": "Dire 1",
+    "Disintegrate": "disintegrate 13",
+    "Power Cell": "power cell (range 120/480)",
+    "Reload": "reload 2",
+    "Strength": "strength 15",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Incinerator sniper",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "14.5"
+}

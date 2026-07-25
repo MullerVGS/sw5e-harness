@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Bonded Plates Mk II",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Bonded Plates Mk II",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "You gain a +1 bonus to AC against melee attacks while wearing this armor or wielding this shield.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

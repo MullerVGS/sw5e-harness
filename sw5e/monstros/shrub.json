@@ -1,0 +1,103 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 9,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " While the tree remains motionless, it is indistinguishable from a normal tree.",
+      "descriptionWithLinks": " While the tree remains motionless, it is indistinguishable from a normal tree.",
+      "monsterBehaviorType": "Trait",
+      "name": "False Appearance",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 1,
+      "attackType": "MeleeWeapon",
+      "damage": "1",
+      "damageRoll": "1d4 - 1",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Rake",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "0",
+  "charisma": 6,
+  "charismaModifier": -2,
+  "conditionImmunities": [
+    "Blinded",
+    "Charmed",
+    "Deafened",
+    "Prone"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    1,
+    2,
+    3,
+    11
+  ],
+  "constitution": 11,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Kinetic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    7
+  ],
+  "damageVulnerabilities": [
+    "Fire"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    4
+  ],
+  "dexterity": 8,
+  "dexterityModifier": -1,
+  "experiencePoints": 10,
+  "flavorText": "",
+  "hitPointRoll": "3d6",
+  "hitPoints": 10,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "—"
+  ],
+  "name": "Shrub",
+  "rowKey": "Shrub",
+  "savingThrows": null,
+  "sectionText": "While most plants are harmless, many plants are malicious and self-aware, becoming formidable foes.",
+  "senses": [
+    "Tremorsense 120 ft. (blind beyond this radius)",
+    "passive Perception 10"
+  ],
+  "size": "Small",
+  "skills": null,
+  "speed": 20,
+  "speeds": "20 ft.",
+  "strength": 3,
+  "strengthModifier": -4,
+  "types": [
+    "plant"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

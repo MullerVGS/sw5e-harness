@@ -1,0 +1,39 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 2100,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Sonic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Sonic cannon",
+  "properties": [
+    "Power cell (range 90/360)",
+    "auto",
+    "burst 2",
+    "disruptive",
+    "reload 4",
+    "strength 17",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Auto": "auto",
+    "Burst": "burst 2",
+    "Disruptive": "disruptive",
+    "Power Cell": "Power cell (range 90/360)",
+    "Reload": "reload 4",
+    "Strength": "strength 17",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Sonic cannon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "16.5"
+}

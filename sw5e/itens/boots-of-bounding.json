@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Boots of Bounding",
+  "prerequisite": " at least 3 levels in fighter",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Boots of Bounding",
+  "searchableRarity": "Prototype",
+  "subtype": "feet",
+  "text": "This item can hold a number of charges equal to half your fighter level (rounded up). When you complete a long rest, this item regains all missing charges. On your turn, you can expend 1 or more charges to engage the rocket boosters and leap to a space you can see. For each charge spent, you can move up to 10 feet. Any opportunity attacks you provoke with this movement are made with disadvantage.\r\n\r\nWhen you reach 5th level in fighter, when you use your Action Surge feature, your movement speed is doubled for the turn, you gain a flying speed equal to your walking speed until the end of your turn, though you fall if you end your speed in the air and nothing else is holding you aloft, and opportunity attacks made against you this turn have disadvantage.\r\n\r\nWhen you reach 11th level in fighter, when you use your Indomitable feature, you have advantage on the roll.\r\n\r\nWhen you reach 17th level in fighter, once per round, when you miss with a weapon attack, you can repeat the attack (no action required).\r\n\r\n_These red and black boots come with integrated rocket boosters._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

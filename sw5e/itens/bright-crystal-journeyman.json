@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Bright Crystal (Journeyman)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Bright Crystal (Journeyman)",
+  "searchableRarity": "Prototype",
+  "subtype": "lightweapon",
+  "text": "This weapon gains the bright 15 property. If it already has the bright property, its bright number increases by 3, to a maximum of 18.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

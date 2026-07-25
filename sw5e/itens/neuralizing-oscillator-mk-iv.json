@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Neuralizing Oscillator Mk IV",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Neuralizing Oscillator Mk IV",
+  "searchableRarity": "Advanced",
+  "subtype": "vibroweapon",
+  "text": "This weapon gains the neuralizing 16 property. If it already has the neuralizing property, its neuralizing number increases by 4, to a maximum of 18.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

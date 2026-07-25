@@ -1,0 +1,87 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Constitution"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Bulbous eyes, head crests, three-fingered hands",
+  "eyeColorOptions": "Black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nVurks are the predominant sentient species of the planet Sembla. They are tall, reptilian humanoids with bulbous dark eyes and sweeping head crests. Their hands and feet have three digits each, one of which was opposable. They have distinguishing gray-green, leathery skin. Being able to breathe both water and air, they are perfectly adapted to travel Sembla's warm, shallow seas dotted with volcanic islands. They share a strong nomadic instinct with their amphibious ancestors.  \r\n\r\n### Society and Culture\r\nYoung Vurk males are married off by their parents; those who failed to marry before reaching adulthood remain bachelors for the rest of their lives. Because their way of living resulted in virtually no sizable permanent settlement whatsoever, Vurks were generally considered primitive by the rest of the galaxy; however, that was not true. They are very intelligent and believe in a highly developed philosophical tradition that emphasizes personal integrity and individual freedom and encourage personal honesty. Their compassionate and calm manner made them better than average diplomats.\r\n\r\nVurks are very family-oriented. It is common for multiple generations to remain in the same location as a single household, with the eldest family member being the patriarch or matriarch and making the decision for the entire family.\r\n\r\n### Names\r\nVurk names are traditionally two to three syllables. Female names typically end with a vowel, while male names vary. Surnames are familial.\r\n\r\n**Male Names.** Coleman, Jadran, Milanko, Zlatko\r\n\r\n**Female Names.** Elka, Iryna, Miglena, Tanya, Verka\r\n\r\n**Surnames.** Cheevochik, Provric, Trebor, Vorgecz",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'9\"",
+  "heightRollMod": "+2d8\"",
+  "homeworld": "Sembla",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_vurk.png"
+  ],
+  "language": "Semblan",
+  "manufacturer": null,
+  "name": "Vurk",
+  "rowKey": "Vurk",
+  "size": "Medium",
+  "skinColorOptions": "Dark blues, greens, greys, or reds",
+  "traits": [
+    {
+      "description": "Your Wisdom score increases by 2, and your Constitution score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Vurk reach adulthood in their 20s and live an average of 70 years.",
+      "name": "Age"
+    },
+    {
+      "description": "Vurk philosophies cause them to tend toward the light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Vurks typically stand between 6 and 7 feet tall and weigh around 175 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 35 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You can breathe air and water.",
+      "name": "Amphibious"
+    },
+    {
+      "description": "You have proficiency in the Athletics skill.",
+      "name": "Athletic"
+    },
+    {
+      "description": "Accustomed to life underwater, you have superior vision in low light conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "Your head crest is a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.",
+      "name": "Head Crest"
+    },
+    {
+      "description": "You have a swimming speed of 30 feet.",
+      "name": "Swim"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Semblan. Semblan has a very melodic feel and often evokes images of waterfalls to those who don't understand its meanings.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "130 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

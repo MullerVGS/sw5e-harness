@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You enhance your eyesight with the Force, allowing you to better see in the dark. For the duration, you have darkvision out to 60 feet.",
+  "duration": "1 hour",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Shadow Sight",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Shadow Sight"
+}

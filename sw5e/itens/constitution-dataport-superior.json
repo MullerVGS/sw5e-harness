@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Constitution Dataport (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Constitution Dataport (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "wristpad",
+  "text": "This item's constitution number is reduced by four steps (from 21 to 13 or 19 to 11). If the constitution number is 17 or lower, this modification removes the constitution property from it entirely.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

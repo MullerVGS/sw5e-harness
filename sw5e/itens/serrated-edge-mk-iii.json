@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Serrated Edge Mk III",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Serrated Edge Mk III",
+  "searchableRarity": "Legendary",
+  "subtype": "vibroweapon",
+  "text": "When you deal damage with this weapon, you can roll a d8 and add the result to the total.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

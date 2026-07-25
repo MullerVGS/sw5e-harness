@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Increasing Motherboard Mk II",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Increasing Motherboard Mk II",
+  "searchableRarity": "Premium",
+  "subtype": "wristpad",
+  "text": "This item gains the increasing 20 property. If it already has the increasing property, its increasing number increases by 20, to a maximum of 60.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

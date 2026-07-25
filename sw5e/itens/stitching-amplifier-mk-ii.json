@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Stitching Amplifier Mk II",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Stitching Amplifier Mk II",
+  "searchableRarity": "Premium",
+  "subtype": "clothing",
+  "text": "While using this item as your focus, you gain a +1 bonus to melee tech attacks.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

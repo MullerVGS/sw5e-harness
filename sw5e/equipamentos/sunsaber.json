@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1875,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Fire",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Sunsaber",
+  "properties": [
+    "Bright 15",
+    "dexterity 11",
+    "hidden",
+    "specialized (bright)",
+    "versatile (2d4)"
+  ],
+  "propertiesMap": {
+    "Bright": "Bright 15",
+    "Dexterity": "dexterity 11",
+    "Hidden": "hidden",
+    "Special": "specialized (bright)",
+    "Versatile": "versatile (2d4)"
+  },
+  "rowKey": "Sunsaber_ExoticLightweapon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "ExoticLightweapon",
+  "weight": "0"
+}

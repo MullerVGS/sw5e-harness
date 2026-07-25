@@ -1,0 +1,113 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 12,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Creatures grappled by the vines take 4 (1d8) kinetic damage at the start of every round.",
+      "descriptionWithLinks": " Creatures grappled by the vines take 4 (1d8) kinetic damage at the start of every round.",
+      "monsterBehaviorType": "Trait",
+      "name": "Constrict",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " While the vines remains motionless, they are indistinguishable from normal vines.",
+      "descriptionWithLinks": " While the vines remains motionless, they are indistinguishable from normal vines.",
+      "monsterBehaviorType": "Trait",
+      "name": "False Appearance",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 6,
+      "attackType": "MeleeWeapon",
+      "damage": "22",
+      "damageRoll": "4d8 + 4",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 22 (4d8 + 4) kinetic damage, and the target is Grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the vines can't constrict another target.",
+      "descriptionWithLinks": " Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 22 (4d8 + 4) kinetic damage, and the target is Grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the vines can't constrict another target.",
+      "monsterBehaviorType": "Action",
+      "name": "Vines",
+      "numberOfTargets": "one target.",
+      "range": "reach 15 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 4,
+  "charismaModifier": -3,
+  "conditionImmunities": [
+    "Blinded",
+    "Charmed",
+    "Deafened",
+    "Prone"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    1,
+    2,
+    3,
+    11
+  ],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [
+    "Fire"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    4
+  ],
+  "dexterity": 14,
+  "dexterityModifier": 2,
+  "experiencePoints": 450,
+  "flavorText": "",
+  "hitPointRoll": "12d10 + 24",
+  "hitPoints": 84,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "—"
+  ],
+  "name": "Vines",
+  "rowKey": "Vines",
+  "savingThrows": null,
+  "sectionText": "While most plants are harmless, many plants are malicious and self-aware, becoming formidable foes.",
+  "senses": [
+    "Blindsight 60 ft. (blind beyond this radius)",
+    "passive Perception 8"
+  ],
+  "size": "Large",
+  "skills": null,
+  "speed": 20,
+  "speeds": "20 ft., climb 15 ft.",
+  "strength": 18,
+  "strengthModifier": 4,
+  "types": [
+    "plant"
+  ],
+  "wisdom": 7,
+  "wisdomModifier": -2
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Contoured Grip (Fine)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Contoured Grip (Fine)",
+  "searchableRarity": "Premium",
+  "subtype": "vibroweapon",
+  "text": "You gain a +1 bonus to attack rolls made with this weapon.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

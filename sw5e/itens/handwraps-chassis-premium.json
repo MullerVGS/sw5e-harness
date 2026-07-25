@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Handwraps Chassis (Premium)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": true,
+  "rowKey": "Handwraps Chassis (Premium)",
+  "searchableRarity": "Premium",
+  "subtype": "hands",
+  "text": "_**Requires attunement**_\r\nThese modifiable handwraps chassis comes with vacant modification slots for vibroweapon modifications. They can house modifications of premium rarity or lower.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

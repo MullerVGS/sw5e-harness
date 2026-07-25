@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the duration.\r\n\r\nAny tech power of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the power is cast using a higher level tech slot. Such a power can target creatures and objects within the barrier, but the power has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such powers.\r\n\r\n***Overcharge Tech.*** When you cast this power using a tech slot of 7th level or higher, the barrier blocks powers of one level higher for each slot level above 6th.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 6,
+  "name": "Scrambling Barrier",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Self (10-foot radius)",
+  "rowKey": "Scrambling Barrier"
+}

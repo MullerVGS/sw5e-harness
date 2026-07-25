@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Wisdom Weave (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Wisdom Weave (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "clothing",
+  "text": "Your level of proficiency in Wisdom saving throws increases by three steps (to expertise, from trained to mastery, from proficient to high mastery, or from expertise to grand mastery).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

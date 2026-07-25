@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1600,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "This wristpad has the repelling and constitution 11 properties.",
+  "equipmentCategory": "DataRecordingAndStorage",
+  "modes": [],
+  "name": "Repelling wristpad",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Repelling wristpad",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "2"
+}

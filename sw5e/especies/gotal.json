@@ -1,0 +1,79 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Any one"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Full body fur, flat noses, head cones",
+  "eyeColorOptions": "Red, orange, yellow, grey, green, or black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nGotals possess cranial horns as receptors to sense electromagnetism and other energy emissions. These nerve-ending filled cones can sense the natural electromagnetic fields produced by Antar 4's magnetite-rich crust, allowing the species to operate even in total darkness. Their senses also pick up the electromagnetic auras from other life forms. When close to their hunting targets, they can ascertain information on its mood, awareness, and state of mind. Electronic devices can also be sensed by Gotals; in fact, most droids give off enough electromagnetic emissions to at least annoy a Gotal, and at worst to seriously disorient the horned beings, making them notoriously distrustful of droids. Gotals rely heavily on their cones, with their eyesight and hearing being quite weak, and their sense of smell almost completely absent. \r\n\r\n### Society and Culture\r\nSince their natural empathy makes them instantly sensitive to the feelings of others, Gotals have little use for government or laws on their homeworld, resulting in problems when dealing with other societies. No central authority figure can speak for Antar 4 as a whole in a crisis, and no organized Gotal military or police force can act on their behalf. Other species respect the Gotals for their discretion and restraint, but some individuals fear interacting with the horned beings for fear of having their emotional state revealed to others.\r\n\r\n### Names\r\nGotal names are quite guttural, though there are also many harsher tones within their names. Gotal names do not vary significantly based on gender, and surnames are familial. \r\n\r\n**First Names.** Thon, Fern, Fuu'rash, Jir, Vluphol\r\n\r\n**Surnames.** Gratlul, Klux, Vathon, Zilat, Krigh, Rahxem",
+  "hairColorOptions": "White, grey, or brown",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'5\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Antar 4",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gotal.png"
+  ],
+  "language": "Antarian",
+  "manufacturer": null,
+  "name": "Gotal",
+  "rowKey": "Gotal",
+  "size": "Medium",
+  "skinColorOptions": "Grey, brown, or black",
+  "traits": [
+    {
+      "description": "Your Wisdom score increases by 2, and one other ability score of your choice increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Gotals reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Gotals' polite and respectful nature causes them to tend toward lawful alignments, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Gotals typically stand 6 to 7 feet tall and generally weigh about 150 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Gotals perceive the environment around them through use of electromagnetic sensors held in their cranial horns. You have blindsight out to 30 feet. If another trait would grant you blindsight, the range is increased by half as many feet.",
+      "name": "Energy Sensors"
+    },
+    {
+      "description": "You are proficient in Survival.",
+      "name": "Hunter"
+    },
+    {
+      "description": "Gotal's electromagnetic sensors allow them to sense the emotions in those around them. You have advantage on Wisdom (Insight) checks to determine emotions against humanoids and beasts within 10 feet of you.",
+      "name": "Natural Empathy"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Antarian. The Antarian language is characterized by growls and clicking noises at various volumes.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "120 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

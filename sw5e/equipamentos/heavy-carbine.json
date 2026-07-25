@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 775,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Heavy carbine",
+  "properties": [
+    "Power cell (range 60/240)",
+    "rapid 4",
+    "reload 16",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 60/240)",
+    "Rapid": "rapid 4",
+    "Reload": "reload 16",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Heavy carbine",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "7.5"
+}

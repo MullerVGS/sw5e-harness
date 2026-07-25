@@ -1,0 +1,27 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 100,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrostaff",
+  "properties": [
+    "Versatile (2d4)"
+  ],
+  "propertiesMap": {
+    "Versatile": "Versatile (2d4)"
+  },
+  "rowKey": "Vibrostaff",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleVibroweapon",
+  "weight": "4"
+}

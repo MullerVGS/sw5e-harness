@@ -1,0 +1,83 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Charisma"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Antennapalps, resistance to toxins",
+  "eyeColorOptions": "Varies",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nPhysically similar to humans, balosars appear to be sickly and gaunt when compared with the galaxy's most common species due to the heavy pollution of their homeworld. The most striking difference between balosars and humanity is a pair of antennapalps which sprouts from underneath the thick, coarse hair on their skulls. Retractable, these atennapalps allow them to listen into the subsonic range and give the species physical intuition and preternatural reflexes, which members of the Jedi Order sometimes mistook for Force-sensitivity. Balosars also possess an acute tolerance for poisonous substances, a byproduct of life on their toxic homeworld.\r\n\r\n### Society and Culture\r\nEarly in its history, the balosar homeworld was overrun by galactic megacorporations eager to exploit the world's lax ecological protection laws. The planet was home to the balo mushroom, a key ingredient in death sticks, one of the galaxy's most infamous narcotics. After its discovery, Balosar was wrought with corruption, addiction, and pollution from the production and usage of death sticks.\r\n\r\nSince there is little opportunity to flourish on their homeworld, balosars often leave in search of fortune elsewhere. Their natural resistance to the lethal�but not the addictive�effects of the drug encourages some to enter the death stick business.\r\n\r\n### Names\r\nBalosar names have a slight exotic tinge to them�often because Balosar parents name their children while on a death stick high. Their surnames are familial.\r\n\r\n**Male Names.** Barin, Elan, Fantes, Zerba \r\n\r\n**Female Names.** Delaana, Ferrika, Reki, Vetyl \r\n\r\n**Surnames.** Cher'dak, Mer'darro, Sel'Sabagno",
+  "hairColorOptions": "Black, blond, orange, brown, white",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'8\"",
+  "heightRollMod": "+2d8\"",
+  "homeworld": "Balosar",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_balosar.png"
+  ],
+  "language": "Balosur",
+  "manufacturer": null,
+  "name": "Balosar",
+  "rowKey": "Balosar",
+  "size": "Medium",
+  "skinColorOptions": "Pale",
+  "traits": [
+    {
+      "description": "Your Dexterity score increases by 2, and your Charisma score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Balosars reach adulthood in their late teens and live about 70 years naturally, though death stick addiction has lead to a general decline in their lifespan.",
+      "name": "Age"
+    },
+    {
+      "description": "Balosars are notoriously cynical, selfish, and pragmatic, causing most to be neutral dark side. However, there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Balosar stand at an average height of about 5 feet, and weigh about 115 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Your antennapalps give you advantage on Wisdom (Perception) checks based on hearing.",
+      "name": "Keen Hearing"
+    },
+    {
+      "description": "Through your antennapalps, you can sense incoming danger and react accordingly. When you roll for initiative, you can choose to gain advantage on the roll. Alternatively, if you are surprised, you may act normally on your first turn. Once you've used this trait, you can't use it again until you finish a short or long rest.",
+      "name": "Snap Senses"
+    },
+    {
+      "description": "You are proficient in spicer's kit.",
+      "name": "Spicer"
+    },
+    {
+      "description": "You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9).",
+      "name": "Toxin Resistance"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Balosur. Balosur is known by its throaty rasps and deep vocalizations, and is considered crude as a written language.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "100 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

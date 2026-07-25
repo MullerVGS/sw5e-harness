@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "Specific",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Torpedo Launcher (Fine)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Torpedo Launcher (Fine)",
+  "searchableRarity": "Premium",
+  "subtype": "torpedo launcher",
+  "text": "You have a +1 bonus to attack rolls made with this enhanced weapon. Additionally, the damage of torpedoes fired by this weapon increases by one step (from d4 to d6, d6 to d8, d8 to d10, d10 to d12, or d12 to d20). If this would increase the damage die above a d20, instead add an additional five dice to the torpedo's damage for each step above a d20.",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

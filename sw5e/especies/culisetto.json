@@ -1,0 +1,103 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Charisma"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Thoracic carapace",
+  "eyeColorOptions": "Red",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nThe culisetto are an insectoid species, with a close resemblance to the common fly. Their long snouts are not truly proboscises, but function much the same, allowing them to drain blood with the aid of two tendrils, one on either side of the snout. They move by crawling about on their hands and feet, and are adept at leaping and climbing.\r\n\r\nDespite their appearance, culisetto are an exceptionally hygenic species, with an evolved habit of rubbing their hands and legs to rid them of germs from the ground.\r\n\r\n### Society and Culture\r\nCulisetto are often shunned by other species, if not for their grotesque appearance, then usually for their habit of drinking blood. They prefer to do so while their victims are alive, but tolerate it if they are recently dead. While they have evolved beyond needing to drink blood to survive, its taste remains quite enticing to many culisetto, who will indulge in it at their pleasure.\r\n\r\nCulisetto tend to favor the company of their own kind, particularly their siblings. Broodlings frequently travel in groups of three or more, inseparable from birth.\r\n\r\n### Names\r\nCulisetto names are distinctively antiquated in their etymology. Surnames are familial.\r\n\r\n**Male Names.** Kreon, Sosilu, Ocyto, Phino\r\n\r\n**Female Names.** Hecuba, Anophe, Xeina, Adeia\r\n\r\n**Surnames.** Dengue, Chontos, Kazan, Vazil",
+  "hairColorOptions": "White",
+  "halfHumanTableEntries": {},
+  "heightAverage": "2'8\"",
+  "heightRollMod": "+2d6\"",
+  "homeworld": "Culiset",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png"
+  ],
+  "language": "Culisetto",
+  "manufacturer": null,
+  "name": "Culisetto",
+  "rowKey": "Culisetto",
+  "size": "Small",
+  "skinColorOptions": "Pink, yellow",
+  "traits": [
+    {
+      "description": "Your Dexterity score increases by 2, and your Charisma score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Culisetto reach adulthood at 8 years old, and live to be about 60.",
+      "name": "Age"
+    },
+    {
+      "description": "Culisettos' thirst for blood cause them to tend towards the dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Culisetto stand between 3 and 4 feet tall and weigh about 45 lbs. Regardless of your position in that range, your size is Small.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 25 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "If you spend at least 1 minute devouring the corpse of a beast or humanoid, you gain temporary hit points equal to your Constitution modifier. Once you've used this feature, you must complete a short or long rest before you can use it again.",
+      "name": "Cannibalize"
+    },
+    {
+      "description": "You have a climbing speed of 25 feet.",
+      "name": "Climb"
+    },
+    {
+      "description": "Whenever you make a Wisdom (Perception) check related to sight, you are considered to have expertise in the Perception skill.",
+      "name": "Compound Eyes"
+    },
+    {
+      "description": "If you jump at least 10 feet in a straight line before hitting with a melee weapon attack, you can attempt to trip the target as part of the same attack. Once you use this trait, you can't use it again until you finish a short or long rest.",
+      "name": "Powerful Leap"
+    },
+    {
+      "description": "You have supreme control over your feet and can use them to manipulate objects as well as your hands.",
+      "name": "Prehensile Feet"
+    },
+    {
+      "description": "When you make a long jump, you can cover a number of feet up to twice your Strength score. When you make a high jump, you can leap a number of feet up into the air equal to 3 + twice your Strength modifier.",
+      "name": "Strong-Legged"
+    },
+    {
+      "description": "If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.",
+      "name": "Surprise Attack"
+    },
+    {
+      "description": "You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits.",
+      "name": "Torpor"
+    },
+    {
+      "description": "Your small stature makes it hard for you to wield bigger weapons. You can't use heavy shields or martial weapons with the two-handed property unless it has the light property, and if a martial weapon has the versatile property, you can only wield it in two hands.",
+      "name": "Undersized"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Culisetto. Culisetto is composed of high pitched whines made from the snout.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "35 lb.",
+  "weightRollMod": "x1 lb."
+}

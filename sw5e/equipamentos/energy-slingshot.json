@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 425,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Energy slingshot",
+  "properties": [
+    "Power cell (range 20/80)",
+    "disruptive",
+    "fixed",
+    "mighty",
+    "reload 20",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Disruptive": "disruptive",
+    "Fixed": "fixed",
+    "Mighty": "mighty",
+    "Power Cell": "Power cell (range 20/80)",
+    "Reload": "reload 20",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Energy slingshot",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "4"
+}

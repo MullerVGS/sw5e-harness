@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "For the duration, you sense the presence of any enhancements within 30 feet of you. If you sense an enhancement in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears an enhancement.\r\n\r\nThe power is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
+  "duration": "up to 10 minutes",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Detect Enhancement",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Detect Enhancement"
+}

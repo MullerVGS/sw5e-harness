@@ -1,0 +1,91 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "distinctions": "Extrasensory head tentacles capable of detecting chemicals",
+  "eyeColorOptions": "Black, brown, or red",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nNautolans possess physiology common to amphibious species, including low light vision and excellent swimming skills. Their bony endoskeleton and dense cartilage make them tough and resistant to glancing blows. An egg-laying species, Nautolans emerge from their egg as a tadpole that develops arms, legs, and head-tails during their second year of life. Roughly the same size as a Human infant during this time, their limbs are weak and unable to support their weight, forcing youthful Nautolans to remain in aquatic environments for much of their childhood. \r\n\r\n### Society and Culture\r\nThe society developed by the Nautolans on Glee Anselm is centralized around local families and governments. The centralized government of Glee Anselm is comprised of representatives from the Council of Elders that govern each settlement. Elders are elected on merit, and can be made up of youthful politicians as well as the most aged members of the society. A culture that promotes life-long mates, Nautolan families are characterized by their loyalty between spouses and the equality of the sexes in the household. Arranged marriages are not uncommon. \r\n\r\nNo cultural affinity for the Force ever developed on Glee Anselm, though members of the Nautolan species recognize its importance and respected those among them that were Forceful.\r\n\r\n### Names\r\nNautolan names are generally short and melodic. Female names usually end in a vowel. Surnames are familial.\r\n\r\n**Male Names.** Brod, Knirkoc, Peng, Tikuwik, Zesufreat\r\n\r\n**Female Names.** Doli, Hahi, Thamlymyo, Usha, Zezu\r\n\r\n**Surnames.** Iarre, Rirrall, Sompanong, Uzumdall",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'1\"",
+  "heightRollMod": "+2d8\"",
+  "homeworld": "Glee Anselm",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nautolan.png"
+  ],
+  "language": "Nautila",
+  "manufacturer": null,
+  "name": "Nautolan",
+  "rowKey": "Nautolan",
+  "size": "Medium",
+  "skinColorOptions": "Blue, brown, green, purple, or grey",
+  "traits": [
+    {
+      "description": "Your Dexterity score increases by 2, and your Wisdom score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Nautolans reach adulthood in their early teens and live about 70 years on average.",
+      "name": "Age"
+    },
+    {
+      "description": "Nautolans' benevolence cause them to tend toward the light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Nautolans typically stand 5 to 6 feet tall and rarely weigh more than 160 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Whenever you make a Wisdom (Perception) check involving smell, you are considered to have expertise in the Perception skill.",
+      "name": "Acute Smell"
+    },
+    {
+      "description": "You can breathe air and water.",
+      "name": "Amphibious"
+    },
+    {
+      "description": "Accustomed to life underwater, you have superior vision in low light conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "You have a thick hide. While you are unarmored or wearing light armor, your AC is 12 + your Dexterity modifier.",
+      "name": "Hide"
+    },
+    {
+      "description": "Nautolan head tentacles are adept at determining moods. You have advantage on Wisdom (Insight) checks to determine emotions against humanoids and beasts within 10 feet of you.",
+      "name": "Natural Empathy"
+    },
+    {
+      "description": "You have a swimming speed of 30 feet.",
+      "name": "Swim"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Nautila. Nautila is unique in that it can only be properly pronounced underwater due to its use of pheromones in addition to spoken sounds. In any other environment, the language loses a great amount of detail; that nautolans find this annoying.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "120 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

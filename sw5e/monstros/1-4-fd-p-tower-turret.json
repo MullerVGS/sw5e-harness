@@ -1,0 +1,130 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 10,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The turret has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The turret has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct requires an active gunner to take any actions, and if the gunner is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The gunner may take their own action or one of the actions granted by the construct.",
+      "descriptionWithLinks": " The construct requires an active gunner to take any actions, and if the gunner is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The gunner may take their own action or one of the actions granted by the construct.",
+      "monsterBehaviorType": "Trait",
+      "name": "Gunner",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The turret uses its Intelligence modifier for attack, damage, and intitiative rolls.",
+      "descriptionWithLinks": " The turret uses its Intelligence modifier for attack, damage, and intitiative rolls.",
+      "monsterBehaviorType": "Trait",
+      "name": "Targeting Systems",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The Turret chooses a target within 600 ft and lets loose a blast of energy at the target.  The target must succeed at a DC 16 Dexterity saving throw, or take 28 (7d6 + 4) energy damage.  Large and larger constructs and structures have disadvantage on the saving throw, and suffer an additional 24 (7d6) energy damage if they fail the save by 10 or more.",
+      "descriptionWithLinks": " The Turret chooses a target within 600 ft and lets loose a blast of energy at the target.  The target must succeed at a DC 16 Dexterity saving throw, or take 28 (7d6 + 4) energy damage.  Large and larger constructs and structures have disadvantage on the saving throw, and suffer an additional 24 (7d6) energy damage if they fail the save by 10 or more.",
+      "monsterBehaviorType": "Action",
+      "name": "Laser Canon",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Recharge 4-6"
+    }
+  ],
+  "challengeRating": "5",
+  "charisma": 4,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 13,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 4,
+  "dexterityModifier": -3,
+  "experiencePoints": 1800,
+  "flavorText": "Manufactured by Atgar SpaceDefense Corporation, the 1.4 FD P-Tower is a light laser cannon employed as a fixed emplacement anti-vehicle weapon. It is designed to target a variety of enemy vehicles, including repulsortanks and landspeeders, although it has difficulty targeting fast-moving vehicles. The unit is quick to produce and inexpensive.The main bulk of the weapon is a 2.8 meter high energy dish that has sixteen micropower routers spaced evenly along the outer edge, and eight power conversion cells along the interior of the dish. Targeting sensors are placed on the upper edge of the dish, and a single light laser cannon emanates from the center of the dish. To fire the weapon, energy is fed directly into each micropower router which holds the charge until the firing computer registers that the Energy Conversion Point had been achieved. The power conversion cells around the dish glows once the weapon is primed to fire. At that point, the firing computer channels the energy from the routers into the main power converter located at the center of the dish, firing the weapon. The energy beam moves through the discharge barrel, into the galven circuitry and through the focusing lens to produce a low-power beam that is effective against repulsorcraft, landspeeders, and airspeeders.The 1.4 FD P-Tower utilizes an Atgar C-6 battery, which only retains enough power for eight shots before needing to be replaced. The battery is easy to replace when handled by a skilled technician. When hooked up to a power generator, the weapon has unlimited fire capability. The weapon also suffers from a low fire rate, and requires ten seconds to build up an adequate charge.  The visible dish was also a tempting target for opponents, although the weapon itself is protected by light armor plating.",
+  "hitPointRoll": "8d10 + 10",
+  "hitPoints": 52,
+  "imageUrls": [],
+  "intelligence": 18,
+  "intelligenceModifier": 4,
+  "languages": [
+    "—"
+  ],
+  "name": "1.4 FD P-Tower Turret",
+  "rowKey": "1.4 FD P-Tower Turret",
+  "savingThrows": null,
+  "sectionText": "A turret is a mount for a weapon that enabled it to turn and pivot, allowing it to fire in many different directions. They are mounted on many vehicles, starfighters, and starships.  Other turrets are mounted on the ground, and can be both manned and un-manned. Weapons mounted on turrets included laser cannons and other types of projectile cannons.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 14"
+  ],
+  "size": "Large",
+  "skills": [
+    "Perception +4"
+  ],
+  "speed": 0,
+  "speeds": "0 ft.",
+  "strength": 16,
+  "strengthModifier": 3,
+  "types": [
+    "construct"
+  ],
+  "wisdom": 11,
+  "wisdomModifier": 0
+}

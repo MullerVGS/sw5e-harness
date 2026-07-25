@@ -1,0 +1,174 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 15,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid tank has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid tank has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The outer layer of the droid is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 10 points, the droid takes no damage from that attack. If the droid takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.",
+      "descriptionWithLinks": " The outer layer of the droid is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 10 points, the droid takes no damage from that attack. If the droid takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.",
+      "monsterBehaviorType": "Trait",
+      "name": "Heavy Durasteel Armor",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid tank makes one crushing stride attack, one heavy repeating blaster attack and one ion cannon attack.",
+      "descriptionWithLinks": " The droid tank makes one crushing stride attack, one heavy repeating blaster attack and one ion cannon attack.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 6,
+      "attackType": "RangedWeapon",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Ranged Weapon Attack +6 to hit, 150/300, one target. Hit 27 (4d10 + 5) ion damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack +6 to hit, 150/300, one target. Hit 27 (4d10 + 5) ion damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Ion Cannons",
+      "numberOfTargets": "one target. Hit 27 (4d10 + 5) ion damage.",
+      "range": "150/300",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 6,
+      "attackType": "RangedWeapon",
+      "damage": "27",
+      "damageRoll": "4d10+5",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +6 to hit, range 120/240 ft., one target. Hit: 27 (4d10+5) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +6 to hit, range 120/240 ft., one target. Hit: 27 (4d10+5) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Heavy Repeating Blasters",
+      "numberOfTargets": "one target.",
+      "range": "range 120/240 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid moves up to its speed in a straight line. During this move, it can enter Large or smaller creatures' spaces. A creature whose space the droid enters must make a DC 18 Dexterity saving throw. On a failed save, the creature falls prone and takes 36 (8d8) kinetic damage. On a successful save, the creature takes half damage and is pushed 5 feet to the nearest space out of the droid's path.If the droid remains in the prone creature's space, the creature is also restrained until it's no longer in the same space as the droid. While restrained in this way, the creature, or another creature within 5 feet of it, can make a DC 18 Strength check. On a success, the creature is shunted to an unoccupied space of its choice within 5 feet of the droid tank and is no longer restrained.",
+      "descriptionWithLinks": " The droid moves up to its speed in a straight line. During this move, it can enter Large or smaller creatures' spaces. A creature whose space the droid enters must make a DC 18 Dexterity saving throw. On a failed save, the creature falls prone and takes 36 (8d8) kinetic damage. On a successful save, the creature takes half damage and is pushed 5 feet to the nearest space out of the droid's path.If the droid remains in the prone creature's space, the creature is also restrained until it's no longer in the same space as the droid. While restrained in this way, the creature, or another creature within 5 feet of it, can make a DC 18 Strength check. On a success, the creature is shunted to an unoccupied space of its choice within 5 feet of the droid tank and is no longer restrained.",
+      "monsterBehaviorType": "Action",
+      "name": "Crushing Stride",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid moves up to its speed in a straight line towards a structure or construct target. A structure or construct whose space the droid ends its turn adjacent must make a DC 18 Strength saving throw. On a failed save, the structure or construct takes 70 (10d12 + 5) kinetic damage.  On a successful save, the droid and the structure or construct both take half damage.",
+      "descriptionWithLinks": " The droid moves up to its speed in a straight line towards a structure or construct target. A structure or construct whose space the droid ends its turn adjacent must make a DC 18 Strength saving throw. On a failed save, the structure or construct takes 70 (10d12 + 5) kinetic damage.  On a successful save, the droid and the structure or construct both take half damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Ram",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "8",
+  "charisma": 1,
+  "charismaModifier": -5,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 20,
+  "constitutionModifier": 5,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 12,
+  "dexterityModifier": 1,
+  "experiencePoints": 3900,
+  "flavorText": "The NR-N99 Persuader-class droid enforcer of the Confederacy of Independent Systems is a droid tank manufactured by the Techno Union and mainly utilized by Corporate Alliance.  The impressive armament of the tank includes ion cannons and heavy repeating blasters, although this weapons package could be swapped out with alternative packages that included shock rifles or concussion missile launchers. The tank moves by way of its huge central tread, and it is augmented on either of its sides by forward-mounted outrigger wheels on a pontoon tread, which gives additional stability. Infantry soldiers are also able to ride on top of these tanks. The NR-N99 Persuader-class tank droid is able to move up to 40 mph, but this droid tank lacks the agility of walking droid tanks. It is also able to plow through battlefields and ram barricades. The droid is able to function through a variety of terrain, and the droid is also able to move on top of water. The NR-N99 Persuader-class droid enforcer  is well-armored, possesses heat exchange panels and communications antennae, and the unit has armor-shielded photoreceptors. It was designed to be able to function with its computer brain, but the vehicle could also be controlled by a pilot droid.",
+  "hitPointRoll": "12d12 + 60",
+  "hitPoints": 138,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "Binary",
+    "Galactic Basic"
+  ],
+  "name": "NR-N99 Persuader-Class Enforcer",
+  "rowKey": "NR-N99 Persuader-Class Enforcer",
+  "savingThrows": [
+    "Str +10",
+    "Con +10"
+  ],
+  "sectionText": "Droid tanks are massive droids that retain the abilities of a droid but come in a larger package, with different functionality and appearance.",
+  "senses": [
+    "darkvision 120 ft.",
+    "passive Perception 10"
+  ],
+  "size": "Huge",
+  "skills": null,
+  "speed": 40,
+  "speeds": "40 ft., swim 40 ft.",
+  "strength": 20,
+  "strengthModifier": 5,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

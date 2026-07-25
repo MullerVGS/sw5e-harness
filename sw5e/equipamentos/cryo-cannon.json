@@ -1,0 +1,39 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 3300,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Cold",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Cryo cannon",
+  "properties": [
+    "Auto",
+    "burst 2",
+    "power cell (range 75/300)",
+    "reload 4",
+    "strength 13",
+    "two-handed",
+    "vicious 1"
+  ],
+  "propertiesMap": {
+    "Auto": "Auto",
+    "Burst": "burst 2",
+    "Power Cell": "power cell (range 75/300)",
+    "Reload": "reload 4",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed",
+    "Vicious": "vicious 1"
+  },
+  "rowKey": "Cryo cannon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "12.5"
+}

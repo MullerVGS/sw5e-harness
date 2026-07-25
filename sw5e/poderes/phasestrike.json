@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "BonusAction",
+  "castingPeriodText": "1 bonus action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Until the power ends, your movement doesn't provoke opportunity attacks.\r\n\r\nOnce before the power ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Phasestrike",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Phasestrike"
+}

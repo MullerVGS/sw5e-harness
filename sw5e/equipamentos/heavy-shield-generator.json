@@ -1,0 +1,23 @@
+{
+  "ac": "+3",
+  "armorClassification": "Shield",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1250,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Heavy shield generator",
+  "properties": [],
+  "propertiesMap": {},
+  "rowKey": "Heavy shield generator",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "12"
+}

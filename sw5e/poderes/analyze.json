@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Minute",
+  "castingPeriodText": "1 minute",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You choose one object that you must touch throughout the casting of the power. If it is an enhanced or modified item, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any powers are affecting the item and what they are. If the item was created by a power, you learn which power created it.\r\n\r\nIf you instead touch a creature throughout the casting, you learn what tech powers, if any, are currently affecting it.",
+  "duration": "Instantaneous",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Analyze",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Touch",
+  "rowKey": "Analyze"
+}

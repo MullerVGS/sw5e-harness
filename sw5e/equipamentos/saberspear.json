@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 450,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Saberspear",
+  "properties": [
+    "Luminous",
+    "thrown (range 20/60)",
+    "versatile (2d4)"
+  ],
+  "propertiesMap": {
+    "Luminous": "Luminous",
+    "Range": "thrown (range 20/60)",
+    "Versatile": "versatile (2d4)"
+  },
+  "rowKey": "Saberspear",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleLightweapon",
+  "weight": "2"
+}

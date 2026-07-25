@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Powered Armoring Mk II",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Powered Armoring Mk II",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "This armor gains the powered 13 property. If it already has the powered property, its powered number increases by two steps (from 11 to 15, 13 to 17, 15 to 19, or 17 to 21).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

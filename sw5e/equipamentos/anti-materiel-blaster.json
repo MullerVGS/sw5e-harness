@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 2500,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 3,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Anti-materiel blaster",
+  "properties": [
+    "Power cell (range 180/720)",
+    "auto",
+    "reload 2",
+    "penetrating 2",
+    "strength 19",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Auto": "auto",
+    "Penetrating": "penetrating 2",
+    "Power Cell": "Power cell (range 180/720)",
+    "Reload": "reload 2",
+    "Strength": "strength 19",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Anti-materiel blaster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "18.5"
+}

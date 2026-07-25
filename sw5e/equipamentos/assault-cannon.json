@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1550,
+  "damageDiceDieTypeEnum": 12,
+  "damageDieModifier": 0,
+  "damageDieType": 12,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Assault cannon",
+  "properties": [
+    "Burst 4",
+    "power cell (range 90/360)",
+    "reload 4",
+    "strength 15",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Burst": "Burst 4",
+    "Power Cell": "power cell (range 90/360)",
+    "Reload": "reload 4",
+    "Strength": "strength 15",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Assault cannon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "15"
+}

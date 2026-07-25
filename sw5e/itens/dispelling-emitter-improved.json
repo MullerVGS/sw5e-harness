@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Dispelling Emitter (Improved)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Dispelling Emitter (Improved)",
+  "searchableRarity": "Prototype",
+  "subtype": "focus generator",
+  "text": "This item gains the dispelling 3 property. If it already has the dispelling property, its dispelling number increases by 3, to a maximum of 6.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

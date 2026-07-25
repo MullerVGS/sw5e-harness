@@ -1,0 +1,27 @@
+{
+  "ac": "+0",
+  "armorClassification": "Shield",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 300,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Bone light shield",
+  "properties": [
+    "Spiked (1d4)"
+  ],
+  "propertiesMap": {
+    "Spiked": "Spiked (1d4)"
+  },
+  "rowKey": "Bone light shield",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "0"
+}

@@ -1,0 +1,29 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 275,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrowhip",
+  "properties": [
+    "Finesse",
+    "reach"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Reach": "reach"
+  },
+  "rowKey": "Vibrowhip",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "3.5"
+}

@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1800,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 2,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightbow",
+  "properties": [
+    "Piercing 1",
+    "power cell (range 60/240)",
+    "reload 2",
+    "strength 15",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Piercing": "Piercing 1",
+    "Power Cell": "power cell (range 60/240)",
+    "Reload": "reload 2",
+    "Strength": "strength 15",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Lightbow",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "14"
+}

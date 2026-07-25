@@ -1,0 +1,29 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 450,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Doublesword",
+  "properties": [
+    "Double (1d8 kinetic)",
+    "finesse"
+  ],
+  "propertiesMap": {
+    "Double": "Double (1d8 kinetic)",
+    "Finesse": "finesse"
+  },
+  "rowKey": "Doublesword",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "5.5"
+}

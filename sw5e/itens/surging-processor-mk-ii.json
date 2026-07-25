@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Surging Processor Mk II",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Surging Processor Mk II",
+  "searchableRarity": "Premium",
+  "subtype": "wristpad",
+  "text": "This item gains the surging 2 property. If it already has the surging property, its surging number increases by 2, to a maximum of 6.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Body",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Tunic Chassis (Prototype)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Tunic Chassis (Prototype)",
+  "searchableRarity": "Prototype",
+  "subtype": "body",
+  "text": "_**Requires attunement**_\r\nThis modifiable clothing chassis comes with vacant modification slots for clothing modifications, as well as one augment slot. It can house modifications of prototype rarity or lower.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

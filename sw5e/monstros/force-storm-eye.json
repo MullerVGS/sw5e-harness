@@ -1,0 +1,234 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 19,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The eye can enter a hostile creature's space and stop there.  It can move through a space as narrow as 1 inch wide without squeezing.",
+      "descriptionWithLinks": " The eye can enter a hostile creature's space and stop there.  It can move through a space as narrow as 1 inch wide without squeezing.",
+      "monsterBehaviorType": "Trait",
+      "name": "Air Form",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The eye doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "descriptionWithLinks": " The eye doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "monsterBehaviorType": "Trait",
+      "name": "Flyby",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " If the eye fails a saving throw, it can choose to succeed instead.",
+      "descriptionWithLinks": " If the eye fails a saving throw, it can choose to succeed instead.",
+      "monsterBehaviorType": "Trait",
+      "name": "Legendary Resistance",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "3/day"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The eye deals double damage to objects and structures.",
+      "descriptionWithLinks": " The eye deals double damage to objects and structures.",
+      "monsterBehaviorType": "Trait",
+      "name": "Siege Conditions",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The eye attacks twice with thunder slam.",
+      "descriptionWithLinks": " The eye attacks twice with thunder slam.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 16,
+      "attackType": "MeleeWeapon",
+      "damage": "23",
+      "damageRoll": "4d6+9",
+      "damageType": "Sonic",
+      "description": " Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 23 (4d6+9) sonic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 23 (4d6+9) sonic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Thunder Slam",
+      "numberOfTargets": "one target.",
+      "range": "reach 20 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " All other creatures within 120 feet of the eye must each make a DC 20 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one.  If a target's saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.",
+      "descriptionWithLinks": " All other creatures within 120 feet of the eye must each make a DC 20 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one.  If a target's saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.",
+      "monsterBehaviorType": "Action",
+      "name": "Lightning Storm",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Recharge 6"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The eye moves up to its speed.",
+      "descriptionWithLinks": " The eye moves up to its speed.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Move",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The eye can cause a bolt of lightning to strike a point anywhere under its storm.  Each creature within 5 feet of that point must make a DC 20 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much sonic damage on a successful one.",
+      "descriptionWithLinks": " The eye can cause a bolt of lightning to strike a point anywhere under its storm.  Each creature within 5 feet of that point must make a DC 20 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much sonic damage on a successful one.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Lightning Strike",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Costs 2 Actions"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The eye releases a blast of thunder and wind in a line that is 1 mile long and 20 feet wide.  Objects in that area take 22 (4d10) sonic damage.  Each creature there must succeed on a DC 21 Dexterity saving throw or take 22 (4d10) sonic damage and be flung up to 60 feet in a direction away from the line.  If a thrown target collides with immovable object, such as a wall or floor, the target takes 3 (1d6) kinetic damage for every 10 feet it was thrown before impact.  If the target would collide with another creature instead, that other creature must succeed on a DC19 Dexterity saving throw or take the same damage and be knocked prone.",
+      "descriptionWithLinks": " The eye releases a blast of thunder and wind in a line that is 1 mile long and 20 feet wide.  Objects in that area take 22 (4d10) sonic damage.  Each creature there must succeed on a DC 21 Dexterity saving throw or take 22 (4d10) sonic damage and be flung up to 60 feet in a direction away from the line.  If a thrown target collides with immovable object, such as a wall or floor, the target takes 3 (1d6) kinetic damage for every 10 feet it was thrown before impact.  If the target would collide with another creature instead, that other creature must succeed on a DC19 Dexterity saving throw or take the same damage and be knocked prone.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Screaming Gale",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Costs 3 Actions"
+    }
+  ],
+  "challengeRating": "23",
+  "charisma": 18,
+  "charismaModifier": 4,
+  "conditionImmunities": [
+    "Grappled",
+    "Paralyzed",
+    "Petrified",
+    "Poisoned",
+    "Prone",
+    "Restrained",
+    "Stunned"
+  ],
+  "conditionImmunitiesOther": [
+    "exhaustion"
+  ],
+  "conditionImmunitiesParsed": [
+    5,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14
+  ],
+  "constitution": 23,
+  "constitutionModifier": 6,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [
+    "Lightning",
+    "Poison",
+    "Sonic"
+  ],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [
+    8,
+    10,
+    12
+  ],
+  "damageResistances": [
+    "Energy",
+    "Ion"
+  ],
+  "damageResistancesOther": [
+    "and kinetic from unenhanced weapons"
+  ],
+  "damageResistancesParsed": [
+    3,
+    6
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 28,
+  "dexterityModifier": 9,
+  "experiencePoints": 50000,
+  "flavorText": "",
+  "hitPointRoll": "16d20 + 96",
+  "hitPoints": 264,
+  "imageUrls": [],
+  "intelligence": 2,
+  "intelligenceModifier": -4,
+  "languages": [
+    "None"
+  ],
+  "name": "Force Storm Eye",
+  "rowKey": "Force Storm Eye",
+  "savingThrows": [
+    "Wis +12",
+    "Cha +11"
+  ],
+  "sectionText": "When the Force is strongly out of balance in a particular region, a Force Storm may form. Most Force Storms consisted of significant and violent weather patterns, while some were occasionally accompanied by volcanic or seismic activities. Force Storms could be caused by powerful presences in either the light or dark sides of the Force, the arrival of many Force-sensitives on the planet, or the death of many Force-sensitives all at once.  The eye of a force storm may be temporarily neutralized, greatly diminishing the effects of the storm for a short while.  However, only the resolution of the imbalance in the Force can truly stop a Force Storm once started.#### Lair ActionsOn initiative count 20 (losing initiative ties), the force storm can take a lair action to cause one of the following effects; it can't use the same effect two rounds in a row:- Force Storm causes a blast of cold to burst from the clouds at a point it can see within 120 feet of it.  The cold fills a cube, 10 feet on each side, centered on that point.  Each creature in that area must succeed on a DC 20 Constitution saving throw or take 28 (8d6) cold damage.- Force Storm casts the *force repulse* power.- Force Storm targets one creature it can see within 60 feet of it.  The target must succeed on a DC 20 Wisdom saving throw or become restrained for 1 minute.  The target can end the effect on itself if it deals any damage to one or more of its allies.#### Regional Effects- The eye is always at the center of a storm 6 miles in diameter. Heavy precipitation in the form of either rain of snow falls there, causing the area to be lightly obsured.  Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom (Perception) checks that rely on hearing. - Freezing strong winds howl around the area within 1 mile of the eye of the force storm. The heavy winds impose disadvantage on ranged attack rolls, extinguish open flames, and disperse fog.- Howling wind and thunder claps fill the air within 1 mile of the eye.  Any creature that finishes a short or long rest in this area must succeed on a DC 21 Wisdom saving through or derive no benefit from the rest.If the Force Storm Eye is destroyed, these effects fade over 1d10 hours.  These effects return, along with the eye, over 1d10 days unless the conditions causing the imbalance in the Force are resolved.",
+  "senses": [
+    "truesight 120 ft.",
+    "passive Perception 15"
+  ],
+  "size": "Gargantuan",
+  "skills": null,
+  "speed": 0,
+  "speeds": "0 ft., fly 120 ft. (hover)",
+  "strength": 23,
+  "strengthModifier": 6,
+  "types": [
+    "elemental"
+  ],
+  "wisdom": 21,
+  "wisdomModifier": 5
+}

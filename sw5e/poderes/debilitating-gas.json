@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You create a 20-foot-radius sphere of gas centered on a point. The cloud spreads around corners and its area is heavily obscured. It lingers in the air for the duration.\r\n\r\nEach creature completely in the cloud at the start of its turn must make a Constitution save against poison. On a failure, the creature does nothing that turn. Creatures that don't need to breathe or are immune to poison automatically succeed.\r\n\r\nA wind of 10mph disperses the cloud after 4 rounds. A wind of 20mph disperses it after 1 round.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 3,
+  "name": "Debilitating Gas",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "90 feet",
+  "rowKey": "Debilitating Gas"
+}

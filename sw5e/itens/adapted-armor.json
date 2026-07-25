@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "Any",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Adapted Armor",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Adapted Armor",
+  "searchableRarity": "Prototype",
+  "subtype": "any",
+  "text": "_**Requires attunement**_\r\nYou have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.\r\n\r\n| d10 | Damage Type |\r\n|:---:|:------------|\r\n|  1  | Acid        |\r\n|  2  | Cold        |\r\n|  3  | Fire        |\r\n|  4  | Force       |\r\n|  5  | Ion         |\r\n\r\n| d10 | Damage Type |\r\n|:---:|:------------|\r\n|  6  | Lightning   |\r\n|  7  | Necrotic    |\r\n|  8  | Poison      |\r\n|  9  | Psychic     |\r\n|  10 | Sonic       |\r\n\r\n_Those foolhardy enough to not treat a hostile planet as worthy a foe as the ones carrying blasters don't often live long enough to boast about it._",
+  "type": "Armor",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Choose one creature, or choose two creatures that are within 5 feet of each other, within range. A target must succeed on a Dexterity saving throw or take 1d6 force damage.\r\n\r\nThis power's damage increases by 1d6 when you reach 5th, 11th, and 17th level.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 0,
+  "name": "Turbulence",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "60 feet",
+  "rowKey": "Turbulence"
+}

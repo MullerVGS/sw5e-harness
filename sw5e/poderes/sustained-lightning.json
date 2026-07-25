@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You lash out against a creature within range with continual jolts of Force lightning. Make a ranged force attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The power ends if you use your action to do anything else. The power also ends if the target is ever outside the power's range or if it has total cover from you.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Dark",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Sustained Lightning",
+  "powerType": "Force",
+  "prerequisite": "Shock",
+  "range": "30 feet",
+  "rowKey": "Sustained Lightning"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "AnyLightweapon",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Lightweapon Chassis (Prototype)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Lightweapon Chassis (Prototype)",
+  "searchableRarity": "Prototype",
+  "subtype": "any lightweapon",
+  "text": "_**Requires attunement**_\r\nThis modifiable lightweapon chassis comes with vacant modification slots for lightweapon modifications, as well as one augment slot. It can house modifications of prototype rarity or lower.",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

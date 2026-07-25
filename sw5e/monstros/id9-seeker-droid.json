@@ -1,0 +1,101 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 11,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 2,
+      "attackType": "MeleeWeapon",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 lightning damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 lightning damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Shockprod",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "0",
+  "charisma": 10,
+  "charismaModifier": 0,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 8,
+  "constitutionModifier": -1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 11,
+  "dexterityModifier": 0,
+  "experiencePoints": 10,
+  "flavorText": "ID9 seeker droids, also called Parrot Droids or Mimic Droids, are a model of seeker droids that resemble the much larger Viper probe droids. The body of ID9 seekers consistsd in a half-hemisphere dome with a red photoreceptor. Attached to that dome are five articulated, tentacle-like limbs that end in pincers. The ID9s are outfitted with electro-shock prods that allow them to harm organic lifeforms and incapacitate mechanical beings. They are capable of imitating the sounds of other droid models, and have two locomotions modes: hovering and crawling.",
+  "hitPointRoll": "1d4-1",
+  "hitPoints": 1,
+  "imageUrls": [],
+  "intelligence": 4,
+  "intelligenceModifier": -3,
+  "languages": [
+    "—"
+  ],
+  "name": "ID9 Seeker Droid",
+  "rowKey": "ID9 Seeker Droid",
+  "savingThrows": null,
+  "sectionText": "Tracker Droids are a general term used to describe simple droids that are capable of being permanently linked to via the tech power *tracker droid interface*.  Tracker droids are not all dedicated tracking or probe droids as the name might suggest, but these are the most common types of droids to become linked with in most cultures throughout the galaxy, explaining this commonly used shorthand.  ",
+  "senses": [
+    "passive Perception 13"
+  ],
+  "size": "Tiny",
+  "skills": [
+    "Perception +3"
+  ],
+  "speed": 5,
+  "speeds": "5 ft., fly 30 ft.",
+  "strength": 9,
+  "strengthModifier": -1,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

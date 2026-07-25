@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Clandestine Stitching (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Clandestine Stitching (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "clothing",
+  "text": "This article of clothing come with five hidden pockets, each of which can store up to 1 lb. Finding these hidden pockets requires a DC 27 Investigation check. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

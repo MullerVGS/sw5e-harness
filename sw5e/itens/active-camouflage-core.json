@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Enhancement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Active Camouflage Core",
+  "prerequisite": " Constitution 13",
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Active Camouflage Core",
+  "searchableRarity": "Advanced",
+  "subtype": "enhancement",
+  "text": "As an action, you can activate this augmentation to cast the _infiltrate_ tech power targeting yourself. Intelligence is your tech casting ability for this power, and if you cast it using this augmentation, it does not require concentration. \r\n\r\n**Side Effect:** While this augmentation is active, your speed is reduced by 10. Additionally, it fails to activate if you are submerged in water or other liquids.\r\n\r\n_This internal augmentation can be activated to project a distortion field that bends visual light._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

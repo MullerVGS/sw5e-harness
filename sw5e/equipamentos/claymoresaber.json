@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 2300,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 3,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Claymoresaber",
+  "properties": [
+    "Dexterity 13",
+    "luminous",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 13",
+    "Luminous": "luminous",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Claymoresaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "3.5"
+}

@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 675,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Switch pistol",
+  "properties": [
+    "Power cell (range 40/160)",
+    "reload 20",
+    "switch (1d4 fire)"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 40/160)",
+    "Reload": "reload 20",
+    "Switch": "switch (1d4 fire)"
+  },
+  "rowKey": "Switch pistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "4.5"
+}

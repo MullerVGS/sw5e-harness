@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Placing your hand on another creature you can transfer your own life force to them. You spend and roll one of your Hit Dice and the creature regains that many hit points. This power has no effect on droids or constructs.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 0,
+  "name": "Give Life",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Touch",
+  "rowKey": "Give Life"
+}

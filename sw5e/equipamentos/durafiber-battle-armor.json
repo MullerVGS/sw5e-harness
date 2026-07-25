@@ -1,0 +1,29 @@
+{
+  "ac": "15",
+  "armorClassification": "Heavy",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 6750,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Durafiber battle armor",
+  "properties": [
+    "Bulky",
+    "strength 11"
+  ],
+  "propertiesMap": {
+    "Bulky": "Bulky",
+    "Strength": "strength 11"
+  },
+  "rowKey": "Durafiber battle armor",
+  "stealthDisadvantage": true,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "55"
+}

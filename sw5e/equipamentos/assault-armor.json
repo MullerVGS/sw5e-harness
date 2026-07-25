@@ -1,0 +1,29 @@
+{
+  "ac": "17",
+  "armorClassification": "Heavy",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 2000,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Assault armor improved on battle armor, with the benefit of micro-hydraulics that boost the efficacy of the operator. It offers better protection, but increased weight.",
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Assault armor",
+  "properties": [
+    "Bulky",
+    "strength 15"
+  ],
+  "propertiesMap": {
+    "Bulky": "Bulky",
+    "Strength": "strength 15"
+  },
+  "rowKey": "Assault armor",
+  "stealthDisadvantage": true,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "60"
+}

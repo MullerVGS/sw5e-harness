@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Gloom Cell",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Gloom Cell",
+  "searchableRarity": "Standard",
+  "subtype": "lightweapon",
+  "text": "This weapon loses the luminous property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

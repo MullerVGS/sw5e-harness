@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Extending Cycler (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Extending Cycler (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "focus generator",
+  "text": "This item gains the extending 30 property. If it already has the extending property, its extending number increases to 30.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

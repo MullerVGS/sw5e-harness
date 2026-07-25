@@ -1,0 +1,73 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 12,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 3,
+      "attackType": "MeleeWeapon",
+      "damage": "1",
+      "damageRoll": "1d3-1",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +3 to hit, Reach 5 ft., one target. Hit: 1 (1d3-1) kinetic damage, and the target must make a Constitution saving throw (DC 14). On a success, the creature is unaffected by the venom. On a failure, the creature loses 1d6 Strength, then must attempt another save 1 minute (10 rounds) later. If the second save fails, the creature loses an additional 1d6 Strength. If this reduces the creature's Strength to 0 or lower, it dies.",
+      "descriptionWithLinks": " Melee Weapon Attack: +3 to hit, Reach 5 ft., one target. Hit: 1 (1d3-1) kinetic damage, and the target must make a Constitution saving throw (DC 14). On a success, the creature is unaffected by the venom. On a failure, the creature loses 1d6 Strength, then must attempt another save 1 minute (10 rounds) later. If the second save fails, the creature loses an additional 1d6 Strength. If this reduces the creature's Strength to 0 or lower, it dies.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "Reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1/8",
+  "charisma": 3,
+  "charismaModifier": -4,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 11,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 15,
+  "dexterityModifier": 2,
+  "experiencePoints": 25,
+  "flavorText": "Rock warts were orange/brown insect-like crustaceans found on many planets. Their bite delivered a neurotoxin to their victim, which was then used as an incubator for up to twenty eggs.",
+  "hitPointRoll": "3d8",
+  "hitPoints": 13,
+  "imageUrls": [],
+  "intelligence": 1,
+  "intelligenceModifier": -5,
+  "languages": [
+    "-"
+  ],
+  "name": "Rock Wart",
+  "rowKey": "Rock Wart",
+  "savingThrows": null,
+  "sectionText": "Ysalamiri are furry, lizard-like tree-dwellers about 2 feet in length, native to the planet Myrkr, and most known for their ability to create a Force-neutral bubble. This ability evolved in response to predation by the Force-sensitive vornskrs. Many ysalamiri grouped together would expand their Force-neutral bubble by varying distances � sometimes by kilometers.Ysalamiri sink their claws into the Olbio trees on which they live and draw nutrients. It is very difficult to remove a ysalamir from its tree without killing it, although this has been known to happen. Some few have developed back harness or nutrient frames which allow transport of the ysalamiri and, therefore, their Force repelling bubble. Ysalamiri do not actually negate the Force; since all existence is infused with Force energy, this would not be possible. Rather, they project a bubble inside which users are unable to exert any influence over the Force. A single bubble measures a few meters in diameter; large groups of ysalamiri could extend their collective bubble by kilometers, but only in great numbers.Miriskin was a commodity  made from ysalamir skin.",
+  "senses": [
+    "blindsight 30 ft.",
+    "passive Perception 9"
+  ],
+  "size": "Small",
+  "skills": [
+    "Stealth +4"
+  ],
+  "speed": 30,
+  "speeds": "30 ft., climb 30 ft.",
+  "strength": 13,
+  "strengthModifier": 1,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 9,
+  "wisdomModifier": -1
+}

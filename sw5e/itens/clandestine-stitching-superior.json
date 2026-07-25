@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Clandestine Stitching (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Clandestine Stitching (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "clothing",
+  "text": "This article of clothing come with four hidden pockets, each of which can store up to 1 lb. Finding these hidden pockets requires a DC 24 Investigation check. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

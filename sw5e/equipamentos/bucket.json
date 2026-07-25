@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 2,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A bucket stores 3 gallons of liquid or 1/2 cubic foot of solids.",
+  "equipmentCategory": "Storage",
+  "modes": [],
+  "name": "Bucket",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Bucket",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "2"
+}

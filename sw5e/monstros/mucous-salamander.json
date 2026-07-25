@@ -1,0 +1,189 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 13,
+  "armorType": "15 natural armor in solid form",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " When the salamander enters or exits water, it changes the form of its molecular structure to mimic its surroundings. Other than its AC, its statistics are the same in each form. Any object it is wearing or carrying isn't transformed.",
+      "descriptionWithLinks": " When the salamander enters or exits water, it changes the form of its molecular structure to mimic its surroundings. Other than its AC, its statistics are the same in each form. Any object it is wearing or carrying isn't transformed.",
+      "monsterBehaviorType": "Trait",
+      "name": "Shifting Molecules",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The salamander can breathe air and water.",
+      "descriptionWithLinks": " The salamander can breathe air and water.",
+      "monsterBehaviorType": "Trait",
+      "name": "Amphibious",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The salamander can move through other creatures and objects no more than 10 feet in diameter as if they were difficult terrain. It takes 5 (1d10) kinetic damage if it ends its turn inside an object.",
+      "descriptionWithLinks": " The salamander can move through other creatures and objects no more than 10 feet in diameter as if they were difficult terrain. It takes 5 (1d10) kinetic damage if it ends its turn inside an object.",
+      "monsterBehaviorType": "Trait",
+      "name": "Diffuse Body",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Liquid Form Only"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The salamander can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "descriptionWithLinks": " The salamander can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "monsterBehaviorType": "Trait",
+      "name": "Spider Climb",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Solid Form Only"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Any creature that grapples the salamander takes 3 (1d6) kinetic damage at the end of its turn.",
+      "descriptionWithLinks": " Any creature that grapples the salamander takes 3 (1d6) kinetic damage at the end of its turn.",
+      "monsterBehaviorType": "Trait",
+      "name": "Spiked Hide",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Solid Form Only"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " While underwater, the salamander has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.",
+      "descriptionWithLinks": " While underwater, the salamander has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.",
+      "monsterBehaviorType": "Trait",
+      "name": "Watery Stealth",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Liquid Form Only"
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "7",
+      "damageRoll": "1d8 + 2",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 2) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 2) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "8",
+      "damageRoll": "1d10 + 3",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Claw",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": "Solid Form Only"
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 5,
+  "charismaModifier": -3,
+  "conditionImmunities": [
+    "Prone",
+    "Grappled"
+  ],
+  "conditionImmunitiesOther": [
+    "restrained in liquid form"
+  ],
+  "conditionImmunitiesParsed": [
+    11,
+    5
+  ],
+  "constitution": 13,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Energy",
+    "Ion"
+  ],
+  "damageResistancesOther": [
+    "and kinetic from unenhanced weapons in solid form"
+  ],
+  "damageResistancesParsed": [
+    3,
+    6
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": [
+    "lightning in liquid form"
+  ],
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 17,
+  "dexterityModifier": 3,
+  "experiencePoints": 450,
+  "flavorText": "",
+  "hitPointRoll": "8d8 + 8",
+  "hitPoints": 44,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "�"
+  ],
+  "name": "Mucous Salamander",
+  "rowKey": "Mucous Salamander",
+  "savingThrows": null,
+  "sectionText": "Mucous salamanders, or pinkish salamanders, are amphibians native to the bogs of Yavin 4. They possess the distinct ability to diffuse their molecular structures underwater, which allow them to swim faster and pass through hunters' nets. When a mucous salamander enters dry areas, it cN change its molecular structure into hardened scales for protection from predators, particularly the angler. ",
+  "senses": [
+    "passive Perception 11"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Athletics +5",
+    "Stealth +5"
+  ],
+  "speed": 30,
+  "speeds": "30 ft., climb 30 ft. (solid form), swim 50 ft. (liquid form)",
+  "strength": 16,
+  "strengthModifier": 3,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

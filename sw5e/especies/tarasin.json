@@ -1,0 +1,83 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Reptillian, sa'tosin spines",
+  "eyeColorOptions": "Red, orange, yellow, or black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nTarasins are tall reptilians covered in translucent scales that allows the species' color-changing skin below to show through. Tarasins also have a colorful fan of flesh and scales�known as a kampo�that opens around their heads when they experience strong emotional distress, which can be a detriment to negotiations, as it is difficult for a tarasin to hide discomfort. This color-changing ability is useful for camouflage and communication, and the scales naturally repel heat. Some examples of colors they take on include being brown when calm and in a comfortable environment, or becoming red after extended exertion or when excited. Tarasins also have short spines that protrude from their forearms�known as a sa'tosin�which give the creatures the ability to sense the use of the Force. Tarasins are naturally curious and protective but also slow to anger. What they lack in sheer physical strength they make up for with a brilliant intellect.\r\n\r\n### Society and Culture\r\nTarasins live in a tribal system in the jungle underbrush of Cularin, grouping together in clans called irstat. The tarasin believe they have a symbiotic relationship with Cularin, and their religion is based around the appreciation of the natural world. This closeness with their homeworld is what makes the tarasin reluctant to leave it for an extended time. The tarasin have a strong connection with the Force, and their spiritual leaders are often able to call upon the Force in small ways. The tarasin believe that the ch'hala tree is sacred. This may have been influenced by the trees having a similar ability to shift their colors as the tarasin, but it is also the most unique tree on Cularin. \r\n\r\n### Names\r\nTarasin names are generally very soft and melodic. Names are agendered, and surnames are not used.\r\n\r\n**Names.** Feliosa, Misona, Nissira, Vylana, Ziransa",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'9\"",
+  "heightRollMod": "+2d6\"",
+  "homeworld": "Cularin",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tarasin.png"
+  ],
+  "language": "Tarasinese",
+  "manufacturer": null,
+  "name": "Tarasin",
+  "rowKey": "Tarasin",
+  "size": "Medium",
+  "skinColorOptions": "Translucent; varies with emotion",
+  "traits": [
+    {
+      "description": "Your Intelligence score increases by 2, and your Dexterity score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Tarasins reach adulthood at 10 and live less than 80 years.",
+      "name": "Age"
+    },
+    {
+      "description": "Tarasins' curious yet composed nature causes them to tend toward balanced alignments, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Tarasins typically stand 5 to 6 feet tall and generally weigh about 130 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Your scales are translucent, allowing your color-shifting skin to help you blend into your surroundings. You have proficiency in the Stealth skill. Additionally, you can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
+      "name": "Chameleon Skin"
+    },
+    {
+      "description": "Growing up in the jungles of Cularin has left an impact. You don't treat jungle terrain as difficult terrain.",
+      "name": "Jungle Dweller"
+    },
+    {
+      "description": "You have proficiency in the Nature skill.",
+      "name": "Naturalist"
+    },
+    {
+      "description": "Tarasins have short spines called sa'tosin that allow them to sense the use of the Force. You are constantly under the effects of the force power *sense force*, though the power does not require concentration for you.",
+      "name": "Sa'tosin Sense"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Tarasinese. You can communicate non-verbally with other tarasins through use of a complex system of skin color changes.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "100 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

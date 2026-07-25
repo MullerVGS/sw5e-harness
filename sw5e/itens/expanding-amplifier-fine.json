@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Expanding Amplifier (Fine)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Expanding Amplifier (Fine)",
+  "searchableRarity": "Premium",
+  "subtype": "wristpad",
+  "text": "This item gains the expanding 10 property. If it already has the expanding property, its expanding number increases by 10, to a maximum of 30.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

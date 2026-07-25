@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 450,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Shotosaber",
+  "properties": [
+    "Finesse",
+    "hidden",
+    "light",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Hidden": "hidden",
+    "Light": "light",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Shotosaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "1"
+}

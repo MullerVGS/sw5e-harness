@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 725,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightcutlass",
+  "properties": [
+    "Dexterity 11",
+    "hidden",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Hidden": "hidden",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Lightcutlass",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleLightweapon",
+  "weight": "1.5"
+}

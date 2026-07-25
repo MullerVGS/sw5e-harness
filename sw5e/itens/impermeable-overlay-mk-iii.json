@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Impermeable Overlay Mk III",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Impermeable Overlay Mk III",
+  "searchableRarity": "Prototype",
+  "subtype": "armor",
+  "text": "This armor gains the impermeable 5 property (suits chosen by the GM). If it already has the impermeable property, its impermeable number increases by 5, to a maximum of 9.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 10,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A stylus pen is designed to write on both solid surfaces and touch screen interfaces.",
+  "equipmentCategory": "DataRecordingAndStorage",
+  "modes": [],
+  "name": "Stylus pen",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Stylus pen",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "0.5"
+}

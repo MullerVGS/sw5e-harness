@@ -1,0 +1,67 @@
+# backgrounds — 61 entidades
+
+Índice do espelho: escolha por aqui e só então abra a fatia. O arquivo é o
+nome em slug (minúsculas, hífens); onde o nome não basta, ele vem entre
+backticks na linha.
+
+- **(Un)Retired Adventurer** — Choose two from Athletics, Insight, Lore, and Survival
+- **Addict** — Choose two from Deception, Performance, Persuasion, and Sleight of Hand
+- **Agent** — Choose two from Deception, Investigation, Lore, and Persuasion
+- **Amnesiac** — Choose two from Deception, Insight, Investigation, and Survival
+- **Archaeologist** — Choose two from Investigation, Lore, Perception, or Survival
+- **Barbarian** — Choose two from Animal Handling, Athletics, Nature, and Survival
+- **Bartender** — Choose two from Insight, Intimidation, Medicine, or Persuasion
+- **Blackguard** — Choose two from Insight, Investigation, Lore, and Survival
+- **Bodyguard** — Choose two from Athletics, Insight, Investigation, and Perception
+- **Bounty Hunter** — Choose two from Deception, Insight, Persuasion, and Stealth
+- **City Watch** — Choose two from Athletics, Insight, Investigation, and Perception
+- **Clone** — Choose two from Athletics, Lore, Sleight of Hand and Survival
+- **Clone Trooper** — Choose two from Athletics, Medicine, Perception, and Piloting
+- **Companion** — Choose two from Acrobatics, Deception, Insight, and Performance
+- **Courtier** — Choose two from Deception, Insight, Performance, and Survival
+- **Crime Lord** — Choose two from Deception, Insight, Intimidation, and Persuasion
+- **Criminal** — Choose two from Deception, Intimidation, Sleight of Hand, and Stealth
+- **Dathomir Witch** — Choose two from Acrobatics, Animal Handling, Lore, and Nature
+- **Entertainer** — Choose two from Acrobatics, Insight, Performance, and Sleight of Hand
+- **Ex-Cultist** — Choose two from Deception, Intimidation, Investigation, or Lore
+- **Faction Adventurer** — Choose two from Athletics, Investigation, Nature, and Survival
+- **Faction Artisan** — Choose two from Athletics, Insight, Persuasion, and Technology
+- **Faction Merchant** — Choose two from Deception, Insight, Performance, and Persuasion
+- **Far Traveler** — Choose two from Insight, Investigation, Perception, and Persuasion
+- **Farmer** — Choose two from Animal Handling, Nature, Persuasion, and Technology
+- **Folk Hero** — Choose two from Animal Handling, Athletics, Nature, and Performance
+- **Force Adept** — Choose two from Deception, Insight, Perception, and Persuasion
+- **Gambler** — Choose two from Deception, Insight, Intimidation, and Sleight of Hand
+- **Gladiator** — Choose two from Acrobatics, Athletics, Intimidation, and Performance
+- **Hermit** — Choose two from Animal Handling, Lore, Medicine, and Nature
+- **Holonet Technician** — Choose two from Insight, Investigation, Stealth, and Technology
+- **Imperial Knight** — Choose two from Athletics, Intimidation, Perception, or Piloting
+- **Independent Droid** — Choose two from Athletics, Medicine, Persuasion, or Technology
+- **Insurgent** — Choose two from Insight, Persuasion, Stealth, or Technology
+- **Investigator** — Choose two from Insight, Investigation, Perception, and Survival
+- **Jedi** — Choose two from Insight, Investigation, Lore, and Persuasion
+- **Jensaarai** — Choose two from Insight, Intimidation, Lore, and Perception
+- **Jizz Wailer** — Choose two from Insight, Performance, Persuasion, and Sleight of Hand
+- **Laborer** — Choose two from Animal Handling, Athletics, Survival, and Technology
+- **Lawyer** — Choose two from Insight, Investigation, Performance, and Persuasion
+- **Mandalorian** — Choose two from Athletics, Intimidation, Piloting, and Survival
+- **Mercenary** — Choose two from Athletics, Investigation, Persuasion, and Piloting
+- **Noble** — Choose two from Deception, Insight, Lore, and Persuasion
+- **Nomad** — Choose two from Animal Handling, Athletics, Medicine, and Survival
+- **Office Worker** — Choose two from Insight, Investigation, Lore, and Perception
+- **Outlaw** — Choose two from Acrobatics, Athletics, Insight, and Survival
+- **Pirate** — Choose two from Athletics, Deception, Intimidation, and Piloting
+- **Politician** — Choose two from Deception, Intimidation, Performance, and Persuasion
+- **Racer** — Choose two from Animal Handling, Nature, Piloting, and Technology
+- **Scavenger** — Choose two from Persuasion, Sleight of Hand, Survival, and Technology
+- **Scientist** — Choose two from Lore, Medicine, Nature, and Technology
+- **Scoundrel** — Choose two from Deception, Insight, Performance, and Sleight of Hand
+- **Servant** — Choose two from Insight, Lore, Performance, and Persuasion
+- **Sith** — Choose two from Deception, Insight, Intimidation, and Lore
+- **Smuggler** — Choose two from Deception, Piloting, Sleight of Hand, and Stealth
+- **Soldier** — Choose two from Athletics, Intimidation, Persuasion, and Piloting
+- **Spacer** — Choose two from Insight, Investigation, Piloting, and Technology
+- **Student** — Choose two from Insight, Lore, Investigation, and Nature
+- **Survivor** — Choose two from Investigation, Lore, Survival, and Technology
+- **Teacher** — Choose two from Lore, Nature, Performance, and Technology
+- **Urchin** — Choose two from Deception, Insight, Sleight of Hand, and Stealth

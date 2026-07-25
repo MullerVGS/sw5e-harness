@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "My cantina means everything to me. It brings back important memories from my past.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "Brewing is my craft. My art brings people together.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "The regular patrons of my cantina are like family to me.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I want to be successful. Whatever it takes.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "Alcohol is all I ened, and sometimes all I want.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I've met so many people while staying in the same place. I need my own story to tell.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of common clothes, a brewer's kit, and a belt pouch containing 150 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Threatening",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Medic",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Charmer",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Observant",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Snappy Interjection",
+      "roll": 8
+    }
+  ],
+  "featureName": "Social Lubricant",
+  "featureRowKeys": null,
+  "featureText": "You have no trouble finding and getting into places that serve drinks. While drinking in a social establishment, strangers take a liking to you and feel comfortable enough to share gossip.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "\r\nSometimes you want to go where everybody knows your name and they're always glad you came. As a bartender, you're a charismatic fellow that knows how to deal with people. Whether you're the life of the party or simply an ear for someone who needs advice, people from all walks of life are drawn to your trustworthy nature.",
+  "flawOptions": [
+    {
+      "description": "I can always go for another round. The gutter is my second home.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I judge people that don't drink to be antisocial and untrustworthy.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Party animals and depressed people make me feel bitter about my life.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "Whenever life gets hard, I drink my problems away.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I need to know everyone's story.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I curse more than a kriffing sailor.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "Spreading joy is my passion. (Light)",
+      "name": "Cheer",
+      "roll": 1
+    },
+    {
+      "description": "It's our duty to help others. (Lawful)",
+      "name": "Guidance",
+      "roll": 2
+    },
+    {
+      "description": "We have only one chance to write our story. Do what you will and make it count. (Chaotic)",
+      "name": "Legacy",
+      "roll": 3
+    },
+    {
+      "description": "Drunk people are the most vulnerable and can easily be taken advantage of. (Dark)",
+      "name": "Manipulation",
+      "roll": 4
+    },
+    {
+      "description": "It's always good to meet and connect with new people. (Any)",
+      "name": "People",
+      "roll": 5
+    },
+    {
+      "description": "If I call you a nerf herder, it means I like you. (Any)",
+      "name": "Honesty",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Bartender",
+  "personalityTraitOptions": [
+    {
+      "description": "I'm always looking for a good time with good company.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I earnestly enjoy offering advice.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Even in a social atmosphere, I always feel alone.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I live vicariously through the people I meet and the stories I hear.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm everyone's outlet but sometimes I just want to punch them in their thoughtless face.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "If you're looking for a fight, I'll give you one.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "TI know how to calm people down, but I also know how to rile them up.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "It's not all fun and games. Business needs to run smoothly, whatever that might be.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Bartender",
+  "skillProficiencies": "Choose two from Insight, Intimidation, Medicine, or Persuasion",
+  "suggestedCharacteristics": "A bartender's demeanor ranges from jovial to downright rude. Regardless, all bartenders know how to take care of business�they break up fights, kick out drunk patrons, and offer honest counsel to people down on their luck.",
+  "toolProficiencies": "Brewer's kit"
+}

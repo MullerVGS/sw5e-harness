@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 200,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A focus generator is a handheld object used to help forcecasters learn to focus on their powers.",
+  "equipmentCategory": "DataRecordingAndStorage",
+  "modes": [],
+  "name": "Focus generator",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Focus generator",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "1"
+}

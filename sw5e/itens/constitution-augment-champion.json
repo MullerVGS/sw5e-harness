@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "Augment",
+  "name": "Constitution Augment (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Constitution Augment (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "augment",
+  "text": "Your Constitution score increases by 2, and your maximum for this score increases by 2.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

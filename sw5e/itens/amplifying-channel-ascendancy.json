@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Amplifying Channel (Ascendancy)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Amplifying Channel (Ascendancy)",
+  "searchableRarity": "Artifact",
+  "subtype": "focus generator",
+  "text": "This item gains the amplifying 3 property. If it already has the amplifying property, its amplifying number increases to 3.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

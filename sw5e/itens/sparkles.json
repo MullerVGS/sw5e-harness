@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "Specific",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Sparkles",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Sparkles",
+  "searchableRarity": "Premium",
+  "subtype": "light pistol",
+  "text": "When you roll a 20 on an attack roll with this weapon, or hit a creature that has not yet acted during your first turn in combat, you deal an additional 1d4 energy damage.\r\n\r\n_Sparkles is a BlasTech CS-14 light pistol owned by the mercenary Corso Riggs during the Galactic Cold War._",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

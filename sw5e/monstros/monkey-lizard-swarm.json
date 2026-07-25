@@ -1,0 +1,122 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 12,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The swarm has advantage on attack rolls against a creature while at more than half of its hit points.",
+      "descriptionWithLinks": " The swarm has advantage on attack rolls against a creature while at more than half of its hit points.",
+      "monsterBehaviorType": "Trait",
+      "name": "Pack Tactics",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny porg. The swarm can't regain hit points or gain temporary hit points.",
+      "descriptionWithLinks": " The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny porg. The swarm can't regain hit points or gain temporary hit points.",
+      "monsterBehaviorType": "Trait",
+      "name": "Swarm",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "MeleeWeapon",
+      "damage": "7",
+      "damageRoll": "2d6",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) kinetic damage, or 3 (1d6) kinetic damage if the swarm has half of its hit points or fewer.",
+      "descriptionWithLinks": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) kinetic damage, or 3 (1d6) kinetic damage if the swarm has half of its hit points or fewer.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target in the swarm's space.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1/2",
+  "charisma": 6,
+  "charismaModifier": -2,
+  "conditionImmunities": [
+    "Charmed",
+    "Frightened",
+    "Paralyzed",
+    "Petrified",
+    "Prone",
+    "Restrained",
+    "Stunned"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    2,
+    4,
+    8,
+    9,
+    11,
+    12,
+    14
+  ],
+  "constitution": 8,
+  "constitutionModifier": -1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Energy",
+    "Kinetic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    3,
+    7
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 14,
+  "dexterityModifier": 2,
+  "experiencePoints": 100,
+  "flavorText": "",
+  "hitPointRoll": "7d8-7",
+  "hitPoints": 24,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "�"
+  ],
+  "name": "Monkey-Lizard Swarm",
+  "rowKey": "Monkey-Lizard Swarm",
+  "savingThrows": null,
+  "sectionText": "Kowakian monkey-lizards are a bipedal reptilian species native to a jungle-like Outer Rim planet called Kowak. Although have had no established culture, Kowakian monkey-lizards were quite intelligent, and despite their silly, cruel nature, they are considered sentient by many sentientologists in the galaxy, although there was much debate over that designation. They are often kept as pets due to their mischievous nature.",
+  "senses": [
+    "passive Perception 15"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Perception +5"
+  ],
+  "speed": 30,
+  "speeds": "30 ft., climb 30 ft.",
+  "strength": 6,
+  "strengthModifier": -2,
+  "types": [
+    "swarm of Tiny beasts"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

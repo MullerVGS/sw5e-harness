@@ -1,0 +1,29 @@
+{
+  "ac": "13 + Dex modifier (max 2)",
+  "armorClassification": "Medium",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 2500,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Neutronium mesh",
+  "properties": [
+    "Insulated 5",
+    "strength 11"
+  ],
+  "propertiesMap": {
+    "Insulated": "Insulated 5",
+    "Strength": "strength 11"
+  },
+  "rowKey": "Neutronium mesh",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "20"
+}

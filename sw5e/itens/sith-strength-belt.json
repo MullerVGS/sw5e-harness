@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Sith Strength Belt",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": true,
+  "rowKey": "Sith Strength Belt",
+  "searchableRarity": "Legendary",
+  "subtype": "waist",
+  "text": "_**Requires attunement**_\r\nWhile wearing this belt, your Strength score becomes 27. If your Strength is already equal to or greater than 27, it has no effect on you.\r\n\r\n_Worn on the legs, waist and lower back, this belt massively increases a users physical power with a set of heavy durasteel actuators alongside an synaptic monitoring system that reacts to its users motion with optimized power responses._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

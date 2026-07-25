@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "An unenhanced weapon you touch becomes an enhanced weapon. Choose one of these damage types: acid, cold, energy, fire, ion, kinetic, or lightning. For the duration, an unenhanced weapon you touch has a +1 to attack rolls and deals an extra 1d4 damage of the chosen type.\r\n\r\n***Overcharge Tech.*** When you cast this power using a 5th or 6th level tech slot, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4.",
+  "duration": "up to 1 hour",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 3,
+  "name": "Enhance Weapon",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Touch",
+  "rowKey": "Enhance Weapon"
+}

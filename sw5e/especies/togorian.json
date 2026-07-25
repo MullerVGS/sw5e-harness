@@ -1,0 +1,84 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Strength"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Dexterity",
+          "Constitution"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Large frame, retractable claws, striped fur, rigid honor code",
+  "eyeColorOptions": "Brown, green, orange, or yellow",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nThe Togorian people are a feline warrior species native to the planet Togoria. They are large, heavy-framed bipeds, with retractable claws on their hands and feet. Female Togorians grow up to 7 feet tall, while adult males can reach up to 9 feet. They're covered in gray-white, black, brown, or orange fur, often with colorful spots or stripes. \r\n\r\n### Society and Culture\r\nTogorians have a unique cultural division between their sexes. They evolved as nomadic hunters of creatures like the bist and etelo, surviving on the wilderness as apex predators. As time went on, a rift in their society developed between the two sexes. Males were drawn to continue their lifestyle as nomads and hunters for their people, while females tended to prefer remaining in permanent camps and contributed the vast majority of their species technological developments. This division has continued into modern times, with males continuing their nomadic traditions and females frequently preferring to stay in villages and cities. Males visit their mates for about a month each year, but otherwise the sexes live completely separate lives. Whether in spite of this separation of the sexes, or because of it, Togorians are typically monogamous and devoted to their chosen mates.\r\n\r\n### Names\r\nTogorian names tend to be short and primal-sounding. Female names tend to include softer consonants and more vowels, while male names are typically harsher. Togorians do not use surnames.\r\n\r\n**Male Names.**  Mezgraf, Mlatar, Morto, Mrrov, Torr\r\n\r\n**Female Names.** Coelle, Elotis, H'sishi, Kra'ake, Rrowv",
+  "hairColorOptions": "Black, brown, orange, or white",
+  "halfHumanTableEntries": {},
+  "heightAverage": "6'2\"",
+  "heightRollMod": "+2d12\"",
+  "homeworld": "Togoria",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_togorian.png"
+  ],
+  "language": "Togorese",
+  "manufacturer": null,
+  "name": "Togorian",
+  "rowKey": "Togorian",
+  "size": "Medium",
+  "skinColorOptions": "Black, brown, or white",
+  "traits": [
+    {
+      "description": "Your Strength score increases by 2, and your Dexterity or Constitution score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Togorian reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Togorians' rigid sense of honor causes them to tend toward lawful light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Togorians tower over almost all other species, with smaller females standing upwards of 7 feet tall and weighing 250 lbs., while males can easily reach 8 feet tall and weigh around 350 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Your claws are a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.",
+      "name": "Claws"
+    },
+    {
+      "description": "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.",
+      "name": "Savage Attacks"
+    },
+    {
+      "description": "You have proficiency in the Survival and Stealth skills.",
+      "name": "Stealthy Hunter"
+    },
+    {
+      "description": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.",
+      "name": "Toughness"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Togorese. Togorese is characterized by its deep, resonating growls.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "175 lb.",
+  "weightRollMod": "x(2d6) lb."
+}

@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 400,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Rather than traditional power cells, the wrist launcher fires specialized projectiles in the form of darts, small missiles, or specialized canisters. ",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Wrist launcher",
+  "properties": [
+    "Fixed",
+    "reload 1",
+    "special (range 30/120)"
+  ],
+  "propertiesMap": {
+    "Fixed": "Fixed",
+    "Range": "special (range 30/120)",
+    "Reload": "reload 1"
+  },
+  "rowKey": "Wrist launcher",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "2"
+}

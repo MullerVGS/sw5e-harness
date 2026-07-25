@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Adegan Crystal (Cracked)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Adegan Crystal (Cracked)",
+  "searchableRarity": "Standard",
+  "subtype": "lightweapon",
+  "text": "You gain a +1 bonus to damage rolls and a -1 penalty to attack rolls made with this weapon.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 25,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A fusion cutter is a handheld cutting tool popular among technicians. It can cut through almost any reinforced material, given enough time. The internal power cell supplies an hour's worth of continuous operation.",
+  "equipmentCategory": "Utility",
+  "modes": [],
+  "name": "Fusion cutter",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Fusion cutter",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "2"
+}

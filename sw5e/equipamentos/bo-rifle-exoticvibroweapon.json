@@ -1,0 +1,27 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1075,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Bo-rifle",
+  "properties": [
+    "Modal (blaster rifle and techstaff)"
+  ],
+  "propertiesMap": {
+    "Modal": "Modal (blaster rifle and techstaff)"
+  },
+  "rowKey": "Bo-rifle_ExoticVibroweapon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "ExoticVibroweapon",
+  "weight": "0"
+}

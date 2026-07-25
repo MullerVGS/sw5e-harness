@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You cause the earth to burst from beneath your feet. Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d8 kinetic damage.\r\n\r\nThis power's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).",
+  "duration": "Instantaneous",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 0,
+  "name": "Burst",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Self (5-foot sphere)",
+  "rowKey": "Burst"
+}

@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 2125,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Lightning",
+  "description": "Whenever you deal damage with this weapon and roll the maximum on the weapon damage die, the creature hit becomes shocked until the end of its next turn.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightning rifle",
+  "properties": [
+    "Power cell (range 60/240)",
+    "penetrating 2",
+    "reload 8",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Penetrating": "penetrating 2",
+    "Power Cell": "Power cell (range 60/240)",
+    "Reload": "reload 8",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Lightning rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "8.5"
+}

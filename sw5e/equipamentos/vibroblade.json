@@ -1,0 +1,27 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 200,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibroblade",
+  "properties": [
+    "Versatile (1d10)"
+  ],
+  "propertiesMap": {
+    "Versatile": "Versatile (1d10)"
+  },
+  "rowKey": "Vibroblade",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "5"
+}

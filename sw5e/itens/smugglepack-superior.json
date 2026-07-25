@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Smugglepack (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Smugglepack (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "back",
+  "text": "This backpack comes with a main compartment that stores 12 lb., not exceeding 3/8 cubic foot. Additionally, it has a hidden storage compartment that stores 8 lb., not exceeding 3/8 cubic foot. Finding the hidden compartment requires a DC 24 Investigation check.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

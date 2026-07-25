@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Withercasting Inlay (Journeyman)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Withercasting Inlay (Journeyman)",
+  "searchableRarity": "Prototype",
+  "subtype": "clothing",
+  "text": "While using this item as your focus, you gain a +2 bonus to the force save DC of powers that require a Wisdom or Charisma saving throw.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

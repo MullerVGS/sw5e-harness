@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1800,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Acid",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Bitesaber",
+  "properties": [
+    "Biting 13",
+    "hidden",
+    "luminous",
+    "versatile (2d4)"
+  ],
+  "propertiesMap": {
+    "Biting": "Biting 13",
+    "Hidden": "hidden",
+    "Luminous": "luminous",
+    "Versatile": "versatile (2d4)"
+  },
+  "rowKey": "Bitesaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "2.5"
+}

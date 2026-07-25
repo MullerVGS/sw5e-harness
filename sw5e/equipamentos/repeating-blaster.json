@@ -1,0 +1,39 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1025,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Repeating blaster",
+  "properties": [
+    "Auto",
+    "burst 4",
+    "power cell (range 75/300)",
+    "rapid 4",
+    "reload 8",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Auto": "Auto",
+    "Burst": "burst 4",
+    "Power Cell": "power cell (range 75/300)",
+    "Rapid": "rapid 4",
+    "Reload": "reload 8",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Repeating blaster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "9"
+}

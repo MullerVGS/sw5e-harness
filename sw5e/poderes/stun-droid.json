@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Choose a droid or construct that you can see within range. The target must succeed on a Constitution saving throw or be paralyzed for the duration. At the beginning of each of its turns, the target takes energy damage equal to your forcecasting ability modifier. At the end of each of its turns, the target can make another Constitution saving throw. On a success, the power ends on the target.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Stun Droid",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "60 feet",
+  "rowKey": "Stun Droid"
+}

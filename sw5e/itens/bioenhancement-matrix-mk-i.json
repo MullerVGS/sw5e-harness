@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Bioenhancement Matrix Mk I",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Bioenhancement Matrix Mk I",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "Your hit point maximum increases by an amount equal to your level, and it increases by 1 every time you gain a level.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

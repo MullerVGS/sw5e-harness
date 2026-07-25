@@ -1,0 +1,41 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 2250,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Smart cannon",
+  "properties": [
+    "Auto",
+    "burst 2",
+    "rapid 2",
+    "reload 4",
+    "slug cartridge (range 75/300)",
+    "smart (15/+2)",
+    "strength 15",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Auto": "Auto",
+    "Burst": "burst 2",
+    "Range": "slug cartridge (range 75/300)",
+    "Rapid": "rapid 2",
+    "Reload": "reload 4",
+    "Smart": "smart (15/+2)",
+    "Strength": "strength 15",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Smart cannon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "13.5"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Serrated Edge Mk II",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Serrated Edge Mk II",
+  "searchableRarity": "Advanced",
+  "subtype": "vibroweapon",
+  "text": "When you deal damage with this weapon, you can roll a d6 and add the result to the total.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

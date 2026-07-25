@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Sonorous Oscillator Mk III",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Sonorous Oscillator Mk III",
+  "searchableRarity": "Prototype",
+  "subtype": "vibroweapon",
+  "text": "This weapon gains the sonorous 15 property. If it already has the sonorous property, its sonorous number increases by 3, to a maximum of 18.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

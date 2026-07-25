@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Ossus Dueling Lens",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Ossus Dueling Lens",
+  "searchableRarity": "Prototype",
+  "subtype": "lightweapon",
+  "text": "You gain a +2 bonus to attack rolls made with this weapon.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,202 @@
+{
+  "casterRatio": 0.0,
+  "casterType": "None",
+  "classCasterType": "None",
+  "className": "Fighter",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "featureRowKeys": null,
+  "features": null,
+  "imageUrls": [],
+  "leveledTable": {
+    "3": [
+      {
+        "key": "Maneuvers Known",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "4"
+      }
+    ],
+    "4": [
+      {
+        "key": "Maneuvers Known",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "4"
+      }
+    ],
+    "5": [
+      {
+        "key": "Maneuvers Known",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "5"
+      }
+    ],
+    "6": [
+      {
+        "key": "Maneuvers Known",
+        "value": "7"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "5"
+      }
+    ],
+    "7": [
+      {
+        "key": "Maneuvers Known",
+        "value": "9"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "6"
+      }
+    ],
+    "8": [
+      {
+        "key": "Maneuvers Known",
+        "value": "10"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "6"
+      }
+    ],
+    "9": [
+      {
+        "key": "Maneuvers Known",
+        "value": "11"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "7"
+      }
+    ],
+    "10": [
+      {
+        "key": "Maneuvers Known",
+        "value": "12"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "7"
+      }
+    ],
+    "11": [
+      {
+        "key": "Maneuvers Known",
+        "value": "14"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "8"
+      }
+    ],
+    "12": [
+      {
+        "key": "Maneuvers Known",
+        "value": "15"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "8"
+      }
+    ],
+    "13": [
+      {
+        "key": "Maneuvers Known",
+        "value": "16"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "9"
+      }
+    ],
+    "14": [
+      {
+        "key": "Maneuvers Known",
+        "value": "17"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "9"
+      }
+    ],
+    "15": [
+      {
+        "key": "Maneuvers Known",
+        "value": "19"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "10"
+      }
+    ],
+    "16": [
+      {
+        "key": "Maneuvers Known",
+        "value": "20"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "10"
+      }
+    ],
+    "17": [
+      {
+        "key": "Maneuvers Known",
+        "value": "21"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "11"
+      }
+    ],
+    "18": [
+      {
+        "key": "Maneuvers Known",
+        "value": "22"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "11"
+      }
+    ],
+    "19": [
+      {
+        "key": "Maneuvers Known",
+        "value": "23"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "12"
+      }
+    ],
+    "20": [
+      {
+        "key": "Maneuvers Known",
+        "value": "24"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "12"
+      }
+    ]
+  },
+  "leveledTableHeaders": [
+    "Level",
+    "Maneuvers Known",
+    "Superiority Dice Quantity"
+  ],
+  "name": "Fireteam Specialist (Companion)",
+  "rowKey": "Fireteam Specialist (Companion)",
+  "text": "\r\nWhen charging onto the frontlines of the galaxy's harshest conflicts, it pays to have people you can trust at your side. Those fighters who choose to become Fireteam Specialists work in tandem with a companion, becoming more than either could be on their own.\r\n\r\n### Bonus Proficiencies\r\n_**Fireteam Specialist:** 3rd level_\r\nYou gain proficiency in your choice of the Persuasion or Intimidation skill.\r\n\r\n### Improved Combat Superiority\r\n_**Fireteam Specialist:** 3rd level_\r\nYour tactical skill in combat improves, granting bonuses to your Combat Superiority.\r\n\r\n#### Improved Maneuvers \r\nYou know four maneuvers of your choice, instead of two, and you earn more at higher levels, as shown in the Maneuvers Known column of the Fireteam Superiority table.\r\n\r\n#### Improved Superiority Dice\r\nYou have four superiority dice, instead of two, and you earn more at higher levels, as shown in the Superiority Dice Quantity column of the Fireteam Superiority table.\r\n\r\n### Humanoid Companion\r\n_**Fireteam Specialist:** 3rd, 11th, and 17th level_\r\nYou've been assigned a squadmate who is under your command, gaining a humanoid companion.\r\n\r\nCreate your humanoid companion as detailed in the Companions section of the Customization Options document for Expanded Content.\r\n\r\nIn addition to its traits and features, your companion gains additional benefits while it is bonded to you:\r\n\r\n- Your companion gains two additional traits. It gains one more additional trait when you reach 11th level in this class. For each trait in excess of your proficiency bonus, your number of Hit Dice that can be spent to restore hitpoints is reduced by 1.\r\n\r\nLastly, while your companion is bonded to you and within 10 feet of you, your companion can uses your superiority dice and maneuvers as if it knows them.\r\n\r\nThis radius increases to 30 feet at 11th level, and 60 feet at 17th level. \r\n\r\n### Rally the Troops\r\n_**Fireteam Specialist:** 7th level_\r\nWhen you use your Second Wind feature while your companion is within 10 feet of you, your companion regains hit points and gains temporary hit points equal to your fighter level.\r\n\r\nThis radius increases to 30 feet at 11th level, and 60 feet at 17th level. \r\n\r\n### On Your Six\r\n_**Fireteam Specialist:** 10th level_\r\nWhile your companion is within 5 feet of you, you can use your bonus action to begin a coordinated \r\n\r\n##### Fireteam Superiority\r\n\r\nmaneuver. For the next minute, while you and your companion are within 5 feet of each other and neither of you are wielding a shield, you each gain a bonus to AC equal to half your proficiency bonus.\r\n\r\nThis effect ends early if either you or your companion are incapacitated or die. Once you've used this feature, you can't use it again until you complete a long rest.\r\n\r\n### Indomitable in Tandem\r\n_**Fireteam Specialist:** 15th level_\r\nWhen you and your companion are both forced to make a saving throw against the same effect, and one�but not both�of you fails, you can expend a use of your Indomitable feature to instead have you both succeed.\r\n\r\n### No Soldier Left Behind\r\n_**Fireteam Specialist:** 18th level_\r\nWhile under the effects of On Your Six, if either you or your companion are reduced to 0 hit points, you can end On Your Six to have them drop to 1 hit point instead. When you do so, the effects of On Your Six persist until the start of your next turn.",
+  "text2": null
+}

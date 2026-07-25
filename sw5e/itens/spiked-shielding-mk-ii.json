@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Spiked Shielding Mk II",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Spiked Shielding Mk II",
+  "searchableRarity": "Advanced",
+  "subtype": "armor",
+  "text": "_**Prerequiste:** Shield_\r\nThis shield gains the spiked (1d6) property. If it already has the spiked property, the spiked damage increases by two steps (from d4 to d8). ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

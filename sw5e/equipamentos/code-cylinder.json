@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 20,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Code cylinders are security devices in the shape of short cylinders that contain coded information about their bearers and grant them access to secure areas.",
+  "equipmentCategory": "DataRecordingAndStorage",
+  "modes": [],
+  "name": "Code cylinder",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Code cylinder",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "0.5"
+}

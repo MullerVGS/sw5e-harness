@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 925,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightkatana",
+  "properties": [
+    "Dexterity 11",
+    "hidden",
+    "luminous",
+    "piercing 1",
+    "versatile (1d10)"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Hidden": "hidden",
+    "Luminous": "luminous",
+    "Piercing": "piercing 1",
+    "Versatile": "versatile (1d10)"
+  },
+  "rowKey": "Lightkatana",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "2.75"
+}

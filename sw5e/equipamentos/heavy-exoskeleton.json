@@ -1,0 +1,29 @@
+{
+  "ac": "18",
+  "armorClassification": "Heavy",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 9000,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Heavy exoskeletons are virtually the heaviest armor acquirable during the Galactic War. It is ideal for extreme combat situations that involved direct damage and also offers a very good level of protection in sacrifice of dexterity. Some consider it claustrophobic but that was the trade-off for safety.",
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Heavy exoskeleton",
+  "properties": [
+    "Bulky",
+    "strength 17"
+  ],
+  "propertiesMap": {
+    "Bulky": "Bulky",
+    "Strength": "strength 17"
+  },
+  "rowKey": "Heavy exoskeleton",
+  "stealthDisadvantage": true,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "65"
+}

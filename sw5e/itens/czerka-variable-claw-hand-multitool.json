@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Czerka Variable Claw-Hand Multitool",
+  "prerequisite": " Intelligence 13",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Czerka Variable Claw-Hand Multitool",
+  "searchableRarity": "Prototype",
+  "subtype": "replacement",
+  "text": "This augmentation replaces a hand.\r\n\r\nAs a bonus action, you can transform this claw-hand into one of the following items of your choice, or back its default claw-hand state. While your claw-hand is transformed, you are considered to be proficient in the item it is replicating, if you are not already: \r\n - Security kit\r\n - Artisan tools (one set, chosen at the time this augmentation is installed)\r\n - Commlink\r\n - Fusion cutter\r\n - Grappling hook (with 50 feet of fibercord cable)\r\n - Hydrospanner\r\n - Traumakit\r\n - Repair kit\r\n - Hidden blade _(martial vibroweapon)_\r\n - Hold out _(simple blaster)_\r\n - Medium shield generator _(medium armor)_\r\n\r\nFor items that have charges such as the repair kit, you regain all expended charges at the end of a long rest. For items that use power cells, you can reload those with power cells normally.  \r\n\r\n**Side Effect:** Once this hand replacement has been installed, you can no longer wield weapons in this hand other than those this augmentation can transform into. \r\n\r\n_The CVCM hand replacement appears to be a simple claw, but it contains a startling variety of tools, transforming to become whatever gadget is needed at the moment._ ",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

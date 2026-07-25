@@ -1,0 +1,23 @@
+{
+  "ac": "13 + Dex modifier (max 2)",
+  "armorClassification": "Medium",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 500,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Providing solid protection for a minimal cost, mesh armor is considered excellent protection for entrenched troops or guards. However, this protection comes at a cost of mobility, limiting its uses by rapidly advancing infantry. Still, it provides more mobility than battle armor.",
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Mesh armor",
+  "properties": [],
+  "propertiesMap": {},
+  "rowKey": "Mesh armor",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "20"
+}

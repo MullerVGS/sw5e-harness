@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Obscured Armoring",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Obscured Armoring",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "This armor gains the obscured property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

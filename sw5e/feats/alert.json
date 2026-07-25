@@ -1,0 +1,9 @@
+{
+  "attributesIncreased": null,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "name": "Alert",
+  "prerequisite": null,
+  "rowKey": "Alert",
+  "text": "Always on the lookout for danger, you gain the following benefits:\r\n- You are proficient in Initiative checks..\r\n- You can't be surprised while you are conscious.\r\n- Other creatures don't gain advantage on attack rolls against you as a result of being unseen by you.\r\n"
+}

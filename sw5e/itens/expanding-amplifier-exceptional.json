@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Expanding Amplifier (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Expanding Amplifier (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "wristpad",
+  "text": "This item gains the expanding 25 property. If it already has the expanding property, its expanding number increases by 25, to a maximum of 30.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

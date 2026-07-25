@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Body",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Flightsuit",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Flightsuit",
+  "searchableRarity": "Standard",
+  "subtype": "body",
+  "text": "While you are wearing no armor, this clothing has the impermeable 2 (space suit, diving suit) property.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

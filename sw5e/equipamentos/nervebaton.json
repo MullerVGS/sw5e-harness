@@ -1,0 +1,29 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 375,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Nervebaton",
+  "properties": [
+    "Disruptive",
+    "neuralizing 13"
+  ],
+  "propertiesMap": {
+    "Disruptive": "Disruptive",
+    "Neuralizing": "neuralizing 13"
+  },
+  "rowKey": "Nervebaton",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleVibroweapon",
+  "weight": "2"
+}

@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 2250,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Rather than traditional power cells, the rocket rifle fires specialized projectiles in the form of small missiles.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Rocket rifle",
+  "properties": [
+    "Reload 6",
+    "special (range 60/240)",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Range": "special (range 60/240)",
+    "Reload": "Reload 6",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Rocket rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "12"
+}

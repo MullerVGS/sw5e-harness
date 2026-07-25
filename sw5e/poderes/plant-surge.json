@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action or 8 hours",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "If you cast this power using 1 action, all normal plants in a 100-foot radius centered on a point become overgrown. Moving through the area spends 4 feet of movement for every 1 foot moved. You can exclude areas of any size within the power's area from being affected.\r\n\r\nIf you cast this power over 8 hours, all plants in a half-mile radius centered on a point yield twice the normal amount of food when harvested for 1 year.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 3,
+  "name": "Plant Surge",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "150 feet",
+  "rowKey": "Plant Surge"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Neutronium Edge (Major)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Neutronium Edge (Major)",
+  "searchableRarity": "Prototype",
+  "subtype": "vibroweapon",
+  "text": "You gain a +2 bonus to damage rolls made with this weapon.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

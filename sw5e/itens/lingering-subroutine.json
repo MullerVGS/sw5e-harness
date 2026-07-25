@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Lingering Subroutine",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "Prototype",
+  "requiresAttunement": false,
+  "rowKey": "Lingering Subroutine",
+  "searchableRarity": "Prototype",
+  "subtype": "wristpad",
+  "text": "WWhen you cast a power that requires concentration to maintain you can choose to spend 3 additional tech points. If you do, when you lose concentration on the power, the power will not end until the end of your next turn.\r\n\r\nYou can only spend a number of tech points in this way equal to your proficiency bonus (minimum of once). You regain the ability to do so when you complete a long rest.\r\n\r\nYou can use only one Subroutine modification on a power when you cast it, unless otherwise noted.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

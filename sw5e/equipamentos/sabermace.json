@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 950,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Sabermace",
+  "properties": [
+    "Brutal 1",
+    "dexterity 13",
+    "hidden",
+    "luminous",
+    "versatile (1d10)"
+  ],
+  "propertiesMap": {
+    "Brutal": "Brutal 1",
+    "Dexterity": "dexterity 13",
+    "Hidden": "hidden",
+    "Luminous": "luminous",
+    "Versatile": "versatile (1d10)"
+  },
+  "rowKey": "Sabermace",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleLightweapon",
+  "weight": "2.75"
+}

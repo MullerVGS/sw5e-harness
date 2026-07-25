@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1650,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Fire",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Incinerator carbine",
+  "properties": [
+    "Dire 1",
+    "disintegrate 13",
+    "power cell (range 60/240)",
+    "reload 12",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Dire": "Dire 1",
+    "Disintegrate": "disintegrate 13",
+    "Power Cell": "power cell (range 60/240)",
+    "Reload": "reload 12",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Incinerator carbine",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "7.5"
+}

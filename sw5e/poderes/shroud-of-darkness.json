@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You become heavily obscured to others. Dim light within 10 feet of you becomes darkness, and bright light becomes dim light.\r\n\r\nUntil the power ends, you have resistance to force damage. Additionally, whenever a creature within 10 feet of you hits you with an attack, it takes 2d8 necrotic damage.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Dark",
+  "higherLevelDescription": null,
+  "level": 4,
+  "name": "Shroud of Darkness",
+  "powerType": "Force",
+  "prerequisite": "Darkness",
+  "range": "Self",
+  "rowKey": "Shroud of Darkness"
+}

@@ -1,0 +1,9 @@
+{
+  "attributesIncreased": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "name": "Sniping Caster",
+  "prerequisite": "4th level, the ability to cast force or tech powers",
+  "rowKey": "Sniping Caster",
+  "text": "You've practiced casting powers more accurately from long range, learning techniques that give you the following benefits:\r\n- When you cast a power that requires you to make an attack roll, the power's range is doubled.\r\n- Your ranged force and tech attacks ignore one-quarter, half, and three-quarters cover.\r\n- You learn one at-will power that requires an attack roll. Your casting ability for this at-will power depends on the power list you chose from: Wisdom or Charisma (depending on power alignment) for force powers or Intelligence for tech powers.\r\n"
+}

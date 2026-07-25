@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Pacnorval Chem Integrator",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Pacnorval Chem Integrator",
+  "searchableRarity": "Premium",
+  "subtype": "vibroweapon",
+  "text": "You can apply poisons to this weapon as a bonus action, instead of an action.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

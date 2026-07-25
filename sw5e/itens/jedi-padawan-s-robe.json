@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Body",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Jedi Padawan's Robe",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": true,
+  "rowKey": "Jedi Padawan's Robe",
+  "searchableRarity": "Premium",
+  "subtype": "body",
+  "text": "_**Requires attunement**_\r\nYou gain a +1 bonus to AC while you wear this robe.\r\n\r\n_Members of the Jedi Order typically wear plain or unassuming garments, offering only a minor boost to defenses._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

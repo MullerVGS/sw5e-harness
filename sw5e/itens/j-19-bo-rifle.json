@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "Specific",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "J-19 Bo-Rifle",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "J-19 Bo-Rifle",
+  "searchableRarity": "Premium",
+  "subtype": "bo-rifle",
+  "text": "You have a +1 bonus to attack and damage rolls with this enhanced weapon. Additionally, while it is in staff mode, the save DC for its shocking property increases to 14.\r\n\r\n_This more recent and less artfully designed model of bo-rifle comes with a bayonet attached to the top edge._",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

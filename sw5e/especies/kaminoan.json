@@ -1,0 +1,83 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Very tall, long limbs, long necks",
+  "eyeColorOptions": "Grey, yellow, blue, green",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nKaminoans' evolution from aquatic creatures in the vast oceans of Kamino is reflected in their tall shape, glassy coated eyes, near luminescent skin, and long, thin necks. The almond-shaped eyes of kaminoans are also able to see color in the ultraviolet spectrum. While female kaminoans are bald, males possess headcrests and fin ridges along the rear of their small, bulbous skulls.\r\n\r\n### Society and Culture\r\nThe kaminoans see themselves as a superior form of life, but nevertheless remained polite to outsiders. To them any species seeking self-improvement is worthy of respect, but those who do not are obviously inferior; self-improvement has a central role in Kaminoan society. Through the development and mastery of selective breeding, genetics, and cloning, the kaminoans were able to overcome a cataclysm that pushed them to the brink of extinction. \r\n\r\nKaminoans live in a caste based society, determined by the color of the kaminoan's eyes. Gray eyed individuals handle administration and are considered of the highest-level caste; middle castes had yellow eyes and handle the skilled work; and lower castes had blue eyes and perform manual labor and other menial tasks. Although it is extremely rare, kaminoans are sometimes born with green eyes. Those are viewed as genetically inferior and as a threat to the kaminoans' well ordered society and as such are exterminated shortly after birth. \r\n\r\n### Names\r\nKaminoan names typically are composed by around two syllables and a brief surname.\r\n\r\n**Male Names.** Lama, Ni, Orun, Koa\r\n\r\n**Female Names.** Taun, Ko, Nala, Kina\r\n\r\n**Surnames.** Ha, Su, We, Sai, Wa",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "6'4\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Kamino",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaminoan.png"
+  ],
+  "language": "Kaminoan, Galactic Basic",
+  "manufacturer": null,
+  "name": "Kaminoan",
+  "rowKey": "Kaminoan",
+  "size": "Medium",
+  "skinColorOptions": "White",
+  "traits": [
+    {
+      "description": "Your Intelligence score increases by 2 and your Wisdom score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Kaminoans reach adulthood at 11 years old and live around 100 years.",
+      "name": "Age"
+    },
+    {
+      "description": "Kaminoans highly organized society lead individuals to tend toward a lawful alignment, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Kaminoans typically stand 7 to 8 feet tall and weigh around 150 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have proficiency in the Medicine skill.",
+      "name": "Geneticist"
+    },
+    {
+      "description": "When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.",
+      "name": "Long-Limbed"
+    },
+    {
+      "description": "You know the *temporary boost* at-will tech power. Your techcasting ability is Intelligence. You do not require use of a wristpad for this power.",
+      "name": "Tech Dabbler"
+    },
+    {
+      "description": "Whenever you make a Wisdom (Perception) check related to sight, you are considered to have expertise in the Perception skill.",
+      "name": "Ultraviolet Sight"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Kaminoan. Kaminoan is characterized by its flowing water-like sound.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "150 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

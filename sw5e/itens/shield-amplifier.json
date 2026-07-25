@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Shield Amplifier",
+  "prerequisite": " Shield generator",
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Shield Amplifier",
+  "searchableRarity": "Standard",
+  "subtype": "armor",
+  "text": "You modify this shield generator to project outward. As a bonus action you can amplify this shield until the start of your next turn. Each creature within 5 feet of you gains a bonus to AC equal to this shield's bonus.\r\n\r\nYou can use this feature twice. You regain all expended uses when you complete a short or long rest.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "My research is also my best companion.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I will get revenge on the criminals that stole my research.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "The school I studied at is the most important place in the world to me.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "One day I will return to my home planet and prove that I am the greatest scientist of them all.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I believe my research will be the key to saving the life of a loved one.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I owe my instructor a great debt for forging me into the person I am today.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "equipment": "A set of common clothes, a datapad, a book on your field of research, a pouch containing 100 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Medic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Naturalist",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Techie",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Tech Dabbler",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Keen Mind",
+      "roll": 8
+    }
+  ],
+  "featureName": "Scientific Method",
+  "featureRowKeys": null,
+  "featureText": "You are well acquainted with your field of research from having read numerous journals or having attended scientific conferences. Concepts that are complicated, involving technical jargon that usually goes over most people's heads, are simple to you. You fully understand concepts, can recall key information, and know how to use equipment related to your field, unless the research was hidden from the public, in which case you may only partially understand it. You also recognize well-known figures in your field.\r\n",
+  "features": null,
+  "flavorDescription": "While scientist's are widely knowledgeable, they also choose a focus for their studies. Choose an option or roll on the table below to define your field of research.\r\n\r\n| d8 | Field of Research  |\r\n|:----:|:-------------|\r\n| 1  | Biology |\r\n| 2  | Artificial Intelligence |\r\n| 3 | Chemistry |\r\n| 4 | Geology |\r\n\r\n| d8 | Field of Research  |\r\n|:----:|:-------------|\r\n| 5 | Physics |\r\n| 6 | the Force |\r\n| 7 | Astrogation |\r\n| 8 | Medicine |\r\n",
+  "flavorName": "Field of Research",
+  "flavorOptions": [],
+  "flavorText": "Nothing excites you more than pushing the boundaries of scientific knowledge. Most of your time is spent in a lab performing experiments to further your interests. Few people understand the work you do. You can solve complex problems most people can't begin to wrap their heads around, and can solve simple problems in unexpected ways that surprise most people. \r\n\r\nWhat is your scientific field of interest? Is it your insatiable curiousity, or a personal goal that drives you? Did you leave your lab voluntarily, or were you kicked out? One thing is for sure - there are too many interesting research ideas, and too little time.\r\n",
+  "flawOptions": [
+    {
+      "description": "I believe only other scientists deserve my respect.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I fail to understand why people don't understand my technical jargon.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I experiment on myself without thinking about the long term consequences.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I am paranoid that people are out to steal my research.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I believe I work better when under the influence of intoxicants.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I work on my research to the point where I ignore my own bodily needs.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "All discoveries should be open to everyone. (Light)",
+      "name": "Transparency",
+      "roll": 1
+    },
+    {
+      "description": "Emotions must not cloud our sense of what is right and true, or our logical thinking. (Lawful)",
+      "name": "Logic",
+      "roll": 2
+    },
+    {
+      "description": "I'm only in it for the money and fame. (Dark)",
+      "name": "Greed",
+      "roll": 3
+    },
+    {
+      "description": "Inquiry and curiosity are the pillars of progress. (Chaotic)",
+      "name": "Free Thinking",
+      "roll": 4
+    },
+    {
+      "description": "Meddling in the affairs of others only causes trouble. (Balanced)",
+      "name": "Live and Let Live",
+      "roll": 5
+    },
+    {
+      "description": "I work hard to be the best there is at my craft. (Any)",
+      "name": "Aspiration",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Scientist",
+  "personalityTraitOptions": [
+    {
+      "description": "I look up to a renowned scientist in my field, and often talk about their work.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I constantly compare my current situation to my past experiments, many of which went terrifyingly wrong.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I believe scientific results always comes first.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I only speak in short incomplete and concise sentences, as they are optimized for efficient communication.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I am unable to think logically under great stress, and begin to shout random scientific words.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I do not believe in etiquette and disregard social expectations.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I was, in fact, grown and raised in a laboratory.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Scientist",
+  "skillProficiencies": "Choose two from Lore, Medicine, Nature, and Technology",
+  "suggestedCharacteristics": "Scientist are interested in things most don't care about. Their research is their life, and drives their personality traits. Their flaws, ideals, and bond are a result of their hours spent researching.",
+  "toolProficiencies": "One of your choice"
+}

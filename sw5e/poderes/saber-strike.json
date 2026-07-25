@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "EC",
+  "contentType": "Core",
+  "description": "As part of the action used to cast the power, you can move up to your speed and make one melee weapon attack. On a hit, the attack deals an extra 1d10 damage of the weapon's type. In addition, if you hit with the attack, the target must succeed on a Strength saving throw or be knocked prone.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 4th level or higher, the bonus weapon damage increases by 1d10 for every two slot levels above 2nd.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Saber Strike",
+  "powerType": "Force",
+  "prerequisite": "Saber Assault",
+  "range": "Self",
+  "rowKey": "Saber Strike"
+}

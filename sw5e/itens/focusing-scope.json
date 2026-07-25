@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Focusing Scope",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Focusing Scope",
+  "searchableRarity": "Standard",
+  "subtype": "blaster",
+  "text": "The simple scope allows you to use a bonus action to take aim at a target you can see. The next attack you make before the end of your next turn does not suffer disadvantage due to being made at long range.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

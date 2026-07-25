@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Handwraps (Fine)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Handwraps (Fine)",
+  "searchableRarity": "Premium",
+  "subtype": "hands",
+  "text": "While wearing these handwraps, you have a +1 bonus to attack and damage rolls made with your unarmed strikes.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

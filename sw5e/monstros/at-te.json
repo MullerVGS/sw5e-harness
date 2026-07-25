@@ -1,0 +1,261 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 18,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AT-TE is Immune to Ion damage.",
+      "descriptionWithLinks": " The AT-TE is Immune to Ion damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Electromagnetic Shielding",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The outer layer of the AT-TE is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 15 points, the AT-TE takes no damage from that attack. If the AT-TE takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.",
+      "descriptionWithLinks": " The outer layer of the AT-TE is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 15 points, the AT-TE takes no damage from that attack. If the AT-TE takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.",
+      "monsterBehaviorType": "Trait",
+      "name": "Heavy Durasteel Armor",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.",
+      "descriptionWithLinks": " The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.",
+      "monsterBehaviorType": "Trait",
+      "name": "Piloted",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Creatures of Medium size or smaller can stand in the AT-TE's space.",
+      "descriptionWithLinks": " Creatures of Medium size or smaller can stand in the AT-TE's space.",
+      "monsterBehaviorType": "Trait",
+      "name": "Towering",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AT-TE can transport a maximum of 20 stormtroopers and five speeder bikes, which it can deploy using its Deploy Troops legendary action, or which can be fought by creatures inside of the AT-TE.",
+      "descriptionWithLinks": " The AT-TE can transport a maximum of 20 stormtroopers and five speeder bikes, which it can deploy using its Deploy Troops legendary action, or which can be fought by creatures inside of the AT-TE.",
+      "monsterBehaviorType": "Trait",
+      "name": "Troop Transport",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AT-TE's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.",
+      "descriptionWithLinks": " The AT-TE's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.",
+      "monsterBehaviorType": "Trait",
+      "name": "Vulnerable Interior",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AT-TE makes four attacks: one with its laser cannon volley and three with its medium repeaters.",
+      "descriptionWithLinks": " The AT-TE makes four attacks: one with its laser cannon volley and three with its medium repeaters.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AT-TE chooses a point within 240 ft and lets loose a blast from its heavy laser cannon that explodes in a 15ft cube around that point. Each creature within the cube must succeed on a DC 16 Dexterity saving throw, taking 33 (6d10) energy damage on a failed save, or half as much damage on a successful one.",
+      "descriptionWithLinks": " The AT-TE chooses a point within 240 ft and lets loose a blast from its heavy laser cannon that explodes in a 15ft cube around that point. Each creature within the cube must succeed on a DC 16 Dexterity saving throw, taking 33 (6d10) energy damage on a failed save, or half as much damage on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Laser Cannon Volley",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 8,
+      "attackType": "RangedWeapon",
+      "damage": "19",
+      "damageRoll": "3d10+3",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +8 to hit, range 120/240 ft., one target. Hit: 19 (3d10+3) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +8 to hit, range 120/240 ft., one target. Hit: 19 (3d10+3) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Medium Repeaters",
+      "numberOfTargets": "one target.",
+      "range": "range 120/240 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AT-TE makes a single attack with its medium repeaters.",
+      "descriptionWithLinks": " The AT-TE makes a single attack with its medium repeaters.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Repeating Blasters",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AT-TE mobilizes some of the soldiers traveling within it. It deploys 1d4+2 Troopers. These troops appear in any unoccupied spaces within 10 feet of the AT-TE.",
+      "descriptionWithLinks": " The AT-TE mobilizes some of the soldiers traveling within it. It deploys 1d4+2 Troopers. These troops appear in any unoccupied spaces within 10 feet of the AT-TE.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Deploy Troops",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Costs 2 Actions"
+    }
+  ],
+  "challengeRating": "18",
+  "charisma": 7,
+  "charismaModifier": -1,
+  "conditionImmunities": [
+    "Poisoned",
+    "Frightened",
+    "Petrified",
+    "Restrained",
+    "Incapacitated",
+    "Stunned",
+    "Prone",
+    "Blinded",
+    "Charmed"
+  ],
+  "conditionImmunitiesOther": [
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [
+    10,
+    4,
+    9,
+    12,
+    6,
+    14,
+    11,
+    1,
+    2
+  ],
+  "constitution": 21,
+  "constitutionModifier": 5,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [
+    "Ion",
+    "Necrotic",
+    "Poison"
+  ],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [
+    6,
+    9,
+    10
+  ],
+  "damageResistances": [
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    11
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 16,
+  "dexterityModifier": 3,
+  "experiencePoints": 20000,
+  "flavorText": "The All Terrain Tactical Enforcer (AT-TE), is an all terrain assault walker developed for the Grand Army of the Republic during the Clone Wars. The walker is used for transporting platoons of troopers and attacking enemy installations. The AT-TE's cramped rear compartment contains computer hologram communication devices and space for troopers to stand during transportation. On the back end of the machine is a large door for quick deployment of troopers. Some versions of the walker were able to scale vertical cliffs. The typical arsenal includes a top-mounted mass-driver cannon, along with six other laser cannons placed strategically around the outside of the vehicle.",
+  "hitPointRoll": "16d20 + 80",
+  "hitPoints": 248,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "-"
+  ],
+  "name": "AT-TE",
+  "rowKey": "AT-TE",
+  "savingThrows": [
+    "Str +12",
+    "Con +10"
+  ],
+  "sectionText": "The armies of the galaxy use a variety of land vehicles used to transport troops and as weapons of war to bring overwhelming firepower against their enemies.",
+  "senses": [
+    "-"
+  ],
+  "size": "Gargantuan",
+  "skills": null,
+  "speed": 40,
+  "speeds": "40 ft.",
+  "strength": 25,
+  "strengthModifier": 7,
+  "types": [
+    "construct"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

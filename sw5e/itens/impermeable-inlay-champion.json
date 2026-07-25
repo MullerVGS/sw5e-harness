@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Impermeable Inlay (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Impermeable Inlay (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "clothing",
+  "text": "This clothing gains the impermeable 9 armor property (suits chosen by the GM). If it already has the impermeable armor property, its impermeable number increases to 9.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

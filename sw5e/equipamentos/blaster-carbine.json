@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 425,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Blaster carbine",
+  "properties": [
+    "Power cell (range 70/280)",
+    "reload 16",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 70/280)",
+    "Reload": "reload 16",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Blaster carbine",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "5.5"
+}

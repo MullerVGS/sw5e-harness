@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Smart Interface (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Smart Interface (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "blaster",
+  "text": "This weapon gains the smart (18, +4) property. If it already has the smart property, its smart numbers increase by +4 and +3, respectively, to a maximum of 20 and +6.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

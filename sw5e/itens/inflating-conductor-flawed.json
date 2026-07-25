@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Inflating Conductor (Flawed)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Inflating Conductor (Flawed)",
+  "searchableRarity": "Prototype",
+  "subtype": "focus generator",
+  "text": "This item gains the inflating 15 property. If it already has the inflating property, its inflating number increases by 15, to a maximum of 30.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

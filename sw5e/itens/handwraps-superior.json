@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Handwraps (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Handwraps (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "hands",
+  "text": "While wearing these handwraps, you have a +3 bonus to attack and damage rolls made with your unarmed strikes.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

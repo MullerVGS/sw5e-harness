@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Part",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Vocoder (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Vocoder (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "part",
+  "text": "A vocoder is an adjustment to a droid's speech center. The vocoder includes 40 languages, and grants the droid the ability to speak, read, and write each language. The languages can be changed out while interfaced with a protocol droid or appropriate computer.",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

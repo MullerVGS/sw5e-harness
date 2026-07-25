@@ -1,0 +1,105 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 11,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " When the spider takes damage, all other spiders within 240 feet of it can sense its pain.",
+      "descriptionWithLinks": " When the spider takes damage, all other spiders within 240 feet of it can sense its pain.",
+      "monsterBehaviorType": "Trait",
+      "name": "Distress Spores",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 2,
+      "attackType": "MeleeWeapon",
+      "damage": "2",
+      "damageRoll": "1d4",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Slam",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d6) kinetic damage, and the target must make a DC 14 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
+      "descriptionWithLinks": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d6) kinetic damage, and the target must make a DC 14 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
+      "monsterBehaviorType": "Action",
+      "name": "Stinger",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1",
+  "charisma": 5,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 11,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [
+    "Fire"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    4
+  ],
+  "dexterity": 12,
+  "dexterityModifier": 1,
+  "experiencePoints": 200,
+  "flavorText": "",
+  "hitPointRoll": "4d4",
+  "hitPoints": 10,
+  "imageUrls": [],
+  "intelligence": 2,
+  "intelligenceModifier": -4,
+  "languages": [
+    "�"
+  ],
+  "name": "Knobby White Spiderling",
+  "rowKey": "Knobby White Spiderling",
+  "savingThrows": null,
+  "sectionText": "The Knobby white spider was a large landspeeder-sized arachnid-like organism native to the swamp world of Dagobah.In addition to the very large ones, there are also some smaller, knee-heigh spiderlings.***Appearance.*** It had a large, lumpy body with a bloated, bulbous head, eight gnarled legs and one large stinger used to capture and sedate its prey.***Biology.*** One of the most bizarre organisms on Dagobah, the knobby white spider was in fact a mobile root that was part of the gnarltree's life cycle. Composed primarily of calcified wood, it would break free of its parent tree to roam the swamps and devour animals. After gathering enough nutrients, the spider would find a clear spot to anchor its legs, and if it survived that period, it would eventually transform into roots that allow the spider to grow into a towering tree. During this period it was vulnerable to bogwings and jubba birds.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 10"
+  ],
+  "size": "Tiny",
+  "skills": [
+    "Stealth +3"
+  ],
+  "speed": 20,
+  "speeds": "20 ft.",
+  "strength": 11,
+  "strengthModifier": 0,
+  "types": [
+    "plant"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

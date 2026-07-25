@@ -1,0 +1,79 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Strength"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Covered in fur, four eyes, unable to speak Galactic Basic",
+  "eyeColorOptions": "Black, dark blue, or dark red",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nTalz are large, bulky, bipedal creatures, that are covered head to toe in thick white fur, which provides exceptional insulation against their frozen world. Talz have four eyes, which are also adaptations to their native environment. The larger set of eyes are shut during the day, when sunlight reflects off the snow with dazzling brightness�able to blind sensitive optical organs�leaving the smaller set to navigate with. Alternatively, during the deep darkness of their homeworld's moonless night, the larger pair are utilized to provide the Talz with adequate vision. Talz use a small proboscis to eat and communicate, creating high-pitched chirps and buzzes.\r\n\r\n### Society and Culture\r\nTalz are a hunter-gatherer, clan-based society. They work in unison, and treat the entire clan as one single familial entity. Resources on Ordo Plutonia are often scarce, which leads to warring among Talz tribes. However, the clans are adept at forming a unified front when they face a common enemy.\r\n\r\nTalz are large, brutal creatures and are often used as guards and enforcers. Sometimes they are taken as slaves, though it's rare; they are rebellious against authority and don't take well to slavery. There are rumors that Talz are captured for scientific experimentation.\r\n\r\n### Names\r\nTalz names are fairly gutteral and are characterized by their harsh nature. Female names are typically longer than male names. Surnames are clan-based, though it's rare that a Talz shares them with non-Talz.\r\n\r\n**Male Names.** Drak, Fedirk, Imom, Ke, Twift\r\n\r\n**Female Names.** Ilnuno, Ontuga, Utrukk, Zimtucc\r\n\r\n**Surnames.** Dic, Noetoc, Suptat, Wume, Zapak",
+  "hairColorOptions": "Grey, pink, or white",
+  "halfHumanTableEntries": {},
+  "heightAverage": "6'5\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Orto Plutonia",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_talz.png"
+  ],
+  "language": "Talzzi",
+  "manufacturer": null,
+  "name": "Talz",
+  "rowKey": "Talz",
+  "size": "Medium",
+  "skinColorOptions": "Black or grey",
+  "traits": [
+    {
+      "description": "Your Strength score increases by 2, and your Wisdom score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Talz reach adulthood at 10 and rarely live longer than 50 years.",
+      "name": "Age"
+    },
+    {
+      "description": "Talz' peaceful and slow-to-anger nature cause them to tend toward the light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Talz stand between 6 and 8 feet tall and weigh around 250 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "You have a thick hide. While you are unarmored or wearing light armor, your AC is 12 + your Dexterity modifier. Additionally, your thick hide is naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide.",
+      "name": "Hide"
+    },
+    {
+      "description": "When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.",
+      "name": "Long-Limbed"
+    },
+    {
+      "description": "You can speak, read, and write Talzzi. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Talzzi is characterized by its high-pitched chirps and buzzes.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "180 lb.",
+  "weightRollMod": "x(2d6) lb."
+}

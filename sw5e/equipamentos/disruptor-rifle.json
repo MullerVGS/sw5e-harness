@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 2900,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Acid",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Disruptor rifle",
+  "properties": [
+    "Disintegrate 13",
+    "power cell (range 60/240)",
+    "reload 4",
+    "strength 13",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Disintegrate": "Disintegrate 13",
+    "Power Cell": "power cell (range 60/240)",
+    "Reload": "reload 4",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Disruptor rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "13.5"
+}

@@ -1,0 +1,240 @@
+{
+  "bondOptions": [
+    {
+      "description": "I'm trying to pay off an old debt I owe to a generous benefactor.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I worked the land, I love the land, and I will protect the land.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "A proud noble once gave me a horrible beating, and I will take my revenge on any bully I encounter.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I wish my childhood sweetheart had come with me to pursue my destiny.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "My family, community, or planet is the most important thing in my life, even when they are far from me.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Someone I loved died because of a mistake I made. That will never happen again.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A rough instrument you are proficient with, a set of tools (one of your choice), a sturdy knife, a set of common clothes, and a belt pouch containing 50 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Animal Handler",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Naturalist",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Charmer",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Techie",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Entertainer",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Haggler",
+      "roll": 8
+    }
+  ],
+  "featureName": "Rustic Hospitality",
+  "featureRowKeys": null,
+  "featureText": "Since you are of the common folk, you fit in among them with ease. You can find a place to hide, rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. They will shield you from the law or anyone else searching for you, though they will not risk their lives for you.\r\n",
+  "features": null,
+  "flavorDescription": "There are as many kinds of farmers as there are things to harvest. Even farmers who provide for all their own needs have deep experience in one type of farming over others. Choose your harvest, or roll on the table below.\r\n\r\n|d8|Harvest|\r\n|:---:|:----------:|\r\n|1|Cereal Crops|\r\n|2|Drug Compounds|\r\n|3|Fibrous Plants|\r\n|4|Herbs & Spices|\r\n\r\n|d8|Harvest|\r\n|:---:|:----------:|\r\n|5|Insect Products|\r\n|6|Livestock|\r\n|7|Moisture|\r\n|8|Vegetables|\r\n",
+  "flavorName": "Farming Specialty",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "Cereal Crops",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Drug Compounds",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Fibrous Plants",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Herbs & Spices",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Insect Products",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Livestock",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Moisture",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Vegetables",
+      "roll": 8
+    }
+  ],
+  "flavorText": "You are an experienced farmer, cultivating and harvesting nature for the provision of others. You have spent a lot of time surviving outside population centers, but know how to sell your product either directly or to merchants, legal or otherwise.  Because you deal with commodities, either as input or as produce, you know how to get things done and how to live on razor-thin margins. You have survived up to this point by working long, hard, and smart.",
+  "flawOptions": [
+    {
+      "description": "I am too enamored of ale, wine, and other intoxicants.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I remember every insult I've received and nurse a silent resentment toward anyone who's ever wronged me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I am slow to trust members of other species, planets, and societies.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "The tyrant who rules my land will stop at nothing to see me killed.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I turn tail and run when things look bad.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I have a weakness for the vices of the city, especially gambling.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "People deserve to be treated with dignity and respect. (Light)",
+      "name": "Respect",
+      "roll": 1
+    },
+    {
+      "description": "My word is my bond. (Lawful)",
+      "name": "Honor",
+      "roll": 2
+    },
+    {
+      "description": "Tyrants must not be allowed to oppress the people. (Light)",
+      "name": "Freedom",
+      "roll": 3
+    },
+    {
+      "description": "I will do whatever it takes to become wealthy. (Dark)",
+      "name": "Greed",
+      "roll": 4
+    },
+    {
+      "description": "Meddling in the affairs of others only causes trouble. (Neutral)",
+      "name": "Live and Let Live",
+      "roll": 5
+    },
+    {
+      "description": "I'm loyal to my friends, not to any ideals, and everyone else can take a walk for all I care. (Any)",
+      "name": "People",
+      "roll": 6
+    }
+  ],
+  "languages": null,
+  "name": "Farmer",
+  "personalityTraitOptions": [
+    {
+      "description": "I judge people by their actions, not their words.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "If someone is in trouble, I'm always ready to lend help.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "When I set my mind to something, I follow through no matter what gets in my way.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have a strong sense of fair play and always try to find the most equitable solution to arguments.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "Thinking is for other people. I prefer action.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I misuse long words in an attempt to sound smarter.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I watch over my friends as if they were a litter of newborn pups.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I have a lesson for every situation, drawn from observing nature.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Farmer",
+  "skillProficiencies": "Choose two from Animal Handling, Nature, Persuasion, and Technology",
+  "suggestedCharacteristics": "A farmer is one of the common people and unusually tied to their home and the land. Most farmers look on their humble origins as a virtue, not a shortcoming, and they are quick to defend their home communities and their values, even if they always longed to leave their rural lives and move to the city.",
+  "toolProficiencies": "One instrument and one type of artisan's implements or bioanalysis kit"
+}

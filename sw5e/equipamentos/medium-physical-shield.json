@@ -1,0 +1,27 @@
+{
+  "ac": "+2",
+  "armorClassification": "Shield",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 150,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Medium physical shield",
+  "properties": [
+    "Strength 13"
+  ],
+  "propertiesMap": {
+    "Strength": "Strength 13"
+  },
+  "rowKey": "Medium physical shield",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "18"
+}

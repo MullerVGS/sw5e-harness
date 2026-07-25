@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You create a swirling cloud of smoke shot through with white-hot embers in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.\r\n\r\nWhen the cloud appears, each creature in it must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the power's area for the first time on a turn or ends its turn there.\r\n\r\nThe cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 8,
+  "name": "Incendiary Cloud",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "150 feet",
+  "rowKey": "Incendiary Cloud"
+}

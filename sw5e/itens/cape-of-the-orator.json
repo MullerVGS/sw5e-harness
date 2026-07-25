@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Cape of the Orator",
+  "prerequisite": " at least 3 levels in scholar",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Cape of the Orator",
+  "searchableRarity": "Prototype",
+  "subtype": "shoulders",
+  "text": "This item can hold a number of charges equal to half your scholar level (rounded up). When you complete a long rest, this item regains all missing charges. When your superiority die is rolled, you can expend one charge to reroll the die and choose either roll.\r\n\r\nWhen you reach 5th level in scholar, you can maintain two targets of your Critical Analysis feature, instead of one. If you use your bonus action to analyze a third target, you choose which Critical Analysis ends.\r\n\r\nWhen you reach 11th level in scholar, when you use your bonus action to use your Critical Analysis feature, you can target two creatures, instead of just one.\r\n\r\nWhen you reach 17th level in scholar, you can take a third reaction each round. You can only take one reaction per turn.\r\n\r\n_This color-shifting cloak is immune to wrinkles and always has a pressed appearance._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

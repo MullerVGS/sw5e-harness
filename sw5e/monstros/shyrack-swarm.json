@@ -1,0 +1,121 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 12,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The Shyrack has advantage on Wisdom (Perception) checks that rely on hearing.",
+      "descriptionWithLinks": " The Shyrack has advantage on Wisdom (Perception) checks that rely on hearing.",
+      "monsterBehaviorType": "Trait",
+      "name": "Keen Hearing",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a small shyrack. The swarm can't regain hit points or gain temporary hit points.",
+      "descriptionWithLinks": " The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a small shyrack. The swarm can't regain hit points or gain temporary hit points.",
+      "monsterBehaviorType": "Trait",
+      "name": "Swarm",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +6 to hit, reach 5 ft., one creature in the swarm's space. Hit: 9 (2d8) kinetic damage, or 4 (1d8) kinetic damage if the swarm has half of its hit points or fewer.",
+      "descriptionWithLinks": " Melee Weapon Attack: +6 to hit, reach 5 ft., one creature in the swarm's space. Hit: 9 (2d8) kinetic damage, or 4 (1d8) kinetic damage if the swarm has half of its hit points or fewer.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1",
+  "charisma": 4,
+  "charismaModifier": -3,
+  "conditionImmunities": [
+    "Charmed",
+    "Frightened",
+    "Paralyzed",
+    "Petrified",
+    "Prone",
+    "Restrained",
+    "Stunned"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    2,
+    4,
+    8,
+    9,
+    11,
+    12,
+    14
+  ],
+  "constitution": 11,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Energy",
+    "Kinetic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    3,
+    7
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 18,
+  "dexterityModifier": 4,
+  "experiencePoints": 200,
+  "flavorText": "",
+  "hitPointRoll": "6d10+10",
+  "hitPoints": 38,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "—"
+  ],
+  "name": "Shyrack Swarm",
+  "rowKey": "Shyrack Swarm",
+  "savingThrows": null,
+  "sectionText": "Shyracks are cave-dwelling terrors that are fiercely territorial and attack any intruder with aggression and fervor. While typically cave bound, every sixty-three years the shyracks of Korriban spill from their cave habitats for an entire summer. These periods saw them fill the sky where they blotted out the sun and moon where they rained their bluish droppings onto everything below. Prior to the return of the Sith Empire, biologists from across the galaxy arrived on the planet in order to witness every sixty-third summer where they observed the purpling of the red Korriban terrain.While ungainly and slow-moving with no eyes, shyracks are potentially dangerous pests, especially when they converge as a swarm on an intruder. They are native to the Shyrack cave of Korriban and are natural rivals to the feared Tuk'ata.",
+  "senses": [
+    "blindsight 60 ft.",
+    "passive Perception 11"
+  ],
+  "size": "Large",
+  "skills": null,
+  "speed": 0,
+  "speeds": "0 ft., fly 20ft",
+  "strength": 6,
+  "strengthModifier": -2,
+  "types": [
+    "swarm of Small beasts"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

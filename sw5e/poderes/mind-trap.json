@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You attempt to trap the mind of your target in a psychic cage. The target must make a Charisma saving throw. On a failed save, the creature is incapacitated for the duration as its mind is trapped. It can think, but it can't have any contact with or perceive the outside world. If the creature takes damage, it makes another Charisma save. On a success, the power ends. This power has no effect on droids or constructs.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 6th level or higher, after 1 minute of concentration the power's duration becomes 24 hours and it no longer requires your concentration.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 4,
+  "name": "Mind Trap",
+  "powerType": "Force",
+  "prerequisite": "Force Confusion",
+  "range": "60 feet",
+  "rowKey": "Mind Trap"
+}

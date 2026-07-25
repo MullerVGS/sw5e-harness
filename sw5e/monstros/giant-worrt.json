@@ -1,0 +1,110 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 14,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The worrt has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
+      "descriptionWithLinks": " The worrt has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
+      "monsterBehaviorType": "Trait",
+      "name": "Stone Camouflage",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "8",
+      "damageRoll": "1d10 + 3",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) kinetic damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the worrt can't bite another target. The target must make a DC 10 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a success.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) kinetic damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the worrt can't bite another target. The target must make a DC 10 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a success.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": "If the worrt dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.  The worrt makes a bite attack against a Medium or smaller target it is grappling. On a hit, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the worrt, and it takes 14 (4d6) acid damage at the start of each of the worrt's turns. The worrt can have only one target swallowed at a time.",
+      "descriptionWithLinks": "If the worrt dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.  The worrt makes a bite attack against a Medium or smaller target it is grappling. On a hit, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the worrt, and it takes 14 (4d6) acid damage at the start of each of the worrt's turns. The worrt can have only one target swallowed at a time.",
+      "monsterBehaviorType": "Action",
+      "name": "Swallow",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "4",
+  "charisma": 3,
+  "charismaModifier": -4,
+  "conditionImmunities": [
+    "Poisoned"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    10
+  ],
+  "constitution": 15,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [
+    "Poison"
+  ],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [
+    10
+  ],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 13,
+  "dexterityModifier": 1,
+  "experiencePoints": 1100,
+  "flavorText": "",
+  "hitPointRoll": "6d10 + 12",
+  "hitPoints": 45,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "—"
+  ],
+  "name": "Giant Worrt",
+  "rowKey": "Giant Worrt",
+  "savingThrows": null,
+  "sectionText": "Worrts are a non-sentient species that hail from the desert of the planet Tatooine, although they can also be found on Nal Hutta and Phaeda. ***Biology & Appearance.***  Worrts are squat and spiky creatures whose appearance bears similarities to that of chubas. They have brown, warty skin and measure 1.5 meters in height. They are quadrupeds with dexterous forelimbs. A worrt's head features a pair of sensitive cranial palps; two bulbous eyes, yellow in hue; two nostrils; and a large mouth containing a long tongue and strong teeth laced with a venom potent enough to kill a bantha. Worrts lay large amounts of soft eggs, which are harvested for food and used as ingredients in drinks such as Jabba Juice.***Behavior.*** Worrts feed mostly on insects and rodents. When hungry, a worrt settles into the sand, becoming indistinguishable from a rocky outcropping, and waits for prey to pass. When its victim comes close enough, the worrt throws its tongue out of its mouth and wraps it around the prey. The worrt's tongue then snaps back, throwing the food down its throat.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 14"
+  ],
+  "size": "Large",
+  "skills": [
+    "Perception +4",
+    "Stealth +3"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 16,
+  "strengthModifier": 3,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 14,
+  "wisdomModifier": 2
+}

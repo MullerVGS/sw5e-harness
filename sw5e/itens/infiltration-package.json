@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Infiltration Package",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Infiltration Package",
+  "searchableRarity": "Premium",
+  "subtype": "replacement",
+  "text": "This augmentation replaces a hand.\r\n\r\nThis implant appears to be a standard cybernetic mechanical arm, but conceals a security kit and a slicer's kit. Additionally, you can also use an action to cast _release_ at 2nd level without expending tech points or use of a tech focus. Intelligence is your techcasting ability for this power. Once you've done so, you can't do so again until you complete a long rest.\r\n\r\n**Side Effect:** This hand can no longer wield items that weigh more than 7 lbs.\r\n\r\n_This fully cybernetic hand replacement contains a hidden array of infiltration tools optimized for defeating a wide variety of security barriers._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

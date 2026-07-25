@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "BonusAction",
+  "castingPeriodText": "1 bonus action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "As you expel kolto, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your techcasting ability modifier. This power has no effect on droids or constructs.\r\n\r\n***Overcharge Tech.*** When you cast this power using a tech slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.",
+  "duration": "Instantaneous",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 3,
+  "name": "Kolto Cloud",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "60 feet",
+  "rowKey": "Kolto Cloud"
+}

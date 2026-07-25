@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "AnyHeavy",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Matrix Armor",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Matrix Armor",
+  "searchableRarity": "Premium",
+  "subtype": "any heavy",
+  "text": "While wearing this suit of armor, any critical hit against you becomes a normal hit.\r\n\r\n_This suit of armor has had its protective durasteel components replaced by equivalents made of matrix, a purple metal used to reinforce starships._",
+  "type": "Armor",
+  "valuableType": "None",
+  "valueText": null
+}

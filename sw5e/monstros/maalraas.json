@@ -1,0 +1,131 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 13,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " At-will: force camouflage     The maalraas's forcecasting ability is Wisdom (power save DC 11, +3 to hit with force attacks). The maalraas innately knows the following force powers:",
+      "descriptionWithLinks": " At-will: force camouflage     The maalraas's forcecasting ability is Wisdom (power save DC 11, +3 to hit with force attacks). The maalraas innately knows the following force powers:",
+      "monsterBehaviorType": "Trait",
+      "name": "Force Sensitive",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The maalraas has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "descriptionWithLinks": " The maalraas has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "monsterBehaviorType": "Trait",
+      "name": "Keen Hearing and Smell",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The maalraas can make a bite attack and a claw attack.",
+      "descriptionWithLinks": " The maalraas can make a bite attack and a claw attack.",
+      "monsterBehaviorType": "Action",
+      "name": "Mutliattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "MeleeWeapon",
+      "damage": "11",
+      "damageRoll": "2d8 + 2",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.",
+      "descriptionWithLinks": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "MeleeWeapon",
+      "damage": "7",
+      "damageRoll": "2d4 + 2",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Claws",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 6,
+  "charismaModifier": -2,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 15,
+  "dexterityModifier": 2,
+  "experiencePoints": 450,
+  "flavorText": "",
+  "hitPointRoll": "6d8 + 6",
+  "hitPoints": 33,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "�"
+  ],
+  "name": "Maalraas",
+  "rowKey": "Maalraas",
+  "savingThrows": [
+    "Dex +4"
+  ],
+  "sectionText": "Maalraas or Nighthuntersre a non-sentient species of predatory quadrupeds. Nighthunters hunted in packs, using long claws and powerful fanged jaws to disable their victims. ***Characteristics.*** Using the Force to cloak themselves, making themselves nearly indistinguishable from the darkest shadows, only extremely well-trained Jedi or Sith cah recognize their silhouettes. Their Hides and bones are heavily resistant to lightsabers as well as intense heat. Maalraas have huge fangs that protrude from their round heads and are possibly the ancestors of nighthunters. ***Behavior.***  Maalraas hunted in packs primarily preyed upon cannoks, although if there were too many of them the cannoks could drive the predator away or even kill it. Maalraas were in turn preyed upon by the zakkeg.***Domestication.*** Easy to train from infancy or from older ages, Nighthunters are utilised as Loyal guard beasts and are exported from their unrecorded home world by crime syndicates as well as other wealthy individuals willing to trade on the black market. ***Spread.*** While plentiful at the time of the old republic era, by the time of the Clone Wars, they were thought to be extinct, but at least one still survived on Parein II 4. A population exists on the forest moon of Dxun in the Onderon system and possibly Onderon itself. ",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 11"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Stealth +6"
+  ],
+  "speed": 40,
+  "speeds": "40 ft.",
+  "strength": 14,
+  "strengthModifier": 2,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

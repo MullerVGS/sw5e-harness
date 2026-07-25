@@ -1,0 +1,162 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 16,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Once per turn, the commando droid can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the commando droid that isn't incapacitated.",
+      "descriptionWithLinks": " Once per turn, the commando droid can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the commando droid that isn't incapacitated.",
+      "monsterBehaviorType": "Trait",
+      "name": "Droid Synergy",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The supercommando droid makes two weapon attacks.",
+      "descriptionWithLinks": " The supercommando droid makes two weapon attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 7,
+      "attackType": "RangedWeapon",
+      "damage": "6",
+      "damageRoll": "1d6+3",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +7 to hit, range 60/240 ft., one target. Hit: 6 (1d6+3) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +7 to hit, range 60/240 ft., one target. Hit: 6 (1d6+3) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Carbine",
+      "numberOfTargets": "one target.",
+      "range": "range 60/240 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 7,
+      "attackType": "MeleeWeapon",
+      "damage": "6",
+      "damageRoll": "1d6+3",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Techblade",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid becomes invisible. Anything the droid is carrying is invisible as long as it is on the droid. The droid may end the invisibility as a free action. The invisibility ends if the droid attacks.",
+      "descriptionWithLinks": " The droid becomes invisible. Anything the droid is carrying is invisible as long as it is on the droid. The droid may end the invisibility as a free action. The invisibility ends if the droid attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Stealth Field Generator",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "5",
+  "charisma": 7,
+  "charismaModifier": -1,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 14,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 19,
+  "dexterityModifier": 4,
+  "experiencePoints": 1800,
+  "flavorText": "The BX series commando droid was an elite battle droid model made for stealth assignments. Equipped with a stealth field generator, they were perfectly designed for espionage.They had the same operating abilities as B1 battle droids, with the addition of infiltration software. This, along with their humanoid shape, gave them the unique ability to fit into human-sized armor. In addition to this, the droids were capable of modulating their voices to match that of others, though they could not accurately copy their mannerisms or vocabulary, nor respond properly to unexpected situations outside of combatBX-series droid commandos were designed to accomplish tasks that an overwhelming force of droids could not. They were capable of hand-to-hand combat, had greater accuracy than their B1 predecessors. ",
+  "hitPointRoll": "15d8+30",
+  "hitPoints": 96,
+  "imageUrls": [],
+  "intelligence": 15,
+  "intelligenceModifier": 2,
+  "languages": [
+    "Binary",
+    "Galactic Basic"
+  ],
+  "name": "BX Series, BX-5C",
+  "rowKey": "BX Series, BX-5C",
+  "savingThrows": [
+    "Dex +7"
+  ],
+  "sectionText": "Battle droids, also known as combat droids or battle bots, are a type of droid designed for combat. One thing most battle droids have in common is limited intelligence. They are programmed to follow orders, and not much else, though they do have personalities. Some battle droids, however, have some form of intelligence. These droids are much more expensive to make, due to their advanced brains.***Clone Wars.*** Over the years, many different models of battle droid have been utilized by various factions throughout the galaxy. The Confederacy of Independent Systems, for example, used a number of different models of battle droid during the Clone Wars to make up the Separatist Droid Army. Under the command of General Grievous, varying models of battle droid fought against the Galactic Republic's clone troopers until the final days of the war, when the Confederate battle droids were deactivated by the Galactic Empire.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 12"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Perception +4",
+    "Stealth +7"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 13,
+  "strengthModifier": 1,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 13,
+  "wisdomModifier": 1
+}

@@ -1,0 +1,80 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 17,
+  "armorType": "Natural Armor",
+  "behaviors": [
+    {
+      "attackBonus": 9,
+      "attackType": "MeleeWeapon",
+      "damage": "22",
+      "damageRoll": "3d8 + 9",
+      "damageType": "Kinetic",
+      "description": "If the mole serpent takes 25 damage or more on a single turn from a creature inside it, the mole serpent must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the mole serpent. If the mole serpent dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.  Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) kinetic damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Dexterity saving throw or be swallowed by the mole serpent. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the mole serpent, and it takes 14 (4d6) acid damage at the start of each of the mole serpent's turns.",
+      "descriptionWithLinks": "If the mole serpent takes 25 damage or more on a single turn from a creature inside it, the mole serpent must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the mole serpent. If the mole serpent dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.  Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) kinetic damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Dexterity saving throw or be swallowed by the mole serpent. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the mole serpent, and it takes 14 (4d6) acid damage at the start of each of the mole serpent's turns.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 10 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "10",
+  "charisma": 4,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 21,
+  "constitutionModifier": 5,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": [
+    "acid (interior only)"
+  ],
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 20,
+  "dexterityModifier": 5,
+  "experiencePoints": 5900,
+  "flavorText": "",
+  "hitPointRoll": "15d20 + 75",
+  "hitPoints": 232,
+  "imageUrls": [],
+  "intelligence": 1,
+  "intelligenceModifier": -5,
+  "languages": [
+    "�"
+  ],
+  "name": "Mole Serpent, Adult",
+  "rowKey": "Mole Serpent, Adult",
+  "savingThrows": [
+    "Con +10",
+    "Wis +4"
+  ],
+  "sectionText": "Ordinarily found only in the hilly regions of a little-known planet at the edge of the Kathol Sector, mole serpents dwell almost entirely underground, burrowing through the soil in search of surface prey. With its keen ability to sense vibrations underground, the mole serpent locates unwary targets and tunnels toward them undetected until it lurches up out of the ground to strike. Mole serpents range from 30-50 feet long, with chitinous plating and short, hornlike projections. By alternately contorting and relaxing its muscles, the mole serpent can create an undulating motion, driving the projections into the surrounding ground and pushing the beast forward. In its native soil, it can travel at speeds of 15 feet per round. One known serpent is known to have made its way to the deserts of Tatooine, and in Tatooine's soft sand, it can move as fast as 30 feet per round. The mole serpent cannot burrow through rock. The movement, of a mole serpent does not create a passable tunnel, but the ground is decidedly softer behind it.The creatures are the natural predators of the Tirginni beasts. The mole serpent attacks by surfacing, then biting and attempting to swallow smaller creatures. ",
+  "senses": [
+    "Blindsight 30 ft.",
+    "Tremorsense 60 ft.",
+    "passive Perception 14"
+  ],
+  "size": "Gargantuan",
+  "skills": [
+    "Stealth +15",
+    "Perception +4"
+  ],
+  "speed": 50,
+  "speeds": "50 ft., burrow 30 ft.",
+  "strength": 28,
+  "strengthModifier": 9,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 8,
+  "wisdomModifier": -1
+}

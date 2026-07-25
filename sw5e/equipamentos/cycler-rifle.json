@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 825,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Cycler rifle",
+  "properties": [
+    "Rapid 2",
+    "reload 8",
+    "slug cartridge (range 90/360)",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Range": "slug cartridge (range 90/360)",
+    "Rapid": "Rapid 2",
+    "Reload": "reload 8",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Cycler rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "7.5"
+}

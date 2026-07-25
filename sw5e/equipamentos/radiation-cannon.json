@@ -1,0 +1,41 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 3900,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Necrotic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Radiation cannon",
+  "properties": [
+    "Power cell (range 75/300)",
+    "auto",
+    "burst 2",
+    "disrupt ive",
+    "piercing 1",
+    "reload 4",
+    "strength 15",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "": "disrupt ive",
+    "Auto": "auto",
+    "Burst": "burst 2",
+    "Piercing": "piercing 1",
+    "Power Cell": "Power cell (range 75/300)",
+    "Reload": "reload 4",
+    "Strength": "strength 15",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Radiation cannon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "13.5"
+}

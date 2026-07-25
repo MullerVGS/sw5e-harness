@@ -1,0 +1,87 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Charisma"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Constitution"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Four arms",
+  "eyeColorOptions": "Black, slate, gray, or brown",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nCodru-Ji are humanoids generally near-human in their adult appearances, save for their four arms. While their hair, eye, and skin pigmentations tend towards earthen hues, brighter colorations such as blonde hair or blue eyes, though uncommon, also exist. Rarer still, some adults maintain a light coat of fur or elongated, pointed ears. These eccentric attributes result from their unusual childhood forms.\r\n\r\nCodru-Ji children are actually sapient, six-legged canid creatures that cannot speak. Codru-Ji in this stage of their lives are called Wyrwulves: they mature to their more recognizable figures after reaching puberty. At that point, a blue, rubbery substance cocoons a Wyrwulf for several weeks before it emerges as a humanoid adolescent. They do, however, retain both the natural resilience and the enhanced hearing of their previous selves.\r\n\r\n### Society and Culture\r\nThe Codru-Ji are proud and protective of their ancient customs, and they carefully manage their homeworld's economy to keep a degree of anonymity from the galaxy at large. They fear the tainting of their long-held practices by outside influence as well as prejudice against them for the almost barbaric level of callousness they will display towards one another in pursuit of personal gain. The kidnapping of a political rivals' children or the ransoming of off-worlders back to their people are both common practices. \r\n\r\n### Names\r\nCodru-Ji names are often kept to two syllables. Clan names are appended to the given name as a hyphenated affix.\r\n\r\n**Male Names.** Kossok, Tirrit, Uttar, Yunnan\r\n\r\n**Female Names.** Davvi, Kella, Russa, Zollu \r\n\r\n**Clan Names.** -Fa, -Mu, Ro-, -Sy, Yi-",
+  "hairColorOptions": "Black, brown, gray, or white (usually with age)",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'6\"",
+  "heightRollMod": "+2d8\"",
+  "homeworld": "Munto Codru",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_codru-ji.png"
+  ],
+  "language": "Codruese",
+  "manufacturer": null,
+  "name": "Codru-Ji",
+  "rowKey": "Codru-Ji",
+  "size": "Medium",
+  "skinColorOptions": "Light to dark tones",
+  "traits": [
+    {
+      "description": "Your Charisma score increases by 2, and your Constitution score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Codru-Ji reach adulthood in their early teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Steeped in selfish tradition, Codru-Ji tend towards the dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Codru-Ji stand 5 to 6 feet tall and weigh around 160 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Codru-Ji have four arms which they can use independently of one another. You can only gain the benefit of items held by two of your arms at any given time, and once per round you can switch which arms you are benefiting from (no action required).",
+      "name": "Four-Armed"
+    },
+    {
+      "description": "You have a thick hide. While you are unarmored or wearing light armor, your AC is 12 + your Dexterity modifier.",
+      "name": "Hide"
+    },
+    {
+      "description": "You have advantage on Wisdom (Perception) checks that rely on hearing.",
+      "name": "Keen Hearing"
+    },
+    {
+      "description": "Whenever you make a Strength (Athletics) check to grapple you are considered to have expertise in the Athletics skill.",
+      "name": "Natural Grappler"
+    },
+    {
+      "description": "You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits.",
+      "name": "Trance"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Codruese, which has a solemn and stately cadence to it.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "90 lb.",
+  "weightRollMod": "x(2d6) lb."
+}

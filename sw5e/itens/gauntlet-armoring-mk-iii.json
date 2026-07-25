@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Gauntlet Armoring Mk III",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Gauntlet Armoring Mk III",
+  "searchableRarity": "Legendary",
+  "subtype": "armor",
+  "text": "This armor gains the gauntleted (1d8) property. If it already has the gauntleted property, the gauntleted damage increases to d8.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

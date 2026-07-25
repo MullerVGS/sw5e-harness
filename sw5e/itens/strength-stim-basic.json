@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Stimpacs",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Strength Stim (Basic)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Strength Stim (Basic)",
+  "searchableRarity": "Standard",
+  "subtype": "stimpac",
+  "text": "As an action, you can administer this stimpac to a creature within 5 feet. When you administer this stimpac, the target's Strength score increases by 2, to a maximum of 20. This effect lasts for 1 hour. A creature can benefit from only one stimpac at a time. ",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

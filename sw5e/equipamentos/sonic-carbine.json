@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 675,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Sonic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Sonic carbine",
+  "properties": [
+    "Power cell (range 60/240)",
+    "disruptive",
+    "reload 12",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Disruptive": "disruptive",
+    "Power Cell": "Power cell (range 60/240)",
+    "Reload": "reload 12",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Sonic carbine",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "7"
+}

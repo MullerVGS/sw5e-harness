@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "BonusAction",
+  "castingPeriodText": "1 bonus action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You put your faith in the Force, feeling out the future and seeing whether your actions will lead to fortune or ruin. The GM chooses from the following possible omens:\r\n- **Peace**, for results which are not dangerous\r\n- **Danger**, for results which are dangerous but perhaps still worth the danger\r\n- **Ruin**, for results which are certain to end in death or tragedy\r\n\r\nThe power doesn't take into account any possible circumstances that might change the outcome, such as the use of additional powers or the loss or gain of a companion.\r\n\r\nIf you use this power two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a neutral result regardless of the actual outcome.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Danger Sense",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Danger Sense"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Enhancement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Mighty Athlete Package",
+  "prerequisite": " Strength 15",
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Mighty Athlete Package",
+  "searchableRarity": "Legendary",
+  "subtype": "enhancement",
+  "text": "Your Strength score increases by 1, and your maximum for this score increases by 1. Additionally, you have advantage on Strength saving throws.\r\n\r\n**Side Effect:** One ability score other than Strength (chosen by the GM) decreases by 1.\r\n\r\n_This implant drastically increases your physical capacities._ ",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

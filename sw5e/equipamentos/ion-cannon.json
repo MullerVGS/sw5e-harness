@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 3800,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Ion",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Ion cannon",
+  "properties": [
+    "Auto",
+    "burst 4",
+    "power cell (range 90/360)",
+    "reload 4",
+    "strength 15",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Auto": "Auto",
+    "Burst": "burst 4",
+    "Power Cell": "power cell (range 90/360)",
+    "Reload": "reload 4",
+    "Strength": "strength 15",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Ion cannon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "16.5"
+}

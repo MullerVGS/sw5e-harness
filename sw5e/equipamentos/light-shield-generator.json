@@ -1,0 +1,23 @@
+{
+  "ac": "+1",
+  "armorClassification": "Shield",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 125,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Light shield generator",
+  "properties": [],
+  "propertiesMap": {},
+  "rowKey": "Light shield generator",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "0"
+}

@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 350,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "War hat",
+  "properties": [
+    "Defensive 1",
+    "disguised",
+    "returning",
+    "thrown (range 30/90)"
+  ],
+  "propertiesMap": {
+    "Defensive": "Defensive 1",
+    "Disguised": "disguised",
+    "Range": "thrown (range 30/90)",
+    "Returning": "returning"
+  },
+  "rowKey": "War hat",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "3.25"
+}

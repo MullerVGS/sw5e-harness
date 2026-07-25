@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 925,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Switch carbine",
+  "properties": [
+    "Power cell (range 70/280)",
+    "reload 16",
+    "switch (1d4 acid)",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 70/280)",
+    "Reload": "reload 16",
+    "Switch": "switch (1d4 acid)",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Switch carbine",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "7.5"
+}

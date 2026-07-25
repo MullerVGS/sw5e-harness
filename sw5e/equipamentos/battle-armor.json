@@ -1,0 +1,29 @@
+{
+  "ac": "16",
+  "armorClassification": "Heavy",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 750,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Battle armor is an armor that reduced weight, but restricts movement. The armor is commonly used by mercenaries, bounty hunters, soldiers, and civilians that live in dangerous areas.",
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Battle armor",
+  "properties": [
+    "Bulky",
+    "strength 13"
+  ],
+  "propertiesMap": {
+    "Bulky": "Bulky",
+    "Strength": "strength 13"
+  },
+  "rowKey": "Battle armor",
+  "stealthDisadvantage": true,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "55"
+}

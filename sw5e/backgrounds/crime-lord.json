@@ -1,0 +1,240 @@
+{
+  "bondOptions": [
+    {
+      "description": "I'm trying to pay off an old debt I owe to a generous benefactor.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "My ill-gotten gains go to support my family.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Something important was taken from me, and I aim to steal it back.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "The common folk must see me as a hero of the people.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm guilty of a terrible crime. I hope I can redeem myself for it.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Someone I loved died because of a mistake I made. That will never happen again.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A fine set of clothes, a gaming set (one of your choice), and a purse containing 250 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Threatening",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Charmer",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Competitor",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Inspiring Leader",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Observant",
+      "roll": 8
+    }
+  ],
+  "featureName": "Criminal Network",
+  "featureRowKeys": null,
+  "featureText": "You have access to an extensive network of organised crime. You know how to get messages to and from local contacts, even over great distances; you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.\r\n",
+  "features": null,
+  "flavorDescription": "Not every crime lord is bent on corrupting society and making a profit. Some use their criminal connections to wage guerilla wars against tyrants and despots. Indeed, some historical heroes began as smugglers or pirates, rising through the ranks of their organization to provide a more noble direction for their group's activities. Although some did so to remove an obstacle to making more money, others recognized that ridding the galaxy of evil is a more important long-term goal. Choose the motivation behind your criminal enterprise, or roll on the table below.\r\n\r\n|d8|Motivation|\r\n|:---:|:----------:|\r\n|1|Desperation|\r\n|2|Freedom|\r\n|3|Infamy|\r\n|4|Love|\r\n\r\n|d8|Motivation|\r\n|:---:|:----------:|\r\n|5|Malice|\r\n|6|Profit|\r\n|7|Respect|\r\n|8|Revenge|\r\n",
+  "flavorName": "Criminal Motivation",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "Desperation",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Freedom",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Infamy",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Love",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Malice",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Profit",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Respect",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Revenge",
+      "roll": 8
+    }
+  ],
+  "flavorText": "Few societies manage to eradicate crime altogether. In the underworld, someone always rises to the top, either through vision, organisation, or sheer intimidation. The life of a crime lord isn't for the timid. After conquering an unseen empire, the crime lord wages a daily struggle not only to stay on top, but also to stay alive.",
+  "flawOptions": [
+    {
+      "description": "I secretly believe that everyone is beneath me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "When faced with a choice between money and my friends, I usually choose the money.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I too often hear veiled insults and threats in every word addressed to me, and I'm quick to anger.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have a �tell� that reveals when I'm lying.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I turn tail and run when things look bad.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "An innocent person is in prison for a crime that I committed. I'm okay with that.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I don't steal from others in the trade. (Lawful)",
+      "name": "Honor",
+      "roll": 1
+    },
+    {
+      "description": "Chains are meant to be broken, as are those who would forge them. (Chaotic)",
+      "name": "Freedom",
+      "roll": 2
+    },
+    {
+      "description": "I steal from the wealthy so that I can help people in need. (Light)",
+      "name": "Charity",
+      "roll": 3
+    },
+    {
+      "description": "I will do whatever it takes to become wealthy. (Dark)",
+      "name": "Greed",
+      "roll": 4
+    },
+    {
+      "description": "I'm loyal to my friends, not to any ideals, and everyone else can take a walk for all I care. (Neutral)",
+      "name": "People",
+      "roll": 5
+    },
+    {
+      "description": "There's a spark of good in everyone. (Light)",
+      "name": "Redemption",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Crime Lord",
+  "personalityTraitOptions": [
+    {
+      "description": "I always have a plan for what to do when things go wrong.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I am always calm, no matter what the situation. I never raise my voice or let me emotions control me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I would rather make a new friend than a new enemy.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I don't like to get my hands dirty, and I won't be caught dead in unsuitable accommodations.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "My favor, once lost, is lost forever.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "If you do me an injury, I will crush you, ruin your name, and salt your fields.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I blow up at the slightest insult.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Crime Lord",
+  "skillProficiencies": "Choose two from Deception, Insight, Intimidation, and Persuasion",
+  "suggestedCharacteristics": "Crime lords might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. Unlike common thieves, some crime lords even have some respect for law and authority, with whom they play a cat-and-mouse type game. ",
+  "toolProficiencies": "One type of gaming set"
+}

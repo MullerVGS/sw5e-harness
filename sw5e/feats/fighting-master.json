@@ -1,0 +1,9 @@
+{
+  "attributesIncreased": null,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "name": "Fighting Master",
+  "prerequisite": "4th level",
+  "rowKey": "Fighting Master",
+  "text": "You've mastered a particular style of fighting. Choose one of the fighting mastery options, detailed later in this chapter. You can take this feat multiple times. \r\n"
+}

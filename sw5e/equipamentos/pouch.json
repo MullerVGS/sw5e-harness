@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 5,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A pouch stores 6.00 lb., not exceeding 1/5 cubic foot. ",
+  "equipmentCategory": "Storage",
+  "modes": [],
+  "name": "Pouch",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Pouch",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "1"
+}

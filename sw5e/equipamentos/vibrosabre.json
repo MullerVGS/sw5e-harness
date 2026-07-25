@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 300,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrosabre",
+  "properties": [
+    "Dexterity 11",
+    "keen 1",
+    "light"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Keen": "keen 1",
+    "Light": "light"
+  },
+  "rowKey": "Vibrosabre",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleVibroweapon",
+  "weight": "1.75"
+}

@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Minute",
+  "castingPeriodText": "1 minute",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You receive a vision of the future through the Force, giving you or one willing creature you can see within range a chance to change fate. When the chosen creature makes an ability check, an attack roll, or a saving throw before the power ends, it can dismiss this power on itself to roll an additional d20 and choose which of the d20s to use. Alternatively, when an attack roll is made against the chosen creature, it can dismiss this power on itself to roll a d20 and choose which of the d20s to use, the one it rolled or the one the attacker rolled. \r\n\r\nIf the original d20 roll has advantage or disadvantage, the creature rolls the additional d20 after advantage or disadvantage has been applied to the original roll.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.",
+  "duration": "1 hour",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Force Vision",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "60 feet",
+  "rowKey": "Force Vision"
+}

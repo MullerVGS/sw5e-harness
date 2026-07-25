@@ -1,0 +1,39 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1025,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Phase knife",
+  "properties": [
+    "Dexterity 11",
+    "disguised",
+    "hidden",
+    "keen 1",
+    "light",
+    "luminous",
+    "vicious 1"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Disguised": "disguised",
+    "Hidden": "hidden",
+    "Keen": "keen 1",
+    "Light": "light",
+    "Luminous": "luminous",
+    "Vicious": "vicious 1"
+  },
+  "rowKey": "Phase knife",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "1.75"
+}

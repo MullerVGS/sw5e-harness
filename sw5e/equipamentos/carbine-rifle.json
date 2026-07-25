@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 925,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Carbine rifle",
+  "properties": [
+    "Auto",
+    "power cell (range 90/360)",
+    "rapid 3",
+    "reload 12",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Auto": "Auto",
+    "Power Cell": "power cell (range 90/360)",
+    "Rapid": "rapid 3",
+    "Reload": "reload 12",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Carbine rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "8.5"
+}

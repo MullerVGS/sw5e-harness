@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Smugglepack (Improved)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Smugglepack (Improved)",
+  "searchableRarity": "Prototype",
+  "subtype": "back",
+  "text": "This backpack comes with a main compartment that stores 13 lb., not exceeding 1/2 cubic foot. Additionally, it has a hidden storage compartment that stores 7 lb., not exceeding 1/4 cubic foot. Finding the hidden compartment requires a DC 21 Investigation check.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

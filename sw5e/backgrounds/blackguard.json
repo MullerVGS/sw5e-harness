@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "Nothing is more important than the other members of the Blackguard.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I would die to recover an ancient relic that was lost long ago.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I will do anything to protect the temple where I served.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I seek to preserve a sacred text that my enemies consider heretical and seek to destroy.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm still seeking the enlightenment I pursued in joining the Blackguard, and it still eludes me.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I would do anything for the Wilder that trained me.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A copy of a Force-wielder organization's text, a trinket from your travels around the galaxy, a set of common clothes including a robe, and a belt pouch containing 150 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "investigator",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Survivalist",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Formfighting Dabbler",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Force-Sensitive",
+      "roll": 8
+    }
+  ],
+  "featureName": "Student of the Force",
+  "featureRowKeys": null,
+  "featureText": "You often know where to find information on Force-sensitive organizations, or where to find someone who would know, and can readily decipher more common lore about them. Your GM might rule that the knowledge you seek is secreted away in an almost inaccessible place, that it simply cannot be found, or is too difficult to decipher.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "\r\nYou are a member of the Blackguard: a reclusive sect of Force users from the planet of Mustafar. Rather than being determined by the Force, the Blackguard believe that the light or dark dwell within the user, and that to truly increase one's knowledge and strength in the Force, one must understand and seek out the philosophies and abilities of other Force traditions around the galaxy.",
+  "flawOptions": [
+    {
+      "description": "I believe that everyone is beneath me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I am easily distracted by the promise of information.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I have little respect for anyone who is not a proven warrior.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I find those who believe in the Dark and Light of the Force childish simpletons.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "My rejection of Light and Dark has drained me of any real moral compass.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "My focus on gaining knowledge has left me with little attachment to people or their feelings.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "The path to true understanding of the Force is through knowledge. (Neutral)",
+      "name": "Knowledge",
+      "roll": 1
+    },
+    {
+      "description": "Knowledge is the path to power and domination. (Dark)",
+      "name": "Might",
+      "roll": 2
+    },
+    {
+      "description": "The Blackguard protect that which others would seek to destroy. (Lawful)",
+      "name": "Defense",
+      "roll": 3
+    },
+    {
+      "description": "The Blackguard Order watches its own. (Any)",
+      "name": "Loyalty",
+      "roll": 4
+    },
+    {
+      "description": "There is no light or dark. There is only the Force. (Balanced)",
+      "name": "Balance",
+      "roll": 5
+    },
+    {
+      "description": "True freedom rejects the restrictions of the Jedi and Sith. (Chaos)",
+      "name": "Freedom",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Blackguard",
+  "personalityTraitOptions": [
+    {
+      "description": "I let my actions speak for themselves.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I've left emotion behind me, I'm now perfectly placid.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I question every Force user I meet, trying to acquire every piece of knowledge I can.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'm willing to listen to every side of an argument before I make my own judgment.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I spend every free moment training in lightsaber techniques.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I judge people by their actions, not their words.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "When I set my mind to something, I follow through no matter what gets in my way.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I face problems head-on. A simple, direct solution is the best path to success.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Blackguard",
+  "skillProficiencies": "Choose two from Insight, Investigation, Lore, and Survival",
+  "suggestedCharacteristics": "The Blackguard are galactic travelers and students, looking to expand their horizons and knowledge of the Force by learning from others.",
+  "toolProficiencies": "Artificer's implements"
+}

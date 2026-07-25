@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1675,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Pikesaber",
+  "properties": [
+    "Dexterity 11",
+    "luminous",
+    "reach",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Luminous": "luminous",
+    "Reach": "reach",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Pikesaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "5.25"
+}

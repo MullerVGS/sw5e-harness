@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Magnetized Shield (Superior)",
+  "prerequisite": " Physical shield",
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Magnetized Shield (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "armor",
+  "text": "This shield gains the magnetic 16 property. If it already has the magnetic property, its magnetic number increases by 4, to a maximum of 18. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

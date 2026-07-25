@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 125,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Disguised blade",
+  "properties": [
+    "Disarming",
+    "disguised",
+    "finesse",
+    "light"
+  ],
+  "propertiesMap": {
+    "Disarming": "Disarming",
+    "Disguised": "disguised",
+    "Finesse": "finesse",
+    "Light": "light"
+  },
+  "rowKey": "Disguised blade",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "1"
+}

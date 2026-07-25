@@ -1,0 +1,29 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 125,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrospear",
+  "properties": [
+    "Thrown (range 25/75)",
+    "versatile (2d4)"
+  ],
+  "propertiesMap": {
+    "Range": "Thrown (range 25/75)",
+    "Versatile": "versatile (2d4)"
+  },
+  "rowKey": "Vibrospear",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleVibroweapon",
+  "weight": "4"
+}

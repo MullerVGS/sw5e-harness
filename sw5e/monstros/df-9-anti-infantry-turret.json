@@ -1,0 +1,172 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 10,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The turret has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The turret has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The outer layer of the turret is covered in heavy armor and shielding, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 15 points, the turret takes no damage from that attack. If the turret takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.",
+      "descriptionWithLinks": " The outer layer of the turret is covered in heavy armor and shielding, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 15 points, the turret takes no damage from that attack. If the turret takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.",
+      "monsterBehaviorType": "Trait",
+      "name": "Heavy Armor & Shielding",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct requires an active gunner to take any actions, and if the gunner is subjected to any conditions that the construct is not immune to, the gunner is also subjected to those conditions. The gunner may take their own action or one of the actions granted by the construct.",
+      "descriptionWithLinks": " The construct requires an active gunner to take any actions, and if the gunner is subjected to any conditions that the construct is not immune to, the gunner is also subjected to those conditions. The gunner may take their own action or one of the actions granted by the construct.",
+      "monsterBehaviorType": "Trait",
+      "name": "Gunner",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The turret's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage.",
+      "descriptionWithLinks": " The turret's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Vulnerable Interior",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The turret uses its Intelligence modifier for attack, damage, and initiative rolls.",
+      "descriptionWithLinks": " The turret uses its Intelligence modifier for attack, damage, and initiative rolls.",
+      "monsterBehaviorType": "Trait",
+      "name": "Targeting Systems",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The turret makes two laser cannon attacks.",
+      "descriptionWithLinks": " The turret makes two laser cannon attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 6,
+      "attackType": "RangedWeapon",
+      "damage": "16",
+      "damageRoll": "4d6+2",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +6 to hit, range 300/900 ft., one target that must be at least 60 ft away from the turret. Hit 16 (4d6+2) energy damage. Additionally, hit or miss, the target and each creature within 20 feet must make a Dexterity saving throw (DC 15), taking 14 (4d6) energy damage on a failed save, or half as much damage on a successful one.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +6 to hit, range 300/900 ft., one target that must be at least 60 ft away from the turret. Hit 16 (4d6+2) energy damage. Additionally, hit or miss, the target and each creature within 20 feet must make a Dexterity saving throw (DC 15), taking 14 (4d6) energy damage on a failed save, or half as much damage on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Laser Canon",
+      "numberOfTargets": "one target that must be at least 60 ft away from the turret.",
+      "range": "range 300/900 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "8",
+  "charisma": 4,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 15,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 2,
+  "dexterityModifier": -4,
+  "experiencePoints": 3900,
+  "flavorText": "Manufactured by Golan Arms, the DF.9 is a fixed emplacement anti-infantry weapon. It incorporates a single DF.9 laser cannon mounted atop a four-meter tall cylindrical housing composed of heavily-armored durasteel, with proton-shielding that is resistant to close-quarters blaster fire. The tower features a front access panel, and an upper observation hatch.The turreted laser cannon employs precision targeting computers and has an optimal rang of three kilometers, although the laser cannon is capable of hitting targets at a distance of sixteen kilometers at the cost of decreased accuracy. The DF.9 is capable of firing a shot every three seconds, with the impact of the energy beam scattering explosive energy and producing a secondary blast of radiation with an eight-meter radius impact point that can effectively destroy entire squads of soldiers. Skilled gunners can use the DF.9's accuracy to effectively disable army support systems and light vehicles, and it is devastating to foot soldiers and a threat to vehicles such as the All Terrain Scout Transport.The DF.9 is best used in conjunction with other similar units and anti-vehicle lasers to defend military bases, spaceports and other strategic installations. It can be installed on multiple terrain types. The nature of the DF.9's fixed emplacement means that the unit is not able to be moved easily.",
+  "hitPointRoll": "10d10 + 20",
+  "hitPoints": 75,
+  "imageUrls": [],
+  "intelligence": 14,
+  "intelligenceModifier": 2,
+  "languages": [
+    "—"
+  ],
+  "name": "DF.9 Anti-Infantry Turret",
+  "rowKey": "DF.9 Anti-Infantry Turret",
+  "savingThrows": null,
+  "sectionText": "A turret is a mount for a weapon that enabled it to turn and pivot, allowing it to fire in many different directions. They are mounted on many vehicles, starfighters, and starships.  Other turrets are mounted on the ground, and can be both manned and un-manned. Weapons mounted on turrets included laser cannons and other types of projectile cannons.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 14"
+  ],
+  "size": "Large",
+  "skills": [
+    "Perception +4"
+  ],
+  "speed": 0,
+  "speeds": "0 ft.",
+  "strength": 16,
+  "strengthModifier": 3,
+  "types": [
+    "construct"
+  ],
+  "wisdom": 11,
+  "wisdomModifier": 0
+}

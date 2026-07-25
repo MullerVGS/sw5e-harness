@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Enlarging Channel (Cracked)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Enlarging Channel (Cracked)",
+  "searchableRarity": "Standard",
+  "subtype": "focus generator",
+  "text": "This item gains the enlarging 5 property. If it already has the enlarging property, its enlarging number increases by 5, to a maximum of 30.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

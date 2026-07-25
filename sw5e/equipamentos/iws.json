@@ -1,0 +1,27 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 3625,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "IWS",
+  "properties": [
+    "Modal (blaster rifle, grenade launcher, and sniper rifle)"
+  ],
+  "propertiesMap": {
+    "Modal": "Modal (blaster rifle, grenade launcher, and sniper rifle)"
+  },
+  "rowKey": "IWS_ExoticBlaster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "ExoticBlaster",
+  "weight": "23"
+}

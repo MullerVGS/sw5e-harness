@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Storing Emitter (Basic)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Storing Emitter (Basic)",
+  "searchableRarity": "Standard",
+  "subtype": "focus generator",
+  "text": "This item gains the storing 1 property. If it already has the storing property, its storing number increases by 1, to a maximum of 6.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,240 @@
+{
+  "bondOptions": [
+    {
+      "description": "I will do anything to free people from censorship.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I can't let anyone know I work for a crime lord.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I see truth in an ideology, and I must spread that ideal to all.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I got a man killed by giving him a platform to speak, I can't let that happen again.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I�m on the run from a government organization that I spread propaganda against and who's propaganda I destroy.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I have a famous person's private logs, and I don't know what to do with them.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of common clothes, an old transceiver antennae, two tools of your choice, and a belt pouch containing 50 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Investigator",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Stealthy",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Techie",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Keen Mind",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Practiced",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Tech Dabbler",
+      "roll": 8
+    }
+  ],
+  "featureName": "Holonet Access",
+  "featureRowKeys": null,
+  "featureText": "You have the codes to a distributor station which gives you access to all information sent through it. This information comes in the form of useful (and sometimes sensitive) information on a topic you choose each day to tune into; this information isn't always reliable or interesting. Regardless of the quality of the information, it's relevance most likely pertains to your locale.\r\n",
+  "features": null,
+  "flavorDescription": "There are many people who service parts of the holonet, and many more who want to control the flow of information. Choose which best suits your character or roll on the table below.\r\n\r\n|d8|Role|\r\n|:---:|:----------:|\r\n|1|Inter-world Government|\r\n|2|Inter-world Corporation|\r\n|3|World Government|\r\n|4|Crime Syndicate|\r\n\r\n|d8|Role|\r\n|:---:|:----------:|\r\n|5|Independent Contractor|\r\n|6|Broadcasting Service|\r\n|7|Small Corporation|\r\n|8|Darknet Broadcasting|\r\n",
+  "flavorName": "Employment Type",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "Inter-world Government",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Inter-world Corporation",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "World Government",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Crime Syndicate",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Independent Contractor",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Broadcasting Service",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Small Corporation",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Darknet Broadcasting",
+      "roll": 8
+    }
+  ],
+  "flavorText": "You worked to keep the holonet up and running, whether being employed directly by an institution or indirectly by people across the galaxy. Your work has allowed you to uncover secrets most would never know existed. ",
+  "flawOptions": [
+    {
+      "description": "I tend to think any broadcaster is a fraud immediately unless they prove otherwise.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I tend to repeat the same mistake unless it is pointed out to me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I will ramble endlessly about a random holonet broadcast that I saw which I think was the best ever.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I think everyone who works a normal job is a drone without the ability to think freely.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I describe everything using references to obscure holonet recordings.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I've become completely desensitized to violence and graphic imagery, to the point where I laugh in an off putting way whenever I see it.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "It is my duty to keep all people in contact so that everything will continue working as intended. (Lawful)",
+      "name": "Duty",
+      "roll": 1
+    },
+    {
+      "description": "Information is meant to confuse and overwhelm. I choose to control my own mind by controlling what information I have access to. (Chaotic)",
+      "name": "Autonomy",
+      "roll": 2
+    },
+    {
+      "description": "The more hope and joy I spread, the more laughs I bring; that is why I do what I do. (Light)",
+      "name": "Happiness",
+      "roll": 3
+    },
+    {
+      "description": "I want to become the most renown being in all the galaxy, and I'll destroy the competition. (Dark)",
+      "name": "Popularity",
+      "roll": 4
+    },
+    {
+      "description": "I don't care who's ideology is right, I care who's ideology will let me learn and document information. (Neutral)",
+      "name": "Knowledge",
+      "roll": 5
+    },
+    {
+      "description": "I'm just here for the fun of it, no matter what happens it'll make a great story one day. (Any)",
+      "name": "Self-Fulfillment",
+      "roll": 6
+    }
+  ],
+  "languages": null,
+  "name": "Holonet Technician",
+  "personalityTraitOptions": [
+    {
+      "description": "I watch and record people secretly then review it later.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I talk like I'm on a game show or am a holonet broadcaster at all times.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I prefer to be left to my own devices.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I like to record people dying and upload it to the holonet.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "There's no such thing as 'real news'.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Information is a weapon that I've mastered.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I am always interested in learning new things.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I prefer interacting indirectly.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Holonet Technician",
+  "skillProficiencies": "Choose two from Insight, Investigation, Stealth, and Technology",
+  "suggestedCharacteristics": "Holonets technicians vary from boring officer worker to criminal information broker.   ",
+  "toolProficiencies": "Choose two from mechanic's kit, security kit, and slicer's kit"
+}

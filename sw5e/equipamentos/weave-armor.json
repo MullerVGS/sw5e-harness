@@ -1,0 +1,23 @@
+{
+  "ac": "14 + Dex modifier (max 2)",
+  "armorClassification": "Medium",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1000,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Weave armor was constructed from a mesh of metal or composite plates and a padded jumpsuit. Variants of the armor included less plates and more padding for a lighter, though less protect-ive armor, and heavier plating with molded pieces to fit the wearer. Though the armor was available unmodified, most users personalized their armor.",
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Weave armor",
+  "properties": [],
+  "propertiesMap": {},
+  "rowKey": "Weave armor",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "25"
+}

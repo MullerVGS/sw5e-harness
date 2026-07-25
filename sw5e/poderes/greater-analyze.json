@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Minute",
+  "castingPeriodText": "10 minutes",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Name or describe a person, place, or object. This power gives you a summary of significant lore about it. If the thing you named isn't known outside of one planetary system, you gain no information. The more information you already have, the more detailed the information you receive is.",
+  "duration": "Instantaneous",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 5,
+  "name": "Greater Analyze",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Greater Analyze"
+}

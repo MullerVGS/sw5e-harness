@@ -1,0 +1,23 @@
+{
+  "ac": "11 + Dex modifier",
+  "armorClassification": "Light",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 100,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Combat suits are seen all over the galaxy, and can be found for sale by almost any merchant who dealt in weapons and armor. Many such suits are used by military organizations, such as the Galactic Republic's military, as well as by mercenaries, criminals, bounty hunters and even some Jedi.\r\n\r\nThe suit itself offers decent protection from most types of attacks while maintaining maximum flexibility and minimum weight. However this armor is only recommended for light skirmishes.",
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Combat suit",
+  "properties": [],
+  "propertiesMap": {},
+  "rowKey": "Combat suit",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "10"
+}

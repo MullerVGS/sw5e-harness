@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Minute",
+  "castingPeriodText": "1 minute",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You choose one object that you must touch throughout the casting of the power. If it is an enhanced or modified item, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any powers are affecting the item and what they are.\r\n\r\nIf the item was created by a power, you learn which power created it. If you instead touch a creature throughout the casting, you learn what force powers, if any, are currently affecting it.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Telemetry",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Touch",
+  "rowKey": "Telemetry"
+}

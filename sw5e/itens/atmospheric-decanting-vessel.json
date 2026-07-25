@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Atmospheric Decanting Vessel",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Atmospheric Decanting Vessel",
+  "searchableRarity": "Premium",
+  "subtype": "",
+  "text": "This metal jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty.\r\n\r\nYou can use an action and name one liquid from the table below to cause the jug to produce the chosen liquid. Afterward, you can open the jug as an action and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid you named.\r\n\r\nOnce the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.\r\n\r\n| Liquid | Quantity |\r\n|:----:|:-------------|\r\n| Acid  | 8 ounces |\r\n| Alcohol, strong  | 1 gallon |\r\n| Alcohol, weak  | 4 gallons |\r\n| Basic poison  | 1/2 ounce |\r\n\r\n| Liquid | Quantity |\r\n|:---:|:------------|\r\n| Condiment | 2 gallons |\r\n| Lubricant | 1 quart |\r\n| Water, potable | 8 gallons |\r\n| Water, stagnant | 12 gallons |\r\n\r\n_Most liquids one might desire curiously only involve a handful of elements. This device collects a reservoir of them to recreate a selection of such liquids on demand._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

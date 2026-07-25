@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Power Generator (Average)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Power Generator (Average)",
+  "searchableRarity": "Premium",
+  "subtype": "ammunition",
+  "text": "You have a +1 bonus to attack and damage rolls made with this enhanced power generator. This bonus is in addition to any bonuses granted by the weapon. Once the power generator is depleted, it no longer gives a bonus.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

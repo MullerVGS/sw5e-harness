@@ -1,0 +1,83 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Strength"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Bone masks, elongated ears, flat nose, tusks",
+  "eyeColorOptions": "Yellow",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nTusks protrude from a Kaleesh's upper jaw, and shorter ones jut from their chins. Kaleesh have large pointed ears and long nostrils that stretched close to their eyes. They have very keen olfactory sense and were able to produce pheromones. Most of their facial features are obscured behind the traditional masks they wear, and outsiders rarely see Kaleesh unmasked. They are known to practice polygyny, a form of polygamy, where a male courts multiple wives. \r\n\r\n### Society and Culture\r\nKaleesh society is divided into numerous autonomous tribes. War is viewed as an essential and sacred practice, and the culture's large emphasis on honor is known to spur many acts of vengeance among the various tribes. However, when necessary, the tribes will put aside their differences and bond to fend off a common enemy.\r\n\r\nThe Kaleesh are a spiritual people, believing that those who perform great deeds in life became gods in death; therefore, burial places are sacred to them. A large number of temples are devoted to their ancestor gods, the holiest of which was called Shrupak. \r\n\r\nAbesmi, a great monolith of stone in the Jenuwaa Sea, is the place the Kaleesh believed the gods ascended to the heavens. Pilgrims take the perilous voyage to Abesmi to beseech the gods.\r\n\r\n### Names\r\nMale Kaleesh names are typically one syllable while female are two. Kaleesh surnames are tribal and often use two words.\r\n\r\n**Male Names.** Bir, Grost, Jick, Xygh, Yles\r\n\r\n**Female Names.** Dduzu, Glaglo, Runda, Yugdo, Zodey\r\n\r\n**Surnames.** Jal Greennath, Lij Jum, San Syrro,",
+  "hairColorOptions": "Black or brown",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'1\"",
+  "heightRollMod": "+2d6\"",
+  "homeworld": "Kalee",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaleesh.png"
+  ],
+  "language": "Kaleesh",
+  "manufacturer": null,
+  "name": "Kaleesh",
+  "rowKey": "Kaleesh",
+  "size": "Medium",
+  "skinColorOptions": "Orange, red, or yellow",
+  "traits": [
+    {
+      "description": "Your Strength score increases by 2, and your Dexterity score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Kaleesh reach adulthood in their early teens and live to be about 80.",
+      "name": "Age"
+    },
+    {
+      "description": "Kaleesh tend toward no particular alignment. The best and worst are found among them.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Kaleesh typically stand about five and a half feet tall and weigh about 140 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "The thermal pits under a Kaleesh's eyes grant darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "Kaleesh are adept hunters. You are proficient with the blaster carbine, vibroblade, vibropike, and, vibrospear.",
+      "name": "Weapon Training"
+    },
+    {
+      "description": "You have advantage on Wisdom (Perception) checks that rely on smell.",
+      "name": "Keen Smell"
+    },
+    {
+      "description": "You have proficiency in the Survival skill. Additionally, you are considered to have expertise in Wisdom (Survival) checks made to track a creature if that creature has a scent.",
+      "name": "Tracker"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Kaleesh.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "105 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

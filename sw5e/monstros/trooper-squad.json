@@ -1,0 +1,149 @@
+{
+  "alignment": "any alignment",
+  "armorClass": 15,
+  "armorType": "light battle armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The squad can occupy another creature's space and vice versa, and can move through openings large enough for a Medium humanoid. The squad is immune to any power or effect that would alter its form.",
+      "descriptionWithLinks": " The squad can occupy another creature's space and vice versa, and can move through openings large enough for a Medium humanoid. The squad is immune to any power or effect that would alter its form.",
+      "monsterBehaviorType": "Trait",
+      "name": "Squad",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The squad can take one reaction each turn.",
+      "descriptionWithLinks": " The squad can take one reaction each turn.",
+      "monsterBehaviorType": "Trait",
+      "name": "Reactive",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The squad makes four blaster rifle attacks, or two blaster rifle attacks if it has half its hit points or fewer.",
+      "descriptionWithLinks": " The squad makes four blaster rifle attacks, or two blaster rifle attacks if it has half its hit points or fewer.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "RangedWeapon",
+      "damage": "7",
+      "damageRoll": "1d8+3",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +5 to hit, range 100/400 ft., one target. Hit: 7 (1d8+3) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +5 to hit, range 100/400 ft., one target. Hit: 7 (1d8+3) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Rifle",
+      "numberOfTargets": "one target.",
+      "range": "range 100/400 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 150,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The squad fires en masse at a point within 150 feet Each creature of the squad's choice in a 10-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. On a failed save, a creature takes 36 (8d8) kinetic damage, or 18 (4d8) kinetic damage if the squad has half its hit points or fewer. On a successful save, it takes half as much damage.",
+      "descriptionWithLinks": " The squad fires en masse at a point within 150 feet Each creature of the squad's choice in a 10-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. On a failed save, a creature takes 36 (8d8) kinetic damage, or 18 (4d8) kinetic damage if the squad has half its hit points or fewer. On a successful save, it takes half as much damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Massed Fire",
+      "numberOfTargets": "or 18 (4d8) kinetic damage if the squad has half its hit points or fewer. On a successful save",
+      "range": "a creature takes 36 (8d8) kinetic damage",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "5",
+  "charisma": 10,
+  "charismaModifier": 0,
+  "conditionImmunities": [
+    "Charmed",
+    "Grappled",
+    "Paralyzed",
+    "Petrified",
+    "Prone",
+    "Restrained",
+    "Stunned"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    2,
+    5,
+    8,
+    9,
+    11,
+    12,
+    14
+  ],
+  "constitution": 15,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 16,
+  "dexterityModifier": 3,
+  "experiencePoints": 1800,
+  "flavorText": "Whether clones, conscripts, or academy recruits, the backbone of the central government's war and peace machine are well trained, well armed, and well armored individuals.  Deployed throughout the galaxy to deal with threats to authority, these troopers have various roles and specialties.",
+  "hitPointRoll": "13d20+26",
+  "hitPoints": 175,
+  "imageUrls": [],
+  "intelligence": 9,
+  "intelligenceModifier": -1,
+  "languages": [
+    "Galactic Basic",
+    "one other"
+  ],
+  "name": "Trooper, Squad",
+  "rowKey": "Trooper, Squad",
+  "savingThrows": [
+    "Dex +5",
+    "Wis +3"
+  ],
+  "sectionText": "As the branch of the galactic military that dealt with surface operations, the galactic army was composed of many sub-units and organizations, and utilized a vast array of vehicles to achieve its objectives throughout the years.***Grand Army of the Republic.*** The Grand Army of the Republic (GAR), also known as the Republic Army or the clone army, was the army branch of the Republic Military during the Clone Wars. The Grand Army initially consisted of over a million clone troopers; genetically identical soldiers cloned from a human template, outfitted with armor, weapons and gear, and programmed for absolute loyalty to the Galactic Republic. Formed as a result of the Republic's efforts to create a centralized army in response to the threat of separatism, the Grand Army represented the evolution of galactic warfare at the time of its introduction on Geonosis, and was instrumental to the Sith Order's secret plot to take over the galaxy.***Imperial Army.*** As the ultimate evolution of the Grand Army of the Republic, the Imperial Army swiftly asserted dominance throughout the galaxy, making use of highly trained soldiers, mechanized walkers, and overwhelming numbers. The Imperial Army worked in tandem with the forces of the Imperial Navy, relying on the numerous fleets to transport legions of troopers across the far reaches of the galaxy. The most common soldiers of the Empire's ground forces were known as Imperial Army soldiers, the core infantry of the army tasked with establishing Imperial regimes and pacifying troublesome worlds. As the Imperials reinforced their grip on the galaxy, these units were gradually phased out in favor of stormtroopers, elite shock troops fanatically loyal to the Emperor himself.***First Order.*** The First Order army was the ground-based service branch of the First Order military. Formed from the Imperial Army of the Galactic Empire, it was responsible for maintaining order throughout First Order space as well as the gradual conquest and colonization of the Unknown Regions.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 10"
+  ],
+  "size": "Gargantuan",
+  "skills": [
+    "Perception +3"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 19,
+  "strengthModifier": 4,
+  "types": [
+    "swarm of Medium humanoids"
+  ],
+  "wisdom": 11,
+  "wisdomModifier": 0
+}

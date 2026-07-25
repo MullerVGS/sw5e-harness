@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 3050,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 3,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightnodachi",
+  "properties": [
+    "Dexterity 17",
+    "luminous",
+    "piercing 1",
+    "two-handed",
+    "vicious 1"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 17",
+    "Luminous": "luminous",
+    "Piercing": "piercing 1",
+    "Two-Handed": "two-handed",
+    "Vicious": "vicious 1"
+  },
+  "rowKey": "Lightnodachi",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "4.5"
+}

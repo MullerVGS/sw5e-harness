@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Torpedo, Plasma (Deadly)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Torpedo, Plasma (Deadly)",
+  "searchableRarity": "Advanced",
+  "subtype": "ammunition",
+  "text": "You have a +3 bonus to attack and damage rolls made with this enhanced torpedo launcher ammunition, which deals 20d10 energy damage on a hit. This bonus is in addition to any bonuses granted by the weapon. Once the torpedo is depleted, it no longer gives a bonus.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

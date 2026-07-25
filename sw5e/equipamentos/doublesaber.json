@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 725,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Doublesaber",
+  "properties": [
+    "Double (1d8 energy)",
+    "finesse",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Double": "Double (1d8 energy)",
+    "Finesse": "finesse",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Doublesaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "2.25"
+}

@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 2050,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightglaive",
+  "properties": [
+    "Brutal 1",
+    "dexterity 13",
+    "luminous",
+    "reach",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Brutal": "Brutal 1",
+    "Dexterity": "dexterity 13",
+    "Luminous": "luminous",
+    "Reach": "reach",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Lightglaive",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "5.75"
+}

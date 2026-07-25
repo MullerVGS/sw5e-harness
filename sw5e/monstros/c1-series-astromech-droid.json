@@ -1,0 +1,134 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 12,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The astromech droid has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+      "descriptionWithLinks": " The astromech droid has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+      "monsterBehaviorType": "Trait",
+      "name": "Keen Hearing and Sight",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The astromech droid leaps up to 40 feet in any direction.",
+      "descriptionWithLinks": " The astromech droid leaps up to 40 feet in any direction.",
+      "monsterBehaviorType": "Trait",
+      "name": "Rocket Boost",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "1/day"
+    },
+    {
+      "attackBonus": 3,
+      "attackType": "MeleeWeapon",
+      "damage": "3",
+      "damageRoll": "1d4+1",
+      "damageType": "Lightning",
+      "description": " Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) lightning damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) lightning damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Shockprod",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1/8",
+  "charisma": 5,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 11,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 13,
+  "dexterityModifier": 1,
+  "experiencePoints": 25,
+  "flavorText": "The C1 series astromech droid, was a model of C-series astromech droid manufactured by Industrial Automaton. They were used during the Clone Warsand the reign of the Galactic Empire, though by then they were considered antiques and had passed their manufacturer's expiry date a few decades prior. They had three mechanical arms to manipulate objects with, and featured an electrical arc welder.",
+  "hitPointRoll": "2d6",
+  "hitPoints": 7,
+  "imageUrls": [],
+  "intelligence": 16,
+  "intelligenceModifier": 3,
+  "languages": [
+    "Speaks binary",
+    "underst",
+    "s Basic"
+  ],
+  "name": "C1 Series Astromech Droid",
+  "rowKey": "C1 Series Astromech Droid",
+  "savingThrows": null,
+  "sectionText": "An astromech droid, also referred to as an astro droid or mech, was a type of repair droid that served as an automated mechanic on starships. These compact droids used tool-tipped appendages stored in recessed compartments. Many starfighters relied on astromech copilots to control flight and power distribution systems. Sitting in an astromech socket exposed to space, the droid, in addition to its piloting duties, could calculate hyperspace jumps and perform simple repairs.Most astromechs were only able to communicate in writing, conveyed via another computer system, or through a special code of clicks, bleeps, and similar sounds, known as binary. However, certain other droids, such as C-3PO, could understand the binary code of astromechs, and often translated from binary to other languages.",
+  "senses": [
+    "Darkvision 60 Ft.",
+    "passive Perception 13"
+  ],
+  "size": "Small",
+  "skills": [
+    "Perception +3",
+    "Technology +5",
+    "Piloting +5"
+  ],
+  "speed": 25,
+  "speeds": "25 ft.",
+  "strength": 6,
+  "strengthModifier": -2,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

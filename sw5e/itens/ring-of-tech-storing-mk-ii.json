@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Ring of Tech Storing Mk II",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": true,
+  "rowKey": "Ring of Tech Storing Mk II",
+  "searchableRarity": "Premium",
+  "subtype": "finger",
+  "text": "_**Requires attunement**_\r\nThis ring stores tech powers cast into it, holding them until the attuned wearer uses them. The ring can store up to 3 levels worth of tech powers at a time. When found, it contains 1d4 - 1 levels of stored tech powers chosen by the GM.\r\n\r\nAny creature can cast a tech power of 1st through 3rd level into the ring by touching the ring as the tech power is cast. The tech power has no effect, other than to be stored in the ring. If the ring can't hold the tech power, the tech power is expended without effect. The level of the slot used to cast the tech power determines how much space it uses.\r\n\r\nWhile wearing this ring, you can cast any tech power stored in it. The tech power uses the slot level, tech save DC, tech attack bonus, and techcasting ability of the original caster, but is otherwise treated as if you cast the tech power. The tech power cast from the ring is no longer stored in it, freeing up space.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

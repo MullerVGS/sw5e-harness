@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1500,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Rotary cannon",
+  "properties": [
+    "Auto",
+    "power cell (range 75/300)",
+    "rapid 2",
+    "reload 8",
+    "strength 13",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Auto": "Auto",
+    "Power Cell": "power cell (range 75/300)",
+    "Rapid": "rapid 2",
+    "Reload": "reload 8",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Rotary cannon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "12.5"
+}

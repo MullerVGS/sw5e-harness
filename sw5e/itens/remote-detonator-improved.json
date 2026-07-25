@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Remote Detonator (Improved)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Remote Detonator (Improved)",
+  "searchableRarity": "Prototype",
+  "subtype": "",
+  "text": "A small handhold device with a single button, used to activate explosives. Over the course of 1 minute, you can pair the detonator with up to six mines within 10 feet. As an action, you can remotely detonate all of the paired mines. You must be within 90 feet of the mines to detonate them.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

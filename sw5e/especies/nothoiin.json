@@ -1,0 +1,89 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Near-human, flaky golden skin, skilled pilots",
+  "eyeColorOptions": "Brown",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nNear-humans possessing golden, flaky skin, nothoiins feature fair to brown hair with brown eyes and typically have physical heights and builds common to humans.  Nothoiins' appearance has earned their species the nickname of \"Goldskins.\"\r\n\r\n### Society and Culture\r\nAlthough nothoiins hail from their eponymous homeworld and star system in the Anoat Sector, they are ubiquitous throughout the Greater Javin Region and Corporate Sectors.  Their history of interstellar exploration and colonization was facilitated by their species' natural spacefaring abilities in both piloting and navigation and necessitated by their home planet's periodically harsh, dry climate.  Droughts on Nothoiin can last for decades, and the wildfires they foster have served as one of the primary factors behind the limited development of the planet's economy beyond the ur-diamond mining industry, which produces the system's chief export.  \r\n\r\nLarge-scale emigration from Nothoiin has led members of its native species to seek careers as pilots, navigators, and operatives in numerous criminal enterprises.  Various nothoiin colonies have given rise to a number of different governmental systems running the gamut from representative democracies to autocracies.\r\n\r\n### Names\r\nNothoiin typically receive a gendered given name and a familial surname.\r\n\r\n**Male Names.** Amrosio, Jado, Kosimas, Troov\r\n\r\n**Female Names.** Elayah, Giranti, Lorinah, Sil\r\n\r\n**Surnames.** Caban, Mordu, Plintus, Starstrider",
+  "hairColorOptions": "Blond, brown, light brown",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'8\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Nothoiin",
+  "imageUrls": [],
+  "language": "Notho",
+  "manufacturer": null,
+  "name": "Nothoiin",
+  "rowKey": "Nothoiin",
+  "size": "Medium",
+  "skinColorOptions": "Golden",
+  "traits": [
+    {
+      "description": "Your Intelligence score increases by 2, and your Dexterity score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Nothoiin reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Nothoiins tend toward no particular alignment. The best and worst are found among them.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Nothoiins typically stand between 5 and 6 feet tall and weigh 150 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Nothoiins demonstrate seemingly innate piloting abilities from a very young age.  You have proficiency in the Piloting skill.",
+      "name": "Born Pilots"
+    },
+    {
+      "description": "You are considered to have expertise in Wisdom (Survival) checks made to navigate.",
+      "name": "Expert Navigators"
+    },
+    {
+      "description": "You have proficiency in the Lore skill.",
+      "name": "Galactic Traveler"
+    },
+    {
+      "description": "Whenever you make a Dexterity ability check, attack roll, or saving throw, you can choose to add 1d4 to the result. You can use this before or after the roll, but before the GM determines the roll's outcome. Once you've used this feature, you must complete a short or long rest before you can use it again.",
+      "name": "Heightened Reflexes"
+    },
+    {
+      "description": "Nothoiins have intimate knowledge of ur-diamond mining and refinement practices.  You gain proficiency in your choice of jeweler's implements, scavenging kit, or archaeologist kit.",
+      "name": "Major Miners"
+    },
+    {
+      "description": "Whenever you make an Intelligence (Technology) check related to starships, you are considered to have expertise in the Technology skill.",
+      "name": "Starship Specialists"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and one language of your choice. You can also communicate via Notho, a native hand language developed by hunters living in the Nothoiin plains.  Usage of Notho is exceedingly rare outside Nothoiin culture.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "110 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "I would die to recover an ancient Sith relic that was lost long ago.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I care only about myself.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I owe my life to the Sith who took me in when my parents died.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "My enemies will be defeated, even if it costs me my life.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "Someone I love was killed. Some day soon, I'll have my revenge.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "My loyalty to my master is unwavering.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "equipment": "A copy of the Sith code, a set of common clothes including a robe, and a belt pouch containing 150 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Threatening",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Formfighting Dabbler",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Force-Sensitive",
+      "roll": 8
+    }
+  ],
+  "featureName": "Feared",
+  "featureRowKeys": null,
+  "featureText": "As a Sith, you instill fear in those who are aware of your standing. When you are in a civilized environment, you can get away with minor criminal offenses, such as refusing to pay for food at a cantina or cutting through doors at a local shop, since most people will not report your activity to the authorities.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "You are an acolyte of the Sith Order: an ancient order of Force-wielders devoted to the dark side of the Force. Emerging as a divergent faction to the Jedi Order, the Sith are mortal enemies of the Jedi and fight against them. Driven by emotions such as hate, anger, and greed, the Sith are deceptive and ultimately obsessed with amassing power no matter the cost. You follow the Sith Code:\r\n\r\n*\"Peace is a lie. There is only passion.\r\nThrough passion I gain strength.\r\nThrough strength I gain power.\r\nThrough power I gain victory.\r\nThrough victory my chains are broken.\r\nThe Force shall free me.\"*\r\n",
+  "flawOptions": [
+    {
+      "description": "I am too merciful, and empathize with those I shouldn't.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I put too much trust in those who rule over me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I will never fully trust anyone other than myself.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I am inflexible in my thinking.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "My pride will probably lead to my destruction.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Failure frightens me, and I get desperate if I think I might fail.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I will defeat my enemies in the end, I'm in no rush. (Lawful)",
+      "name": "Patience",
+      "roll": 1
+    },
+    {
+      "description": "I never try to help those in need, regardless of how simple it would be. (Dark)",
+      "name": "Disdain",
+      "roll": 2
+    },
+    {
+      "description": "The path to power and self-improvement is through knowledge. (Neutral)",
+      "name": "Knowledge",
+      "roll": 3
+    },
+    {
+      "description": "I hope to one day rise to the rank of Dark Lord of the Sith. (Dark)",
+      "name": "Power",
+      "roll": 4
+    },
+    {
+      "description": "If I become strong, I can take what I want�what I deserve. (Dark)",
+      "name": "Might",
+      "roll": 5
+    },
+    {
+      "description": "I'll succeed in my goals at any cost. (Any)",
+      "name": "Aspiration",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Sith",
+  "personalityTraitOptions": [
+    {
+      "description": "I idolize a particular Sith, and constantly refer to that person's deeds and example.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I seek power above all else.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I prefer using a lightsaber to solve my problems.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have a plan for any situation.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I believe everyone is beneath me.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I prefer to let someone else do my dirty work.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "Hatred and anger drive every decision I make.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "Lying and scheming are second nature to me.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Sith",
+  "skillProficiencies": "Choose two from Deception, Insight, Intimidation, and Lore",
+  "suggestedCharacteristics": "Sith are shaped by their training. They study the Sith code and use it to oppress the weak and quell resistance. Their study of the Sith code affects their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.",
+  "toolProficiencies": "Artificer's tools"
+}

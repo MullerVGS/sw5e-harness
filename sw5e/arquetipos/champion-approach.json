@@ -1,0 +1,275 @@
+{
+  "casterRatio": 0.0,
+  "casterType": "None",
+  "classCasterType": "None",
+  "className": "Berserker",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "featureRowKeys": null,
+  "features": null,
+  "imageUrls": [],
+  "leveledTable": {
+    "3": [
+      {
+        "key": "Maneuvers Known",
+        "value": "2"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "2"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d4"
+      }
+    ],
+    "4": [
+      {
+        "key": "Maneuvers Known",
+        "value": "2"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "2"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d4"
+      }
+    ],
+    "5": [
+      {
+        "key": "Maneuvers Known",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "3"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d6"
+      }
+    ],
+    "6": [
+      {
+        "key": "Maneuvers Known",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "3"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d6"
+      }
+    ],
+    "7": [
+      {
+        "key": "Maneuvers Known",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "3"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d6"
+      }
+    ],
+    "8": [
+      {
+        "key": "Maneuvers Known",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "3"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d6"
+      }
+    ],
+    "9": [
+      {
+        "key": "Maneuvers Known",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d8"
+      }
+    ],
+    "10": [
+      {
+        "key": "Maneuvers Known",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d8"
+      }
+    ],
+    "11": [
+      {
+        "key": "Maneuvers Known",
+        "value": "7"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d8"
+      }
+    ],
+    "12": [
+      {
+        "key": "Maneuvers Known",
+        "value": "7"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d8"
+      }
+    ],
+    "13": [
+      {
+        "key": "Maneuvers Known",
+        "value": "9"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d10"
+      }
+    ],
+    "14": [
+      {
+        "key": "Maneuvers Known",
+        "value": "9"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d10"
+      }
+    ],
+    "15": [
+      {
+        "key": "Maneuvers Known",
+        "value": "10"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d10"
+      }
+    ],
+    "16": [
+      {
+        "key": "Maneuvers Known",
+        "value": "10"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d10"
+      }
+    ],
+    "17": [
+      {
+        "key": "Maneuvers Known",
+        "value": "11"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d12"
+      }
+    ],
+    "18": [
+      {
+        "key": "Maneuvers Known",
+        "value": "11"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d12"
+      }
+    ],
+    "19": [
+      {
+        "key": "Maneuvers Known",
+        "value": "12"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d12"
+      }
+    ],
+    "20": [
+      {
+        "key": "Maneuvers Known",
+        "value": "12"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d12"
+      }
+    ]
+  },
+  "leveledTableHeaders": [
+    "Level",
+    "Maneuvers Known",
+    "Superiority Dice Quantity",
+    "Superiority Dice Size"
+  ],
+  "name": "Champion Approach",
+  "rowKey": "Champion Approach",
+  "text": "\r\nSome berserkers revel in battle for battle's sake. For berserkers of the Champion Approach, this revelry is the goal to which they constantly strive.\r\n\r\n### Champion Superiority\r\n_**Champion Approach:** 3rd level_\r\nYou learn maneuvers that are fueled by special dice called superiority dice. See chapter 13 for the maneuvers list.\r\n\r\n#### Maneuvers Known\r\nYou learn two maneuvers of your choice, and you earn more at higher levels, as shown in the Maneuvers Known column of the Champion Superiority table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver once per turn.\r\n\r\nEach time you learn new maneuvers, you can also replace one maneuver you know with a different one.\r\n\r\n#### Superiority Dice\r\nYou have two superiority dice, which are d4s, and you earn more at higher levels, as shown in the Superiority Dice Quantity column of the Champion Superiority table. This die changes as you gain berserker levels, as shown in the Superiority Dice Size column of the Champion Superiority table. A superiority die is expended when you use it. \r\n\r\nYou regain all of your expended superiority dice when you finish a short or long rest.\r\n\r\n#### Maneuver Ability\r\nYour maneuver ability varies based on the type of the maneuver you use. You use Strength, Dexterity, or Constitution for physical maneuvers (your choice), Intelligence, Wisdom, or Charisma for mental maneuvers (your choice), and an ability of your choice for general maneuvers. You use this ability whenever a maneuver refers to your maneuver ability. Additionally, you use this ability modifier when setting the saving throw DC for a maneuver you use.\r\n\r\n___\r\n\r\n**Maneuver save DC** = 8 + your proficiency bonus + your maneuver ability modifier\r\n\r\n___\r\n\r\n### Reckless Maneuvers\r\n_**Champion Approach:** 3rd level_\r\nWhen you use your Reckless Attack feature, you have advantage on superiority die rolls that would be added to the attack or damage rolls of your affected attacks.\r\n\r\n##### Champion Superiority\r\n\r\n### The Thrill\r\n_**Champion Approach:** 6th level_\r\nYou have advantage on ability checks and saving throws to avoid being charmed or frightened, and creatures can't have advantage on ability checks or saving throws to avoid being charmed or frightened by effects that you control.\r\n\r\n### Battlefield Euphoria\r\n_**Champion Approach:** 10th level_\r\nWhile raging, when you score a critical hit with a melee weapon attack, and when you reduce a hostile creature to 0 hit points with a melee weapon attack, you recover an expended superiority die.\r\n\r\n### Furious Influence\r\n_**Champion Approach:** 14th level_\r\nWhile raging, you gain the following benefits:\r\n- You are resistant to psychic damage.\r\n- When you affect an ally with a maneuver, they gain the benefit of one of your damage resistances until the start of your next turn.",
+  "text2": null
+}

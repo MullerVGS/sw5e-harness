@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Body",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Sith Acolyte's Robe",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": true,
+  "rowKey": "Sith Acolyte's Robe",
+  "searchableRarity": "Premium",
+  "subtype": "body",
+  "text": "_**Requires attunement**_\r\nYou gain a +1 bonus to damage rolls with weapons and force powers while you wear this robe.\r\n\r\n_Designed for those who relish personal combat, and know that power comes to those who take it, these robes augment offensive capabilities with no hindrance to movement._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

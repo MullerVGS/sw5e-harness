@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the power ends.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.",
+  "duration": "1 minute",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Force Blind/Deafen",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "30 feet",
+  "rowKey": "Force BlindDeafen"
+}

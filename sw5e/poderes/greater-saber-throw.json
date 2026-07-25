@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "As a part of the action used to cast this power, you must make a ranged force attack with a lightweapon or vibroweapon against one target within the power's range, otherwise the power fails. On a hit, the target takes 6d8 damage of the same type as the weapon's damage and must make a Constitution saving throw against an additional effect depending on your choice of casting ability:\r\n\r\n***Wisdom.*** The target takes an additional 4d6 force damage and it gains four levels of slowed until the end of its next turn. On a success, the target takes half as much damage and its speed isn't reduced.\r\n\r\n***Charisma.*** The target takes an additional 4d6 necrotic damage and cannot regain hit points until the end of its next turn. On a success, the target takes half as much damage and its healing capability is unaffected.\r\n\r\nThe weapon then immediately returns to your hand.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 6th level or higher, the force or necrotic damage increases by 1d6 for each slot above 5th.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 5,
+  "name": "Greater Saber Throw",
+  "powerType": "Force",
+  "prerequisite": "Improved Saber Throw",
+  "range": "30 feet",
+  "rowKey": "Greater Saber Throw"
+}

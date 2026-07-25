@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Stimpacs",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Charisma Stim (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Charisma Stim (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "stimpac",
+  "text": "As an action, you can administer this stimpac to a creature within 5 feet. When you administer this stimpac, the target's Charisma score increases by 8, and its maximum for this score increases by 8. This effect lasts for 1 hour. A creature can benefit from only one stimpac at a time. ",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

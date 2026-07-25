@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Comfortable Handle",
+  "prerequisite": " Lacks dexterity, two-handed, or versatile property",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Comfortable Handle",
+  "searchableRarity": "Premium",
+  "subtype": "lightweapon",
+  "text": "This weapon gains the finesse property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

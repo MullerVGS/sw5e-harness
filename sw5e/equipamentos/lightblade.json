@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 375,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightblade",
+  "properties": [
+    "Finesse",
+    "hidden",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Hidden": "hidden",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Lightblade",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleLightweapon",
+  "weight": "1.5"
+}

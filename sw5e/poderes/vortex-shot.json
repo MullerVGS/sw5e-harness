@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "As part of the action used to cast this power, you must make a ranged weapon attack against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and each Large or smaller creature within 10 feet of the target must succeed on a Strength saving throw or be pulled to the nearest unoccupied space adjacent to the target. \r\n\r\nThis power deals additional damage when you reach higher levels. At 5th level, the ranged attack deals an extra 1d6 damage. This damage increases by 1d6 again at 11th level and 17th level. The damage is the same type as the weapon's damage.",
+  "duration": "Instantaneous",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 0,
+  "name": "Vortex Shot",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Varies",
+  "rowKey": "Vortex Shot"
+}

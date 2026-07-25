@@ -1,0 +1,101 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 11,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " If the nerf moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) kinetic damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.",
+      "descriptionWithLinks": " If the nerf moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) kinetic damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.",
+      "monsterBehaviorType": "Trait",
+      "name": "Charge",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 6,
+      "attackType": "MeleeWeapon",
+      "damage": "8",
+      "damageRoll": "1d8 + 4",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Gore",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 2,
+      "attackType": "RangedWeapon",
+      "damage": "2",
+      "damageRoll": "1d4",
+      "damageType": "Acid",
+      "description": " Ranged Weapon Attack: +2 to hit, range 15/30 ft., one target. Hit: 2 (1d4) acid damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +2 to hit, range 15/30 ft., one target. Hit: 2 (1d4) acid damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Spit",
+      "numberOfTargets": "one target.",
+      "range": "range 15/30 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 5,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 15,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 10,
+  "dexterityModifier": 0,
+  "experiencePoints": 450,
+  "flavorText": "Nerfs were a species of furry, non-sentient animals raised for their milk, meat, and hide. They could be found on a variety of planets across the galaxy, from Alderaan to Lothal. Despite their usefulness, nerfs were often regarded as disgusting because of their strong body odor.",
+  "hitPointRoll": "4d10 + 8",
+  "hitPoints": 30,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "�"
+  ],
+  "name": "Nerf",
+  "rowKey": "Nerf",
+  "savingThrows": null,
+  "sectionText": "Ysalamiri are furry, lizard-like tree-dwellers about 2 feet in length, native to the planet Myrkr, and most known for their ability to create a Force-neutral bubble. This ability evolved in response to predation by the Force-sensitive vornskrs. Many ysalamiri grouped together would expand their Force-neutral bubble by varying distances � sometimes by kilometers.Ysalamiri sink their claws into the Olbio trees on which they live and draw nutrients. It is very difficult to remove a ysalamir from its tree without killing it, although this has been known to happen. Some few have developed back harness or nutrient frames which allow transport of the ysalamiri and, therefore, their Force repelling bubble. Ysalamiri do not actually negate the Force; since all existence is infused with Force energy, this would not be possible. Rather, they project a bubble inside which users are unable to exert any influence over the Force. A single bubble measures a few meters in diameter; large groups of ysalamiri could extend their collective bubble by kilometers, but only in great numbers.Miriskin was a commodity  made from ysalamir skin.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 13"
+  ],
+  "size": "Large",
+  "skills": [
+    "Perception +3"
+  ],
+  "speed": 50,
+  "speeds": "50 ft.",
+  "strength": 18,
+  "strengthModifier": 4,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

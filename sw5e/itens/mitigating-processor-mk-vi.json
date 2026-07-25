@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Mitigating Processor Mk VI",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Mitigating Processor Mk VI",
+  "searchableRarity": "Artifact",
+  "subtype": "wristpad",
+  "text": "This item gains the mitigating 6 property. If it already has the mitigating property, its mitigating number increases to 6.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

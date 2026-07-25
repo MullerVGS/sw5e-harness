@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Iridonian Grav-lev Arm",
+  "prerequisite": " Constitution 13",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Iridonian Grav-lev Arm",
+  "searchableRarity": "Premium",
+  "subtype": "replacement",
+  "text": "This augmentation replaces a hand.\r\n\r\nYour unarmed strikes with this arm deal 1d4 ion damage, and your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples. Additionally, you deal double damage to energy-based structures with your unarmed strikes.\r\n\r\n**Side Effect:** You can no longer wield weapons with electronic components, such as blasters, vibroweapons, or lightweapons. Additionally, if this hand interacts with a small electronic device, such as a datapad or commlink, it is immediately disabled.\r\n\r\n_This cybernetic arm replacement increases a user's physical strength and can be overloaded to release a unique field resonance discharge that is particularly effective against containment fields and makes holding on to hydrospanners a breeze._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

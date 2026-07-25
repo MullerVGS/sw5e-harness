@@ -1,0 +1,132 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 11,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The swarm has advantage on Strength and Constitution checks and saving throws.",
+      "descriptionWithLinks": " The swarm has advantage on Strength and Constitution checks and saving throws.",
+      "monsterBehaviorType": "Trait",
+      "name": "Strength in Numbers",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Medium humanoid. The swarm can't regain hit points or gain temporary hit points.",
+      "descriptionWithLinks": " The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Medium humanoid. The swarm can't regain hit points or gain temporary hit points.",
+      "monsterBehaviorType": "Trait",
+      "name": "Swarm",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The swarm makes three improvised weapons attacks.",
+      "descriptionWithLinks": " The swarm makes three improvised weapons attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 9,
+      "attackType": "MeleeWeapon",
+      "damage": "15",
+      "damageRoll": "3d6 + 5",
+      "damageType": "Kinetic",
+      "description": " Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 20/60 ft., one target in the swarm's space or within range. Hit: 15 (3d6 + 5) kinetic damage plus 10 (3d6) fire damage, or 9 (2d6 + 2) kinetic damage plus 7 (2d6) fire damage if the swarm has half of its hit points or fewer.",
+      "descriptionWithLinks": " Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 20/60 ft., one target in the swarm's space or within range. Hit: 15 (3d6 + 5) kinetic damage plus 10 (3d6) fire damage, or 9 (2d6 + 2) kinetic damage plus 7 (2d6) fire damage if the swarm has half of its hit points or fewer.",
+      "monsterBehaviorType": "Action",
+      "name": "Improvised Weapons",
+      "numberOfTargets": "one target in the swarm's space or within range.",
+      "range": "reach 5 ft. or range 20/60 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "10",
+  "charisma": 10,
+  "charismaModifier": 0,
+  "conditionImmunities": [
+    "Charmed",
+    "Frightened",
+    "Paralyzed",
+    "Petrified",
+    "Prone",
+    "Restrained",
+    "Stunned"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    2,
+    4,
+    8,
+    9,
+    11,
+    12,
+    14
+  ],
+  "constitution": 10,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Kinetic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    7
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 10,
+  "dexterityModifier": 0,
+  "experiencePoints": 5900,
+  "flavorText": "An uprising can encompass countless numbers and only an army or a group of incredibly powerful individuals could hope to stand against a crowd of that extent. An organization mustering such numbers has a planetwide, and perhaps galactic, influence, gathering members from many regions into a single location. A entire city or metropolis revolting could provide the numbers for an uprising, spreading over several districts and into the countryside.***Dispersing a Crowd.*** Defeating a crowd doesn't mean killing any single individual, but instead breaking the resolve of the crowd and dispersing it. When a crowd drops to 0 hit points the crowd disperses into a number of humanoids based on how large the crowd had been. Alternatively, a large crowd such as a riot or an uprising could deescalate into a smaller crowd type when it drops to 0 hit points or has fewer than half of its hit points remaining.",
+  "hitPointRoll": "19d20",
+  "hitPoints": 199,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "any one language (usually Basic)"
+  ],
+  "name": "Riot",
+  "rowKey": "Riot",
+  "savingThrows": null,
+  "sectionText": "The galaxy is a dangerous and cruel place. Wars, cruel empires, criminal syndicates, and the predation of terrible beasts can destroy whole towns and force their inhabitants to become beggars, vagabonds and brigands. All who endure such hardships are hardened by their losses, staring at the face of danger and saying, �no more!�, taking their protection into their own hands.***Unity is Strength.*** Fear and resignation are the strength of beasts and tyrants, despair is the fuel of revolt. Despair makes you stand and fight until the last sentient. When abandoned by lords, Jedi and the Force, the common man turns toward his neighbor for mutual protection. If separately they are no match for a beast or a trained trooper, an entire village or town banding together and fueled by despair, faith or hatred can take down their foe. Theses masses can become a force to reckon with, embodying the proverb �unity is strength�. A crowd can potentially include several individuals of high power, which would be left standing or escape once the crowd disperses.***Crowd Mind.*** Racist pogrom chasing wookiees down the streets, slaves fighting for their freedom and ousting a tyrant, or commoners taking to the streets to protest the emperor; all are good examples of a crowd. A crowd is moved by its own motivations and the individuals that form it can differ widely, but once the crowd mind takes them, they act in unison toward a single purpose. Reasoning with a crowd can prove difficult, as the behaviors of both the individual crowd members and the crowd is heavily influenced by the loss of responsibility of the individual and the impression of universality of behavior, increasing with the size of the crowd.***Dispersing a Crowd.*** Defeating a crowd doesn't mean killing any single individual, but instead breaking the resolve of the crowd and dispersing it. When a crowd drops to 0 hit points the crowd disperses into a number of humanoids based on how large the crowd had been. Alternatively, a large crowd such as a riot or an uprising could deescalate into a smaller crowd type when it drops to 0 hit points or has fewer than half of its hit points remaining.",
+  "senses": [
+    "passive Perception 10"
+  ],
+  "size": "Gargantuan",
+  "skills": null,
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 20,
+  "strengthModifier": 5,
+  "types": [
+    "swarm of Medium humanoids"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Enhancement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Indomitable Fortress Package",
+  "prerequisite": " Constitution 15",
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Indomitable Fortress Package",
+  "searchableRarity": "Legendary",
+  "subtype": "enhancement",
+  "text": "Your Constitution score increases by 1, and your maximum for this score increases by 1. Additionally, you have advantage on Constitution saving throws.\r\n\r\n**Side Effect:** One ability score other than Constitution (chosen by the GM) decreases by 1.\r\n\r\n_This implant drastically increases your endurance._ ",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

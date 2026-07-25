@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Enhancement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Skills Enhancement Package",
+  "prerequisite": " Intelligence 15",
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Skills Enhancement Package",
+  "searchableRarity": "Advanced",
+  "subtype": "enhancement",
+  "text": "When you make an ability check using a skill you are proficient in, you can roll a d4 and add the result to your total. \r\n\r\n**Side Effect:** When you make an ability check using a skill you are not proficient in, you must roll a d4 and subtract the result from the total.\r\n\r\n_This implant includes a library of situational information that it injects directly into your consciousness._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

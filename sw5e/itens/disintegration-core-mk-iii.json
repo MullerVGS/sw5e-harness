@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Disintegration Core Mk III",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Disintegration Core Mk III",
+  "searchableRarity": "Prototype",
+  "subtype": "blaster",
+  "text": "This weapon gains the disintegrate 15 property. If it already has the disintegrate property, its disintegrate number increases by 3, to a maximum of 18.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

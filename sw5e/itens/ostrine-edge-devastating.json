@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Ostrine Edge (Devastating)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Ostrine Edge (Devastating)",
+  "searchableRarity": "Artifact",
+  "subtype": "vibroweapon",
+  "text": "When you deal damage with this weapon, you deal an additional 1d8 acid, cold, fire, lightning, poison, or sonic damage (chosen by the GM when generating this item).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

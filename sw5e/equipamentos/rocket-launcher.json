@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 2250,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Rather than traditional power cells, the rocket launcher fires specialized projectiles in the form of rockets. When firing a rocket at long range, or if you don�t meet the rocket launcher�s strength requirement, creatures within the radius of the rocket�s explosion have advantage on the saving throw.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Rocket launcher",
+  "properties": [
+    "Reload 1",
+    "special (range 150/600)",
+    "strength 13",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Range": "special (range 150/600)",
+    "Reload": "Reload 1",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Rocket launcher",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "14"
+}

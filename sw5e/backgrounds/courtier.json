@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "The location where I learned my trade is the most important place in the world to me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I created a great work for someone unworthy to receive it. I'm still looking for someone worthy.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I owe someone a great debt for forging me into the person I am today.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I pursue wealth to secure someone's love.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "One day I will return to my faction and prove that I am the greatest artisan of them all.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I will get revenge on the Dark forces that destroyed my place of business and ruined my livelihood.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of fine clothes and a pouch containing 150 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Performer",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Survivalist",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Actor",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Practiced",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Force of Personality",
+      "roll": 8
+    }
+  ],
+  "featureName": "Court Functionality",
+  "featureRowKeys": null,
+  "featureText": "Your knowledge of how bureaucracies function lets you gain access to the records and inner workings of any noble court or government you encounter. You know who the movers and shakers are, whom to go to for the favors you seek, and what the current intrigues of interest in the group are.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "In your earlier days, you were a personage of some significance in a noble court or a bureaucratic organization. You might or might not come from an upper-class family; your talents, rather than the circumstances of your birth, could have secured you this position.\r\n\r\nYou might have been one of the many functionaries, attendants, and other hangers-on in Coruscant's upper echelons, or perhaps you traveled in Nar Shaddaa's baroque and sometimes cutthroat conglomeration of factions, nobles, adventurers, and secret societies. You might have been one of the behind-the-scenes law-keepers or functionaries on Dromund Kaas, or you might have grown up on some other affluent planet.\r\n\r\nEven if you are no longer a full-fledged member of the group that gave you your start in life, your relationships with your former fellows can be an advantage for you and your adventuring comrades. You might undertake missions with your new companions that further the interest of the organization that gave you your start in life. In any event, the abilities that you honed while serving as a courtier will stand you in good stead as an adventurer.",
+  "flawOptions": [
+    {
+      "description": "I'll do anything to get my hands on something rare or priceless.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I'm quick to assume that someone is trying to cheat me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "No one must ever learn that I once stole money from faction coffers.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'm never satisfied with what I have� I always want more.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I would kill to acquire a noble title.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful)",
+      "name": "Community",
+      "roll": 1
+    },
+    {
+      "description": "My talents were given to me so that I could use them to benefit the world. (Light)",
+      "name": "Generosity",
+      "roll": 2
+    },
+    {
+      "description": "Everyone should be free to pursue his or her own livelihood. (Chaotic)",
+      "name": "Freedom",
+      "roll": 3
+    },
+    {
+      "description": "I'm only in it for the money. (Dark)",
+      "name": "Greed",
+      "roll": 4
+    },
+    {
+      "description": "I'm committed to the people I care about, not to ideals. (Neutral)",
+      "name": "People",
+      "roll": 5
+    },
+    {
+      "description": "I work hard to be the best there is at my craft. (Any)",
+      "name": "Aspiration",
+      "roll": 6
+    }
+  ],
+  "languages": "Two of your choice",
+  "name": "Courtier",
+  "personalityTraitOptions": [
+    {
+      "description": "I believe that anything worth doing is worth doing right. I can't help it� I'm a perfectionist.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I'm a snob who looks down on those who can't appreciate fine art.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I always want to know how things work and what makes people tick.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'm full of witty aphorisms and have a proverb for every occasion.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm rude to people who lack my commitment to hard work and fair play.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I like to talk at length about my profession.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I don't part with my money easily and will haggle tirelessly to get the best deal possible.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I'm well known for my work, so I'm always taken aback when people haven't heard of me.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Courtier",
+  "skillProficiencies": "Choose two from Deception, Insight, Performance, and Survival",
+  "suggestedCharacteristics": "The noble court or bureaucratic organization where you got your start is directly or indirectly associated with your bond (which could pertain to certain individuals in the group, such as your sponsor or mentor). Your ideal might be concerned with the prevailing philosophy of your court or organization.",
+  "toolProficiencies": null
+}

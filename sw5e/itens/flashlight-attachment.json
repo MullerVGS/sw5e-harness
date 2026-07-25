@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Flashlight Attachment",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Flashlight Attachment",
+  "searchableRarity": "Standard",
+  "subtype": "blaster",
+  "text": "You affix a targeted light to this weapon. As a bonus action, you can toggle the light on or off. While on, this weapon sheds bright light in a 60-foot cone.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

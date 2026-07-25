@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Explosives",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Mine, Incendiary (Average)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Mine, Incendiary (Average)",
+  "searchableRarity": "Premium",
+  "subtype": "explosive",
+  "text": "Mines can be set to detonate when a creature comes within up to 15 feet of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, the mine sets the ground in a 15-foot radius ablaze for 1 minute. The fire ignites any flammable objects in the area that aren't being worn or carried.\r\n\r\nWhen a creature enters the fire or starts its turn there, it creature must make a DC 16 Dexterity saving throw. The creature takes 2d8 fire damage on a failed save, or half as much damage on a successful one. ",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

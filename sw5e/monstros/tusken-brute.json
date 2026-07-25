@@ -1,0 +1,100 @@
+{
+  "alignment": "chaotic dark",
+  "armorClass": 13,
+  "armorType": "heavy combat suit",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " As a bonus action, the tusken can move up to its speed toward a hostile creature that it can see.",
+      "descriptionWithLinks": " As a bonus action, the tusken can move up to its speed toward a hostile creature that it can see.",
+      "monsterBehaviorType": "Trait",
+      "name": "Aggressive",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The tusken makes two gaffi stick attacks.",
+      "descriptionWithLinks": " The tusken makes two gaffi stick attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "8",
+      "damageRoll": "1d10 + 3",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit 8 (1d10 + 3) Kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit 8 (1d10 + 3) Kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Gaffi Stick",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 9,
+  "charismaModifier": -1,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 18,
+  "constitutionModifier": 4,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 12,
+  "dexterityModifier": 1,
+  "experiencePoints": 450,
+  "flavorText": "",
+  "hitPointRoll": "8d8+32",
+  "hitPoints": 68,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "Tusken"
+  ],
+  "name": "Tusken Brute",
+  "rowKey": "Tusken Brute",
+  "savingThrows": null,
+  "sectionText": "Tusken Raiders, or \"Sand People,\" are a species native to Tatooine. Extremely xenophobic & territorial of their native resources, Tuskens often attack the outskirts of smaller settlements. They believe all water is sacred and promised to them, resulting in them raiding moisture farms set up by colonists.Clan groups consist of 20-30 individuals, and are led by clan leaders, tribal chiefs, and warlords. At the age of 15, a Tusken becomes an adult, and had to slay a krayt dragon and cut out the precious pearl found in its stomach. Tuskens inhabit encampments scattered across an area of the rocky Jundland Wastes known as The Needles, which are guarded by vicious massiffs.They wield gaderffii sticks in combat, and use Tusken Cyclers to fire on vehicles they spot. Every Tusken warrior creates their own unique gaderffii stick. Males wear rough wrappings and garments that provide protection and allowed ease of movement. Females can be distinguished by their elaborate jeweled masks with eyeslits and torso-covering sand-shrouds. Tusken children wear unisex cowls and simple cloaks. All Sand People wear mouth grilles and eye coverings to retain moisture and keep sand out. They are forbidden to remove their clothing in front of others, except at childbirth, on their wedding night, and at coming-of-age ceremonies.The Sand People and banthas share a close, almost mystical bond. During warrior initiation rites, a young Tusken is given a bantha matching their own gender[ and learns to care for it, with the pair becoming extremely close as the youth earns a place in its clan. When Sand People marry, their banthas also mate, and, should its rider die, their bantha usually perishes shortly after. If a bantha dies before its rider, its remains are placed in a large graveyard, which is treated with great respect by Tuskens and other banthas.",
+  "senses": [
+    "passive Perception 11"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Survival +3"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 16,
+  "strengthModifier": 3,
+  "types": [
+    "humanoid"
+  ],
+  "wisdom": 13,
+  "wisdomModifier": 1
+}

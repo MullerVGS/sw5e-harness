@@ -1,0 +1,120 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 12,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " If the droid fails a saving throw, he can choose to succeed instead.",
+      "descriptionWithLinks": " If the droid fails a saving throw, he can choose to succeed instead.",
+      "monsterBehaviorType": "Trait",
+      "name": "Legendary Resistance",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "1/Day"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid makes two blaster rifle attacks.",
+      "descriptionWithLinks": " The droid makes two blaster rifle attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "RangedWeapon",
+      "damage": "5",
+      "damageRoll": "1d8+1",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 5 (1d8+1) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 5 (1d8+1) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Rifle",
+      "numberOfTargets": "one target.",
+      "range": "range 100/400 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 9,
+  "charismaModifier": -1,
+  "conditionImmunities": [
+    "Poisoned"
+  ],
+  "conditionImmunitiesOther": [
+    "diseased"
+  ],
+  "conditionImmunitiesParsed": [
+    10
+  ],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 12,
+  "dexterityModifier": 1,
+  "experiencePoints": 450,
+  "flavorText": "The LOM-series protocol droid was manufactured by Industrial Automaton and were designed with insectile features to emulate the species they were created to serve: the sentient Gand. The LOM-series had a flaw that allowed the personality software of a droid to be corrupted. Many LOM-series droids became enforcers in the galaxy's Outer Rim Territories. The most notable, 4-LOM, became a bounty hunter, sometimes seen with the Gand, Zuckuss.Aside from the insectile face, the LOM protocol droid was very similar to the 3PO-series�indeed, Industrial Automaton made crafty deals with companies such as SyntheTech, to use many components initially used by Cybot Galactica. Thus, the LOM-series possessed an AA-1 VerboBrain and a TranLang III communications module programmed with millions of languages; it even had a similar body frame and plating design. Such blatant use of its trademark hardware caused Cybot Galactica to file a number of lawsuits against its rival company. Though their LOM units sold well in limited release, Industrial Automaton's future plans to monopolize the protocol droid market were dashed.",
+  "hitPointRoll": "5d8 + 5",
+  "hitPoints": 27,
+  "imageUrls": [],
+  "intelligence": 14,
+  "intelligenceModifier": 2,
+  "languages": [
+    "All registered languages"
+  ],
+  "name": "L0M Series",
+  "rowKey": "L0M Series",
+  "savingThrows": null,
+  "sectionText": "Protocol droids are programmed mostly for etiquette, and are often used as translators between sentients or between sentients and computers. They are generally designed to look like the sentients they serve; for example, 3PO-series protocol droids are humanoid.They possess knowledge about various cultures and customs, both to advise those for whom they were working, and to ensure their own behavior is diplomatic and culturally sensitive.***History.*** Protocol droids constructed around 4000 BBY (around the time of the Great Sith War and the Jedi Civil War) were frequently engineered with certain behavioral shifts set to occur whenever another design-generation was reached. A number of these droids underwent radical changes with each new generation�for example, when a C7-model droid supplanted the C6 variety. Each numeric \"jump\" in sequence could have had wide-ranging changes in functionality and temperament during that historical period.***Programming Units.*** Cybot Galactica, the most famous and successful manufacturer of protocol droids, outfit them with SyntheTech AA-1 VerboBrains to give their droids personalities with emotions and the ability to learn and grow very similar to organic beings. The 3PO unit possesses a TranLang III communications module that can reproduce over six million languages, as well as reproduce any sound it picks up. Linguistic modules are also used to improve their speech functions. Some models, such as the pricey E-3POs, also include the TechSpan I module, making it possible to interface with Imperial networks and undocumented technologies of Imperial subcontractors.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 11"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Lore +4",
+    "Survival +4"
+  ],
+  "speed": 25,
+  "speeds": "25 ft.",
+  "strength": 10,
+  "strengthModifier": 0,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

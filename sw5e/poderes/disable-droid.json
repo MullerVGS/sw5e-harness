@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Choose a point that you can see within range. Each droid or construct must succeed on a Constitution saving throw or be paralyzed for the duration. At the beginning of each of its turns, an affected creature takes energy damage equal to your forcecasting ability modifier and then repeats this saving throw. On a success, the power ends on the target.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 4,
+  "name": "Disable Droid",
+  "powerType": "Force",
+  "prerequisite": "Stun Droid",
+  "range": "90 feet (15-foot cube)",
+  "rowKey": "Disable Droid"
+}

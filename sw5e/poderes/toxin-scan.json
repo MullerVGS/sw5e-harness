@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "For the duration, you can see the presence and location of poisons and diseases within 30 feet of you. You also identify the kind of poison or disease in each case.",
+  "duration": "up to 10 minutes",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Toxin Scan",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Toxin Scan"
+}

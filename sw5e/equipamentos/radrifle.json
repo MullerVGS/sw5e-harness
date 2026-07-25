@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1575,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Necrotic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Radrifle",
+  "properties": [
+    "Disintegrate 15",
+    "power cell (range 120/480)",
+    "reload 8",
+    "specialized (disintegrate)",
+    "strength 13",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Disintegrate": "Disintegrate 15",
+    "Power Cell": "power cell (range 120/480)",
+    "Reload": "reload 8",
+    "Special": "specialized (disintegrate)",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Radrifle_ExoticBlaster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "ExoticBlaster",
+  "weight": "14"
+}

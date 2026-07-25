@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1725,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 2,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Great-saber",
+  "properties": [
+    "Dexterity 11",
+    "luminous",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Luminous": "luminous",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Great-saber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "3.25"
+}

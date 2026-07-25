@@ -1,0 +1,92 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Charisma"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Intelligence",
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Blue skin, yellow eyes, cold resilience",
+  "eyeColorOptions": "Yellow or rarely black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nPantorans are a sentient species native to Pantora, a moon orbiting the planet Orto Plutonia. At first glance, they only differ from the otherwise similar humans in their blue skin and yellow eyes. The pantorans share many traits with other blue-skinned races, especially the wroonians, and, to a lesser extent, the chiss. The pantorans also seem to have a greater resilience to low temperatures than humans, since they only needed light wardrobe even under extreme cold weather conditions. \r\n\r\n### Society and Culture\r\nPantoran society developed on Pantora, a world located in a region flush with slavers and spice merchants. Constant run-ins with these types led the pantorans to become fiercely independent and proud. While the pantoran society is democratic, the feudal traditions of marking their foreheads, and cheeks with yellow markings to symbolize lineage persists into the common era. These traditions spurred a cultural interest in genealogy and history, and many pantorans cherish relics from the past such as jewelry which connect them to their noble ancestors or helmets that belonged to great heroes of a bygone age. The old nation states of Pantora are unified under a democratic planetary government, the politics of which are considered an art form. Governed by the Pantoran Assembly, the elected body is led by a Speaker, who balance the power of the chief executive officer, known as the Chairman. \r\n### Names\r\nPantoran use sophisticated names with numerous vowels, though often sound similar human names. \r\n\r\n**Male Names.** Charl, Ikurrece, Maatsu, Pulengo\r\n\r\n**Female Names.** Freyu, Jicelli, Nandia, Suya\r\n\r\n**Surnames.** Ipujarero, Molidias, Tuteru, Vagana",
+  "hairColorOptions": "Black, white, or pastel colors",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'9\"",
+  "heightRollMod": "+2d6\"",
+  "homeworld": "Pantora",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pantoran.png"
+  ],
+  "language": "Pantoran",
+  "manufacturer": null,
+  "name": "Pantoran",
+  "rowKey": "Pantoran",
+  "size": "Medium",
+  "skinColorOptions": "Blue",
+  "traits": [
+    {
+      "description": "Your Charisma score increases by 2, and your Intelligence or Wisdom score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Pantorans reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Pantorans' interest in politics causes them to tend towards lawful alignments, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Pantorans typically stand 5 to 6 feet tall and generally weigh about 150 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have advantage on Constitution saving throws made to avoid exhaustion due to extreme cold.",
+      "name": "Cold Adaptation"
+    },
+    {
+      "description": "You have proficiency in the Lore skill.",
+      "name": "Cultured"
+    },
+    {
+      "description": "As a bonus action, you can command each ally within 15 feet of you to move up to half that ally's speed as a reaction. This movement does not provoke attacks of opportunity. Once you use this trait, you can�t use it again until you finish a short or long rest.",
+      "name": "Impose Order"
+    },
+    {
+      "description": "You have advantage on Charisma (Persuasion) checks meant to negotiate terms or agreements between parties.",
+      "name": "Negotiators"
+    },
+    {
+      "description": "Your society values organization, and as such you are good at making good use of the space provided. When you are in charge of packing a space, such as a vehicle or cargo hold, that space's carrying capacity is increased by one-fourth its base capacity.",
+      "name": "Organized"
+    },
+    {
+      "description": "You are proficient in Persuasion or Deception (your choice).",
+      "name": "Political Guile"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Pantoran. Pantoran comprises many dialects that prevent clear communication, a vestige of the feudal culture of the planet's past. Because of the difficulties of operating a planetary government with so many different languages, the Assembly established Galactic Basic as the official language of their people as a means of unifying the planet.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "90 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "Specific",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Shotgun Axe",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Shotgun Axe",
+  "searchableRarity": "Premium",
+  "subtype": "shotgun",
+  "text": "You have a +1 to damage rolls made with this shotgun. Additionally, this shotgun has an axe attachment, allowing you to make a melee weapon attack with it. The axe is a melee weapon that you are proficient with, and deals 1d8 kinetic damage.\r\n\r\nAdditionally, when you use this shotgun as an improvised weapon, you are considered proficient in it, and it deals 1d8 kinetic damage on a hit.\r\n\r\n_\"Oh you want clever? Come a little closer, I'll get real clever.\"_",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

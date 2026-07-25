@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1850,
+  "damageDiceDieTypeEnum": 12,
+  "damageDieModifier": 0,
+  "damageDieType": 12,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrobuster",
+  "properties": [
+    "Brutal 1",
+    "dexterity 19",
+    "heavy",
+    "keen 1",
+    "reach",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Brutal": "Brutal 1",
+    "Dexterity": "dexterity 19",
+    "Heavy": "heavy",
+    "Keen": "keen 1",
+    "Reach": "reach",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Vibrobuster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "13.25"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Electrifying Cartridge (Lethal)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Electrifying Cartridge (Lethal)",
+  "searchableRarity": "Legendary",
+  "subtype": "ammunition",
+  "text": "You have a +3 bonus to attack and damage rolls made with this enhanced electrifying cartridge. This bonus is in addition to any bonuses granted by the weapon. Once the electrifying cartridge has been fired, it no longer gives a bonus. Additionally, when you hit with a shot with the loaded weapon, the creature must make a DC 22 Dexterity saving throw. On a failed save, the creature takes 1d6 lightning damage and becomes shocked until the end of its next turn. On a successful save, a creature takes half damage and isn't shocked.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

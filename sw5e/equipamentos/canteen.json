@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 10,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A canteen stores 4 pints of liquid.",
+  "equipmentCategory": "Storage",
+  "modes": [],
+  "name": "Canteen",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Canteen",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "3"
+}

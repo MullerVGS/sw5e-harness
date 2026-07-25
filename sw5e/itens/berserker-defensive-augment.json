@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "Augment",
+  "name": "Berserker Defensive Augment",
+  "prerequisite": " At least 3 levels in berserker",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Berserker Defensive Augment",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "You learn an additional Berserker Instinct option.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

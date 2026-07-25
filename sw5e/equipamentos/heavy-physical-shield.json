@@ -1,0 +1,29 @@
+{
+  "ac": "+3",
+  "armorClassification": "Shield",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 500,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Heavy physical shield",
+  "properties": [
+    "Obtrusive",
+    "strength 15"
+  ],
+  "propertiesMap": {
+    "": "Obtrusive",
+    "Strength": "strength 15"
+  },
+  "rowKey": "Heavy physical shield",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "36"
+}

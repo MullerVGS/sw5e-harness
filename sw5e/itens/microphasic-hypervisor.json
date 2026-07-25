@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Microphasic Hypervisor",
+  "prerequisite": " Constitution 13",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Microphasic Hypervisor",
+  "searchableRarity": "Prototype",
+  "subtype": "replacement",
+  "text": "This augmentation replaces your eyes.\r\n\r\nYou can activate or deactivate this implant as a bonus action. While active, you have truesight to a range of 30 feet.\r\n\r\n**Side Effect:** While active, you have disadvantage on Wisdom (Perception) checks beyond 30 feet.\r\n\r\n_This augmentation is a large, boxy eye replacement that covers both eyes with digital optic feeds and high resolution sensors._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,204 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 17,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " If the assassin droid fails a saving throw, it can choose to succeed instead.",
+      "descriptionWithLinks": " If the assassin droid fails a saving throw, it can choose to succeed instead.",
+      "monsterBehaviorType": "Trait",
+      "name": "Legendary Resistance",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "3/Day"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The assassin droid makes three Blaster Cannon attacks.",
+      "descriptionWithLinks": " The assassin droid makes three Blaster Cannon attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Each creature in a 10 foot cube centered on a point the droid can see within 100 feetmust make a DC 16 Dexterity saving throw.  A creature takes 9 (1d10+4) energy damage on a failed save.",
+      "descriptionWithLinks": " Each creature in a 10 foot cube centered on a point the droid can see within 100 feetmust make a DC 16 Dexterity saving throw.  A creature takes 9 (1d10+4) energy damage on a failed save.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Cannon",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Each creature in a 30-foot cone must make a DC 16 Dexterity saving throw. A creature takes 36 (8d8) fire damage on a failed save, or half as much on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.",
+      "descriptionWithLinks": " Each creature in a 30-foot cone must make a DC 16 Dexterity saving throw. A creature takes 36 (8d8) fire damage on a failed save, or half as much on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.",
+      "monsterBehaviorType": "Action",
+      "name": "Flamethrower",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "2/day"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Each creature in a 20-foot-radius sphere centered on a point that you can see within 150 feet must make a DC 16 Dexterity saving throw.  A target takes 14 (4d6) kinetic damage and 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.",
+      "descriptionWithLinks": " Each creature in a 20-foot-radius sphere centered on a point that you can see within 150 feet must make a DC 16 Dexterity saving throw.  A target takes 14 (4d6) kinetic damage and 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Rocket Barrage",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "2/Day"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The assassin droid makes one Blaster Cannon attack.",
+      "descriptionWithLinks": " The assassin droid makes one Blaster Cannon attack.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Attack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The assassin droid makes a Wisdom (Perception) check.",
+      "descriptionWithLinks": " The assassin droid makes a Wisdom (Perception) check.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Detect",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The assassin droid leaps up to 40 feet in any direction. This movement does not provoke opportunity attacks.",
+      "descriptionWithLinks": " The assassin droid leaps up to 40 feet in any direction. This movement does not provoke opportunity attacks.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Rocket Boost",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "9",
+  "charisma": 8,
+  "charismaModifier": -1,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 17,
+  "constitutionModifier": 3,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 15,
+  "dexterityModifier": 2,
+  "experiencePoints": 5000,
+  "flavorText": "A homicidal assassin droid created by the Galactic Empire's Tarkin Initiative, the BT-1 model is designed to look like an astromech droid in order to fool others. The droid is armed with a variety of weapons including several blaster cannons, flamethrowers, and rockets.  The BT-1 model is also equipped with rocket boosters.",
+  "hitPointRoll": "12d8+36",
+  "hitPoints": 90,
+  "imageUrls": [],
+  "intelligence": 18,
+  "intelligenceModifier": 4,
+  "languages": [
+    "Binary",
+    "Galactic Basic"
+  ],
+  "name": "Blastromech Series, BT-1",
+  "rowKey": "Blastromech Series, BT-1",
+  "savingThrows": null,
+  "sectionText": "Assassin droids are a type of droid built specifically for the purpose of assassination. These droids generally perform with unflinching loyalty to their masters, but rogue assassin droids are not unknown. Since their missions generally require a far higher degree of independent skill, savvy, and judgment than normally possessed by simple war droids, their programming subroutines, circuitry, and memory cores are of correspondingly higher sophistication.Equipped with an array of weapons, assassin droids are also used as elite infantry when the need for skillful and quickly adaptable soldiers with unquestionable loyalty arises.An inordinate number of assassin droids have achieved sentient independence, including IG-88 and C-3PX, presumably due to the higher level of autonomy incorporated into their processor design. These droids typically fund their independent existences through the use of their innate abilities, often plying their trade as bounty hunters.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 15"
+  ],
+  "size": "Small",
+  "skills": [
+    "Stealth +6",
+    "Perception +5",
+    "Survival +5",
+    "Intimidation +3"
+  ],
+  "speed": 25,
+  "speeds": "25 ft.",
+  "strength": 8,
+  "strengthModifier": -1,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 13,
+  "wisdomModifier": 1
+}

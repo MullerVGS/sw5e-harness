@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 475,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Energy bow",
+  "properties": [
+    "Power cell (range 80/320)",
+    "mighty",
+    "reload 4",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Mighty": "mighty",
+    "Power Cell": "Power cell (range 80/320)",
+    "Reload": "reload 4",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Energy bow",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "4.5"
+}

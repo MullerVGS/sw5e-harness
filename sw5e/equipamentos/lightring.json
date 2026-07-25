@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 575,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightring",
+  "properties": [
+    "Finesse",
+    "hidden",
+    "luminous",
+    "returning",
+    "thrown (range 25/75)"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Hidden": "hidden",
+    "Luminous": "luminous",
+    "Range": "thrown (range 25/75)",
+    "Returning": "returning"
+  },
+  "rowKey": "Lightring",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "2"
+}

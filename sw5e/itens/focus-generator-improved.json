@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "Force",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Focus Generator (Improved)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Focus Generator (Improved)",
+  "searchableRarity": "Prototype",
+  "subtype": "force",
+  "text": "_**Requires attunement**_\r\nYou gain a +2 bonus to the force attack rolls for force powers you cast through this focus generator.",
+  "type": "Focus",
+  "valuableType": "None",
+  "valueText": null
+}

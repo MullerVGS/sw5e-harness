@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "I seek a relationship with the most powerful people in the land, desiring to be the power behind the throne.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "If I can only collect enough credits, I'll be able to pay off my debts and be free.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I have a sick parent to whom I send all my money.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "My independence is the most important thing in my world.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I bring happiness to the world one person at a time.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I have a young child who is my world.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of common clothes, an instrument or disguise kit, and a belt pouch containing 50 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Acrobat",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Performer",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Entertainer",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Force of Personality",
+      "roll": 8
+    }
+  ],
+  "featureName": "Sordid Knowledge",
+  "featureRowKeys": null,
+  "featureText": "You have or can gain compromising information about people of importance. You may be able to leverage this information in order to acquire lodging, information, or even money.  You may also become a target for having this information. Your GM may rule that any particular individual is either above reproach or is too careful in covering their tracks to provide such leverage.  \r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "You are experienced in the arts of companionship, and you provide these services for people who can afford to pay it. This may mean adult favors of the sensual variety, but it just as frequently means conversation, comfort, and company.",
+  "flawOptions": [
+    {
+      "description": "I have an incurable disease I acquired from a client.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I am addicted to recreational drugs that dull the pain I feel.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I no longer practice my old profession, and I fear anyone discovering it.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I am suspicious of anyone who tries to be nice to me. They only want me to sleep with them.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "Most people are naive children.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I pretend to be tough, but am broken inside.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "My body is a temple I am duty-bound to share. (Lawful)",
+      "name": "Sacred",
+      "roll": 1
+    },
+    {
+      "description": "I fill my urges when and where I wish. (Chaotic)",
+      "name": "Hedonism",
+      "roll": 2
+    },
+    {
+      "description": "Everyone needs attention and love. (Light)",
+      "name": "Loving",
+      "roll": 3
+    },
+    {
+      "description": "I take pleasure in toying with people, and taking advantage of them. (Dark)",
+      "name": "Exploitation",
+      "roll": 4
+    },
+    {
+      "description": "I respect other's desires and wishes. (Neutral)",
+      "name": "Consent",
+      "roll": 5
+    },
+    {
+      "description": "I want to have the independence to enjoy life. (Any)",
+      "name": "Freedom",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Companion",
+  "personalityTraitOptions": [
+    {
+      "description": "People are often hurt and damaged. I try to heal them and leave them stronger than when I meet them.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I enjoy being in control and manipulating people. It's important that they like me so they do what I say.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I'm not a laser-brain, although I don't open my mouth to prove people wrong. I let them discover the truth after I have what I want.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'm better than those who are more prim and proper, and I'm having more fun.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I don't really care what happens, it's an easy way to get money for my habit.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "There are so many different kinds of people, and I want to meet them all.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I never thought this was the life for me, perhaps some brave person will rescue me.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I like what I do and I resent those who want to rescue me.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Companion",
+  "skillProficiencies": "Choose two from Acrobatics, Deception, Insight, and Performance",
+  "suggestedCharacteristics": "You enjoy people and you enjoy your work and you enjoy the money it brings. There is no shame in your profession and it is often highly regulated and regimented by factions or the local government. It requires outgoing and adventurous personalities to be a success, and often these traits lead them to adventures of a different sort.",
+  "toolProficiencies": "One instrument of your choice or a disguise kit"
+}

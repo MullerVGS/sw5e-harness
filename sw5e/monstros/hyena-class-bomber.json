@@ -1,0 +1,187 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 14,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The bomber has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The bomber has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The bomber deals double damage to objects and structures.",
+      "descriptionWithLinks": " The bomber deals double damage to objects and structures.",
+      "monsterBehaviorType": "Trait",
+      "name": "Siege Monster",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The bomber makes two light laser cannon attacks or two slam attacks.",
+      "descriptionWithLinks": " The bomber makes two light laser cannon attacks or two slam attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 8,
+      "attackType": "MeleeWeapon",
+      "damage": "13",
+      "damageRoll": "2d8+4",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8+4) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8+4) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Slam",
+      "numberOfTargets": "one target.",
+      "range": "reach 10 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "RangedWeapon",
+      "damage": "42",
+      "damageRoll": "5d12+10",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +0 to hit, range 100/200, one target. Hit: 42 (5d12+10) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +0 to hit, range 100/200, one target. Hit: 42 (5d12+10) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Light Laser Cannons",
+      "numberOfTargets": "one target.",
+      "range": "range 100/200",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 2,
+      "attackType": "RangedWeapon",
+      "damage": "16",
+      "damageRoll": "3d10",
+      "damageType": "Kinetic",
+      "description": " Ranged Weapon Attack: +2 to hit, range 100/200, one target. Hit: 16 (3d10) kinetic damage. Hit or miss, the target and each creature within 15 feet must make a Dexterity saving throw (DC 10), taking 16 (3d10) energy damage on a failed save, or half as much on a successful one.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +2 to hit, range 100/200, one target. Hit: 16 (3d10) kinetic damage. Hit or miss, the target and each creature within 15 feet must make a Dexterity saving throw (DC 10), taking 16 (3d10) energy damage on a failed save, or half as much on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Concussion Missile",
+      "numberOfTargets": "one target.",
+      "range": "range 100/200",
+      "restrictions": "4/maintenance"
+    },
+    {
+      "attackBonus": 2,
+      "attackType": "RangedWeapon",
+      "damage": "11",
+      "damageRoll": "2d10",
+      "damageType": "Kinetic",
+      "description": " Ranged Weapon Attack: +2 to hit, range 300/600, one target. Hit: 11 (2d10) kinetic damage. Hit or miss, the target and each creature within 15 feet must make a Dexterity saving throw (DC 10), taking 11 (2d10) energy damage on a failed save, or half as much on a successful one.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +2 to hit, range 300/600, one target. Hit: 11 (2d10) kinetic damage. Hit or miss, the target and each creature within 15 feet must make a Dexterity saving throw (DC 10), taking 11 (2d10) energy damage on a failed save, or half as much on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Proton Torpedo",
+      "numberOfTargets": "one target.",
+      "range": "range 300/600",
+      "restrictions": "4/maintenance"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The bomber adds 3 to its AC against one attack that would hit it. To do so, the bomber must see the attacker.",
+      "descriptionWithLinks": " The bomber adds 3 to its AC against one attack that would hit it. To do so, the bomber must see the attacker.",
+      "monsterBehaviorType": "Reaction",
+      "name": "Deflector Shield",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "6",
+  "charisma": 7,
+  "charismaModifier": -2,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 18,
+  "constitutionModifier": 4,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 10,
+  "dexterityModifier": 0,
+  "experiencePoints": 2300,
+  "flavorText": "The Hyena-class bomber, also known simply as the Hyena droid bomber, Hyena Droid or Hyena bomber, was a droid bomber used by the Confederacy of Independent Systems as a heavy ordnance craft during the Clone Wars. The Hyena bomber also was used as a fighter, but only when needed.  The Hyena-class bomber is similar in design to the Vulture-class fighter, but has a broader fuselage and two \"head\" units. Unlike the Vulture Droid, the Hyena bomber's wings separate in the middle while in \"walker\" mode. The Hyena-class bomber is capable of carrying four proton bombs, six proton torpedoes and six concussion missiles inside the bomb bay beneath the hull. The Hyena bomber also carried two light laser cannons.",
+  "hitPointRoll": "16d12+64",
+  "hitPoints": 168,
+  "imageUrls": [],
+  "intelligence": 13,
+  "intelligenceModifier": 1,
+  "languages": [
+    "Binary",
+    "Galactic Basic"
+  ],
+  "name": "Hyena-Class Bomber",
+  "rowKey": "Hyena-Class Bomber",
+  "savingThrows": null,
+  "sectionText": "A droid starfighters are automated starfighters that are droids themselves, instead of being a vessel piloted by another creature or droid. They were used prior to and during the Clone Wars, having the great advantage that if the ship was destroyed lives would be spared. There are several types of droid starfighters like Hyena-class bombers, Vulture droid starfighters, and Droid tri-fighters. Several of these fighters are capable of ground-based locomotion and combat.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 16"
+  ],
+  "size": "Huge",
+  "skills": [
+    "Perception +6"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 19,
+  "strengthModifier": 4,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 15,
+  "wisdomModifier": 2
+}

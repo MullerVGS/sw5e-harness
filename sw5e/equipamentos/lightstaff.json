@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1275,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightstaff",
+  "properties": [
+    "Dexterity 11",
+    "luminous",
+    "reach",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Luminous": "luminous",
+    "Reach": "reach",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Lightstaff",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleLightweapon",
+  "weight": "4.25"
+}

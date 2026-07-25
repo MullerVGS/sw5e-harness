@@ -1,0 +1,39 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 2900,
+  "damageDiceDieTypeEnum": 12,
+  "damageDieModifier": 0,
+  "damageDieType": 12,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Bustersaber",
+  "properties": [
+    "Brutal 1",
+    "dexterity 19",
+    "heavy",
+    "keen 1",
+    "luminous",
+    "reach",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Brutal": "Brutal 1",
+    "Dexterity": "dexterity 19",
+    "Heavy": "heavy",
+    "Keen": "keen 1",
+    "Luminous": "luminous",
+    "Reach": "reach",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Bustersaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "7.25"
+}

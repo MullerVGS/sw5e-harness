@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Crystalizing Rangefinder (Training)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Crystalizing Rangefinder (Training)",
+  "searchableRarity": "Standard",
+  "subtype": "lightweapon",
+  "text": "While using this item as your focus, you gain a +1 bonus to ranged force attacks and a -1 penalty to melee force attacks.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

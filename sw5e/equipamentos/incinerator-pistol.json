@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1250,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Fire",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Incinerator pistol",
+  "properties": [
+    "Dire 1",
+    "disintegrate 13",
+    "power cell (range 40/160)",
+    "reload 16",
+    "strength 11"
+  ],
+  "propertiesMap": {
+    "Dire": "Dire 1",
+    "Disintegrate": "disintegrate 13",
+    "Power Cell": "power cell (range 40/160)",
+    "Reload": "reload 16",
+    "Strength": "strength 11"
+  },
+  "rowKey": "Incinerator pistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "3.5"
+}

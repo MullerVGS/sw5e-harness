@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 425,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Disruptorshiv",
+  "properties": [
+    "Disruptive",
+    "finesse",
+    "shocking 13"
+  ],
+  "propertiesMap": {
+    "Disruptive": "Disruptive",
+    "Finesse": "finesse",
+    "Shocking": "shocking 13"
+  },
+  "rowKey": "Disruptorshiv",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "2.5"
+}

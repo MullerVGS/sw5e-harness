@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "CNS Strength Enhancer",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": true,
+  "rowKey": "CNS Strength Enhancer",
+  "searchableRarity": "Advanced",
+  "subtype": "waist",
+  "text": "_**Requires attunement**_\r\nWhile wearing this belt, your Strength score becomes 23. If your Strength is already equal to or greater than 23, it has no effect on you.\r\n\r\n_This belt further increases a users physical power with pneumaticized assistance joists and a repulsorfield microgenerator._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

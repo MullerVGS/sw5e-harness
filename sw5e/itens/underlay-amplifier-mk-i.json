@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Underlay Amplifier Mk I",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Underlay Amplifier Mk I",
+  "searchableRarity": "Standard",
+  "subtype": "armor",
+  "text": "While using this item as your focus, you gain a +1 bonus to melee tech attacks and a -1 penalty to ranged tech attacks.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

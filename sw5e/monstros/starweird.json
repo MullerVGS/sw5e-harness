@@ -1,0 +1,213 @@
+{
+  "alignment": "chaotic balanced",
+  "armorClass": 15,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The starweird can survive in the vacuum of space.",
+      "descriptionWithLinks": " The starweird can survive in the vacuum of space.",
+      "monsterBehaviorType": "Trait",
+      "name": "Space-borne",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Force and tech created darkness does not impede the starweird's darkvision.",
+      "descriptionWithLinks": " Force and tech created darkness does not impede the starweird's darkvision.",
+      "monsterBehaviorType": "Trait",
+      "name": "Devil's Sight",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The starweird has advantage on saving throws against force powers.",
+      "descriptionWithLinks": " The starweird has advantage on saving throws against force powers.",
+      "monsterBehaviorType": "Trait",
+      "name": "Force Resistance",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " At-will: denounce, force push/pull, shock     1st-level: curse, sap vitality, sense force   2nd-level: drain vitality, force sight    3rd-level: choke, force lightning     4th-level: drain life     The starweird is a 7th-level forcecaster. Its forcecasting ability is Wisdom (power save DC 15, +7 to hit with force attacks) and it has 31 force points. The starweird knows the following force powers:",
+      "descriptionWithLinks": " Forcecasting. The starweird is a 7th-level forcecaster. Its forcecasting ability is Wisdom (power save DC 15, +7 to hit with force attacks) and it has 31 force points. The starweird knows the following force powers: [](#)\r\n At-will: [denounce](#denounce), [force push/pull](#force%20push/pull), [shock](#shock)\r\n 1st-level: [curse](#curse), [sap vitality](#sap%20vitality), [sense force](#sense%20force)\r\n 2nd-level: [drain vitality](#drain%20vitality), [force sight](#force%20sight)\r\n 3rd-level: [choke](#choke), [force lightning](#force%20lightning)\r\n 4th-level: [drain life](#drain%20life)",
+      "monsterBehaviorType": "Trait",
+      "name": "Forcecasting",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The starweird can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) kinetic damage if it ends its turn inside an object.",
+      "descriptionWithLinks": " The starweird can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) kinetic damage if it ends its turn inside an object.",
+      "monsterBehaviorType": "Trait",
+      "name": "Phase Shift",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": "  The starweird can make two claw attacks.",
+      "descriptionWithLinks": "  The starweird can make two claw attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 6,
+      "attackType": "MeleeWeapon",
+      "damage": "5",
+      "damageRoll": "1d6 + 2",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage and 3 (1d6) necrotic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage and 3 (1d6) necrotic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Claw",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The starweird releases a terrifying scream. Each creature of the starweird's choice that is within 30 feet of the starweird and aware of it must succeed on a DC 15 Wisdom saving throw. On a failure, a creature takes 21 (6d6) psychic damage plus 21 (6d6) necrotic damage and is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself. On a success, a creature takes half damage and is not frightened.",
+      "descriptionWithLinks": " The starweird releases a terrifying scream. Each creature of the starweird's choice that is within 30 feet of the starweird and aware of it must succeed on a DC 15 Wisdom saving throw. On a failure, a creature takes 21 (6d6) psychic damage plus 21 (6d6) necrotic damage and is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself. On a success, a creature takes half damage and is not frightened.",
+      "monsterBehaviorType": "Action",
+      "name": "Telepathic Scream",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "1/Day"
+    }
+  ],
+  "challengeRating": "4",
+  "charisma": 17,
+  "charismaModifier": 3,
+  "conditionImmunities": [
+    "Charmed",
+    "Frightened",
+    "Grappled",
+    "Paralyzed",
+    "Petrified",
+    "Poisoned",
+    "Prone",
+    "Restrained"
+  ],
+  "conditionImmunitiesOther": [
+    "exhaustion"
+  ],
+  "conditionImmunitiesParsed": [
+    2,
+    4,
+    5,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [
+    "Cold",
+    "Necrotic",
+    "Poison"
+  ],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [
+    2,
+    9,
+    10
+  ],
+  "damageResistances": [
+    "Acid",
+    "Fire",
+    "Lightning",
+    "Ion"
+  ],
+  "damageResistancesOther": [
+    "sonic; energy",
+    "and kinetic from unenhanced weapons"
+  ],
+  "damageResistancesParsed": [
+    1,
+    4,
+    8,
+    6
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 14,
+  "dexterityModifier": 2,
+  "experiencePoints": 1100,
+  "flavorText": "",
+  "hitPointRoll": "12d8 + 12",
+  "hitPoints": 66,
+  "imageUrls": [],
+  "intelligence": 13,
+  "intelligenceModifier": 1,
+  "languages": [
+    "�"
+  ],
+  "name": "Starweird",
+  "rowKey": "Starweird",
+  "savingThrows": [
+    "Wis +7",
+    "Cha +7"
+  ],
+  "sectionText": "Starweirds are incorporeal, humanoid, Force-using creatures found only in the vacuum of space. ***Biology and Appearance.*** They are tall and extremely gaunt, wearing ephemeral rags that hang from their arms. Starweirds have long, wild white hair that floats around their heads, ignoring gravity. The creatures have pale skin and their faces are desiccated. Many witnesses state that the creature's face somewhat resembles their own. Starweirds each have a large, toothy mouth and eyes that glow. Their arms are bony and end in hands with three large, sharp, black talons. The species' incorporeal nature makes it possible for the creatures to resist conventional attacks and pass through solid objects, although force fields still stop the creatures. They are also fully affected by the use of the Force. Starweirds hover or fly silently instead of walking. While fairly intelligent, the creatures do not communicate and had no known language. They have no known ecological role, and after dying, a starweird leaves no traces of itself.***Behavior.*** Starweirds may appear to spacers repairing their damaged starship in deep space, or manifest aboard a ship traveling in hyperspace. Upon being spotted, starweirds become enraged and released a loud, piercing telepathic shriek. The creatures are noted for having a particular hatred for Force-sensitives, who they will mindlessly concentrate on killing even if there are other creatures present.Some Jedi hypothesize that they are physical manifestations of the dark side of the Force. However, there is little evidence to supported the theory.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 11"
+  ],
+  "size": "Medium",
+  "skills": null,
+  "speed": 0,
+  "speeds": "0 ft., fly 40 ft. (hover)",
+  "strength": 7,
+  "strengthModifier": -2,
+  "types": [
+    "aberration"
+  ],
+  "wisdom": 16,
+  "wisdomModifier": 3
+}

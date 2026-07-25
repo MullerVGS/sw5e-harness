@@ -1,0 +1,513 @@
+# equipamentos — 507 entidades
+
+Índice do espelho: escolha por aqui e só então abra a fatia. O arquivo é o
+nome em slug (minúsculas, hífens); onde o nome não basta, ele vem entre
+backticks na linha.
+
+- **ARC caster** — Weapon · MartialBlaster · 2d4 Lightning · 2125 cr
+- **Affixed Rifle** — Weapon · MartialBlaster · 1d8 Energy · 700 cr
+- **Alchemist's kit** — Kit · 500 cr
+- **Ammo Pouch** — WeaponOrArmorAccessory · 15 cr
+- **Ammo-feed belt** — WeaponOrArmorAccessory · 450 cr
+- **Andris** — Spice · 75 cr
+- **Anti-materiel blaster** — Weapon · MartialBlaster · 3d4 Energy · 2500 cr
+- **Anti-materiel rifle** — Weapon · MartialBlaster · 2d6 Kinetic · 1900 cr
+- **Antitoxkit** — Medical · 600 cr
+- **Archaeologist kit** — Kit · 125 cr
+- **Arm prosthesis** — Medical · 450 cr
+- **Armormech's implements** — Tool · 200 cr
+- **Armstech's implements** — Tool · 250 cr
+- **Arrow** — Ammunition · 1 cr
+- **Arrow, Combustive** — Ammunition · 100 cr
+- **Arrow, Electroshock** — Ammunition · 150 cr
+- **Arrow, Noisemaker** — Ammunition · 125 cr
+- **Artificer's implements** — Tool · 300 cr
+- **Artillerist's kit** — Kit · 275 cr
+- **Artist's implements** — Tool · 100 cr
+- **Assault armor** — Armor · Heavy · CA 17 · 2000 cr
+- **Assault cannon** — Weapon · MartialBlaster · 1d12 Energy · 1550 cr
+- **Astrotech's implements** — Tool · 400 cr
+- **Atlatl** — Weapon · SimpleVibroweapon · 1d6 Kinetic · 375 cr
+- **Audiotech's implements** — Tool · 550 cr
+- **BKG** — Weapon · MartialBlaster · 3d4 Energy · 2750 cr
+- **Backpack** — Storage · 50 cr
+- **Bandfill** — MusicalInstrument · 300 cr
+- **Bandolier** — WeaponOrArmorAccessory · 100 cr
+- **Battle armor** — Armor · Heavy · CA 16 · 750 cr
+- **Beam rifle** — Weapon · MartialBlaster · 2d6 Energy · 1850 cr
+- **Bedroll** — Utility · 10 cr
+- **Beskar weave armor** — Armor · Medium · CA 14 + Dex modifier (max 2) · 3000 cr
+- **Binders** — Utility · 50 cr
+- **Bioanalysis kit** — Kit · 50 cr
+- **Biochemist's kit** — Kit · 500 cr
+- **Biotech's implements** — Tool · 450 cr
+- **Bipod** — WeaponOrArmorAccessory · 200 cr
+- **Bitesaber** — Weapon · MartialLightweapon · 1d6 Acid · 1800 cr
+- **Blanket** — Utility · 5 cr
+- **Blaster cannon** — Weapon · MartialBlaster · 2d6 Energy · 5500 cr
+- **Blaster carbine** — Weapon · SimpleBlaster · 1d6 Energy · 425 cr
+- **Blaster pistol** — Weapon · SimpleBlaster · 1d6 Energy · 175 cr
+- **Blaster rifle** — Weapon · MartialBlaster · 1d8 Energy · 525 cr
+- **Blightsaber** — Weapon · MartialLightweapon · 1d6 Necrotic · 1800 cr
+- **Bo-rifle** (`bo-rifle-exoticblaster.json`) — Weapon · ExoticBlaster · 1075 cr
+- **Bo-rifle** (`bo-rifle-exoticvibroweapon.json`) — Weapon · ExoticVibroweapon · 1075 cr
+- **Bolas** — Weapon · MartialVibroweapon · 100 cr
+- **Bolt** — Ammunition · 10 cr
+- **Bolt, Deafening** — Ammunition · 140 cr
+- **Bolt, Electrifying** — Ammunition · 170 cr
+- **Bolt, Panic** — Ammunition · 200 cr
+- **Bolt-thrower** — Weapon · MartialBlaster · 1825 cr
+- **Bone light shield** — Armor · Shield · CA +0 · 300 cr
+- **Bottle** — Storage · 20 cr
+- **Bowcaster** — Weapon · SimpleBlaster · 1d10 Energy · 1150 cr
+- **Brewer's kit** — Kit · 200 cr
+- **Brightsaber** — Weapon · MartialLightweapon · 1d6 Fire · 1800 cr
+- **Broadsaber** — Weapon · MartialLightweapon · 2d4 Energy · 1000 cr
+- **Bucket** — Storage · 2 cr
+- **Bustersaber** — Weapon · MartialLightweapon · 1d12 Energy · 2900 cr
+- **Camtono** — Storage · 750 cr
+- **Canteen** — Storage · 10 cr
+- **Carbine rifle** — Weapon · MartialBlaster · 1d8 Energy · 925 cr
+- **Cesta** — Weapon · MartialVibroweapon · 1d8 Kinetic · 975 cr
+- **Chained dagger** — Weapon · MartialVibroweapon · 1d4 Kinetic · 350 cr
+- **Chained lightdagger** — Weapon · MartialLightweapon · 1d4 Energy · 800 cr
+- **Chaingun** — Weapon · MartialBlaster · 2d4 Kinetic · 1325 cr
+- **Chakram** — Weapon · MartialVibroweapon · 1d6 Kinetic · 175 cr
+- **Chance cubes** — GamingSet · 1 cr
+- **Charge, fragmentation** — Explosive · 750 cr
+- **Charge, plasma** — Explosive · 775 cr
+- **Chatta-ragul set** — GamingSet · 450 cr
+- **Chef's kit** — Kit · 70 cr
+- **Chemical suit** — LifeSupport · 3000 cr
+- **Chest** — Storage · 50 cr
+- **Chindinkalu horn** — MusicalInstrument · 120 cr
+- **Chronometer** — Utility · 100 cr
+- **Cilona** — Spice · 60 cr
+- **Claymoresaber** — Weapon · MartialLightweapon · 3d4 Energy · 2300 cr
+- **Clothes, clandestine** — Clothing · 300 cr
+- **Clothes, common** — Clothing · 5 cr
+- **Clothes, costume** — Clothing · 50 cr
+- **Clothes, dress uniform** — Clothing · 100 cr
+- **Clothes, fine** — Clothing · 150 cr
+- **Clothes, traveler's** — Clothing · 20 cr
+- **Code cylinder** — DataRecordingAndStorage · 20 cr
+- **Combat suit** — Armor · Light · CA 11 + Dex modifier · 100 cr
+- **Comm jammer** — Communications · 450 cr
+- **Commlink** — Communications · 50 cr
+- **Commlink, hands-free** — Communications · 200 cr
+- **Composite armor** — Armor · Medium · CA 15 + Dex modifier (max 2) · 2500 cr
+- **Compound bow** — Weapon · MartialBlaster · 1d8 Kinetic · 600 cr
+- **Computer spike** — Utility · 145 cr
+- **Conductive suit** — LifeSupport · 3600 cr
+- **Constructor's implements** — Tool · 100 cr
+- **Corrosive cartridge** — Ammunition · 42 cr
+- **Crate** — Storage · 20 cr
+- **Credit chip** — DataRecordingAndStorage · 100 cr
+- **Crossguard saber** — Weapon · MartialLightweapon · 1d8 Energy · 725 cr
+- **Crosssaber** — Weapon · MartialLightweapon · 2d4 Energy · 1650 cr
+- **Cryo cannon** — Weapon · MartialBlaster · 2d4 Cold · 3300 cr
+- **Cryo carbine** — Weapon · SimpleBlaster · 1d6 Cold · 1250 cr
+- **Cryo cell** — Ammunition · 350 cr
+- **Cryo pistol** — Weapon · SimpleBlaster · 1d4 Cold · 750 cr
+- **Cryo rifle** — Weapon · MartialBlaster · 2d4 Cold · 2400 cr
+- **Crystadium medium shield** — Armor · Shield · CA +2 · 900 cr
+- **Cybertech's implements** — Tool · 500 cr
+- **Cycler rifle** — Weapon · MartialBlaster · 1d8 Kinetic · 825 cr
+- **Dampening suit** — LifeSupport · 2500 cr
+- **Dart** — Ammunition · 5 cr
+- **Datacard** — DataRecordingAndStorage · 5 cr
+- **Datacron** — DataRecordingAndStorage · 1000 cr
+- **Datapad** — DataRecordingAndStorage · 100 cr
+- **Deafening calibrator** — Ammunition · 550 cr
+- **Deafening cell** — Ammunition · 425 cr
+- **Deafening collimator** — Ammunition · 575 cr
+- **Deafening dart** — Ammunition · 70 cr
+- **Dejarik set** — GamingSet · 300 cr
+- **Demolitions kit** — Kit · 400 cr
+- **Deuterium-pyro** — AlcoholicBeverage · 80 cr
+- **Dire vibroblade** — Weapon · MartialVibroweapon · 1d8 Kinetic · 550 cr
+- **Diresword** — Weapon · SimpleVibroweapon · 1d6 Kinetic · 300 cr
+- **Disguise kit** — Kit · 250 cr
+- **Disguised blade** — Weapon · MartialVibroweapon · 1d4 Kinetic · 125 cr
+- **Disruptor carbine** — Weapon · SimpleBlaster · 1d8 Acid · 1450 cr
+- **Disruptor pistol** — Weapon · SimpleBlaster · 1d6 Acid · 750 cr
+- **Disruptor rifle** — Weapon · MartialBlaster · 1d10 Acid · 2900 cr
+- **Disruptor sniper** — Weapon · MartialBlaster · 1d12 Acid · 3300 cr
+- **Disruptorshiv** — Weapon · MartialVibroweapon · 1d4 Kinetic · 425 cr
+- **Diving suit** — LifeSupport · 2000 cr
+- **Doubleblade** — Weapon · MartialVibroweapon · 1d6 Kinetic · 400 cr
+- **Doublesaber** — Weapon · MartialLightweapon · 1d8 Energy · 725 cr
+- **Doubleshoto** — Weapon · MartialLightweapon · 1d6 Energy · 700 cr
+- **Doublesword** — Weapon · MartialVibroweapon · 1d8 Kinetic · 450 cr
+- **Drum** — MusicalInstrument · 60 cr
+- **Dual-phase saber** — Weapon · MartialLightweapon · 2d4 Energy · 1250 cr
+- **Durafiber battle armor** — Armor · Heavy · CA 15 · 6750 cr
+- **Duranium combat suit** — Armor · Light · CA 11 + Dex modifier · 1100 cr
+- **Durasteel exoskeleton** — Armor · Heavy · CA 18 · 15000 cr
+- **Duravlex fiber armor** — Armor · Light · CA 11 + Dex modifier · 1450 cr
+- **Ear prosthesis** — Medical · 100 cr
+- **Echostaff** — Weapon · MartialVibroweapon · 1d6 Kinetic · 600 cr
+- **Electrifying calibrator** — Ammunition · 700 cr
+- **Electrifying cartridge** — Ammunition · 28 cr
+- **Electrifying collimator** — Ammunition · 725 cr
+- **Electrifying dart** — Ammunition · 85 cr
+- **Electrobaton** — Weapon · MartialVibroweapon · 1d4 Kinetic · 275 cr
+- **Electrohammer** — Weapon · MartialVibroweapon · 1d10 Kinetic · 950 cr
+- **Electroprod** — Weapon · SimpleVibroweapon · 1d8 Kinetic · 650 cr
+- **Electrostaff** — Weapon · MartialVibroweapon · 1d6 Kinetic · 600 cr
+- **Electrovoulge** — Weapon · MartialVibroweapon · 1d10 Kinetic · 1250 cr
+- **Electrowhip** — Weapon · MartialVibroweapon · 1d4 Kinetic · 725 cr
+- **Emergency battery** — Medical · 70 cr
+- **Emergency raft** — LifeSupport · 250 cr
+- **Emergency rations (one day's)** — LifeSupport · 25 cr
+- **Emergency shelter** — LifeSupport · 600 cr
+- **Energy bow** — Weapon · SimpleBlaster · 1d6 Energy · 475 cr
+- **Energy slingshot** — Weapon · SimpleBlaster · 1d4 Energy · 425 cr
+- **Eye prosthesis** — Medical · 250 cr
+- **Facial prosthesis** — Medical · 300 cr
+- **Fanfar** — MusicalInstrument · 220 cr
+- **Fiber armor** — Armor · Light · CA 12 + Dex modifier · 450 cr
+- **Fibercord cable, 50 ft (rolled)** — Utility · 20 cr
+- **Field rations (one day's)** — Utility · 5 cr
+- **Fire extinguisher** — Utility · 170 cr
+- **Fizzz** — MusicalInstrument · 160 cr
+- **Flame-proof suit** — LifeSupport · 2250 cr
+- **Flask** — Storage · 10 cr
+- **Flechette cannon** — Weapon · MartialBlaster · 2300 cr
+- **Flechette clip, fragmentation** — Ammunition · 250 cr
+- **Flechette clip, ion** — Ammunition · 300 cr
+- **Flechette clip, plasma** — Ammunition · 275 cr
+- **Flechette mag, fragmentation** — Ammunition · 550 cr
+- **Flechette mag, ion** — Ammunition · 600 cr
+- **Flechette mag, plasma** — Ammunition · 575 cr
+- **Fleximetal fiber armor** — Armor · Light · CA 12 + Dex modifier · 1450 cr
+- **Flute** — MusicalInstrument · 20 cr
+- **Flux collimator** — Ammunition · 180 cr
+- **Focus generator** — DataRecordingAndStorage · 200 cr
+- **Foot prosthesis** — Medical · 150 cr
+- **Forearm prosthesis** — Medical · 300 cr
+- **Forgery kit** — Kit · 150 cr
+- **Friction-grip gear** — WeaponOrArmorAccessory · 2000 cr
+- **Fusion cutter** — Utility · 25 cr
+- **Gadgeteer's implements** — Tool · 350 cr
+- **Gas cartridge** — Ammunition · 36 cr
+- **Geneticist's implements** — Tool · 900 cr
+- **Giggledust** — Spice · 80 cr
+- **Glitterstim** — Spice · 95 cr
+- **Glowrod** — Utility · 10 cr
+- **Grappling hook** — Utility · 50 cr
+- **Gravity generator** — Utility · 500 cr
+- **Great-saber** — Weapon · MartialLightweapon · 2d6 Energy · 1725 cr
+- **Grenade launcher** — Weapon · MartialBlaster · 1800 cr
+- **Grenade, corrosive** — Explosive · 200 cr
+- **Grenade, cryo** — Explosive · 325 cr
+- **Grenade, deafening** — Explosive · 225 cr
+- **Grenade, electrifying** — Explosive · 300 cr
+- **Grenade, flash** — Explosive · 350 cr
+- **Grenade, fragmentation** — Explosive · 100 cr
+- **Grenade, gas** — Explosive · 300 cr
+- **Grenade, incendiary** — Explosive · 275 cr
+- **Grenade, ion** — Explosive · 250 cr
+- **Grenade, panic** — Explosive · 375 cr
+- **Grenade, plasma** — Explosive · 125 cr
+- **Grenade, stun** — Explosive · 250 cr
+- **Guard shoto** — Weapon · MartialLightweapon · 1d4 Energy · 375 cr
+- **Hand BKG** — Weapon · MartialBlaster · 1d10 Energy · 1550 cr
+- **Hand blaster** — Weapon · MartialBlaster · 1d4 Energy · 500 cr
+- **Hand cannon** — Weapon · MartialBlaster · 1d10 Kinetic · 1300 cr
+- **Hand prosthesis** — Medical · 225 cr
+- **Hazard suit** — LifeSupport · 1875 cr
+- **Heat generator** — Utility · 400 cr
+- **Heavy blaster rifle** — Weapon · MartialBlaster · 2d4 Energy · 1025 cr
+- **Heavy bowcaster** — Weapon · MartialBlaster · 1d12 Energy · 1750 cr
+- **Heavy carbine** — Weapon · MartialBlaster · 1d8 Energy · 775 cr
+- **Heavy exoskeleton** — Armor · Heavy · CA 18 · 9000 cr
+- **Heavy physical shield** — Armor · Shield · CA +3 · 500 cr
+- **Heavy pistol** — Weapon · MartialBlaster · 1d8 Energy · 300 cr
+- **Heavy repeater** — Weapon · MartialBlaster · 2d4 Energy · 1225 cr
+- **Heavy shield generator** — Armor · Shield · CA +3 · 1250 cr
+- **Heavy shotgun** — Weapon · MartialBlaster · 2d4 Kinetic · 1125 cr
+- **Heavy slugpistol** — Weapon · MartialBlaster · 1d8 Kinetic · 375 cr
+- **Hidden blade** — Weapon · MartialVibroweapon · 1d4 Kinetic · 75 cr
+- **Hold-out** — Weapon · SimpleBlaster · 1d4 Energy · 225 cr
+- **Holocomm** — Communications · 300 cr
+- **Holocron** — DataRecordingAndStorage · 1000 cr
+- **Holorecorder** — DataRecordingAndStorage · 100 cr
+- **Holotrace device** — Communications · 1000 cr
+- **Holster** — WeaponOrArmorAccessory · 75 cr
+- **Homing beacon** — Utility · 450 cr
+- **Hooked vibroblade** — Weapon · MartialVibroweapon · 1d8 Kinetic · 225 cr
+- **Hovercart** — Storage · 2000 cr
+- **Hunting rifle** — Weapon · MartialBlaster · 1d10 Kinetic · 1000 cr
+- **Hydrospanner** — Utility · 10 cr
+- **IWS** — Weapon · ExoticBlaster · 3625 cr
+- **Incendiary cell** — Ammunition · 275 cr
+- **Incinerator carbine** — Weapon · SimpleBlaster · 1d6 Fire · 1650 cr
+- **Incinerator pistol** — Weapon · SimpleBlaster · 1d4 Fire · 1250 cr
+- **Incinerator rifle** — Weapon · MartialBlaster · 1d8 Fire · 1950 cr
+- **Incinerator sniper** — Weapon · MartialBlaster · 1d10 Fire · 3300 cr
+- **Ion cannon** — Weapon · MartialBlaster · 1d10 Ion · 3800 cr
+- **Ion carbine** — Weapon · SimpleBlaster · 1d4 Ion · 600 cr
+- **Ion pistol** — Weapon · SimpleBlaster · 1d3 Ion · 250 cr
+- **Ion rifle** — Weapon · MartialBlaster · 1d6 Ion · 1150 cr
+- **Jagged vibroblade** — Weapon · MartialVibroweapon · 2d4 Kinetic · 650 cr
+- **Jetpack** — WeaponOrArmorAccessory · 4500 cr
+- **Jeweler's implements** — Tool · 250 cr
+- **Jug** — Storage · 5 cr
+- **Karrak** — Spice · 90 cr
+- **Kirgatz set** — GamingSet · 250 cr
+- **Kloo horn** — MusicalInstrument · 330 cr
+- **Laminanium assault** — Armor · Heavy · CA 17 · 8000 cr
+- **Leg prosthesis** — Medical · 450 cr
+- **Light physical shield** — Armor · Shield · CA +1 · 50 cr
+- **Light pistol** — Weapon · SimpleBlaster · 1d4 Energy · 250 cr
+- **Light repeater** — Weapon · SimpleBlaster · 1d6 Energy · 625 cr
+- **Light shield generator** — Armor · Shield · CA +1 · 125 cr
+- **Light slugpistol** — Weapon · SimpleBlaster · 1d4 Kinetic · 250 cr
+- **Lightaxe** — Weapon · MartialLightweapon · 1d12 Energy · 1550 cr
+- **Lightbaton** — Weapon · SimpleLightweapon · 1d8 Energy · 400 cr
+- **Lightblade** — Weapon · SimpleLightweapon · 1d6 Energy · 375 cr
+- **Lightbow** — Weapon · MartialBlaster · 2d6 Energy · 1800 cr
+- **Lightclub** — Weapon · SimpleLightweapon · 1d10 Energy · 1300 cr
+- **Lightcutlass** — Weapon · SimpleLightweapon · 2d4 Energy · 725 cr
+- **Lightdagger** — Weapon · SimpleLightweapon · 1d4 Energy · 425 cr
+- **Lightfist** — Weapon · MartialLightweapon · 1d4 Energy · 650 cr
+- **Lightfoil** — Weapon · MartialLightweapon · 1d8 Energy · 475 cr
+- **Lightglaive** — Weapon · MartialLightweapon · 1d10 Energy · 2050 cr
+- **Lightkatana** — Weapon · MartialLightweapon · 1d8 Energy · 925 cr
+- **Lightning cannon** — Weapon · MartialBlaster · 1d6 Lightning · 4400 cr
+- **Lightning carbine** — Weapon · SimpleBlaster · 1d6 Lightning · 1150 cr
+- **Lightning pistol** — Weapon · SimpleBlaster · 1d4 Lightning · 550 cr
+- **Lightning rifle** — Weapon · MartialBlaster · 1d6 Lightning · 2125 cr
+- **Lightnodachi** — Weapon · MartialLightweapon · 3d4 Energy · 3050 cr
+- **Lightring** — Weapon · MartialLightweapon · 1d6 Energy · 575 cr
+- **Lightsaber** — Weapon · SimpleLightweapon · 1d6 Energy · 450 cr
+- **Lightsaber pike** — Weapon · MartialLightweapon · 1d8 Energy · 1175 cr
+- **Lightstaff** — Weapon · SimpleLightweapon · 2d4 Energy · 1275 cr
+- **Lute** — MusicalInstrument · 350 cr
+- **Macrobinoculars** — Utility · 750 cr
+- **Mancatcher** — Weapon · SimpleVibroweapon · 1d8 Kinetic · 800 cr
+- **Mandoviol** — MusicalInstrument · 425 cr
+- **Marksman blaster** — Weapon · MartialBlaster · 1d10 Energy · 1100 cr
+- **Martial lightsaber** — Weapon · MartialLightweapon · 1d8 Energy · 550 cr
+- **Mechanic's kit** — Kit · 650 cr
+- **Medium physical shield** — Armor · Shield · CA +2 · 150 cr
+- **Medium shield generator** — Armor · Shield · CA +2 · 375 cr
+- **Medpac** — Medical · 300 cr
+- **Mesh armor** — Armor · Medium · CA 13 + Dex modifier (max 2) · 500 cr
+- **Mess kit** — Utility · 20 cr
+- **Mind-shielding suit** — LifeSupport · 4500 cr
+- **Mine, corrosive** — Explosive · 425 cr
+- **Mine, cryo** — Explosive · 625 cr
+- **Mine, deafening** — Explosive · 450 cr
+- **Mine, electrifying** — Explosive · 550 cr
+- **Mine, flash** — Explosive · 600 cr
+- **Mine, fragmentation** — Explosive · 200 cr
+- **Mine, gas** — Explosive · 625 cr
+- **Mine, incendiary** — Explosive · 550 cr
+- **Mine, ion** — Explosive · 525 cr
+- **Mine, panic** — Explosive · 700 cr
+- **Mine, plasma** — Explosive · 250 cr
+- **Mine, stun** — Explosive · 475 cr
+- **Mirror** — Utility · 50 cr
+- **Missile, fragmentation** — Ammunition · 100 cr
+- **Missile, incendiary** — Ammunition · 160 cr
+- **Missile, ion** — Ammunition · 140 cr
+- **Mortar launcher** — Weapon · MartialBlaster · 3500 cr
+- **Mummergy** — AlcoholicBeverage · 65 cr
+- **Munitions kit** — Kit · 425 cr
+- **Muon gold** — Spice · 65 cr
+- **Needler** — Weapon · SimpleBlaster · 1d4 Kinetic · 475 cr
+- **Nervebaton** — Weapon · SimpleVibroweapon · 1d4 Kinetic · 375 cr
+- **Net** — Weapon · MartialVibroweapon · 300 cr
+- **Neuronic whip** — Weapon · ExoticVibroweapon · 1d4 Kinetic · 725 cr
+- **Neutronium mesh** — Armor · Medium · CA 13 + Dex modifier (max 2) · 2500 cr
+- **Nightstinger rifle** — Weapon · MartialBlaster · 1d10 Energy · 1075 cr
+- **Novanian grog** — AlcoholicBeverage · 70 cr
+- **Ommni box** — MusicalInstrument · 250 cr
+- **Oscillation calibrator** — Ammunition · 170 cr
+- **Oyxgen tank** — LifeSupport · 100 cr
+- **Panic calibrator** — Ammunition · 850 cr
+- **Panic collimator** — Ammunition · 875 cr
+- **Panic dart** — Ammunition · 100 cr
+- **Pazaak deck** — GamingSet · 100 cr
+- **Personal translator** — Communications · 150 cr
+- **Phase knife** — Weapon · MartialLightweapon · 1d4 Energy · 1025 cr
+- **Pikesaber** — Weapon · MartialLightweapon · 1d10 Energy · 1675 cr
+- **Pitcher** — Storage · 8 cr
+- **Plastoid composite** — Armor · Medium · CA 15 + Dex modifier (max 2) · 4500 cr
+- **Pocket scrambler** — Communications · 800 cr
+- **Poison** — Medical · 125 cr
+- **Poisoner's kit** — Kit · 500 cr
+- **Pot** — Storage · 15 cr
+- **Pouch** — Storage · 5 cr
+- **Power belt** — WeaponOrArmorAccessory · 400 cr
+- **Power cell** — Ammunition · 10 cr
+- **Power generator** — Ammunition · 1250 cr
+- **Projector canister, corrosive** — Ammunition · 300 cr
+- **Projector canister, cryo** — Ammunition · 350 cr
+- **Projector canister, incendiary** — Ammunition · 325 cr
+- **Projector tank, corrosive** — Ammunition · 625 cr
+- **Projector tank, cryo** — Ammunition · 675 cr
+- **Projector tank, incendiary** — Ammunition · 650 cr
+- **Propulsion pack** — WeaponOrArmorAccessory · 400 cr
+- **Quadanium heavy shield** — Armor · Shield · CA +3 · 2000 cr
+- **Quiver** — WeaponOrArmorAccessory · 10 cr
+- **Raava** — AlcoholicBeverage · 95 cr
+- **Radiation cannon** — Weapon · MartialBlaster · 2d4 Necrotic · 3900 cr
+- **Radrifle** — Weapon · ExoticBlaster · 1d6 Necrotic · 1575 cr
+- **Railgun** — Weapon · MartialBlaster · 2d6 Kinetic · 1900 cr
+- **Ram, portable** — Utility · 40 cr
+- **Remote detonator** — WeaponOrArmorAccessory · 150 cr
+- **Repair kit** — Medical · 750 cr
+- **Repeating blaster** — Weapon · MartialBlaster · 1d8 Energy · 1025 cr
+- **Repelling wristpad** — DataRecordingAndStorage · 1600 cr
+- **Repulsor pack** — WeaponOrArmorAccessory · 300 cr
+- **Respirator** — LifeSupport · 200 cr
+- **Restraining bolt** — Utility · 350 cr
+- **Retrosaber** — Weapon · MartialLightweapon · 1d8 Energy · 950 cr
+- **Revolver** — Weapon · MartialBlaster · 2d4 Kinetic · 625 cr
+- **Riot baton** — Weapon · MartialVibroweapon · 1d6 Kinetic · 250 cr
+- **Riot shocker** — Weapon · MartialVibroweapon · 1d4 Kinetic · 425 cr
+- **Rocket boots** — WeaponOrArmorAccessory · 2500 cr
+- **Rocket launcher** — Weapon · MartialBlaster · 2250 cr
+- **Rocket rifle** — Weapon · MartialBlaster · 2250 cr
+- **Rocket, fragmentation** — Ammunition · 350 cr
+- **Rocket, incendiary** — Ammunition · 535 cr
+- **Rocket, ion** — Ammunition · 475 cr
+- **Rocketpack** — WeaponOrArmorAccessory · 10000 cr
+- **Rotary cannon** — Weapon · MartialBlaster · 1d10 Energy · 1500 cr
+- **Sabacc deck** — GamingSet · 150 cr
+- **Saberaxe** — Weapon · MartialLightweapon · 2d4 Energy · 600 cr
+- **Sabergauntlet** — Weapon · MartialLightweapon · 1d8 Energy · 475 cr
+- **Sabermace** — Weapon · SimpleLightweapon · 1d8 Energy · 950 cr
+- **Saberspear** — Weapon · SimpleLightweapon · 1d6 Energy · 450 cr
+- **Saberstaff** (`saberstaff-exoticlightweapon.json`) — Weapon · ExoticLightweapon · 1375 cr
+- **Saberstaff** (`saberstaff-exoticvibroweapon.json`) — Weapon · ExoticVibroweapon · 1375 cr
+- **Saberwhip** — Weapon · MartialLightweapon · 1d4 Energy · 750 cr
+- **Sack** — Storage · 5 cr
+- **Scatter blaster** — Weapon · MartialBlaster · 2d4 Energy · 1175 cr
+- **Scattergun** — Weapon · SimpleBlaster · 1d6 Kinetic · 625 cr
+- **Scavenging kit** — Kit · 75 cr
+- **Security kit** — Kit · 650 cr
+- **Security spike** — Utility · 150 cr
+- **Sentry gun** — Weapon · MartialBlaster · 1d12 Energy · 3250 cr
+- **Shatter cannon** — Weapon · MartialBlaster · 1d10 Kinetic · 1625 cr
+- **Shatter pistol** — Weapon · SimpleBlaster · 1d4 Kinetic · 375 cr
+- **Shatter rifle** — Weapon · MartialBlaster · 2d4 Kinetic · 750 cr
+- **Shawm** — MusicalInstrument · 20 cr
+- **Shock gloves** — WeaponOrArmorAccessory · 500 cr
+- **Shock whip** — Weapon · MartialVibroweapon · 1d4 Kinetic · 475 cr
+- **Shortbow** — Weapon · SimpleBlaster · 1d6 Kinetic · 550 cr
+- **Shotgun** — Weapon · SimpleBlaster · 2d4 Kinetic · 725 cr
+- **Shotosaber** — Weapon · MartialLightweapon · 1d6 Energy · 450 cr
+- **Shoulder blaster** — Weapon · MartialBlaster · 1d6 Energy · 1275 cr
+- **Shoulder cannon** — Weapon · MartialBlaster · 1d8 Energy · 1625 cr
+- **Shovel** — Utility · 7 cr
+- **Sicklesaber** — Weapon · SimpleLightweapon · 1d6 Energy · 700 cr
+- **Sith saber** — Weapon · MartialLightweapon · 2d4 Energy · 925 cr
+- **Slicer's kit** — Kit · 800 cr
+- **Slitherhorn** — MusicalInstrument · 120 cr
+- **Slug cartridge** — Ammunition · 2 cr
+- **Slugpistol** — Weapon · SimpleBlaster · 1d6 Kinetic · 325 cr
+- **Slugthrower** — Weapon · MartialBlaster · 1d8 Kinetic · 525 cr
+- **Smart cannon** — Weapon · MartialBlaster · 1d10 Kinetic · 2250 cr
+- **Smart pistol** — Weapon · MartialBlaster · 1d6 Kinetic · 1075 cr
+- **Smugglepack** — Storage · 400 cr
+- **Snare** — Ammunition · 300 cr
+- **Sniper rifle** — Weapon · MartialBlaster · 1d12 Energy · 1300 cr
+- **Sonic cannon** — Weapon · MartialBlaster · 1d10 Sonic · 2100 cr
+- **Sonic carbine** — Weapon · SimpleBlaster · 1d6 Sonic · 675 cr
+- **Sonic pistol** — Weapon · SimpleBlaster · 1d4 Sonic · 375 cr
+- **Sonic rifle** — Weapon · MartialBlaster · 1d8 Sonic · 875 cr
+- **Space suit** — LifeSupport · 1500 cr
+- **Spicebrew** — AlcoholicBeverage · 90 cr
+- **Spicer's kit** — Kit · 700 cr
+- **Splitsaber** — Weapon · MartialLightweapon · 2d4 Energy · 1500 cr
+- **Splitshoto** — Weapon · MartialLightweapon · 1d8 Energy · 1150 cr
+- **Stabilizer suit** — LifeSupport · 1800 cr
+- **Stealth carbine** — Weapon · MartialBlaster · 1d6 Energy · 500 cr
+- **Stealth field generator** — WeaponOrArmorAccessory · 8000 cr
+- **Stun gauntlet** — Weapon · SimpleVibroweapon · 1d4 Kinetic · 400 cr
+- **Stylus pen** — DataRecordingAndStorage · 10 cr
+- **Subrepeater** — Weapon · MartialBlaster · 1d6 Energy · 625 cr
+- **Sunsaber** — Weapon · ExoticLightweapon · 1d6 Fire · 1875 cr
+- **Sunshades** — Clothing · 20 cr
+- **Surveyor's implements** — Tool · 500 cr
+- **Switch cannon** — Weapon · MartialBlaster · 1d10 Energy · 3350 cr
+- **Switch carbine** — Weapon · SimpleBlaster · 1d6 Energy · 925 cr
+- **Switch pistol** — Weapon · SimpleBlaster · 1d6 Energy · 675 cr
+- **Switch rifle** — Weapon · MartialBlaster · 1d8 Energy · 1025 cr
+- **Switch sniper** — Weapon · MartialBlaster · 1d12 Energy · 1800 cr
+- **Synthweaver's implements** — Tool · 250 cr
+- **Tankard** — Storage · 3 cr
+- **Techaxe** — Weapon · SimpleVibroweapon · 1d6 Kinetic · 75 cr
+- **Techblade** — Weapon · MartialVibroweapon · 1d6 Kinetic · 100 cr
+- **Techstaff** — Weapon · MartialVibroweapon · 2d4 Kinetic · 650 cr
+- **Tent, two-person** — Utility · 20 cr
+- **Thermal detonator** — Explosive · 2000 cr
+- **Throat prosthesis** — Medical · 325 cr
+- **Tihaar** — AlcoholicBeverage · 85 cr
+- **Tinker's implements** — Tool · 500 cr
+- **Torpedo launcher** — Weapon · MartialBlaster · 15000 cr
+- **Torpedo, fragmentation** — Ammunition · 700 cr
+- **Torpedo, plasma** — Ammunition · 725 cr
+- **Torso prosthesis** — Medical · 600 cr
+- **Tracker utility vest** — WeaponOrArmorAccessory · 150 cr
+- **Tranquilizer rifle** — Weapon · SimpleBlaster · 1d4 Kinetic · 275 cr
+- **Trapper's kit** — Kit · 300 cr
+- **Traumakit** — Medical · 50 cr
+- **Traz** — MusicalInstrument · 300 cr
+- **Tripod** — WeaponOrArmorAccessory · 450 cr
+- **Tsiraki** — AlcoholicBeverage · 60 cr
+- **Underwater respirator** — LifeSupport · 300 cr
+- **Valahorn** — MusicalInstrument · 340 cr
+- **Vapor projector** — Weapon · MartialBlaster · 2300 cr
+- **Vayerbok** — AlcoholicBeverage · 75 cr
+- **Vial** — Storage · 10 cr
+- **Vibroaxe** — Weapon · MartialVibroweapon · 1d12 Kinetic · 950 cr
+- **Vibrobaton** — Weapon · MartialVibroweapon · 2d4 Kinetic · 250 cr
+- **Vibrobattleaxe** — Weapon · MartialVibroweapon · 1d12 Kinetic · 1200 cr
+- **Vibroblade** — Weapon · MartialVibroweapon · 1d8 Kinetic · 200 cr
+- **Vibrobuster** — Weapon · MartialVibroweapon · 1d12 Kinetic · 1850 cr
+- **Vibroclaw** — Weapon · SimpleVibroweapon · 1d4 Kinetic · 50 cr
+- **Vibroclaymore** — Weapon · MartialVibroweapon · 3d4 Kinetic · 1700 cr
+- **Vibrocutlass** — Weapon · SimpleVibroweapon · 2d4 Kinetic · 600 cr
+- **Vibrocutter** — Weapon · SimpleVibroweapon · 1d6 Kinetic · 50 cr
+- **Vibrodagger** — Weapon · SimpleVibroweapon · 1d4 Kinetic · 50 cr
+- **Vibrodart** — Weapon · SimpleVibroweapon · 1d4 Kinetic · 5 cr
+- **Vibroflail** — Weapon · MartialVibroweapon · 2d4 Kinetic · 500 cr
+- **Vibroglaive** — Weapon · MartialVibroweapon · 1d10 Kinetic · 1200 cr
+- **Vibrohammer** — Weapon · MartialVibroweapon · 2d4 Kinetic · 600 cr
+- **Vibrokatana** — Weapon · MartialVibroweapon · 1d8 Kinetic · 450 cr
+- **Vibroknife** — Weapon · MartialVibroweapon · 1d4 Kinetic · 225 cr
+- **Vibroknuckler** — Weapon · SimpleVibroweapon · 1d6 Kinetic · 75 cr
+- **Vibrolance** — Weapon · MartialVibroweapon · 1d12 Kinetic · 1500 cr
+- **Vibromace** — Weapon · SimpleVibroweapon · 1d10 Kinetic · 700 cr
+- **Vibronodachi** — Weapon · MartialVibroweapon · 3d4 Kinetic · 2200 cr
+- **Vibropike** — Weapon · MartialVibroweapon · 1d10 Kinetic · 950 cr
+- **Vibrorapier** — Weapon · MartialVibroweapon · 1d8 Kinetic · 150 cr
+- **Vibrosabre** — Weapon · SimpleVibroweapon · 1d6 Kinetic · 300 cr
+- **Vibroshield** — Weapon · MartialVibroweapon · 1d8 Kinetic · 325 cr
+- **Vibrospear** — Weapon · SimpleVibroweapon · 1d6 Kinetic · 125 cr
+- **Vibrostaff** — Weapon · SimpleVibroweapon · 1d6 Kinetic · 100 cr
+- **Vibrostiletto** — Weapon · MartialVibroweapon · 1d4 Kinetic · 250 cr
+- **Vibrosword** — Weapon · MartialVibroweapon · 2d6 Kinetic · 1150 cr
+- **Vibrotonfa** — Weapon · MartialVibroweapon · 1d4 Kinetic · 225 cr
+- **Vibrowhip** — Weapon · MartialVibroweapon · 1d4 Kinetic · 275 cr
+- **Vocoder mask** — Communications · 450 cr
+- **War hat** — Weapon · MartialVibroweapon · 1d6 Kinetic · 350 cr
+- **Warsaber** — Weapon · MartialLightweapon · 2d6 Energy · 2175 cr
+- **Warsword** — Weapon · MartialVibroweapon · 2d6 Kinetic · 1650 cr
+- **Water suit** — LifeSupport · 1500 cr
+- **Weave armor** — Armor · Medium · CA 14 + Dex modifier (max 2) · 1000 cr
+- **Wrist launcher** — Weapon · SimpleBlaster · 400 cr
+- **Wristblade** — Weapon · MartialVibroweapon · 1d6 Kinetic · 275 cr
+- **Wristblaster** — Weapon · SimpleBlaster · 1d4 Energy · 200 cr
+- **Wristpad** — DataRecordingAndStorage · 600 cr
+- **Wristrifle** — Weapon · MartialBlaster · 1d8 Energy · 250 cr
+- **Wristsaber** — Weapon · SimpleLightweapon · 1d4 Energy · 375 cr
+- **Writer's implements** — Tool · 200 cr
+- **Xantha** — MusicalInstrument · 170 cr
+- **Yaladai** — Spice · 70 cr
+- **Yarrock** — Spice · 85 cr

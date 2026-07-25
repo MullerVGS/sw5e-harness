@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Inflating Conductor (Flawless)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Inflating Conductor (Flawless)",
+  "searchableRarity": "Legendary",
+  "subtype": "focus generator",
+  "text": "This item gains the inflating 25 property. If it already has the inflating property, its inflating number increases by 25, to a maximum of 30.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

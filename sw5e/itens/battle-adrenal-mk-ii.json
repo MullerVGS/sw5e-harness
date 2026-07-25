@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Adrenals",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Battle Adrenal Mk II",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Battle Adrenal Mk II",
+  "searchableRarity": "Artifact",
+  "subtype": "adrenal",
+  "text": "As an action, you can administer this adrenal to a creature within 5 feet. When you administer this adrenal, when the target takes the Attack action, it can make two additional attacks (no action required). This effect lasts for 1 minute. A creature can benefit from only one adrenal at a time.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

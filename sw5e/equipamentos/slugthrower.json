@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 525,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Slugthrower",
+  "properties": [
+    "Reload 12",
+    "slug cartridge (range 105/420)",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Range": "slug cartridge (range 105/420)",
+    "Reload": "Reload 12",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Slugthrower",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "7.5"
+}

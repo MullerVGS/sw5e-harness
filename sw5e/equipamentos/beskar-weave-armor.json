@@ -1,0 +1,29 @@
+{
+  "ac": "14 + Dex modifier (max 2)",
+  "armorClassification": "Medium",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 3000,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Beskar weave armor",
+  "properties": [
+    "Regulated",
+    "strength 11"
+  ],
+  "propertiesMap": {
+    "Regulated": "Regulated",
+    "Strength": "strength 11"
+  },
+  "rowKey": "Beskar weave armor",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "25"
+}

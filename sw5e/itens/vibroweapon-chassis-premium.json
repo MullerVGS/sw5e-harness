@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "AnyVibroweapon",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Vibroweapon Chassis (Premium)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": true,
+  "rowKey": "Vibroweapon Chassis (Premium)",
+  "searchableRarity": "Premium",
+  "subtype": "any vibroweapon",
+  "text": "_**Requires attunement**_\r\nThis modifiable vibroweapon chassis comes with vacant modification slots for vibroweapon modifications. It can house modifications of premium rarity or lower.",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

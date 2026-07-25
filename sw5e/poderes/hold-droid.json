@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You emit a paralyzing dart at a droid or construct that you can see within range. The target must succeed on a Constitution saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Constitution saving throw. On a success, the power ends on the target.\r\n\r\n***Overcharge Tech.*** When you cast this power using a tech slot of 3rd level or higher, you can target one additional droid or construct for each slot level above 2nd. The targets must be within 30 feet of each other when you target them.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Hold Droid",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "60 feet",
+  "rowKey": "Hold Droid"
+}

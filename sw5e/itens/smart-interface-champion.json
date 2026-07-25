@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Smart Interface (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Smart Interface (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "blaster",
+  "text": "This weapon gains the smart (20, +6) property. If it already has the smart property, its smart numbers increase to 20 and +6, respectively.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

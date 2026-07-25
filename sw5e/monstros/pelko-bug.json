@@ -1,0 +1,83 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 18,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +9 to hit, reach 0 ft., one creature. Hit: 1 (2d4-1) kinetic damage, and the target must succeed on a DC 12 Constitution saving throw or take 2 poison damage and become paralyzed.",
+      "descriptionWithLinks": " Melee Weapon Attack: +9 to hit, reach 0 ft., one creature. Hit: 1 (2d4-1) kinetic damage, and the target must succeed on a DC 12 Constitution saving throw or take 2 poison damage and become paralyzed.",
+      "monsterBehaviorType": "Action",
+      "name": "Barbs",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "0",
+  "charisma": 2,
+  "charismaModifier": -4,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 8,
+  "constitutionModifier": -1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [
+    "Fire",
+    "Cold",
+    "Lightning",
+    "Energy"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    4,
+    2,
+    8,
+    3
+  ],
+  "dexterity": 14,
+  "dexterityModifier": 2,
+  "experiencePoints": 10,
+  "flavorText": "",
+  "hitPointRoll": "1d4-1",
+  "hitPoints": 1,
+  "imageUrls": [],
+  "intelligence": 1,
+  "intelligenceModifier": -5,
+  "languages": [
+    "—"
+  ],
+  "name": "Pelko Bug",
+  "rowKey": "Pelko Bug",
+  "savingThrows": null,
+  "sectionText": "Pelko bugs are small creatures that are covered in millions of microscopic barbs that deliver a paralytic, blistering toxin which can penetrate armor. They live only beneath sands of the Valley of the Dark Lords on Korriban, and are attracted to Force-sensitives. They stalk and swarm their prey in the darkness. The bug's attunement to the Force allows them to determine if a creature is suitable prey. The barbs are used in training sabers at the Sith Academy because of the toxin's effects, which mimick the effects of losing a limb to a lightsaber.",
+  "senses": [
+    "darkvision 30 ft.",
+    "passive Perception 10"
+  ],
+  "size": "Tiny",
+  "skills": [
+    "Stealth +4"
+  ],
+  "speed": 20,
+  "speeds": "20 ft., climb 20 ft., burrow 20 ft., fly 30 ft.",
+  "strength": 2,
+  "strengthModifier": -4,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

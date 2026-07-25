@@ -1,0 +1,159 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 17,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " As a bonus action, the destroyer droid can transform into or out of ball form. While in ball form, the destroyer droid has increased speed, but it can not attack.",
+      "descriptionWithLinks": " As a bonus action, the destroyer droid can transform into or out of ball form. While in ball form, the destroyer droid has increased speed, but it can not attack.",
+      "monsterBehaviorType": "Trait",
+      "name": "Ball Form",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The destroyer droid makes two weapon attacks.",
+      "descriptionWithLinks": " The destroyer droid makes two weapon attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 7,
+      "attackType": "MeleeWeapon",
+      "damage": "11",
+      "damageRoll": "2d6+4",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) kinetic damage and the target is grappled.",
+      "descriptionWithLinks": " Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) kinetic damage and the target is grappled.",
+      "monsterBehaviorType": "Action",
+      "name": "Claws",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The destroyer droid tears apart a grappled opponent. A grappled creature must make a DC 15 Strength saving throw.  On a failure, the creature takes 18 (4d6+4) kinetic damage and is stunned until the end of the destroyer droids' next turn.  On a success, the creature takes normal weapon damage.",
+      "descriptionWithLinks": " The destroyer droid tears apart a grappled opponent. A grappled creature must make a DC 15 Strength saving throw.  On a failure, the creature takes 18 (4d6+4) kinetic damage and is stunned until the end of the destroyer droids' next turn.  On a success, the creature takes normal weapon damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Rend",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The destroyer droid adds 2 to its AC against one attack that would hit it. To do so, the destroyer droid must see the attacker.",
+      "descriptionWithLinks": " The destroyer droid adds 2 to its AC against one attack that would hit it. To do so, the destroyer droid must see the attacker.",
+      "monsterBehaviorType": "Reaction",
+      "name": "Deflector Shield",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "7",
+  "charisma": 7,
+  "charismaModifier": -2,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 20,
+  "constitutionModifier": 4,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 14,
+  "dexterityModifier": 2,
+  "experiencePoints": 2900,
+  "flavorText": "Melee destroyer droids are an early variation of the Trade Federation droideka. Developed as the ultimate melee unit, the Melee Destroyer Droid is tougher than the standard droidekas but utilizes weaker shields. The primary weapon of the grapple droideka is its lethal mechanical claws. ",
+  "hitPointRoll": "15d10+75",
+  "hitPoints": 157,
+  "imageUrls": [],
+  "intelligence": 13,
+  "intelligenceModifier": 1,
+  "languages": [
+    "Binary",
+    "Galactic Basic"
+  ],
+  "name": "Melee Destroyer Droid",
+  "rowKey": "Melee Destroyer Droid",
+  "savingThrows": null,
+  "sectionText": "Battle droids, also known as combat droids or battle bots, are a type of droid designed for combat. One thing most battle droids have in common is limited intelligence. They are programmed to follow orders, and not much else, though they do have personalities. Some battle droids, however, have some form of intelligence. These droids are much more expensive to make, due to their advanced brains.***Clone Wars.*** Over the years, many different models of battle droid have been utilized by various factions throughout the galaxy. The Confederacy of Independent Systems, for example, used a number of different models of battle droid during the Clone Wars to make up the Separatist Droid Army. Under the command of General Grievous, varying models of battle droid fought against the Galactic Republic's clone troopers until the final days of the war, when the Confederate battle droids were deactivated by the Galactic Empire.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 15"
+  ],
+  "size": "Large",
+  "skills": [
+    "Perception +5"
+  ],
+  "speed": 15,
+  "speeds": "15 ft. (attack form) or 60 ft. (ball form)",
+  "strength": 18,
+  "strengthModifier": 4,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 15,
+  "wisdomModifier": 2
+}

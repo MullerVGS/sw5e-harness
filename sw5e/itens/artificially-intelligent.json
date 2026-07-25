@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Artificially Intelligent",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Artificially Intelligent",
+  "searchableRarity": "Prototype",
+  "subtype": "armor",
+  "text": "You install an artificial intelligence into this armor. While wearing this armor, when you make an ability check, this armor's artificial intelligence can take the Help action.\r\n\r\nYou can use this feature twice. You regain all expended uses when you complete a short or long rest.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

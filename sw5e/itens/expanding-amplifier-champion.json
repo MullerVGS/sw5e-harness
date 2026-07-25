@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Expanding Amplifier (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Expanding Amplifier (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "wristpad",
+  "text": "This item gains the expanding 30 property. If it already has the expanding property, its expanding number increases to 30.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

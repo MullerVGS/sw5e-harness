@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Burning Cell",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Burning Cell",
+  "searchableRarity": "Standard",
+  "subtype": "lightweapon",
+  "text": "When you score a critical hit with this weapon, you have advantage on the next attack roll you make against that creature before the end of your next turn.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

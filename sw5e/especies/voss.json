@@ -1,0 +1,87 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Constitution"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Mechanical apperance, unique patterns and markings along face, neck, and body",
+  "eyeColorOptions": "Orange (male) or blue (female)",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nVoss are humanoid sentients with a high rate of Force-sensitivity who display prominent sexual dimorphism. The male Voss have blue skin and bright orange eyes, while the females have red skin and azure eyes. The Voss do not have hair or distinct pupils, and posess unique patterns of markings on their face, neck, and body, a trace of their shared ancestry with Gormak. Their voices have a slight mechanical tinge to them, making them sound somewhat like a droid or machine. Voss undogo a physical, developmental change during their marriage ceremonies (known as the Rite of Ardor) and do not develop sexually prior to the performance of these rituals.\r\n\r\n### Society and Culture\r\nThe Voss species resides in the isolated mountain-top city of Voss-Ka and is vastly outnumbered on their homeworld by its other native sentient species, the Gormak, who are extremely hostile toward them and from whom they arose. Most Voss live peacefully in Voss-Ka, caring for their families, cultivating the wild plants and maintaining equipment for the Voss commandos in the war against the Gormak, although some Voss do live outside the capital city, such as the Voss Mystics who reside in the Shrine of Healing. The Voss are great lovers of art, and their architecture features a distinctive artistic style. The entire Voss society is guided by the Force visions of Voss Mystics, which are considered infallible without exception.\r\n\r\n### Names\r\nAll Voss have two short names, connected by a hyphen, with the family name being the second one.\r\n\r\n**Male Names.** Char, Edan, Fadith, Nodin, Orin\r\n\r\n**Female Names.** Amin, Magra, Tala, Weylin, Yana\r\n\r\n**Surnames.** -Ko, -La, -Po, -Rae, -Va",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'9\"",
+  "heightRollMod": "+2d8\"",
+  "homeworld": "Voss",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_voss.png"
+  ],
+  "language": "Voss",
+  "manufacturer": null,
+  "name": "Voss",
+  "rowKey": "Voss",
+  "size": "Medium",
+  "skinColorOptions": "Blue (male) or red (female)",
+  "traits": [
+    {
+      "description": "Your Wisdom score increases by 2, and your Constitution score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Voss reach adulthood in their late teens and live less than a century. They do not reach sexual maturity until they undergo the Rite of Ardor.",
+      "name": "Age"
+    },
+    {
+      "description": "As Voss culture encourages duty and emotional composure, individuals tend toward a lawful alignment, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Voss typically stand 5 to 6 feet tall and generally weigh about 150 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of grey.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "You see brief visions of the future, that allow you to turn failures into successes. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.",
+      "name": "Precognition"
+    },
+    {
+      "description": "You have proficiency in Medicine.",
+      "name": "Mystic Healing"
+    },
+    {
+      "description": "You have proficiency with the blaster rifle and techblade.",
+      "name": "Voss Weapon Training"
+    },
+    {
+      "description": "Your calm demeanor and control make you hard to read. Wisdom (Insight) checks made against you have disadvantage, and you have advantage on any saving throw against an effect that would read your thoughts.",
+      "name": "Inscrutable"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Voss. The Voss language is characterized by it's mystic-sounding word pairings.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "105 lb",
+  "weightRollMod": "x(2d4) lb."
+}

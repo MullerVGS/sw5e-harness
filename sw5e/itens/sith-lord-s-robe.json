@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Body",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Sith Lord's Robe",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": true,
+  "rowKey": "Sith Lord's Robe",
+  "searchableRarity": "Advanced",
+  "subtype": "body",
+  "text": "_**Requires attunement**_\r\nYou gain a +3 bonus to damage rolls with weapons and force powers while you wear this robe.\r\n\r\n_Designed for those who relish personal combat, and know that power comes to those who take it, these robes masterfully augment offensive capabilities with no hindrance to movement._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

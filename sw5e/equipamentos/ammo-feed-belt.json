@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 450,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "This belt has slots to hold 60 slug cartridges, and can be connected to directly fuel a single blaster weapon that uses slug cartridges. Once per turn, if the powered weapon would be reloaded, it can be done without using an action using any ammunition in the belt. Connecting or disconnecting a weapon takes an action. Replacing 10 slug cartridges takes an action.",
+  "equipmentCategory": "WeaponOrArmorAccessory",
+  "modes": [],
+  "name": "Ammo-feed belt",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Ammo-feed belt",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "1"
+}

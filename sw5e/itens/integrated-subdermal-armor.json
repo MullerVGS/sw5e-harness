@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Enhancement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Integrated Subdermal Armor",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Integrated Subdermal Armor",
+  "searchableRarity": "Premium",
+  "subtype": "enhancement",
+  "text": "When you aren't wearing armor, your AC becomes 13 + your Dexterity modifier. \r\n\r\n**Side Effect:** Each time you take damage while you aren't wearing armor, your speed decreases by 5 feet until the start of your next turn.\r\n\r\n_This implant reinforces your skin with an ablative woven alloy, making you difficult to damage._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

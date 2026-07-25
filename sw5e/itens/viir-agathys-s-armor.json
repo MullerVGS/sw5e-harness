@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "Any",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Viir Agathys's Armor",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Viir Agathys's Armor",
+  "searchableRarity": "Premium",
+  "subtype": "any",
+  "text": "This armor has 3 charges. As an action, you can spend 1 or more charges to cast the *voltaic shielding* tech power, 1 charge per level. All expended charges are regained after you complete a long rest.\r\n\r\n_This proprietary armor made by the renowned engineer Viir Agathys includes integrated access to his signature tech power._",
+  "type": "Armor",
+  "valuableType": "None",
+  "valueText": null
+}

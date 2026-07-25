@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Reactive Armoring",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Reactive Armoring",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "This armor gains the reactive 1 property. If it already has the reactive property, its reactive number increases by 1, to a maximum of 3.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Optimized Actuators Mk I",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Optimized Actuators Mk I",
+  "searchableRarity": "Standard",
+  "subtype": "armor",
+  "text": "Your movement speed increases by 5 feet.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

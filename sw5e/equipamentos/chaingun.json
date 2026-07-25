@@ -1,0 +1,39 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1325,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Chaingun",
+  "properties": [
+    "Auto",
+    "rapid 2",
+    "reload 8",
+    "slug cartridge (range 80/320)",
+    "strength 13",
+    "two-handed",
+    "vicious 1"
+  ],
+  "propertiesMap": {
+    "Auto": "Auto",
+    "Range": "slug cartridge (range 80/320)",
+    "Rapid": "rapid 2",
+    "Reload": "reload 8",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed",
+    "Vicious": "vicious 1"
+  },
+  "rowKey": "Chaingun",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "10.5"
+}

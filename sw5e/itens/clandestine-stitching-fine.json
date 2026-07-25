@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Clandestine Stitching (Fine)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Clandestine Stitching (Fine)",
+  "searchableRarity": "Premium",
+  "subtype": "clothing",
+  "text": "This article of clothing come with two hidden pockets, each of which can store up to 1 lb. Finding these hidden pockets requires a DC 18 Investigation check. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

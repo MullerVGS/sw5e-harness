@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Avoidant Reinforcement",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Avoidant Reinforcement",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "This armor or shield gains the avoidant 1 property. If it already has the avoidant property, its avoidant number increases by 1, to a maximum of 3. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

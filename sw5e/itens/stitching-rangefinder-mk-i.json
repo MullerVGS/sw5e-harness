@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Stitching Rangefinder Mk I",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Stitching Rangefinder Mk I",
+  "searchableRarity": "Standard",
+  "subtype": "clothing",
+  "text": "While using this item as your focus, you gain a +1 bonus to ranged tech attacks and a -1 penalty to melee tech attacks.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

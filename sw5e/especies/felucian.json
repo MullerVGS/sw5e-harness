@@ -1,0 +1,83 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Constitution"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Extra limb at elbow, innate Force-sensitivity",
+  "eyeColorOptions": "Red",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nFelucians are a tall, bipedal species. Both their arms and legs end in four, large webbed digits with suction-cup fingertips. Springing from the underside of each forearm is a second short arm, ending in three large and agile fingers. A Felucian's head is a thick mass of long flexible tendrils featuring illuminated tips. The eyes and mouth appear as black holes or openings within this mass.\r\n\r\n### Society and Culture\r\nFelucians are mysterious sentient beings native to the vast fungal swamps and jungles of Felucia. Though Felucia has long been colonized, the native Felucians avoided notice by living deep in the jungle. Such seclusion was easily maintained. Even the hardiest of colonists were loath to brave the perils of the dangerous wilderness without cause.\r\n\r\nThe Felucians are an unusual, amphibious species. They are highly adapted to surviving the wilds of their home planet, and fade easily into its confusing mass of plant life. They are equally at home on land or in the water, and they traverse the swamps with ease.\r\n\r\nAll Felucians are part of a single, planetwide tribe that is broken down into smaller villages and communities, each one led by shamans and chieftains. These shamans are very strong in the Force, using it to their own ends with incredible skill.\r\n\r\n### Names\r\nFelucian names are usually two syllables and full of hard consonants. Surnames are a combination of tribe lineage.\r\n\r\n**Male Names.** Gokkuul, Kargrek, Hagark, Ruggorn\r\n\r\n**Female Names.** Lakko, Taarell, Duuna, Frula \r\n\r\n**Surnames.** s'Gokuul, d'Lakko, s'Kargrek, d'Frula",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'8\"",
+  "heightRollMod": "+2d6\"",
+  "homeworld": "Felucia",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_felucian.png"
+  ],
+  "language": "Felucianese",
+  "manufacturer": null,
+  "name": "Felucian",
+  "rowKey": "Felucian",
+  "size": "Medium",
+  "skinColorOptions": "Gray, with blue, red, or yellow markings",
+  "traits": [
+    {
+      "description": "Your Constitution score increases by 2, and your Wisdom score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Felucians reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Felucians' connection to the Living Force causes them to tend toward the light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Felucians typically stand over 6 feet tall and generally weigh about 200 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You know the *burst* at-will force power. When you reach 3rd level, you learn and can cast the *beast trick* force power once per day. When you reach 5th level, you learn and can cast the *plant surge* force power once per day. Wisdom is your forcecasting ability for these powers.",
+      "name": "Force-Sensitive"
+    },
+    {
+      "description": "You can breathe air and water.",
+      "name": "Amphibious"
+    },
+    {
+      "description": "You are proficient in the Stealth skill.",
+      "name": "Stealthy"
+    },
+    {
+      "description": "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
+      "name": "Mask of the Wild"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic, Felucianese, and one more language of your choice. Felucianese is characterized by guttural, whisper-like vowels, interspersed with hard clicks.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "165 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

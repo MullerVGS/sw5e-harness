@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 700,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Affixed Rifle",
+  "properties": [
+    "Power cell (range 90/360)",
+    "fixed",
+    "rapid 4",
+    "reload 8",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Fixed": "fixed",
+    "Power Cell": "Power cell (range 90/360)",
+    "Rapid": "rapid 4",
+    "Reload": "reload 8",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Affixed Rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "8"
+}

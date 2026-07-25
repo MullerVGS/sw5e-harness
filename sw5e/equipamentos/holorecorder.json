@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 100,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A holorecorder is a device used to record and project holograms. Some droid models are equipped with internal holorecorders.",
+  "equipmentCategory": "DataRecordingAndStorage",
+  "modes": [],
+  "name": "Holorecorder",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Holorecorder",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "1"
+}

@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1300,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightclub",
+  "properties": [
+    "Dexterity 11",
+    "heavy",
+    "luminous",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Heavy": "heavy",
+    "Luminous": "luminous",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Lightclub",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleLightweapon",
+  "weight": "3.75"
+}

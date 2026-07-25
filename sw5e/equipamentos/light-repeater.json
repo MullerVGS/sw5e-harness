@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 625,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Light repeater",
+  "properties": [
+    "Auto",
+    "power cell (range 50/200)",
+    "rapid 5",
+    "reload 20",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Auto": "Auto",
+    "Power Cell": "power cell (range 50/200)",
+    "Rapid": "rapid 5",
+    "Reload": "reload 20",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Light repeater",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "6"
+}

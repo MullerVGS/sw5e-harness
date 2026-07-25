@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Surging Processor Mk V",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Surging Processor Mk V",
+  "searchableRarity": "Legendary",
+  "subtype": "wristpad",
+  "text": "This item gains the surging 5 property. If it already has the surging property, its surging number increases by 5, to a maximum of 6.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

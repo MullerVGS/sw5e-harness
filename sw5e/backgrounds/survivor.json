@@ -1,0 +1,230 @@
+{
+  "bondOptions": [
+    {
+      "description": "I keep my thoughts and discoveries in a journal. My journal is my legacy.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I would sacrifice my life to protect the innocent.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "My torment drove away the person I love. I strive to win back the love I've lost.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "A terrible guilt consumes me. I hope that I can find redemption through my actions.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "There's evil in me, I can feel it. It must never be set free.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I have a child to protect. I must make the world a safer place for him (or her).",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of common clothes, one tool with which you are proficient, a tattered journal, and a belt pouch containing 100 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Investigator",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Survivalist",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Techie",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Total Reconstruction",
+      "roll": 8
+    }
+  ],
+  "featureName": "Heart of Darkness",
+  "featureRowKeys": null,
+  "featureText": "Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they may even take up arms to fight alongside you, should you find yourself facing an enemy alone.\r\n",
+  "features": null,
+  "flavorDescription": "What dire event molded you into who you are today?\r\n\r\n| d6  | Source of Dismay |\r\n|:---:|:-----------:|\r\n|  1  | A creature that slaughtered dozens of innocent people spared your life, and you don't know why. |\r\n|  2  | An apparition that has haunted your family for generations now haunts you, unrelentingly. |\r\n|  3  | Your family has a history of practicing dark sorcery or alchemy. You dabbled once and felt something horrible clutch at your mind, whereupon you fled in terror. |\r\n|  4  | A stranger took your sibling one cold, dark night, and you were unable to stop it. |\r\n|  5  | You were drastically changed physically by an accident and are haunted by what you once were.|\r\n|  6  | A cultist kidnapped and raised you. You escaped, but they still have a mental hold over you.|\r\n",
+  "flavorName": "Source of Dismay",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "Investigator",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Survivalist",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Techie",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 6
+    }
+  ],
+  "flavorText": "\r\nYou are haunted by something so terrible that you dare not speak of it. You've tried to bury it and run away from it, to no avail. Whatever this thing is that haunts you can't be slain, a ghost in the dark, a bloodcurdling nightmare, or a memory that refuses to die. The burden has taken its toll, isolating you from most people and making you question your sanity. You must find a way to overcome it before it destroys you.",
+  "flawOptions": [
+    {
+      "description": "I have certain rituals that I must follow every day. I can never break them.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I assume the worst in people.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I feel no compassion for the dead. They're the lucky ones.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have an addiction.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I am a purveyor of doom and gloom who lives in a world without hope.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I talk to spirits that no one else can see.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I try to help those in need, no matter what the personal cost. (Light)",
+      "name": "Honor",
+      "roll": 1
+    },
+    {
+      "description": "I'll stop the spirits that haunt me or die trying. (Any)",
+      "name": "Vengeance",
+      "roll": 2
+    },
+    {
+      "description": "I kill monsters to make the world a safer place, and to exorcise my own demons. (Light)",
+      "name": "Fury",
+      "roll": 3
+    },
+    {
+      "description": "I have a dark calling that puts me above the law. (Chaotic)",
+      "name": "Entitlement",
+      "roll": 4
+    },
+    {
+      "description": "I like to know my enemy's capabilities and weaknesses before rushing into battle. (Lawful)",
+      "name": "Focus",
+      "roll": 5
+    },
+    {
+      "description": "I'm a monster that destroys other monsters, and anything else that gets in my way. (Dark)",
+      "name": "Selfish",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Survivor",
+  "personalityTraitOptions": [
+    {
+      "description": "I don't run from evil. Evil runs from me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I like to read and memorize poetry. It keeps me calm and brings me fleeting moments of happiness.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I spend money freely and live life to the fullest, knowing that tomorrow I might die.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I live for the thrill of the hunt.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I don't talk about the thing that torments me. I'd rather not burden others with my curse.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I expect danger around every corner.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I refuse to become a victim, and I will not allow others to be victimized.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I put no trust in authority.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Survivor",
+  "skillProficiencies": "Choose two from Investigation, Lore, Survival, and Technology",
+  "suggestedCharacteristics": "Survivors live through some traumatic event that shapes and defines them.",
+  "toolProficiencies": "Your choice of artist's implements, biotech's implements, or brewer's kit"
+}

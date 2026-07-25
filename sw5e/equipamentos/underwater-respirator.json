@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 300,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Underwater respirators are worn over the mouth and lower face. While worn, you can breath underwater, as the respirator filters the water to create breathable oxygen. The respirator functions for 1 hour per power cell (to a maximum of 2 hours) and can be recharged by a power source or replacing the power cells.",
+  "equipmentCategory": "LifeSupport",
+  "modes": [],
+  "name": "Underwater respirator",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Underwater respirator",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "0.5"
+}

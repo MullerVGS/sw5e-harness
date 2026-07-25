@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1500,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Splitsaber",
+  "properties": [
+    "Double (2d4 energy)",
+    "interlocking",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Double": "Double (2d4 energy)",
+    "Interlocking": "interlocking",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Splitsaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "3"
+}

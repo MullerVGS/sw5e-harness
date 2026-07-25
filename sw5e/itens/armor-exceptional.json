@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "Any",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Armor (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Armor (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "any",
+  "text": "You have a +3 bonus to AC while wearing this armor. Additionally, while wearing this armor, damage you take is reduced by 1. If this would reduce the damage to 0, the damage is instead reduced to 1.",
+  "type": "Armor",
+  "valuableType": "None",
+  "valueText": null
+}

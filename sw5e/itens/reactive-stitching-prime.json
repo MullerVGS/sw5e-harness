@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Reactive Stitching (Prime)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Reactive Stitching (Prime)",
+  "searchableRarity": "Artifact",
+  "subtype": "clothing",
+  "text": "This clothing gains the reactive 3 armor property. If it already has the reactive armor property, its reactive number increases to 3.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

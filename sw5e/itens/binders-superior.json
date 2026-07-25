@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Binders (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Binders (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "",
+  "text": "Binders can be used to restrain a Small or Medium creature with appropriate appendages. Applying binders takes an action, and the target must make a DC 20 Strength or Dexterity saving throw (the target chooses the ability to use). A hostile creature makes this save with advantage. A set of binders comes with one key. Breaking the binders requires a DC 26 Strength check. Escaping them requires a DC 26 Dexterity check. Without the key, unlocking the binders requires a DC 24 security kit to force open. Binders have an AC of 13 and 60 hit points. Destroying the binders frees the creature without harming it.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

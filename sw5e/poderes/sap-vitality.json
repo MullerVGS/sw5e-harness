@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Make a melee force attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Dark",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Sap Vitality",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Touch",
+  "rowKey": "Sap Vitality"
+}

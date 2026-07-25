@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Boots of Hiding",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Boots of Hiding",
+  "searchableRarity": "Premium",
+  "subtype": "feet",
+  "text": "While wearing these boots, creatures have disadvantage on Wisdom (Survival) checks made to track your steps.\r\n\r\nAdditionally, you can use a bonus action to cause the boots to leave behind no footprints for 1 minute. When you do, another set of similar footprints appear on the ground that lead in random directions. These footprints last for 8 hours and travel up to 300 feet. A successful DC 14 Intelligence (Investigation) check reveals that the footprints are false. Once you've used this feature, you must complete a short or long rest before you can use it again.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

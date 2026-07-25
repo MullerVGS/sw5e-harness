@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Versatile Shielding",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Versatile Shielding",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "_**Prerequiste:** Shield_\r\nThis shield gains the versatile 1 property. If it already has the versatile property, its versatile number increases by 1, to a maximum of 3.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 800,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Chained lightdagger",
+  "properties": [
+    "Disarming",
+    "finesse",
+    "luminous",
+    "reach"
+  ],
+  "propertiesMap": {
+    "Disarming": "Disarming",
+    "Finesse": "finesse",
+    "Luminous": "luminous",
+    "Reach": "reach"
+  },
+  "rowKey": "Chained lightdagger",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "3.5"
+}

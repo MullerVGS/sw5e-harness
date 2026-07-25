@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1300,
+  "damageDiceDieTypeEnum": 12,
+  "damageDieModifier": 0,
+  "damageDieType": 12,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Sniper rifle",
+  "properties": [
+    "Power cell (range 150/600)",
+    "reload 2",
+    "strength 13",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 150/600)",
+    "Reload": "reload 2",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Sniper rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "13.5"
+}

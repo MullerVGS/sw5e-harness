@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 550,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": "Rather than traditional power cells, the shortbow fires specialized projectiles in the form of arrows. You can make a ranged weapon attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one arrow. \r\n\r\nDrawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Shortbow",
+  "properties": [
+    "Mighty",
+    "silent",
+    "special (range 60/240)",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Mighty": "Mighty",
+    "Range": "special (range 60/240)",
+    "Silent": "silent",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Shortbow",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "4"
+}

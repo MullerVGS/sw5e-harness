@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 750,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Cold",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Cryo pistol",
+  "properties": [
+    "Power cell (range 30/120)",
+    "reload 8",
+    "vicious 1"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 30/120)",
+    "Reload": "reload 8",
+    "Vicious": "vicious 1"
+  },
+  "rowKey": "Cryo pistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "2"
+}

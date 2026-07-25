@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "As part of the action used to cast this power, you must make a ranged weapon attack against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and a dim barrier surrounds it. The first time it would deal damage before the start of your next turn, that damage is reduced by 1d6. \r\n\r\nThis power's damage reduction increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).",
+  "duration": "1 round",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 0,
+  "name": "Warding Shot",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Varies",
+  "rowKey": "Warding Shot"
+}

@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 600,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrohammer",
+  "properties": [
+    "Heavy",
+    "two-handed",
+    "vicious 1"
+  ],
+  "propertiesMap": {
+    "Heavy": "Heavy",
+    "Two-Handed": "two-handed",
+    "Vicious": "vicious 1"
+  },
+  "rowKey": "Vibrohammer",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "7.5"
+}

@@ -1,0 +1,207 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 16,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The tank has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The tank has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The outer layer of the tank is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 15 points, the tank takes no damage from that attack. If the tank takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.",
+      "descriptionWithLinks": " The outer layer of the tank is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 15 points, the tank takes no damage from that attack. If the tank takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.",
+      "monsterBehaviorType": "Trait",
+      "name": "Heavy Durasteel Armor",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The tank requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.",
+      "descriptionWithLinks": " The tank requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.",
+      "monsterBehaviorType": "Trait",
+      "name": "Piloted",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The tank's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.",
+      "descriptionWithLinks": " The tank's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.",
+      "monsterBehaviorType": "Trait",
+      "name": "Vulnerable Interior",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The tank makes two laser cannon attacks",
+      "descriptionWithLinks": " The tank makes two laser cannon attacks",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 7,
+      "attackType": "RangedWeapon",
+      "damage": "15",
+      "damageRoll": "2d10 + 4",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack +7 to hit, 100/400, one target. Hit 15 (2d10 + 4) energy damage",
+      "descriptionWithLinks": " Ranged Weapon Attack +7 to hit, 100/400, one target. Hit 15 (2d10 + 4) energy damage",
+      "monsterBehaviorType": "Action",
+      "name": "Laser Cannon",
+      "numberOfTargets": "one target.",
+      "range": "100/400",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " the tank launches a barrage of cannon fire at a point within 120 feet.  Each creature within 20 feet of that point must make a DC 15 Dexterity saving throw, taking 17 (5d6) energy damage on a failed save, or half as much damage on a successful one.",
+      "descriptionWithLinks": " the tank launches a barrage of cannon fire at a point within 120 feet.  Each creature within 20 feet of that point must make a DC 15 Dexterity saving throw, taking 17 (5d6) energy damage on a failed save, or half as much damage on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Cannon Volley",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Recharge 5-6"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Each creature of the tank's choice that is within 80 feet of the tank and aware of it must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tank's Frightful Presence for the next 24 hours.",
+      "descriptionWithLinks": " Each creature of the tank's choice that is within 80 feet of the tank and aware of it must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tank's Frightful Presence for the next 24 hours.",
+      "monsterBehaviorType": "Action",
+      "name": "Frightful Presence",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "6",
+  "charisma": 7,
+  "charismaModifier": -2,
+  "conditionImmunities": [
+    "Poisoned",
+    "Frightened",
+    "Petrified",
+    "Restrained",
+    "Incapacitated",
+    "Stunned",
+    "Prone",
+    "Blinded",
+    "Charmed"
+  ],
+  "conditionImmunitiesOther": [
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [
+    10,
+    4,
+    9,
+    12,
+    6,
+    14,
+    11,
+    1,
+    2
+  ],
+  "constitution": 21,
+  "constitutionModifier": 5,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [
+    "Poison",
+    "Necrotic"
+  ],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [
+    10,
+    9
+  ],
+  "damageResistances": [
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 18,
+  "dexterityModifier": 4,
+  "experiencePoints": 2300,
+  "flavorText": "The TX-225 GAVw \"Occupier\" combat assault tank, also known as the TX-225A Occupier tank, or simply the Imperial combat assault tank, is a track-propelled ground assault vehicle used by the Galactic Empire, and operated by a commander and two pilots. The tank has great maneuverability in tight quarters, such as the streets of occupied cities. Its laser cannons can devastate enemy troops, and the powerful engines can transport heavy payloads. Costing 45,000 credits, the Occupier has a maximum speed of approximately 72 kph on road and 45 kph off road.  It is 7.30 meters long and 1.82 meters tall.",
+  "hitPointRoll": "9d8 + 45",
+  "hitPoints": 85,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "—"
+  ],
+  "name": "TX-225 Occupier Tank",
+  "rowKey": "TX-225 Occupier Tank",
+  "savingThrows": [
+    "Str +9",
+    "Con +7"
+  ],
+  "sectionText": "The armies of the galaxy use a variety of land vehicles used to transport troops and as weapons of war to bring overwhelming firepower against their enemies.",
+  "senses": [
+    "�"
+  ],
+  "size": "Huge",
+  "skills": null,
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 23,
+  "strengthModifier": 6,
+  "types": [
+    "construct"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

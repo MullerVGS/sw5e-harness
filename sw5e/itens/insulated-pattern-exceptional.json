@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Insulated Pattern (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Insulated Pattern (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "clothing",
+  "text": "This clothing gains the insulated 9 armor property. If it already has the insulated armor property, its insulated number increases by 5, to a maximum of 10. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

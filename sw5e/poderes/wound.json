@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You make a piercing gesture at a creature within range. Make a ranged force attack against the target. On a hit, the target takes 2d8 necrotic damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Dark",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Wound",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "60 feet",
+  "rowKey": "Wound"
+}

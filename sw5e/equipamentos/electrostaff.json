@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 600,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Electrostaff",
+  "properties": [
+    "Double (1d6 kinetic)",
+    "finesse",
+    "shocking 13"
+  ],
+  "propertiesMap": {
+    "Double": "Double (1d6 kinetic)",
+    "Finesse": "finesse",
+    "Shocking": "shocking 13"
+  },
+  "rowKey": "Electrostaff",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "5"
+}

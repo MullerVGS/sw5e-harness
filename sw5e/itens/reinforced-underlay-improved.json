@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Reinforced Underlay (Improved)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Reinforced Underlay (Improved)",
+  "searchableRarity": "Prototype",
+  "subtype": "armor",
+  "text": "You gain a +2 bonus to AC against ranged attacks while wearing this armor or wielding this shield.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

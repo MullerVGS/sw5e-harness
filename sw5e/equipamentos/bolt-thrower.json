@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1825,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Rather than traditional power cells, the bolt-thrower fires specialized projectiles in the form of bolts.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Bolt-thrower",
+  "properties": [
+    "Reload 1",
+    "silent",
+    "special (range 90/360)",
+    "strength 13",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Range": "special (range 90/360)",
+    "Reload": "Reload 1",
+    "Silent": "silent",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Bolt-thrower",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "13.5"
+}

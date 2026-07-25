@@ -1,0 +1,172 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 11,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid comes with proficiency in three tools, chosen when it is crafted.",
+      "descriptionWithLinks": " The droid comes with proficiency in three tools, chosen when it is crafted.",
+      "monsterBehaviorType": "Trait",
+      "name": "Crafter Protocol",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " While you are interfaced with this droid via the tracker droid interface tech power, whenever you make an ability check using tools with which the droid is also proficient, you have advantage on the check. If you already have advantage, you can instead reroll one of the dice once.",
+      "descriptionWithLinks": " While you are interfaced with this droid via the tracker droid interface tech power, whenever you make an ability check using tools with which the droid is also proficient, you have advantage on the check. If you already have advantage, you can instead reroll one of the dice once.",
+      "monsterBehaviorType": "Trait",
+      "name": "Interfaced Crafting Protocol",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid counts as one size larger when determining carrying capacity and the weight it can push, drag, or lift.",
+      "descriptionWithLinks": " The droid counts as one size larger when determining carrying capacity and the weight it can push, drag, or lift.",
+      "monsterBehaviorType": "Trait",
+      "name": "Powerful Build",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The first time the droid would drop to zero hit points, the droid can instead remain at one hit point and temporarily deactivate and fold up into a tougher, immobile form. While turtled, the droid has an AC of 14, and is considered paralyzed.  The creature interfaced with this droid can use a bonus action to restore this droid to it's unturtled condition.",
+      "descriptionWithLinks": " The first time the droid would drop to zero hit points, the droid can instead remain at one hit point and temporarily deactivate and fold up into a tougher, immobile form. While turtled, the droid has an AC of 14, and is considered paralyzed.  The creature interfaced with this droid can use a bonus action to restore this droid to it's unturtled condition.",
+      "monsterBehaviorType": "Trait",
+      "name": "Turtle",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "1/rest"
+    },
+    {
+      "attackBonus": 1,
+      "attackType": "MeleeWeapon",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Kick",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " As an action, the droid can expend one use of a repair kit to restore 2d4+2 hit points to a droid or construct within 5 feet.",
+      "descriptionWithLinks": " As an action, the droid can expend one use of a repair kit to restore 2d4+2 hit points to a droid or construct within 5 feet.",
+      "monsterBehaviorType": "Action",
+      "name": "Repair",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "1/day"
+    }
+  ],
+  "challengeRating": "0",
+  "charisma": 11,
+  "charismaModifier": 0,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 10,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 10,
+  "dexterityModifier": 0,
+  "experiencePoints": 10,
+  "flavorText": "A DUM-series pit droid, manufactured by Serv-O-Droid, Inc., are used for labor, repair and light construction. In the center of their head is a large, round photoreceptor equipped with multi-spectrum scanners capable of detecting microscopic damage. Pit droids stand 1.19 meters tall but can compress themselves into a compact, box-shaped package. A tap on their photorecepter signals them to return to their upright position, and vice-versa. Their most remarkable feature is their immense strength, able to carry objects many times their own size or weight.  ",
+  "hitPointRoll": "1d6",
+  "hitPoints": 3,
+  "imageUrls": [],
+  "intelligence": 12,
+  "intelligenceModifier": 1,
+  "languages": [
+    "—"
+  ],
+  "name": "DUM-Series PIT Droid",
+  "rowKey": "DUM-Series PIT Droid",
+  "savingThrows": null,
+  "sectionText": "Tracker Droids are a general term used to describe simple droids that are capable of being permanently linked to via the tech power *tracker droid interface*.  Tracker droids are not all dedicated tracking or probe droids as the name might suggest, but these are the most common types of droids to become linked with in most cultures throughout the galaxy, explaining this commonly used shorthand.  ",
+  "senses": [
+    "passive Perception 11"
+  ],
+  "size": "Small",
+  "skills": [
+    "Technology +3",
+    "Investigate +3"
+  ],
+  "speed": 25,
+  "speeds": "25 ft.",
+  "strength": 9,
+  "strengthModifier": -1,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

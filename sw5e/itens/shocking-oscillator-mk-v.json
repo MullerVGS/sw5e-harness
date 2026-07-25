@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Shocking Oscillator Mk V",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Shocking Oscillator Mk V",
+  "searchableRarity": "Legendary",
+  "subtype": "vibroweapon",
+  "text": "This weapon gains the shocking 17 property. If it already has the shocking property, its shocking number increases by 5, to a maximum of 18.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

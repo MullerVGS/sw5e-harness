@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1150,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Bowcaster",
+  "properties": [
+    "Burst 4",
+    "power cell (range 50/200)",
+    "reload 4",
+    "strength 13",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Burst": "Burst 4",
+    "Power Cell": "power cell (range 50/200)",
+    "Reload": "reload 4",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Bowcaster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "11"
+}

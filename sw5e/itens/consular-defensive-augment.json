@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "Augment",
+  "name": "Consular Defensive Augment",
+  "prerequisite": " At least 3 levels in consular",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Consular Defensive Augment",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "When you roll initiative and have no uses of your Force Shield left, you regain one use.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

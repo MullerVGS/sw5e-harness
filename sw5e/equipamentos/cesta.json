@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 975,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": "This specialized gungan staff can be used to throw grenades or similar objects at long distances. If you are wielding this weapon, as part of the action to throw a grenade, you can instead throw it using a cesta you are holding. The grenade can be thrown at a short distance of 60ft and a long distance of 240ft. When throwing a grenade at long range, creatures within the radius of the grenade’s explosion have advantage on the saving throw. If you lack proficiency in the cesta, you must roll the damage dice twice and take the lesser total.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Cesta",
+  "properties": [
+    "Disguised",
+    "double (1d8) finesse",
+    "special"
+  ],
+  "propertiesMap": {
+    "Disguised": "Disguised",
+    "Double": "double (1d8) finesse",
+    "Special": "special"
+  },
+  "rowKey": "Cesta",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "5.75"
+}

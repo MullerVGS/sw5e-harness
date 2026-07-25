@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "Any",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Shield Chassis (Premium)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": true,
+  "rowKey": "Shield Chassis (Premium)",
+  "searchableRarity": "Premium",
+  "subtype": "any",
+  "text": "_**Requires attunement**_\r\nThis modifiable shield chassis comes with vacant modification slots for armor modifications. It can house modifications of premium rarity or lower.",
+  "type": "Shield",
+  "valuableType": "None",
+  "valueText": null
+}

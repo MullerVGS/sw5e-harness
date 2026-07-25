@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 500,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Hand blaster",
+  "properties": [
+    "Keen 1",
+    "light",
+    "power cell (range 40/160)",
+    "reload 8"
+  ],
+  "propertiesMap": {
+    "Keen": "Keen 1",
+    "Light": "light",
+    "Power Cell": "power cell (range 40/160)",
+    "Reload": "reload 8"
+  },
+  "rowKey": "Hand blaster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "0.5"
+}

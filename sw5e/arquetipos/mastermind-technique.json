@@ -1,0 +1,17 @@
+{
+  "casterRatio": 0.0,
+  "casterType": "None",
+  "classCasterType": "Tech",
+  "className": "Scout",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "featureRowKeys": null,
+  "features": null,
+  "imageUrls": [],
+  "leveledTable": null,
+  "leveledTableHeaders": null,
+  "name": "Mastermind Technique",
+  "rowKey": "Mastermind Technique",
+  "text": "Preparation, preparation, preparation. Some scouts are serious students of battle and any creatures they might encounter. Followers of the Mastermind Technique focus on being prepared for any eventuality, and using their breadth of knowledge to gain insights into their enemies.\r\n\r\n### Instinctive Combatant\r\n_**Mastermind Technique:** 3rd level_\r\nYou have learned to use your wits to help you survive. While you are wearing light or medium armor, you can use your Intelligence modifier instead of your Dexterity modifier when determining your AC. \r\n\r\n### Mark of the Meticulous\r\n_**Mastermind Technique:** 3rd level_\r\nYou can use Intelligence instead of Dexterity for the attack and damage rolls made with weapons with the finesse property or blaster weapons against the target of your Ranger's Quarry.\r\n\r\nAdditionally, once per round, when you hit the target of your Ranger's Quarry with a tech attack, or it fails a saving throw against a tech power you cast that deals damage, you can deal additional damage equal to your Ranger's Quarry damage die of the same type as the tech power's damage.\r\n\r\n### Adaptive Techie\r\n_**Mastermind Technique:** 7th level_\r\nWhen you complete a long rest, you can choose up to a number of tech powers you know equal to half your Intelligence modifier and replace them with another tech power, as long as that power is not of a higher level than your Max Power Level.\r\n\r\n### Emergency Planning\r\n_**Mastermind Technique:** 11th level_\r\nYou've learned to formulate and execute a plan. As an action, you can choose up to six creatures (including yourself) that you can see within 60 feet of you. For each creature, choose one of the following: ability check, attack roll, or saving throw. Each creature gains an Emergency Planning die, which is a d8.\r\n\r\nOnce within the next 10 minutes, each creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw, as determined when you use this feature. The creature can wait until after it rolls the d20 before deciding to use the Emergency Planning die, but must decide before the GM says whether the roll succeeds or fails. Once the Emergency Planning die is rolled, it is lost.\r\n\r\nA creature can have only one Emergency Planning die at a time.\r\n\r\nOnce you've used this feature, you must complete a short or long rest before you can use it again.\r\n\r\nYour Emergency Planning die changes when you reach certain levels in this class. to 1d10 at 13th level, and to 1d12 at 17th level.\r\n\r\n### Exploit Weakness\r\n_**Mastermind Technique:** 15th level_\r\nYour training has taught you to find and exploit weaknesses in your prey. As a bonus action, you can impose disadvantage on the next saving throw the target of your Ranger's Quarry makes against an effect you control before the end of your next turn. Once you've done so, you must complete a short or long rest before you can do so again.",
+  "text2": null
+}

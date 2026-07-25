@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Bansche Purifier MENAD Pro Mk I",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Bansche Purifier MENAD Pro Mk I",
+  "searchableRarity": "Premium",
+  "subtype": "wristpad",
+  "text": "When you cast a tech power with this wristpad that gives you a bonus to AC or saving throws, you can increase that bonus by +1.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

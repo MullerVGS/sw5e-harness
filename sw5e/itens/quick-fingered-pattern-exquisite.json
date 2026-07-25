@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Quick-Fingered Pattern (Exquisite)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Quick-Fingered Pattern (Exquisite)",
+  "searchableRarity": "Artifact",
+  "subtype": "clothing",
+  "text": "You gain grand mastery in Sleight of Hand.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

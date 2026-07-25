@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "Augment",
+  "name": "Constitution Augment (Improved)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Constitution Augment (Improved)",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "Your Constitution score increases by 1, and your maximum for this score increases by 1. One ability score other than Constitution (chosen by the GM) decreases by 1.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

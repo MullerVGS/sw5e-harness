@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 600,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": "Rather than traditional power cells, the compound bow fires specialized projectiles in the form of arrows. You can make a ranged weapon attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one arrow. \r\n\r\nDrawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Compound bow",
+  "properties": [
+    "Mighty",
+    "silent",
+    "special (range 75/300)",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Mighty": "Mighty",
+    "Range": "special (range 75/300)",
+    "Silent": "silent",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Compound bow",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "6.5"
+}

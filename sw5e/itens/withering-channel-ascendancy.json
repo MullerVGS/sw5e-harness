@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Withering Channel (Ascendancy)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Withering Channel (Ascendancy)",
+  "searchableRarity": "Artifact",
+  "subtype": "focus generator",
+  "text": "This item gains the withering 3 property. If it already has the withering property, its withering number increases to 3.\t",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

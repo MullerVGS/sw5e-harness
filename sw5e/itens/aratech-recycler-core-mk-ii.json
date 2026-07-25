@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Aratech Recycler Core Mk II",
+  "prerequisite": " Burst property",
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Aratech Recycler Core Mk II",
+  "searchableRarity": "Legendary",
+  "subtype": "blaster",
+  "text": "When you use the burst feature of this weapon, you can choose to include up to 2 additional creatures within 5 feet of any affected space to also be affected the burst, if they were not already.\r\n\r\nOnce per turn, when you deal damage with this weapon, your walking speed increases by 10 feet until the start of your next turn, and the damaged creature can't make opportunity attacks against you for the rest of your turn. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

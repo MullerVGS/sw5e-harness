@@ -1,0 +1,471 @@
+# poderes — 465 entidades
+
+Índice do espelho: escolha por aqui e só então abra a fatia. O arquivo é o
+nome em slug (minúsculas, hífens); onde o nome não basta, ele vem entre
+backticks na linha.
+
+- **Absorb Energy** — nível 1 · Tech · Reaction · Self
+- **Acid Dart** — nível 2 · Tech · Action · 90 feet
+- **Acid Splash** — at-will · Tech · Action · 60 feet
+- **Acid Wind** — nível 1 · Tech · Action · Self (15-foot cube)
+- **Acidic Strike** — at-will · Tech · Action · Varies
+- **Adrenaline** — nível 1 · Tech · Reaction · 30 feet
+- **Affect Mind** — at-will · Force · Universal · Action · 30 feet · concentração
+- **Affliction** — nível 2 · Force · Dark · Action · 30 feet · concentração
+- **Agile Defense** — nível 1 · Force · Universal · BonusAction · Self
+- **Aid Droid** — nível 1 · Tech · BonusAction · 60 feet
+- **Alarm** — nível 1 · Tech · Minute · 30 feet
+- **Alter Self** — nível 2 · Tech · Action · Self · concentração
+- **Analyze** — nível 1 · Tech · Minute · Touch
+- **Animate Weapon** — nível 2 · Force · Universal · BonusAction · 60 feet
+- **Antipathy/Sympathy** — nível 8 · Tech · Hour · 60 feet
+- **Armor of Abeloth** — nível 1 · Force · Dark · Action · Self
+- **Art of Movement** — nível 3 · Force · Universal · BonusAction · Self · concentração
+- **Assess the Situation** — at-will · Tech · Action · 30 feet · concentração
+- **Aura of Purity** — nível 4 · Force · Light · Action · Self (30-foot radius) · concentração
+- **Aura of Vigor** — nível 3 · Force · Light · Action · Self (30-foot radius) · concentração
+- **Autonomous Servant** — nível 3 · Tech · Minute · Touch
+- **Bacta Pack** — nível 1 · Tech · Action · 60 feet
+- **Ballistic Shield** — nível 4 · Tech · Action · Self · concentração
+- **Barrage** — nível 1 · Tech · Action · 120 feet
+- **Battle Insight** — at-will · Force · Universal · Action · 30 feet · concentração
+- **Battle Meditation** — nível 2 · Force · Universal · Action · Self (5-foot radius) · concentração
+- **Battle Precognition** — nível 1 · Force · Universal · Action · Self
+- **Battlemind** — nível 2 · Force · Universal · Action · Self · concentração
+- **Beacon of Hope** — nível 3 · Force · Light · Action · 30 feet · concentração
+- **Beast Trick** — nível 1 · Force · Light · Action · 30 feet
+- **Bestow Curse** — nível 3 · Force · Dark · Action · Touch · concentração
+- **Bestow Virus** — nível 3 · Tech · Action · Touch · concentração
+- **Break** — at-will · Force · Universal · Action · 30 feet
+- **Breath Control** — nível 1 · Force · Universal · Action · Self
+- **Buffer** — nível 1 · Tech · Action · Self
+- **Burst** — at-will · Force · Universal · Action · Self (5-foot sphere)
+- **Burst of Flame** — nível 2 · Tech · Action · Self (30-foot line)
+- **Burst of Speed** — nível 1 · Force · Universal · Action · Touch
+- **Cage** — nível 7 · Tech · Action · 100 feet
+- **Call Lightning** — nível 3 · Force · Light · Action · 120 feet · concentração
+- **Calm Emotions** — nível 2 · Force · Light · Action · 60 feet · concentração
+- **Capacity Boost** — nível 2 · Tech · BonusAction · Touch · concentração
+- **Carbon Fog** — nível 6 · Tech · Action · 120 feet · concentração
+- **Carbonite** — nível 6 · Tech · Action · 60 feet · concentração
+- **Carbonite Explosion** — nível 9 · Tech · Action · 250 feet
+- **Choke** — nível 3 · Force · Dark · Action · 60 feet
+- **Cloaking Screen** — nível 4 · Tech · Action · Touch · concentração
+- **Cloud Mind** — nível 1 · Force · Light · Action · 90 feet
+- **Coerce Mind** — nível 2 · Force · Universal · Action · 30 feet · concentração
+- **Combustive Shot** — at-will · Tech · Action · Varies
+- **Comprehend Speech** — nível 1 · Force · Universal · Action · Self
+- **Concealed Caltrops** — nível 2 · Tech · Action · 150 feet · concentração
+- **Condense/Vaporize** — nível 1 · Tech · Action · 30 feet
+- **Construct Droid** — nível 2 · Tech · Minute · 10 feet · concentração
+- **Contingency** — nível 6 · Tech · Minute · Self
+- **Control Pain** — nível 5 · Force · Universal · Action · Self · concentração
+- **Convulsion** — nível 3 · Force · Universal · Action · 120 feet
+- **Copy** — nível 1 · Tech · Action · Touch
+- **Corrosive Sphere** — nível 4 · Tech · Action · 150 feet
+- **Countermeasures** — nível 1 · Tech · Action · Self
+- **Crush** — nível 6 · Force · Dark · Action · 60 feet
+- **Cryogenic Blast** — nível 1 · Tech · Action · 60 feet
+- **Cryogenic Blow** — nível 1 · Tech · BonusAction · Self · concentração
+- **Cryogenic Burst** — at-will · Tech · Action · 60 feet
+- **Cryogenic Spray** — nível 5 · Tech · Action · Self
+- **Cryogenic Storm** — nível 4 · Tech · Action · 120 feet
+- **Cryogenic Suspension** — nível 3 · Tech · Action · 30 feet · concentração
+- **Cryogenic Volley** — nível 2 · Tech · Action · 90 feet
+- **Cryogenic Wave** — nível 1 · Tech · Action · Self (15-foot cone)
+- **Curse** — nível 1 · Force · Dark · Action · 30 feet · concentração
+- **Danger Sense** — nível 2 · Force · Universal · BonusAction · Self
+- **Dark Aura** — nível 3 · Force · Dark · BonusAction · Self · concentração
+- **Dark Shear** — nível 2 · Force · Dark · BonusAction · Self · concentração
+- **Dark Side Tendrils** — nível 1 · Force · Dark · Action · Self (10-foot radius)
+- **Darkness** — nível 2 · Force · Dark · Action · 60 feet · concentração
+- **Darkvision** — nível 2 · Tech · Action · Touch
+- **Death Field** — nível 8 · Force · Dark · Action · 90 feet (30-foot cube)
+- **Debilitating Gas** — nível 3 · Tech · Action · 90 feet · concentração
+- **Decryption Program** — nível 1 · Tech · Action · Self · concentração
+- **Defensive Technique** — at-will · Force · Light · Action · Varies
+- **Defibrillate** — nível 4 · Tech · Action · Touch
+- **Delayed Detonator** — nível 1 · Tech · Action · 60 feet
+- **Delayed Explosion** — nível 7 · Tech · Action · 150 feet · concentração
+- **Denounce** — at-will · Force · Dark · Action · 30 feet · concentração
+- **Destroy Droid** — nível 7 · Force · Light · Action · 120 feet (30-foot cube) · concentração
+- **Destroy Tech** — nível 3 · Tech · Action · 120 feet
+- **Detect Enhancement** — nível 1 · Tech · Action · Self · concentração
+- **Detect Invisibility** — nível 2 · Tech · Action · Self
+- **Detect Traps** — nível 2 · Tech · Action · Self · concentração
+- **Detonator** — at-will · Tech · Action · 60 feet
+- **Diminish Tech** — nível 3 · Tech · Action · 120 feet
+- **Disable Droid** — nível 4 · Force · Light · Action · 90 feet (15-foot cube) · concentração
+- **Disassemble** — nível 7 · Tech · Action · Touch
+- **Disintegrate** — nível 6 · Tech · Action · 60 feet
+- **Dismantle** — at-will · Tech · Touch
+- **Disperse Energy** — nível 6 · Tech · Action · Self · concentração
+- **Disperse Force** — nível 1 · Force · Universal · Reaction · Self
+- **Dominate Beast** — nível 4 · Force · Dark · Action · 60 feet · concentração
+- **Dominate Mind** — nível 5 · Force · Dark · Action · 60 feet · concentração
+- **Dominate Monster** — nível 8 · Force · Dark · Action · 60 feet · concentração
+- **Drain Life** — nível 4 · Force · Dark · Action · 60 feet
+- **Drain Vitality** — nível 2 · Force · Dark · Action · 60 feet · concentração
+- **Dun Moch** — nível 1 · Force · Dark · BonusAction · 30 feet · concentração
+- **Earthquake** — nível 8 · Force · Universal · Action · 500 feet · concentração
+- **Echo Blast** — at-will · Tech · Action · 30 feet
+- **Electrical Burst** — at-will · Tech · Action · Self (5-foot sphere)
+- **Electromesh** — nível 2 · Tech · Action · 60 feet · concentração
+- **Electroshock** — at-will · Tech · Action · Touch
+- **Element of Surprise** — nível 1 · Tech · Reaction · 60 feet
+- **Elemental Accelerant** — nível 4 · Tech · Action · 90 feet · concentração
+- **Encrypted Message** — at-will · Tech · Action · 120 feet
+- **Energetic Burst** — nível 2 · Tech · Action · Touch
+- **Energizing Aura** — nível 8 · Tech · Action · Self · concentração
+- **Energy Shield** — nível 1 · Tech · Reaction · Self
+- **Enfeeble** — at-will · Force · Dark · Action · 60 feet
+- **Enhance Droid** — nível 2 · Tech · Action · Touch · concentração
+- **Enhance Weapon** — nível 3 · Tech · Action · Touch · concentração
+- **Eruption** — nível 6 · Force · Universal · Action · 120 feet
+- **Execute Command** — nível 1 · Tech · Action · 60 feet
+- **Expeditious Retreat** — nível 1 · Tech · BonusAction · Self · concentração
+- **Explosion** — nível 3 · Tech · Action · 150 feet
+- **Extinguish** — at-will · Tech · Action · 30 feet (5-foot cube)
+- **Fabricate** — nível 4 · Tech · Minute · 10 feet
+- **Fabricate Minor Trap** — nível 1 · Tech · Minute · Self (30-foot radius sphere)
+- **Fabricate Trap** — nível 3 · Tech · Hour · Touch
+- **Fear** — nível 1 · Force · Dark · Action · 60 feet · concentração
+- **Feedback** — at-will · Force · Dark · Action · 60 feet
+- **Find the Path** — nível 6 · Tech · Minute · Self · concentração
+- **Firestorm** — nível 6 · Tech · Action · 60 feet
+- **Flame Sweep** — nível 1 · Tech · Action · Self (15-foot cone)
+- **Flaming Shots** — nível 2 · Tech · Action · Touch · concentração
+- **Flash** — nível 1 · Tech · Action · 90 feet
+- **Force Barrier** — nível 2 · Force · Light · Action · 30 feet
+- **Force Blind/Deafen** — nível 2 · Force · Light · Action · 30 feet
+- **Force Blinding** — nível 1 · Force · Light · Action · Self (15-foot cone)
+- **Force Blur** — nível 2 · Force · Universal · Action · Self · concentração
+- **Force Body** — nível 1 · Force · Universal · Action · Self
+- **Force Breach** — nível 5 · Force · Universal · Action · 120 feet (20-foot cube)
+- **Force Camouflage** — nível 2 · Force · Universal · Action · Self · concentração
+- **Force Chain Lightning** — nível 6 · Force · Dark · Action · 150 feet
+- **Force Concealment** — nível 2 · Force · Universal · Action · Touch
+- **Force Confusion** — nível 2 · Force · Universal · Action · 120 feet · concentração
+- **Force Current** — nível 1 · Force · Universal · Action · Self (15-foot cone)
+- **Force Disarm** — at-will · Force · Universal · Action · 30 feet
+- **Force Enlightenment** — nível 2 · Force · Light · Action · Touch · concentração
+- **Force Focus** — nível 1 · Force · Light · BonusAction · Self · concentração
+- **Force Imbuement** — at-will · Force · Universal · BonusAction · Touch
+- **Force Immunity** — nível 4 · Force · Universal · Action · Self · concentração
+- **Force Intuition** — nível 1 · Force · Universal · Action · Self
+- **Force Jump** — nível 1 · Force · Universal · Action · Self
+- **Force Leap** — at-will · Force · Universal · BonusAction · Self
+- **Force Lightning** — nível 3 · Force · Dark · Action · Self (100-foot line)
+- **Force Lightning Cone** — nível 7 · Force · Dark · Action · Self (60-foot cone)
+- **Force Link** — nível 8 · Force · Universal · Action · Unlimited
+- **Force Mask** — nível 1 · Force · Universal · Action · Self
+- **Force Meld** — nível 5 · Force · Universal · Action · 30 feet
+- **Force Mend** — nível 7 · Force · Light · Minute · Touch
+- **Force Project** — nível 7 · Force · Universal · Action · Self · concentração
+- **Force Propel** — nível 1 · Force · Universal · Action · 60 feet
+- **Force Push/Pull** — at-will · Force · Universal · Action · 60 feet
+- **Force Reflect** — nível 1 · Force · Universal · Reaction · Self
+- **Force Repulse** — nível 3 · Force · Universal · Action · Self (20-foot radius)
+- **Force Scream** — nível 3 · Force · Dark · Action · Self (15-foot radius)
+- **Force Shunt** — at-will · Force · Universal · Action · 30 feet
+- **Force Sight** — nível 2 · Force · Universal · Action · Self · concentração
+- **Force Storm** — nível 9 · Force · Dark · Action · 150 feet · concentração
+- **Force Suppression** — nível 3 · Force · Universal · Action · 120 feet
+- **Force Technique** — at-will · Force · Light · Action · Varies
+- **Force Throw** — nível 2 · Force · Universal · Action · 90 feet
+- **Force Trance** — nível 3 · Force · Light · Action · 30 feet
+- **Force Vision** — nível 2 · Force · Universal · Minute · 60 feet
+- **Force Weapon** — nível 3 · Force · Universal · BonusAction · Touch · concentração
+- **Force Whisper** — at-will · Force · Universal · Action · 120 feet
+- **Freedom of Movement** — nível 4 · Force · Universal · Action · Touch
+- **Frequency Scan** — nível 2 · Tech · Action · Self · concentração
+- **Friendly Fire** — nível 5 · Tech · Action · 120 feet · concentração
+- **Give Life** — at-will · Force · Light · Action · Touch
+- **Gleaming Outline** — nível 1 · Tech · Action · 60 feet · concentração
+- **Glide** — nível 2 · Tech · Reaction · 30 feet
+- **Grasping Vine** — nível 4 · Force · Light · BonusAction · 30 feet · concentração
+- **Greater Analyze** — nível 5 · Tech · Minute · Self
+- **Greater Energy Shield** — nível 2 · Tech · Reaction · 15 feet
+- **Greater Explosion** — nível 9 · Tech · Action · 150 feet
+- **Greater Feedback** — nível 5 · Force · Dark · Action · 120 feet
+- **Greater Heal** — nível 6 · Force · Light · Action · 60 feet
+- **Greater Hologram** — nível 3 · Tech · Action · 120 feet · concentração
+- **Greater Kinetite** — nível 5 · Force · Dark · Action · 120 feet · concentração
+- **Greater Light** — nível 3 · Tech · Action · 60 feet
+- **Greater Pyrokinesis** — nível 4 · Force · Universal · Action · 120 feet · concentração
+- **Greater Saber Throw** — nível 5 · Force · Universal · Action · 30 feet
+- **Greater Sabotage Charges** — nível 7 · Tech · Action · Self · concentração
+- **Greater Salvo** — nível 9 · Tech · Action · 120 feet
+- **Greater Translation Program** — nível 3 · Tech · Action · Touch
+- **Greater Translocate** — nível 5 · Tech · BonusAction · Self · concentração
+- **Group Hologram** — nível 5 · Tech · Action · 30 feet
+- **Guidance** — at-will · Force · Light · Action · Touch · concentração
+- **Hallucination** — nível 2 · Force · Dark · Action · 60 feet · concentração
+- **Haywire** — at-will · Tech · Action · 30 feet
+- **Heal** — nível 1 · Force · Light · Action · Touch
+- **Heighten Senses** — nível 1 · Force · Universal · Reaction · Self
+- **Heroism** — nível 1 · Force · Light · Action · Touch · concentração
+- **Hex** — nível 1 · Force · Dark · BonusAction · 90 feet · concentração
+- **Hold Droid** — nível 2 · Tech · Action · 60 feet · concentração
+- **Holding Cell** — nível 4 · Tech · Action · 120 feet · concentração
+- **Hologram** — nível 1 · Tech · Action · 60 feet · concentração
+- **Holographic Disguise** — nível 1 · Tech · Action · Self
+- **Homing Rockets** — nível 1 · Tech · Action · 120 feet
+- **Horror** — nível 3 · Force · Dark · Action · Self (30-foot cone) · concentração
+- **Hysteria** — nível 4 · Force · Dark · Action · 120 feet · concentração
+- **Illusory Strike** — at-will · Tech · Action · Varies
+- **Illusory Terrain** — nível 4 · Tech · Minute · 300 feet
+- **Immolate** — nível 5 · Tech · Action · 90 feet · concentração
+- **Implant Message** — nível 2 · Tech · Minute · 30 feet
+- **Improved Battle Meditation** — nível 5 · Force · Universal · Action · Self (15-foot radius) · concentração
+- **Improved Dark Side Tendrils** — nível 3 · Force · Dark · Action · 150 feet · concentração
+- **Improved Feedback** — nível 1 · Force · Dark · Action · 60 feet
+- **Improved Force Barrier** — nível 5 · Force · Light · Minute · 30 feet
+- **Improved Force Camouflage** — nível 4 · Force · Universal · Action · Touch · concentração
+- **Improved Force Immunity** — nível 6 · Force · Universal · Action · Self (15-foot radius) · concentração
+- **Improved Force Intuition** — nível 2 · Force · Universal · Reaction · Self · concentração
+- **Improved Force Scream** — nível 5 · Force · Dark · Action · Self (30-foot radius)
+- **Improved Heal** — nível 5 · Force · Light · Action · 60 feet
+- **Improved Kinetite** — nível 4 · Force · Dark · Action · 150 feet · concentração
+- **Improved Phasestrike** — nível 5 · Force · Universal · Action · 30 feet
+- **Improved Phasewalk** — nível 5 · Force · Universal · BonusAction · Self · concentração
+- **Improved Pyrokinesis** — nível 2 · Force · Universal · Action · 30 feet
+- **Improved Restoration** — nível 5 · Force · Light · Action · Touch
+- **Improved Revitalize** — nível 7 · Force · Light · Minute · Touch
+- **Improved Saber Throw** — nível 2 · Force · Universal · Action · 60 feet
+- **Incendiary Cloud** — nível 8 · Tech · Action · 150 feet · concentração
+- **Infiltrate** — nível 2 · Tech · Action · Touch · concentração
+- **Insanity** — nível 5 · Force · Dark · Action · Self (30-foot sphere) · concentração
+- **Instant Translocation** — nível 3 · Tech · Reaction · Self
+- **Instinctive Movement** — nível 1 · Force · Universal · BonusAction · Self
+- **Invisibility to Cameras** — nível 3 · Tech · Action · 10 feet · concentração
+- **Invulnerability** — nível 9 · Tech · Action · Self · concentração
+- **Ion Blast** — at-will · Tech · Action · 60 feet
+- **Ionic Bond** — nível 1 · Tech · BonusAction · 30 feet · concentração
+- **Ionic Strike** — at-will · Tech · Action · Varies
+- **Irradiate** — nível 2 · Tech · Action · 120 feet · concentração
+- **Itemize** — at-will · Tech · Action · 30 feet
+- **Jet of Flame** — at-will · Tech · Action · Self (30-foot sphere)
+- **Jump** — nível 1 · Tech · Action · Touch
+- **Jump Jet** — nível 1 · Tech · BonusAction · Self
+- **Jump Pad** — nível 2 · Tech · Action · 60 feet · concentração
+- **Kill** — nível 9 · Force · Dark · Action · 60 feet
+- **Kinetite** — nível 2 · Force · Dark · Action · 60 feet · concentração
+- **Knight Speed** — nível 3 · Force · Universal · Action · 30 feet · concentração
+- **Kolto Cloud** — nível 3 · Tech · BonusAction · 60 feet
+- **Kolto Dispenser** — nível 2 · Tech · Action · 60 feet (5-foot cube) · concentração
+- **Kolto Infusion** — nível 6 · Tech · Action · 60 feet
+- **Kolto Pack** — nível 1 · Tech · BonusAction · 60 feet
+- **Kolto Reserve** — nível 4 · Tech · Action · Touch
+- **Kolto Waves** — nível 9 · Tech · Action · 60 feet
+- **Land Stride** — nível 1 · Force · Light · Action · Self (40-foot radius)
+- **Lesser Mislead** — nível 2 · Tech · Action · Self
+- **Light** — at-will · Tech · Action · Touch
+- **Lightning Charge** — at-will · Force · Dark · Action · Varies
+- **Locate Creature** — nível 4 · Force · Universal · Action · Self · concentração
+- **Locate Object** — nível 2 · Force · Universal · Action · Self · concentração
+- **Lock** — nível 2 · Tech · Action · Touch
+- **Maddening Darkness** — nível 8 · Force · Dark · Action · 150 feet · concentração
+- **Magnetic Field** — nível 2 · Tech · Action · Self · concentração
+- **Magnetic Hold** — nível 2 · Tech · Action · Touch · concentração
+- **Malacia** — nível 1 · Force · Universal · Action · 30 feet · concentração
+- **Mass Animation** — nível 5 · Force · Universal · Action · 120 feet · concentração
+- **Mass Coerce Mind** — nível 6 · Force · Universal · Action · 60 feet
+- **Mass Hysteria** — nível 9 · Force · Dark · Action · 120 feet · concentração
+- **Mass Malacia** — nível 3 · Force · Universal · Action · 120 feet (30-foot cube) · concentração
+- **Mass Repair Droid** — nível 5 · Tech · Action · 60 feet
+- **Master Battle Meditation** — nível 9 · Force · Universal · Action · Self (30-foot radius) · concentração
+- **Master Feedback** — nível 9 · Force · Dark · Action · 90 feet
+- **Master Force Barrier** — nível 8 · Force · Light · Action · Self · concentração
+- **Master Force Immunity** — nível 8 · Force · Universal · Action · Self (10-foot-radius sphere) · concentração
+- **Master Force Scream** — nível 8 · Force · Dark · Action · Self (60-foot radius)
+- **Master Heal** — nível 9 · Force · Light · Action · Touch
+- **Master Malacia** — nível 6 · Force · Universal · Action · 30 feet · concentração
+- **Master Pyrokinesis** — nível 7 · Force · Universal · Action · 150 feet
+- **Master Revitalize** — nível 9 · Force · Light · Hour · Touch
+- **Master Saber Throw** — nível 7 · Force · Universal · Action · Self (90-foot line)
+- **Master Speed** — nível 7 · Force · Universal · Action · 30 feet · concentração
+- **Mending** — at-will · Tech · Minute · Touch
+- **Mind Blank** — nível 8 · Force · Universal · Action · Touch
+- **Mind Prison** — nível 6 · Force · Dark · Action · 60 feet · concentração
+- **Mind Spike** — nível 2 · Force · Dark · Action · 60 feet · concentração
+- **Mind Trap** — nível 4 · Force · Universal · Action · 60 feet · concentração
+- **Mind Trick** — at-will · Force · Universal · Action · 30 feet · concentração
+- **Minor Defibrillation** — at-will · Tech · Action · Touch
+- **Minor Hologram** — at-will · Tech · Action · 10 feet
+- **Mirror Image** — nível 2 · Tech · Action · Self
+- **Mislead** — nível 5 · Tech · Action · Self · concentração
+- **Mobile Lights** — at-will · Tech · Action · 120 feet · concentração
+- **Morichro** — nível 3 · Force · Light · Action · Touch
+- **Motivator Boost** — nível 2 · Tech · Action · 30 feet · concentração
+- **Mutate/Augment** — nível 3 · Tech · Action · Self · concentração
+- **Necrotic Charge** — at-will · Force · Dark · Action · Varies
+- **Necrotic Touch** — at-will · Force · Dark · Action · Touch
+- **Neurotoxin** — nível 7 · Tech · BonusAction · 30 feet
+- **Oil Slick** — nível 1 · Tech · Action · 60 feet
+- **On/Off** — at-will · Tech · Action · 60 feet
+- **Overheat** — nível 2 · Tech · Action · 60 feet · concentração
+- **Overload** — nível 1 · Tech · Action · Self (15-foot cube)
+- **Override Interface** — nível 5 · Tech · Action · 60 feet · concentração
+- **Paralyze Creature** — nível 5 · Tech · Action · 90 feet · concentração
+- **Paralyze Humanoid** — nível 2 · Tech · Action · 60 feet · concentração
+- **Phaseshift** — at-will · Force · Universal · BonusAction · Self
+- **Phasestrike** — nível 1 · Force · Universal · BonusAction · Self · concentração
+- **Phasewalk** — nível 2 · Force · Universal · BonusAction · Self
+- **Pheromone Burst** — at-will · Tech · Action · Self (5-foot sphere)
+- **Plague** — nível 3 · Force · Dark · Action · 30 feet · concentração
+- **Plant Surge** — nível 3 · Force · Light · Action · 150 feet
+- **Poison Dart** — nível 1 · Tech · Action · 60 feet
+- **Poison Spray** — at-will · Tech · Action · 10 feet
+- **Precognition** — nível 9 · Force · Universal · Minute · Self
+- **Predictive AI** — nível 9 · Tech · Minute · Touch
+- **Preparedness** — nível 1 · Tech · Minute · Touch
+- **Pressure Crush** — at-will · Tech · Action · Touch
+- **Probe Mind** — nível 2 · Force · Dark · Action · 30 feet · concentração
+- **Production Values** — at-will · Tech · Action · 30 feet
+- **Programmed Illusion** — nível 6 · Tech · Action · 120 feet
+- **Project** — nível 1 · Force · Light · Action · 120 feet
+- **Project Hologram** — nível 7 · Tech · Action · 500 miles · concentração
+- **Protection from Energy** — nível 3 · Tech · Action · Touch · concentração
+- **Psychic Charge** — at-will · Force · Dark · Action · Varies
+- **Psychometry** — nível 3 · Force · Universal · Minute · Self
+- **Pull Earthward** — nível 2 · Force · Universal · Action · 300 feet · concentração
+- **Pyrokinesis** — at-will · Force · Universal · Action · 60 feet · concentração
+- **Pyrotechnics** — nível 2 · Tech · Action · 60 feet
+- **Radiation** — nível 4 · Tech · Action · 120 feet · concentração
+- **Rage** — nível 6 · Force · Dark · Action · Self · concentração
+- **Read Memory** — nível 3 · Tech · Action · 10 feet
+- **Reboot** — at-will · Tech · Action · 60 feet
+- **Rebuke** — at-will · Force · Light · Action · Touch
+- **Release** — nível 2 · Tech · Action · 60 feet
+- **Remove Curse** — nível 3 · Force · Light · Action · Touch
+- **Remove Virus** — nível 3 · Tech · Action · Touch
+- **Repair Droid** — nível 1 · Tech · Action · Touch
+- **Reprogram Droid** — nível 5 · Tech · Minute · 60 feet
+- **Rescue** — nível 2 · Force · Universal · BonusAction · 30 feet
+- **Resistance** — at-will · Force · Universal · Action · Touch · concentração
+- **Restoration** — nível 2 · Force · Light · Action · Touch
+- **Reveal Shatterpoint** — nível 5 · Force · Universal · Action · 60 feet · concentração
+- **Revitalize** — nível 5 · Force · Light · Minute · Touch
+- **Rewrite Memory** — nível 5 · Tech · Action · 30 feet · concentração
+- **Rime Shot** — at-will · Tech · Action · Varies
+- **Rime Strike** — at-will · Tech · Action · Varies
+- **Ring of Fire** — nível 1 · Tech · Action · Self · concentração
+- **Ruin** — nível 7 · Force · Dark · Action · 60 feet
+- **Saber Assault** — nível 1 · Force · Universal · Self
+- **Saber Dance** — nível 4 · Force · Universal · Action · Self (10-foot radius) · concentração
+- **Saber Onslaught** — nível 4 · Force · Universal · Action · Self
+- **Saber Reflect** — at-will · Force · Universal · Reaction · Self
+- **Saber Slash** — nível 3 · Force · Universal · Action · 30 feet
+- **Saber Strike** — nível 2 · Force · Universal · Action · Self
+- **Saber Throw** — at-will · Force · Universal · Action · 30 feet
+- **Saber Ward** — at-will · Force · Universal · Action · Self
+- **Sabotage Charges** — nível 3 · Tech · Action · Self · concentração
+- **Salvo** — nível 4 · Tech · Action · 60 feet
+- **Sanctuary** — nível 1 · Force · Light · BonusAction · 30 feet
+- **Sap Vitality** — nível 1 · Force · Dark · Action · Touch
+- **Scan Area** — nível 4 · Tech · Action · Self · concentração
+- **Scourge** — nível 6 · Force · Dark · Action · Self · concentração
+- **Scramble Interface** — nível 3 · Tech · Action · 120 feet · concentração
+- **Scrambling Barrier** — nível 6 · Tech · Action · Self (10-foot radius) · concentração
+- **Scrambling Field** — nível 8 · Tech · Action · Self (10-foot-radius sphere) · concentração
+- **Security Protocols** — nível 6 · Tech · Minute · Touch
+- **Seethe** — at-will · Force · Dark · Action · Self
+- **Sending** — nível 3 · Tech · Action · Unlimited
+- **Sense Emotion** — nível 1 · Force · Universal · Action · Self · concentração
+- **Sense Force** — nível 1 · Force · Universal · Action · Self · concentração
+- **Sense Shatterpoint** — nível 2 · Force · Universal · BonusAction · 30 feet · concentração
+- **Sensor Probe** — nível 4 · Tech · Action · 30 feet · concentração
+- **Sever Force** — nível 3 · Force · Universal · Reaction · 60 feet
+- **Shadow Sight** — nível 1 · Force · Universal · Action · Self
+- **Share Life** — nível 3 · Force · Light · Action · 30 feet
+- **Shared Shielding** — nível 2 · Tech · Action · Touch
+- **Shatter** — nível 2 · Tech · Action · 60 feet
+- **Shock** — at-will · Force · Dark · Action · 120 feet
+- **Shocking Ray** — nível 2 · Tech · Action · 120 feet
+- **Shocking Shield** — nível 4 · Force · Dark · Action · Self
+- **Short Circuit** — at-will · Tech · Action · 120 feet
+- **Shroud of Darkness** — nível 4 · Force · Dark · Action · Self · concentração
+- **Shutdown** — nível 5 · Tech · Action · 120 feet · concentração
+- **Siphon Life** — nível 5 · Force · Dark · Action · 60 feet · concentração
+- **Skill Empowerment** — nível 5 · Force · Light · Action · Touch · concentração
+- **Skill Protocol** — nível 5 · Tech · Action · Touch · concentração
+- **Slow** — at-will · Force · Dark · Action · 15 feet
+- **Slow Descent** — nível 1 · Force · Universal · Reaction · 60 feet
+- **Slow-Release Medpac** — nível 3 · Tech · Action · Self (30-foot radius) · concentração
+- **Smoke Cloud** — nível 1 · Tech · Action · 120 feet · concentração
+- **Smuggle** — nível 2 · Tech · Action · Self · concentração
+- **Sonic Charge** — at-will · Force · Universal · Action · Varies
+- **Sonic Fists** — nível 1 · Tech · BonusAction · Self
+- **Sonic Shot** — at-will · Tech · Action · Varies
+- **Sonic Strike** — at-will · Tech · Action · Varies
+- **Sound Trick** — at-will · Force · Universal · Action · 30 feet
+- **Spare the Dying** — at-will · Force · Light · Action · Touch
+- **Spectrum Bolt** — nível 1 · Tech · Action · 120 feet
+- **Spectrum Discharge** — nível 2 · Tech · BonusAction · Touch · concentração
+- **Spectrum Ray** — at-will · Tech · Action · 60 feet
+- **Spirit Blade** — at-will · Force · Universal · Action · Touch
+- **Spot the Weakness** — nível 1 · Tech · Action · 30 feet · concentração
+- **Squad Shield** — nível 7 · Tech · Reaction · Self (10-foot radius) · concentração
+- **Stack the Deck** — nível 1 · Tech · Action · 30 feet · concentração
+- **Stasis** — nível 5 · Force · Light · Action · 90 feet · concentração
+- **Stasis Field** — nível 8 · Force · Light · Action · 120 feet (30-foot cube) · concentração
+- **Stinger** — at-will · Tech · Action · 120 feet
+- **Storming Shot** — at-will · Tech · Action · Varies
+- **Stun** — nível 2 · Force · Light · Action · 60 feet · concentração
+- **Stun Dart** — nível 8 · Tech · Action · 60 feet
+- **Stun Droid** — nível 2 · Force · Light · Action · 60 feet · concentração
+- **Superior Translation Program** — nível 6 · Tech · Action · Touch
+- **Sustained Lightning** — nível 1 · Force · Dark · Action · 30 feet · concentração
+- **Synchronicity** — nível 4 · Tech · Action · Touch · concentração
+- **Tactical Advantage** — nível 3 · Tech · Action · 30 feet · concentração
+- **Tactical Barrier** — nível 1 · Tech · BonusAction · 60 feet · concentração
+- **Tactical Superiority** — nível 7 · Tech · Action · 30 feet · concentração
+- **Tapas** — nível 1 · Force · Universal · Action · Self
+- **Target Lock** — nível 1 · Tech · BonusAction · 90 feet · concentração
+- **Targeting Shot** — at-will · Tech · Action · Varies
+- **Tech Override** — nível 3 · Tech · Reaction · 60 feet
+- **Telekinesis** — nível 5 · Force · Universal · Action · 90 feet · concentração
+- **Telekinetic Burst** — nível 6 · Force · Light · Action · Self (60-foot line) · concentração
+- **Telekinetic Shield** — nível 3 · Force · Universal · Action · Self · concentração
+- **Telekinetic Storm** — nível 3 · Force · Light · Action · Self (15-foot radius) · concentração
+- **Telekinetic Wave** — nível 8 · Force · Light · Action · 150 feet
+- **Telemetry** — nível 1 · Force · Universal · Minute · Touch
+- **Telepathic Link** — nível 1 · Force · Universal · Action · Touch · concentração
+- **Temporary Boost** — at-will · Tech · Action · Touch · concentração
+- **Time Bomb** — nível 1 · Tech · Action · Touch · concentração
+- **Tonal Translocate** — nível 3 · Tech · Action · 90 feet
+- **Toxic Cloud** — nível 5 · Tech · Action · 120 feet · concentração
+- **Toxin Purge** — nível 2 · Tech · Action · Touch
+- **Toxin Scan** — nível 1 · Tech · Action · Self · concentração
+- **Tracer Bolt** — nível 1 · Tech · Action · 120 feet
+- **Tracker Droid Interface** — nível 1 · Tech · Hour · 10 feet
+- **Tranquilizer** — nível 1 · Tech · Action · 90 feet
+- **Translation Program** — nível 1 · Tech · Action · Self
+- **Translocate** — nível 2 · Tech · BonusAction · Self
+- **Transposition** — nível 2 · Tech · Action · 90 feet
+- **Tremor** — nível 1 · Force · Universal · Action · 10 feet
+- **Tri-Shot** — at-will · Tech · Action · 60 feet
+- **True Sight** — nível 6 · Force · Universal · Action · Self
+- **Truth Serum** — nível 2 · Tech · Action · Touch
+- **Tune-up** — nível 2 · Tech · Minute · 30 feet
+- **Turbulence** — at-will · Force · Light · Action · 60 feet
+- **Valor** — nível 1 · Force · Light · Action · 30 feet · concentração
+- **Venomous Strike** — at-will · Tech · Action · Varies
+- **Vertical Maneuvering** — nível 3 · Tech · Reaction · Self · concentração
+- **Vitality Shield** — nível 2 · Force · Universal · Action · Self
+- **Voltaic Shielding** — nível 1 · Tech · Action · Self
+- **Vortex Shot** — at-will · Tech · Action · Varies
+- **Wakefulness** — nível 2 · Force · Universal · Action · Self · concentração
+- **Wall Run** — at-will · Force · Universal · BonusAction · Self
+- **Wall of Light** — nível 6 · Force · Light · Action · 90 feet · concentração
+- **Ward** — at-will · Tech · Action · Self
+- **Warding Shot** — at-will · Tech · Action · Varies
+- **Warp Strike** — at-will · Tech · Action · Varies
+- **Whirlwind** — nível 7 · Force · Universal · Action · 300 feet · concentração
+- **Will of the Force** — nível 9 · Force · Light · Action · Self
+- **Wire Bind** — nível 4 · Tech · Action · 30 feet
+- **Wire Line** — at-will · Tech · Action · 30 feet
+- **Wire Tow** — nível 2 · Tech · Action · 30 feet · concentração
+- **Wound** — nível 1 · Force · Dark · Action · 60 feet
+- **Wrack** — nível 6 · Force · Dark · Action · 60 feet

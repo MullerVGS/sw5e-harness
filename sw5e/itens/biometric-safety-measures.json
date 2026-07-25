@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Biometric Safety Measures",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Biometric Safety Measures",
+  "searchableRarity": "Standard",
+  "subtype": "lightweapon",
+  "text": "A security system is installed into the hilt of your lightweapon. When a creature other than you attempts to activate your lightweapon, the activation fails. Additionally, the creature attempting to activate it must make a DC 13 Constitution saving throw. On a failed save, a creature takes 1d10 lightning damage and is shocked until the end of its next turn. On a successful save the creature takes half damage and isn't shocked. On a success or failure, the creature then drops the weapon.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

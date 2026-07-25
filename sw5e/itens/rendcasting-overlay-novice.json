@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Rendcasting Overlay (Novice)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Rendcasting Overlay (Novice)",
+  "searchableRarity": "Standard",
+  "subtype": "armor",
+  "text": "While using this item as your focus, you gain a +1 bonus to the force save DC of powers that require a Dexterity or Intelligence saving throw and a -1 penalty to the force save DC of powers that require a Wisdom or Charisma saving throw.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

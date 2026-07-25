@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 50,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibroclaw",
+  "properties": [
+    "Finesse",
+    "fixed",
+    "light"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Fixed": "fixed",
+    "Light": "light"
+  },
+  "rowKey": "Vibroclaw",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleVibroweapon",
+  "weight": "0.75"
+}

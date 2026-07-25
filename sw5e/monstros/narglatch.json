@@ -1,0 +1,138 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 14,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " While lightly or heavily obscured, the narglatch can take the Hide action as a bonus action.",
+      "descriptionWithLinks": " While lightly or heavily obscured, the narglatch can take the Hide action as a bonus action.",
+      "monsterBehaviorType": "Trait",
+      "name": "Shadow Stealth",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The narglatch has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.",
+      "descriptionWithLinks": " The narglatch has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.",
+      "monsterBehaviorType": "Trait",
+      "name": "Sure-Footed",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " If the narglatch moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the narglatch can make one bite attack against it as a bonus action.",
+      "descriptionWithLinks": " If the narglatch moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the narglatch can make one bite attack against it as a bonus action.",
+      "monsterBehaviorType": "Action",
+      "name": "Pounce",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "11",
+      "damageRoll": "2d10 + 2",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d10 + 2) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d10 + 2) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "13",
+      "damageRoll": "2d8 + 2",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 2) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 2) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Claw",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "3",
+  "charisma": 6,
+  "charismaModifier": -2,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 13,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": [
+    "ion and kinetic from unenhanced weapons"
+  ],
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [
+    "Energy"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    3
+  ],
+  "dexterity": 18,
+  "dexterityModifier": 4,
+  "experiencePoints": 700,
+  "flavorText": "",
+  "hitPointRoll": "8d10 + 16",
+  "hitPoints": 60,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "�"
+  ],
+  "name": "Narglatch",
+  "rowKey": "Narglatch",
+  "savingThrows": [
+    "Dex +7"
+  ],
+  "sectionText": "The narglatch is a stealthy, feline, apex predator which can be found in diverse environments, such as the Gungan swamps of Naboo or the frozen tundras of its native Orto Plutonia. Escaped narglatches are a threat on Coruscant.  The narglatch are considered to be sacred by the indigenous Talz, who use them as mounts and a source of food.***Biology & Appearance.*** The narglatch male had additional fleshy spikes, while females were smoother. They both had non-retractable claws and a fan-like tail that acted as a rudder during high-speed chases and turns. The narglatch also had densely padded feet that made for silent footfalls.A pregnant narglatch always gave birth to twins, one of each gender. Since young narglatch could hunt immediately upon birth, mothers abandoned them. ***Behavior.*** Cubs hunted together until maturity, making themselves less vulnerable to such Naboo creatures, as saw-toothed granks, veermoks, and even more mature male narglatch. As they approached maturity, the cubs separated.A solitary hunter, narglatch silently stalked and quickly killed its prey, usually kaadu or jimvu. Narglatch generally avoided deep water, although they were capable swimmers should the need arise. One of the few creatures they actively avoided were zalaacas.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 12"
+  ],
+  "size": "Large",
+  "skills": [
+    "Stealth +10",
+    "Perception +5"
+  ],
+  "speed": 60,
+  "speeds": "60 ft., climb 50 ft.",
+  "strength": 15,
+  "strengthModifier": 2,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 15,
+  "wisdomModifier": 2
+}

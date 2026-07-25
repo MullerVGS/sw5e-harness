@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 425,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightdagger",
+  "properties": [
+    "Finesse",
+    "hidden",
+    "light",
+    "luminous",
+    "thrown (range 20/60)"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Hidden": "hidden",
+    "Light": "light",
+    "Luminous": "luminous",
+    "Range": "thrown (range 20/60)"
+  },
+  "rowKey": "Lightdagger",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleLightweapon",
+  "weight": "1"
+}

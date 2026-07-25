@@ -1,0 +1,300 @@
+{
+  "bondOptions": [
+    {
+      "description": "I am fiercely loyal to those with whom I work.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "In my birth laboratory, I discovered something that could endanger the world.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I spend money freely and live life to the fullest, knowing that tomorrow I might die.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I live for the thrill of the hunt.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I owe my instructor a great debt for forging me into the person I am today.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "One day I will return to my home planet and prove that I am their greatest creation.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of clothes appropriate to your duties, a trinket related to your DNA-donor, and 150 credits",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Athlete",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Quick-Fingered",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Survivalist",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Force-Sensitive",
+      "roll": 8
+    }
+  ],
+  "featureName": "A Life Not Lived",
+  "featureRowKeys": null,
+  "featureText": "Being a clone, you were born from the existence of another. Flashes of deeds you never did, of people you have never met and of information you have never learned sporadically appear. You may be confused with your DNA-Donor by others, being befriended by, or made enemies of, people you have never before met. The exact nature of these revelations depends on the nature of your DNA-Donor; they might lead to a site that only one other has ever seen, some long-forgotten fact, relic or weapon from the past that could reshape the present, or even information that would be damaging to the people who created you.\r\n",
+  "features": null,
+  "flavorDescription": "The background of your DNA-Donor often shapes a clone's path in life.\r\n\r\n|d20|Donor's Background|\r\n|:---:|:-----------:|\r\n|1|Agent|\r\n|2|Bounty Hunter|\r\n|3|Criminal|\r\n|4|Entertainer|\r\n|5|Force Adept|\r\n|6|Gambler|\r\n|7|Investigator|\r\n|8|Jedi|\r\n|9|Mandalorian|\r\n|10|Mercenary|\r\n\r\n|d20|Donor's Background |\r\n|:---:|:-----------:|\r\n|11|Noble|\r\n|12|Nomad|\r\n|13|Outlaw|\r\n|14|Pirate|\r\n|15|Scientist|\r\n|16|Scoundrel|\r\n|17|Sith|\r\n|18|Smuggler|\r\n|19|Soldier|\r\n|20|Spacer|\r\n",
+  "flavorName": "DNA-Donor",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "Agent",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Bounty Hunter",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Criminal",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Entertainer",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Force Adept",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Gambler",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Investigator",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Jedi",
+      "roll": 8
+    },
+    {
+      "description": null,
+      "name": "Mandalorian",
+      "roll": 9
+    },
+    {
+      "description": null,
+      "name": "Mercenary",
+      "roll": 10
+    },
+    {
+      "description": null,
+      "name": "Noble",
+      "roll": 11
+    },
+    {
+      "description": null,
+      "name": "Nomad",
+      "roll": 12
+    },
+    {
+      "description": null,
+      "name": "Outlaw",
+      "roll": 13
+    },
+    {
+      "description": null,
+      "name": "Pirate",
+      "roll": 14
+    },
+    {
+      "description": null,
+      "name": "Scientist",
+      "roll": 15
+    },
+    {
+      "description": null,
+      "name": "Scoundrel",
+      "roll": 16
+    },
+    {
+      "description": null,
+      "name": "Sith",
+      "roll": 17
+    },
+    {
+      "description": null,
+      "name": "Smuggler",
+      "roll": 18
+    },
+    {
+      "description": null,
+      "name": "Soldier",
+      "roll": 19
+    },
+    {
+      "description": null,
+      "name": "Spacer",
+      "roll": 20
+    }
+  ],
+  "flavorText": "You are a miracle of science. A creature born not from love or passion, but from logic and machinery. Created in a laboratory, you are a perfect genetic replica of your DNA-Donor, whomever that is. ",
+  "flawOptions": [
+    {
+      "description": "I secretly believe that everyone is beneath me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I write exceptionally bad poetry and recite it at inopportune times.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I struggle with individuality, those who see me as unique I would die for.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "Every social situation I'm in seems to lead to my asking rude personal questions.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I have trouble trusting in my allies.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I invest so much time into planning that I can't bring myself to deviate from the plan, even when it is needed.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I always try to help those in need, no matter what the personal cost. (Light)",
+      "name": "Charity",
+      "roll": 1
+    },
+    {
+      "description": "Emotions must not cloud our sense of what is right and true, or our logical thinking. (Lawful)|",
+      "name": "Logic",
+      "roll": 2
+    },
+    {
+      "description": "Meddling in the affairs of others only causes trouble. (Balanced)",
+      "name": "Live and Let Live",
+      "roll": 3
+    },
+    {
+      "description": "Chains are meant to be broken, as are those who would forge them. (Chaotic)",
+      "name": "Freedom",
+      "roll": 4
+    },
+    {
+      "description": "I will do whatever it takes to be recognized as the best. (Dark)",
+      "name": "Pride",
+      "roll": 5
+    },
+    {
+      "description": "I'm determined to make something of myself. (Any)",
+      "name": "Aspiration",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Clone",
+  "personalityTraitOptions": [
+    {
+      "description": "I speak rarely but mean every word I say.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I laugh loudly and see the humor in stressful situations.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I prefer to solve problems without violence, but I finish fights decisively.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I enjoy being out in nature; poor weather never sours my mood.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I am dependable.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I am always working on some project or other.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I'm always picking things up, absently fiddling with them, and sometimes accidentally breaking them.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I bluntly say what others are hinting at or hiding.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Clone",
+  "skillProficiencies": "Choose two from Athletics, Lore, Sleight of Hand and Survival",
+  "suggestedCharacteristics": "A clone's demeanor often, though not always, matches that of their DNA-Donor. Is it nature, or is it nurture?",
+  "toolProficiencies": "Your choice of geneticist's implements, security kit, or slicer's kit"
+}

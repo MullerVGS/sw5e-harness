@@ -1,0 +1,87 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Constitution"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Force-sensitivity, unique technology, six green tongues",
+  "eyeColorOptions": "Black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nThe aing-tii are a species of sentient, toothless mammals who stand on two clawed feet with two spindly arms, each with three large digits. Their bodies are covered in jointed white, bony plates covered in unique painted motifs. The aing-tii head is small and juts out perpendicularly from their chest, featuring two large eyes and six long, thin, green tongues extending from their mouths. They have a long, prehensile tail. The species is incapable of producing sound and conveys information via tasting, smelling and touching each other with their tongues.\r\n\r\n### Society and Culture\r\nThe aing-tii are native to a planet whose location in the Kathol Rift is a closely guarded secret. Although in a dangerous area of space, the majority of Aing-Tii never leave their homeworld nor have any contact with the outside world. Those who do�commonly called aing-tii warrior monks�are often xenophobic and reclusive. The monks spend their entire lives performing errands for their gods, in the hope that they will receive \"an answer\" from them. The aing-tii hate slavery, and often attack slavers who roam the Kathol Outback.\r\n\r\nWhile the aing-tii are Force-sensitive, they avoid wielding the Force, which they see as sacred. The aing-tii believe that everything is somehow guided by the Force. They do not believe in the light or dark sides of the Force. Instead, they hold that there are many different aspects to the Force.\r\n\r\n### Names\r\nAing-tii names are, in reality, non-verbal and only truly understandable via taste, smell, and touch.  The few aing-tii who have been known to the outside world have used translators to convey an auditory identifier. \r\n\r\n**Male Names.** Ben'Sur, Looshen'Fel, Tadar'Ro\r\n\r\n**Female Names.** Kulan'Pa, Laman'So, Te'Nuriel ",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'7\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Aing-Tii homeworld in the Kathol Rift",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aing-tii.png"
+  ],
+  "language": "Non-verbal communication  via taste, smell, and touch",
+  "manufacturer": null,
+  "name": "Aing-Tii",
+  "rowKey": "Aing-Tii",
+  "size": "Medium",
+  "skinColorOptions": "White",
+  "traits": [
+    {
+      "description": "Your Wisdom score increases by 2, and your Constitution score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Aing-tii reach adulthood in their late teens and live more than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Aing-tii's foreign nature causes them to be hard to understand. Most aing-tii tend toward neutral light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Aing-tii typically stand 6 to 7 feet tall and generally weigh about 200 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have thick armored plates. While you are unarmored or wearing light armor, your AC is 13 + your Dexterity modifier.",
+      "name": "Armored Plates"
+    },
+    {
+      "description": "Aing-tii have a natural attunement for the Force, which makes them resistant to its powers. You have advantage on Wisdom and Charisma saving throws against force powers.",
+      "name": "Closed Mind"
+    },
+    {
+      "description": "You know the *force push/pull* at-will force power. Wisdom or Charisma (your choice) is your forcecasting ability for this power.",
+      "name": "Force-Sensitive"
+    },
+    {
+      "description": "You have supreme control over your tail and can use it to manipulate objects as well as your hands.",
+      "name": "Prehensile Tail"
+    },
+    {
+      "description": "You are proficient in the Lore skill.",
+      "name": "Wisdom of the Elders"
+    },
+    {
+      "description": "You can understand, read, and write Galactic Basic, and the non-verbal communication of the aing-tii. However, you cannot speak or make noise verbally.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "145 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

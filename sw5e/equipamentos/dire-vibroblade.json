@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 550,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Dire vibroblade",
+  "properties": [
+    "Dexterity 13",
+    "dire 1",
+    "versatile (1d10)"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 13",
+    "Dire": "dire 1",
+    "Versatile": "versatile (1d10)"
+  },
+  "rowKey": "Dire vibroblade",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "7"
+}

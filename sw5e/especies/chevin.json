@@ -1,0 +1,83 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Constitution"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Stocky build, large heads, long snouts, long arms, three-fingered hands, four-toed feet",
+  "eyeColorOptions": "Black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nChevin have long snouts which hang down nearly to their ankles. Combined with their intellect, this makes them skilled hunters of animals such as backshin, because they can smell out their prey or feed while keeping their eyes on the horizon. It is also their hunting prowess which allowed them to dominate their homeworld and conquer the Chevs. Chevin have thick legs, massive wide bodies, thin rope-like tails, and arms so long their three-fingered hands often brushed the ground.\r\n\r\n### Society and Culture\r\nChevin live in small, mobile communities, with homes mounted on great wheeled carts. Even after they gained access to galactic technology, they continued to live as nomads (though more affluent Chevin mounted their lodges on large repulsorlift vehicles instead.) Their Chev slaves are usually forced to follow on foot. Nomadic groups of Chevin keep in touch via comlinks, and often converge on a single location to deal with danger.\r\n\r\nThe only Chevin settlements that stay in place for more than one standard month are the Government Villages, where Chevin dictators live with their hand-picked advisors. Even these settlements are movable when necessary. Each of the roughly two dozen Government Villages rules a Chevin nation.\r\n\r\n### Names\r\nChevin names do not vary significantly based on gender. Surnames are based on community.\r\n\r\n**First Names.** Buula, Ephant, Perre, Phylus, Reseros\r\n\r\n**Surnames.** Meh, Mon, Nen, Needmo, Phrusaani",
+  "hairColorOptions": "Black, brown, blond, grey, or white (usually with age)",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'9\"",
+  "heightRollMod": "+2d12\"",
+  "homeworld": "Vinsoth",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chevin.png"
+  ],
+  "language": "Chevin",
+  "manufacturer": null,
+  "name": "Chevin",
+  "rowKey": "Chevin",
+  "size": "Medium",
+  "skinColorOptions": "Grey",
+  "traits": [
+    {
+      "description": "Your Constitution score increases by 2, and your Wisdom score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Chevin reach adulthood in their thirties and live up to 200 years.",
+      "name": "Age"
+    },
+    {
+      "description": "Chevin warmongering and slavetrading cause them to tend toward the dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Chevin stand between 6 and 8 feet tall and weigh up to 300 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have a thick hide. While you are unarmored or wearing light armor, your AC is 13 + your Dexterity modifier. Additionally, your thick hide is naturally adapted to both hot and cold climates, as described in chapter 5 of the Dungeon Master's Guide.",
+      "name": "Hide"
+    },
+    {
+      "description": "You have advantage on Wisdom (Perception) checks that rely on hearing.",
+      "name": "Keen Hearing"
+    },
+    {
+      "description": "You are proficient in Survival.",
+      "name": "Nomadic"
+    },
+    {
+      "description": "Your skull is a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.",
+      "name": "Thick Skull"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Chevin. The Chevin language is characterized by grunts and low-pitched rumblings. Chevin typically have deep voices, even when speaking Basic.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "170 lb.",
+  "weightRollMod": "x(2d6) lb."
+}

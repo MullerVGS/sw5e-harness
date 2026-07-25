@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 375,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Shatter pistol",
+  "properties": [
+    "Slug cartridge (range 60/240)",
+    "light",
+    "reload 12",
+    "silent",
+    "strength 11"
+  ],
+  "propertiesMap": {
+    "Light": "light",
+    "Range": "Slug cartridge (range 60/240)",
+    "Reload": "reload 12",
+    "Silent": "silent",
+    "Strength": "strength 11"
+  },
+  "rowKey": "Shatter pistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "2"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Distant Subroutine",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "Premium",
+  "requiresAttunement": false,
+  "rowKey": "Distant Subroutine",
+  "searchableRarity": "Premium",
+  "subtype": "wristpad",
+  "text": "When you cast a power that has a range of 5 feet or greater, you can spend 1 additional tech point to double the range of the power.\r\n\r\nAlternatively, when you cast a power that has a range of touch, you can spend 1 additional tech point to make the range of the power 30 feet.\r\n\r\nYou can only spend a number of tech points in this way equal to your proficiency bonus. You regain the ability to do so when you complete a long rest. \r\n\r\nYou can use only one Subroutine modification on a power when you cast it, unless otherwise noted.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

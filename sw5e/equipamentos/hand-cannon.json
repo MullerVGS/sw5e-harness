@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1300,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Hand cannon",
+  "properties": [
+    "Brutal 1",
+    "slug cartridge (range 25/100)",
+    "reload 8",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Brutal": "Brutal 1",
+    "Range": "slug cartridge (range 25/100)",
+    "Reload": "reload 8",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Hand cannon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "10.5"
+}

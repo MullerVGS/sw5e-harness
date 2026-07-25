@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "High-Grade Cybernetic Arm",
+  "prerequisite": " Constitution 13",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "High-Grade Cybernetic Arm",
+  "searchableRarity": "Prototype",
+  "subtype": "replacement",
+  "text": "This augmentation replaces an arm.\r\n\r\nWhen you hit with a melee weapon attack using Strength with a weapon wielded by this arm, you gain a +1 bonus to the damage roll. Additionally, when you make a Strength (Athletics) check that involves this arm, you gain a +1 bonus to the check.\r\n\r\n**Side Effect:** You have disadvantage on melee weapon attacks and ability checks using Dexterity that involve this arm.\r\n\r\n_This arm replacement features enhanced strength._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

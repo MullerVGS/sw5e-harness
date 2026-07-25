@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Electrifying Oscillator",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Electrifying Oscillator",
+  "searchableRarity": "Prototype",
+  "subtype": "vibroweapon",
+  "text": "When you hit with the weapon, you can create an electronic burst. Each creature in a 15-foot cone centered on the creature you hit must make a DC 15 Dexterity saving throw, taking 1d8 lightning damage on a failed save or half as much on a successful one.\r\n\r\nOnce you've used this feature, you must complete a long rest before you can use it again.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Improved Subroutine",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "Premium",
+  "requiresAttunement": false,
+  "rowKey": "Improved Subroutine",
+  "searchableRarity": "Premium",
+  "subtype": "wristpad",
+  "text": "When you roll damage for a power, you can spend 1 additional tech point to reroll a number of the damage dice up to your Intelligence modifier (minimum of one). You must use the new rolls.\r\n\r\nYou can only spend a number of tech points in this way equal to your proficiency bonus. You regain the ability to do so when you complete a long rest. \r\n\r\nYou can use Improved Subroutine even if you have already used a different Subroutine modification during the casting of the power.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

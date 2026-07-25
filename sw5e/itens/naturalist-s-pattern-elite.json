@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Naturalist's Pattern (Elite)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Naturalist's Pattern (Elite)",
+  "searchableRarity": "Legendary",
+  "subtype": "clothing",
+  "text": "Your level of proficiency in Nature increases by five steps (to high mastery or from trained to grand mastery).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

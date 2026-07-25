@@ -1,0 +1,275 @@
+{
+  "casterRatio": 0.0,
+  "casterType": "None",
+  "classCasterType": "None",
+  "className": "Monk",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "featureRowKeys": null,
+  "features": null,
+  "imageUrls": [],
+  "leveledTable": {
+    "3": [
+      {
+        "key": "Tech Powers Known",
+        "value": "3"
+      },
+      {
+        "key": "Tech Points",
+        "value": "2"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "1st"
+      }
+    ],
+    "4": [
+      {
+        "key": "Tech Powers Known",
+        "value": "4"
+      },
+      {
+        "key": "Tech Points",
+        "value": "2"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "1st"
+      }
+    ],
+    "5": [
+      {
+        "key": "Tech Powers Known",
+        "value": "5"
+      },
+      {
+        "key": "Tech Points",
+        "value": "3"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "1st"
+      }
+    ],
+    "6": [
+      {
+        "key": "Tech Powers Known",
+        "value": "6"
+      },
+      {
+        "key": "Tech Points",
+        "value": "3"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "1st"
+      }
+    ],
+    "7": [
+      {
+        "key": "Tech Powers Known",
+        "value": "7"
+      },
+      {
+        "key": "Tech Points",
+        "value": "4"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "2nd"
+      }
+    ],
+    "8": [
+      {
+        "key": "Tech Powers Known",
+        "value": "8"
+      },
+      {
+        "key": "Tech Points",
+        "value": "4"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "2nd"
+      }
+    ],
+    "9": [
+      {
+        "key": "Tech Powers Known",
+        "value": "9"
+      },
+      {
+        "key": "Tech Points",
+        "value": "5"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "2nd"
+      }
+    ],
+    "10": [
+      {
+        "key": "Tech Powers Known",
+        "value": "10"
+      },
+      {
+        "key": "Tech Points",
+        "value": "5"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "2nd"
+      }
+    ],
+    "11": [
+      {
+        "key": "Tech Powers Known",
+        "value": "11"
+      },
+      {
+        "key": "Tech Points",
+        "value": "6"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "2nd"
+      }
+    ],
+    "12": [
+      {
+        "key": "Tech Powers Known",
+        "value": "12"
+      },
+      {
+        "key": "Tech Points",
+        "value": "6"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "2nd"
+      }
+    ],
+    "13": [
+      {
+        "key": "Tech Powers Known",
+        "value": "13"
+      },
+      {
+        "key": "Tech Points",
+        "value": "7"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "3rd"
+      }
+    ],
+    "14": [
+      {
+        "key": "Tech Powers Known",
+        "value": "14"
+      },
+      {
+        "key": "Tech Points",
+        "value": "7"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "3rd"
+      }
+    ],
+    "15": [
+      {
+        "key": "Tech Powers Known",
+        "value": "15"
+      },
+      {
+        "key": "Tech Points",
+        "value": "8"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "3rd"
+      }
+    ],
+    "16": [
+      {
+        "key": "Tech Powers Known",
+        "value": "16"
+      },
+      {
+        "key": "Tech Points",
+        "value": "8"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "3rd"
+      }
+    ],
+    "17": [
+      {
+        "key": "Tech Powers Known",
+        "value": "17"
+      },
+      {
+        "key": "Tech Points",
+        "value": "9"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "4th"
+      }
+    ],
+    "18": [
+      {
+        "key": "Tech Powers Known",
+        "value": "18"
+      },
+      {
+        "key": "Tech Points",
+        "value": "9"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "4th"
+      }
+    ],
+    "19": [
+      {
+        "key": "Tech Powers Known",
+        "value": "19"
+      },
+      {
+        "key": "Tech Points",
+        "value": "10"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "4th"
+      }
+    ],
+    "20": [
+      {
+        "key": "Tech Powers Known",
+        "value": "20"
+      },
+      {
+        "key": "Tech Points",
+        "value": "10"
+      },
+      {
+        "key": "Max Power Level",
+        "value": "4th"
+      }
+    ]
+  },
+  "leveledTableHeaders": [
+    "Level",
+    "Tech Powers Known",
+    "Tech Points",
+    "Max Power Level"
+  ],
+  "name": "Rakatan Order",
+  "rowKey": "Rakatan Order",
+  "text": "\r\nMonks of the Rakatan Order believe in the harmony of self with technology. They use tech to push themselves beyond their body's natural limits.\r\n\r\n### Techcasting\r\n_**Rakatan Order:** 3rd level_\r\nYou have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the tech powers list.\r\n\r\n#### Tech Powers Known\r\nYou learn 3 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the Rakatan Order Techcasting table. You may not learn a tech power of a level higher than your Max Power Level.\r\n\r\n#### Tech Points\r\nYou have a number of tech points equal to half of your monk level (rounded up), as shown in the Tech Points column of the Rakatan Order Techcasting table, + your Intelligence, Wisdom, or Charisma modifier (your choice). You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.\r\n\r\n#### Max Power Level\r\nMany tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Rakatan Order Techcasting table.\r\n\r\nYou may only cast tech powers at 4th-level once. You regain the ability to do so after a long rest.\r\n\r\n#### Techcasting Ability\r\nIntelligence, Wisdom, or Charisma is your techcasting ability for your tech powers (your choice). You use this ability whenever a power refers to your techcasting ability. Additionally, you use this ability modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.\r\n\r\n___\r\n\r\n**Tech save DC** = 8 + your proficiency bonus + your techcasting ability modifer\r\n\r\n___\r\n\r\n**Tech attack modifier** = your proficiency bonus + your techcasting ability modifer\r\n\r\n___\r\n\r\n#### Techcasting Focus\r\nYou use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.\r\n\r\n### Focused Tech\r\n_**Rakatan Order:** 6th level_\r\nYou can cast your tech powers using your focus points. When you do so, your maximum focus points are reduced by 1 until you complete a long rest.\r\n\r\nAdditionally, when you use a Focus feature, you gain the following tech enhancements. Each effect costs 1 tech point.\r\n\r\n***Flurry of Blows.*** When you hit with an attack with Flurry of Blows, you can deal an additional 1d8 damage of the same type.\r\n\r\n##### Rakatan Techcasting\r\n\r\n***Patient Defense.*** While under the effects of your Patient Defense, when you are hit by an attack, you can use your reaction and roll your Martial Arts die to increase your AC against the attack.\r\n\r\n***Step of the Wind.*** While under the effects of your Step of the Wind, you can become immune to the shocked condition, and have each slowed level only reduce your speed by 5 feet, unless it would reduce your speed to 0.\r\n\r\n### Harmonious Rakatan\r\n_**Rakatan Order:** 11th level_\r\nYou can use your Focus features using your tech points. When you do so, your maximum tech points are reduced by 1 until you complete a long rest.\r\n\r\nAdditionally, you are constantly under the effects of the *detect enhancement* tech power. As an action, you can cast the *analyze* tech power without expending tech points. When you do so, *detect enhancement* is suppressed and you can't do so again until you complete a short or long rest. \r\n\r\n### Tech Mastery\r\n_**Rakatan Order:** 17th level_\r\nYou learn and can cast one 5th-level tech power once per long rest without expending tech points. ",
+  "text2": null
+}

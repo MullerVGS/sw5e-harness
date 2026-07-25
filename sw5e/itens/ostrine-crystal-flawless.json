@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Ostrine Crystal (Flawless)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Ostrine Crystal (Flawless)",
+  "searchableRarity": "Legendary",
+  "subtype": "lightweapon",
+  "text": "When you deal damage with this weapon, you deal an additional 1d6 force, lightning, necrotic, poison, psychic, or sonic damage (chosen by the GM when generating this item).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

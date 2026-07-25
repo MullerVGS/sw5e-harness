@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Forged Ferricite Ascendancy Channel",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Forged Ferricite Ascendancy Channel",
+  "searchableRarity": "Artifact",
+  "subtype": "focus generator",
+  "text": "When you cast a force power of 1st-level or higher that deals damage, you can increase the damage by two and a half times (rounded down) the number of force points spent. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

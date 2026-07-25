@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You touch a creature. The target's speed increases by 10 feet until the power ends.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.",
+  "duration": "1 hour",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Burst of Speed",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Touch",
+  "rowKey": "Burst of Speed"
+}

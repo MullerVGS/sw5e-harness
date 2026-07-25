@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 200,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "This bolt-thrower ammunition deals 2d6 kinetic damage on a hit. Also on a hit, the creature must make a DC 14 Wisdom saving throw, taking 2d4 psychic damage on a failed save.\r\nAdditionally, on a failed save, a creature becomes frightened of you for 1 minute. At the start of an affected creature’s turn, it can repeat this save, ending the effect on a success.",
+  "equipmentCategory": "Ammunition",
+  "modes": [],
+  "name": "Bolt, Panic",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Bolt, Panic",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "0"
+}

@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1175,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Scatter blaster",
+  "properties": [
+    "Power cell (range 40/160)",
+    "burst 3",
+    "reload 12",
+    "strength 13",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Burst": "burst 3",
+    "Power Cell": "Power cell (range 40/160)",
+    "Reload": "reload 12",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Scatter blaster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "9.5"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Necklace of Determination",
+  "prerequisite": " at least 3 levels in monk",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Necklace of Determination",
+  "searchableRarity": "Prototype",
+  "subtype": "neck",
+  "text": "This item can hold a number of charges equal to half your monk level (rounded up). When you complete a long rest, this item regains all missing charges. When you would expend a focus point, you can instead expend a charge.\r\n\r\nWhen you reach 5th level in monk, when you use your Slow Fall feature, the amount is increased to ten times your monk level, instead of five.\r\n\r\nWhen you reach 11th level in monk, when you use your Deflect Missiles feature, you can add your Wisdom or Charisma modifier to the roll (your choice, a minimum of +1).\r\n\r\nWhen you reach 17th level in monk, you can add half your Dexterity modifier (rounded down) to your focus save DC and focus attack modifier.\r\n\r\n_This simple necklace comprised of a series of tiny gray beads hosts a single pale blue crystal that glows faintly._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

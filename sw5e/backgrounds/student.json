@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "It is my duty to protect my students.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I have an ancient text that holds terrible secrets that must not fall into the wrong hands.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I work to preserve a library, university, scriptorium, or monastery.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "My life's work is a series of tomes related to a specific field of lore.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I've been searching my whole life for the answer to a certain question.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I sold my soul for knowledge. I hope to do great deeds and win it back.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of common clothes, a datapad and 10 data cards, a book on the subject of your current study, and a pouch containing 100 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Investigator",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Naturalist",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Keen Mind",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Observant",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Healer",
+      "roll": 8
+    }
+  ],
+  "featureName": "Library Access",
+  "featureRowKeys": null,
+  "featureText": "Though others must often endure extensive interviews and significant fees to gain access to even the most common archives in your library, you have free and easy access to the majority of the library, though it might also have repositories of lore that are too valuable, powerful, or secret to permit anyone immediate access.\r\n\r\nYou have a working knowledge of your cloister's personnel and bureaucracy, and you know how to navigate those connections with some ease.\r\n\r\nAdditionally, you are likely to gain preferential treatment at other libraries across the galaxy, as professional courtesy shown to a fellow scholar.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "As a child, you were inquisitive when your playmates were possessive or raucous. In your formative years, you found your way to one of the galaxy's great institutes of learning, where you were apprenticed and taught that knowledge is a more valuable treasure than gold or gems. Now you are ready to leave your home- not to abandon it, but to quest for new lore to add to its storehouse of knowledge.\r\n\r\nThe most well-known of the galaxy's fonts of knowledge is the Library of the Republic. The great library is always in need of workers and attendants, some of whom rise through the ranks to assume roles of greater responsibility and prominence. You might be one of Coruscant's own, dedicated to the curatorship of what is likely the most complete body of lore and history in all the world.",
+  "flawOptions": [
+    {
+      "description": "I am easily distracted by the promise of information.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "Most people scream and run when they see a monster. I stop and take notes on its anatomy.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Unlocking an ancient mystery is worth the price of a civilization.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I overlook obvious solutions in favor of complicated ones.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I speak without really thinking through my words, invariably insulting others.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I can't keep a secret to save my life, or anyone else's.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "The path to power and self-improvement is through knowledge. (Neutral)",
+      "name": "Knowledge",
+      "roll": 1
+    },
+    {
+      "description": "What is beautiful points us beyond itself toward what is true. (Light)",
+      "name": "Beauty",
+      "roll": 2
+    },
+    {
+      "description": "Emotions must not cloud our logical thinking. (Lawful)",
+      "name": "Logic",
+      "roll": 3
+    },
+    {
+      "description": "Nothing should fetter the infinite possibility inherent in all existence. (Chaotic)",
+      "name": "No Limits",
+      "roll": 4
+    },
+    {
+      "description": "Knowledge is the path to power and domination. (Dark)",
+      "name": "Power",
+      "roll": 5
+    },
+    {
+      "description": "The goal of a life of study is the betterment of oneself. (Any)",
+      "name": "Self-Improvement",
+      "roll": 6
+    }
+  ],
+  "languages": "Two of your choice",
+  "name": "Student",
+  "personalityTraitOptions": [
+    {
+      "description": "I use polysyllabic words that convey the impression of great erudition.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I've read every book in the world's greatest libraries�or I like to boast that I have.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I'm used to helping out those who aren't as smart as I am, and I patiently explain anything and everything to others.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "There's nothing I like more than a good mystery.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm willing to listen to every side of an argument before I make my own judgment.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I... speak... slowly... when talking... to idiots,... which... almost... everyone... is... compared... to me.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I am horribly, horribly awkward in social situations.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I'm convinced that people are always trying to steal my secrets.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Student",
+  "skillProficiencies": "Choose two from Insight, Lore, Investigation, and Nature",
+  "suggestedCharacteristics": "Cloistered scholars are defined by their extensive studies, and their characteristics reflect this life of study. Devoted to scholarly pursuits, they value knowledge highly � as a worthy goal in itself, or as a means to a desirable end.",
+  "toolProficiencies": null
+}

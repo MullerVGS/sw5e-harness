@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 725,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Crossguard saber",
+  "properties": [
+    "Defensive 1",
+    "dexterity 13",
+    "heavy",
+    "luminous",
+    "versatile (1d10)"
+  ],
+  "propertiesMap": {
+    "Defensive": "Defensive 1",
+    "Dexterity": "dexterity 13",
+    "Heavy": "heavy",
+    "Luminous": "luminous",
+    "Versatile": "versatile (1d10)"
+  },
+  "rowKey": "Crossguard saber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "3.25"
+}

@@ -1,0 +1,11 @@
+{
+  "attributesIncreased": [
+    "Any"
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "name": "Formfighting Dabbler",
+  "prerequisite": "The ability to cast force powers",
+  "rowKey": "Formfighting Dabbler",
+  "text": "You've dabbled in the basics of the known forms of lightsaber combat. You gain the following benefits:\r\n- Increase an ability score of your choice by 1, to a maximum of 20.\r\n- You learn one lightsaber form, detailed later in this chapter. If you already know at least one lightsaber form, you instead learn three lightsaber forms. If you already know at least three lightsaber forms, you instead learn seven lightsaber forms. If you already know at least ten lightsaber forms, you instead learn the remaining forms.\r\n"
+}

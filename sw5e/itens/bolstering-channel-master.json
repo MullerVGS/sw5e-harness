@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Bolstering Channel (Master)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Bolstering Channel (Master)",
+  "searchableRarity": "Legendary",
+  "subtype": "focus generator",
+  "text": "This item gains the bolstering 10 property. If it already has the bolstering property, its bolstering number increases by 10, to a maximum of 12.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,27 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1375,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Saberstaff",
+  "properties": [
+    "Modal (double-saber and tech-staff)"
+  ],
+  "propertiesMap": {
+    "Double": "Modal (double-saber and tech-staff)"
+  },
+  "rowKey": "Saberstaff_ExoticLightweapon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "ExoticLightweapon",
+  "weight": "0"
+}

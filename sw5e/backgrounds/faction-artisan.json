@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "The workshop where I learned my trade is the most important place in the world to me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I created a great work for someone, and then found them unworthy of it; I now search for someone worthy.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I owe my faction a great debt for forging me into the person I am today.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I pursue wealth to secure someone's love.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "One day I will return to my faction and prove that I am the greatest artisan of them all.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I will get revenge on the Dark forces that destroyed my place of business and ruined my livelihood.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of tools (one of your choice), a letter of introduction from your faction, a set of traveler's clothes, and a belt pouch containing 150 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Brawny",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Charmer",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Techie",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Haggler",
+      "roll": 8
+    }
+  ],
+  "featureName": "Faction Membership",
+  "featureRowKeys": null,
+  "featureText": "As an established and respected member of a faction, you can rely on certain benefits that membership provides. Your fellow faction members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a factionhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.\r\n\r\nfactions often wield tremendous political power. If you are accused of a crime, your faction will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the faction, if you are a member in good standing. You must pay dues of 50 cr per month to the faction. Your dues must be current to remain in the faction's good graces.\r\n",
+  "features": null,
+  "flavorDescription": "factions are generally found in cities large enough to support several artisans practicing the same trade. However, your faction might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your GM to determine the nature of your faction.\r\n",
+  "flavorName": "Faction Business",
+  "flavorOptions": null,
+  "flavorText": "You are a member of an artisan's faction, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your faction, until you became a master in your own right.",
+  "flawOptions": [
+    {
+      "description": "I'll do anything to get my hands on something rare or priceless.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I'm quick to assume that someone is trying to cheat me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "No one must ever learn that I once stole money from faction coffers.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'm never satisfied with what I have� I always want more.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I would kill to acquire a noble title.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful)",
+      "name": "Community",
+      "roll": 1
+    },
+    {
+      "description": "My talents were given to me so that I could use them to benefit the world. (Light)",
+      "name": "Generosity",
+      "roll": 2
+    },
+    {
+      "description": "Everyone should be free to pursue his or her own livelihood. (Chaotic)",
+      "name": "Freedom",
+      "roll": 3
+    },
+    {
+      "description": "I'm only in it for the money. (Dark)",
+      "name": "Greed",
+      "roll": 4
+    },
+    {
+      "description": "I'm committed to the people I care about, not to ideals. (Neutral)",
+      "name": "People",
+      "roll": 5
+    },
+    {
+      "description": "I work hard to be the best there is at my craft. (Any)",
+      "name": "Aspiration",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Faction Artisan",
+  "personalityTraitOptions": [
+    {
+      "description": "I believe that anything worth doing is worth doing right. I can't help it� I'm a perfectionist.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I'm a snob who looks down on those who can't appreciate fine art.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I always want to know how things work and what makes people tick.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'm full of witty aphorisms and have a proverb for every occasion.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm rude to people who lack my commitment to hard work and fair play.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I like to talk at length about my profession.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I don't part with my money easily and will haggle tirelessly to get the best deal possible.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I believe I'm well known for my work, and I'm always taken aback when people haven't heard of me.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Faction Artisan",
+  "skillProficiencies": "Choose two from Athletics, Insight, Persuasion, and Technology",
+  "suggestedCharacteristics": "faction artisans are among the most ordinary people in the world�until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.",
+  "toolProficiencies": "One type of artisan's implements, biochemist's kit, or chef's kit"
+}

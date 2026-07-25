@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1000,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A holotrace device is a wrist-worn gadget that can be used to trace a holographic transmission back to its source.",
+  "equipmentCategory": "Communications",
+  "modes": [],
+  "name": "Holotrace device",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Holotrace device",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "5"
+}

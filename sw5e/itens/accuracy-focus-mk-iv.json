@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Accuracy Focus Mk IV",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Accuracy Focus Mk IV",
+  "searchableRarity": "Advanced",
+  "subtype": "blaster",
+  "text": "You gain a +3 bonus to attack rolls made with this weapon.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

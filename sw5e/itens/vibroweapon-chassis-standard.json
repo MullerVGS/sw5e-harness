@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "AnyVibroweapon",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Vibroweapon Chassis (Standard)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": true,
+  "rowKey": "Vibroweapon Chassis (Standard)",
+  "searchableRarity": "Standard",
+  "subtype": "any vibroweapon",
+  "text": "_**Requires attunement**_\r\nThis modifiable vibroweapon chassis comes with vacant modification slots for vibroweapon modifications. It can house modifications of standard rarity.",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

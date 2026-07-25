@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "A storm of cryogenic energy encompasses the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw. A creature takes 2d8 kinetic damage and 4d6 cold damage on a failed save, or half as much damage on a successful one.\r\n\r\nThe storm's area of effect becomes difficult terrain until the end of your next turn.\r\n\r\n***Overcharge Tech.*** When you cast this power using a tech slot of 5th level or higher, the kinetic damage increases by 1d8 for each slot level above 4th.",
+  "duration": "Instantaneous",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 4,
+  "name": "Cryogenic Storm",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "120 feet",
+  "rowKey": "Cryogenic Storm"
+}

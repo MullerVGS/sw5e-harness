@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Fiber-Alloy Guard",
+  "prerequisite": " Two-handed property",
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Fiber-Alloy Guard",
+  "searchableRarity": "Advanced",
+  "subtype": "vibroweapon",
+  "text": "This weapon loses the two-handed property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,133 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 16,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The assassin droid deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin droid that isn't incapacitated and the assassin doesn't have disadvantage on the roll.",
+      "descriptionWithLinks": " The assassin droid deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin droid that isn't incapacitated and the assassin doesn't have disadvantage on the roll.",
+      "monsterBehaviorType": "Trait",
+      "name": "Sneak Attack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "1/Turn"
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "RangedWeapon",
+      "damage": "9",
+      "damageRoll": "1d12+3",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 9 (1d12+3) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 9 (1d12+3) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Sniper Rifle",
+      "numberOfTargets": "one target.",
+      "range": "range 150/600 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 2,
+      "attackType": "MeleeWeapon",
+      "damage": "4",
+      "damageRoll": "1d4+2",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Stock Strike",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "3",
+  "charisma": 7,
+  "charismaModifier": -1,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 15,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 17,
+  "dexterityModifier": 3,
+  "experiencePoints": 700,
+  "flavorText": "The IG series is a series of droids manufactured by Holowan Laboratories. They are often used as both bodyguards and assassins.",
+  "hitPointRoll": "9d8+18",
+  "hitPoints": 58,
+  "imageUrls": [],
+  "intelligence": 14,
+  "intelligenceModifier": 2,
+  "languages": [
+    "Binary",
+    "Galactic Basic"
+  ],
+  "name": "Ig Series, Model 86",
+  "rowKey": "Ig Series, Model 86",
+  "savingThrows": null,
+  "sectionText": "Assassin droids are a type of droid built specifically for the purpose of assassination. These droids generally perform with unflinching loyalty to their masters, but rogue assassin droids are not unknown. Since their missions generally require a far higher degree of independent skill, savvy, and judgment than normally possessed by simple war droids, their programming subroutines, circuitry, and memory cores are of correspondingly higher sophistication.Equipped with an array of weapons, assassin droids are also used as elite infantry when the need for skillful and quickly adaptable soldiers with unquestionable loyalty arises.An inordinate number of assassin droids have achieved sentient independence, including IG-88 and C-3PX, presumably due to the higher level of autonomy incorporated into their processor design. These droids typically fund their independent existences through the use of their innate abilities, often plying their trade as bounty hunters.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 13"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Perception +3",
+    "Stealth +5",
+    "Survival +3"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 14,
+  "strengthModifier": 2,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 13,
+  "wisdomModifier": 1
+}

@@ -1,0 +1,91 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Charisma"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Stocky builds, trunklike noses, floppy ears, small mouths, brightly dyed fur",
+  "eyeColorOptions": "Yellow",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nOrtolans are squat, heavily-built humanoid bipeds with long, trunklike noses and beady black eyes. They possess floppy ears, which are extremely sensitive to sound waves. They have two hands, each ending in four chubby fingers and a thumb, which is not opposable. A thick, baggy hide covered in fuzz resembling velvet hangs off of the Ortolan body. Ortolans have a keen sense of smell to help them forage for food. In fact, they are handicapped in their business affairs by their attachment to food, sometimes accepting otherwise unfavorable contracts when promised enough to eat. Their twin obsessions are food and music; offworld, many Ortolans find success as chefs or musicians. \r\n\r\n### Society and Culture\r\nOrtolan society is reasonably industrialised, though not as technologically advanced as other species. Despite this, their economy is mostly based on barter, with credits primarily used to trade with offworlders. Education is the responsibility of their parents, though gifted youngsters are often traded to other families to get specialized education. \r\n\r\nWhile most Ortolans appear to have blue skin, Ortolans are actually covered in short velvety fur which they often dyed in bright colors, most often blue and pink.  This tradition began when a Devaronian trader tried to sell Ortolans a shipment of food dyes�they considered dyeing their food a waste of time, but found dyed fur to be quite stylish.\r\n\r\n### Names\r\nOrtolan names are generally short with big sounds. Female names are typically softer. Surnames are familial.\r\n\r\n**Male names.** Donmb, Hegh, Nax, Parm, Teeb\r\n\r\n**Female names.** Bedla, Folfe, Nelni, Phoff, Sallo\r\n\r\n**Surnames.** Bigek, Lubum, Nad, Rojool, Somo ",
+  "hairColorOptions": "Light colors",
+  "halfHumanTableEntries": {},
+  "heightAverage": "2'10\"",
+  "heightRollMod": "+2d4\"",
+  "homeworld": "Orto",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ortolan.png"
+  ],
+  "language": "Ortolan",
+  "manufacturer": null,
+  "name": "Ortolan",
+  "rowKey": "Ortolan",
+  "size": "Small",
+  "skinColorOptions": "Light colors",
+  "traits": [
+    {
+      "description": "Your Intelligence score increases by 2, and your Charisma score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Ortolans are considered adults at the age of seven and typically live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Ortolans' love of food and music causes them to tend toward chaotic light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Ortolans stand around 3 to 4 feet tall and weigh about 55 lbs. Regardless of your position in that range, your size is Small.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 25 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Whenever you make a Wisdom (Survival) check to forage for food you are considered to have expertise in the Survival skill.",
+      "name": "Foragers"
+    },
+    {
+      "description": "As an action on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that can see you. Once you use this trait, you can't use it again until you finish a short or long rest.",
+      "name": "Grovel, Cower, and Beg"
+    },
+    {
+      "description": "Your thick hide is naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide.",
+      "name": "Hide"
+    },
+    {
+      "description": "You have advantage on Wisdom (Perception) checks that involve hearing or smell.",
+      "name": "Keen Hearing and Smell"
+    },
+    {
+      "description": "You have proficiency in Performance and one musical instrument of your choice.",
+      "name": "Musical"
+    },
+    {
+      "description": "Your small stature makes it hard for you to wield bigger weapons. You can't use heavy shields. Additionally, you can't use martial weapons with the two-handed property unless it also has the light property, and if a martial weapon has the versatile property, you can only wield it in two hands.",
+      "name": "Undersized"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Ortolan. Ortolan is characterized by its grunts and hoots.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "50 lb.",
+  "weightRollMod": "x1 lb."
+}

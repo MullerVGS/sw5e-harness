@@ -1,0 +1,23 @@
+{
+  "ac": "12 + Dex modifier",
+  "armorClassification": "Light",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 450,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Fiber armor is a type of armor that offers more protection than the lighter combat suit. Fiber armor is heavier overall than combat suits, and not quite as flexible, but many consider the trade-offs worthwhile. It is a good source of defense from physical attacks and light blaster fire.",
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Fiber armor",
+  "properties": [],
+  "propertiesMap": {},
+  "rowKey": "Fiber armor",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "13"
+}

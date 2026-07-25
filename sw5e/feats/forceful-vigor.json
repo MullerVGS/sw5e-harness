@@ -1,0 +1,11 @@
+{
+  "attributesIncreased": [
+    "Strength"
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "name": "Forceful Vigor",
+  "prerequisite": null,
+  "rowKey": "Forceful Vigor",
+  "text": "Your strength and virility rarely go unnoticed, often to the point of distraction. You gain the following benefits:\r\n- Increase your Strength score by 1, to a maximum of 20.\r\n- You can use your Strength modifier instead of your Constitution modifier when making Constitution checks.\r\n- When you would make a Constitution saving throw, you can instead make a Strength saving throw. You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses of this feature when you complete a long rest.\r\n"
+}

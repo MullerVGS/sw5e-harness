@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Surveillance Implant",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Surveillance Implant",
+  "searchableRarity": "Standard",
+  "subtype": "replacement",
+  "text": "This augmentation replaces your face.\r\n\r\nThis implant includes a headcomm with a scrambler that automatically encodes messages sent to a specified recipient commlink or receiver.\r\n\r\n**Side Effect:** You can not use portable personal devices used for communication or jamming, such as a commlink or holotrace device, due to interference with this implant.\r\n\r\n_This augmentation appears as a crescent around one eye paired with two small dots above the eyebrow._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

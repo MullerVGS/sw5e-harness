@@ -1,0 +1,79 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "distinctions": "Diminutive stature, mood-sensitive fur",
+  "eyeColorOptions": "Brown or green",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nBothans are a short species of furry humanoids. Bothans are covered in fur which shifted in response to their emotional state by way of gentle ripplings. It is this trait, named Wrendui, that betrays them when members of their kind intend to be duplicitous in their dealings with others. They possess tapered pointed ears, and both males and females were known to sport beards. \r\n\r\nBothans are able to interbreed with the other species, though it is rare that they do so. Such hybrids somewhat resembled baseline humans with haunches, hooves, fur, pointed ears and a long tail.\r\n\r\n### Society and Culture\r\nBothan culture is guided by the philosophy and principles from the ancient text known as The Way, written by Golm Fervse'dra. In this \"Bothan Way\", the pursuit of power and influence is paramount. Thus, individual bothans put their own political and economic success above all other concerns, and as a species, bothans put their own advancement ahead of other intergalactic interests. The volume of backstabbing, subtle character assassination and political maneuvering in bothan society is dizzying, and results in many species stereotyping bothans as untrustworthy. In fact, most bothans are habitually paranoid, believing that anyone who's not working with them, is working against them. In times of crisis, the focus of bothan society shifts to a survivalist state known as \"ar'krai\". When engaged in ar'krai, all fit bothans volunteer to defend their species from impending extinction. \r\n\r\n### Names\r\nMale bothan names are often trickey while female's are soft. Surnames are familial.\r\n\r\n**Male Names.** Garc, Hibriak, Nith, Tramom, Ventagt \r\n\r\n**Female Names.** Ceerriah, Dhaim, Gnam, Meenn, Vit \r\n\r\n**Surnames.** Bwif'livi, Gra'kit, Hia'faitu, Main'dil",
+  "hairColorOptions": "Black, brown, or gray (with age)",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'3\"",
+  "heightRollMod": "+2d4\"",
+  "homeworld": "Bothawui",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bothan.png"
+  ],
+  "language": "Bothese",
+  "manufacturer": null,
+  "name": "Bothan",
+  "rowKey": "Bothan",
+  "size": "Medium",
+  "skinColorOptions": "Brown",
+  "traits": [
+    {
+      "description": "Your Intelligence score increases by 2, and your Dexterity score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Bothans reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Bothans' duplicitous nature causes them to tend toward the dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Bothans stand 4-5 feet tall and weigh under 100 pounds. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You can attempt to hide even when you are obscured only by a creature that is your size or larger than you.",
+      "name": "Naturally Stealthy"
+    },
+    {
+      "description": "You can take the Disengage or Hide action as a bonus action on each of your turns.",
+      "name": "Nimble Escape"
+    },
+    {
+      "description": "You are proficient in the Insight and Deception skills.",
+      "name": "Shrewd"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Bothese. Bothese had a great influence on the forming of Galactic Basic; the two languages share many cognates.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "60 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

@@ -1,0 +1,11 @@
+{
+  "attributesIncreased": [
+    "Charisma"
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "name": "Haggler",
+  "prerequisite": null,
+  "rowKey": "Haggler",
+  "text": "Your skills at bartering have granted you the following benefits:\r\n- Increase your Charisma score by 1 up to a maximum of 20. \r\n- You have advantage on Charisma (Persuasion) and Charisma (Deception) checks when attempting to barter or trade. \r\n- You are always aware of the current monetary value for any unenhanced or common enhanced item. Whenever you identify an item, you gain a rough estimate of its current monetary value.\r\n"
+}

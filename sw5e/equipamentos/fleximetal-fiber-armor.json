@@ -1,0 +1,29 @@
+{
+  "ac": "12 + Dex modifier",
+  "armorClassification": "Light",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1450,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Fleximetal fiber armor",
+  "properties": [
+    "Avoidant 1",
+    "strength 11"
+  ],
+  "propertiesMap": {
+    "Avoidant": "Avoidant 1",
+    "Strength": "strength 11"
+  },
+  "rowKey": "Fleximetal fiber armor",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "13"
+}

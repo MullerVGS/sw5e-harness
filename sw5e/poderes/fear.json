@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You awaken the sense of mortality in one creature you can see within range. The target must succeed on a Wisdom saving throw or become frightened for the duration. A target with 25 hit points or fewer makes the saving throw with disadvantage. A frightened creature can repeat this save at the end of each of its turns, ending this effect on a success. This power has no effect on constructs or droids.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Dark",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Fear",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "60 feet",
+  "rowKey": "Fear"
+}

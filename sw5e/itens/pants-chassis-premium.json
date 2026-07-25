@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Pants Chassis (Premium)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": true,
+  "rowKey": "Pants Chassis (Premium)",
+  "searchableRarity": "Premium",
+  "subtype": "legs",
+  "text": "_**Requires attunement**_\r\nThis modifiable clothing chassis comes with vacant modification slots for clothing modifications. It can house modifications of premium rarity or lower.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

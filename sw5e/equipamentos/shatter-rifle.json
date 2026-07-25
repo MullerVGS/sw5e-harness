@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 750,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Shatter rifle",
+  "properties": [
+    "Slug cartridge (range 100/400)",
+    "reload 8",
+    "silent",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Range": "Slug cartridge (range 100/400)",
+    "Reload": "reload 8",
+    "Silent": "silent",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Shatter rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "9.5"
+}

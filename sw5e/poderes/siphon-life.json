@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "A tendril of inky darkness reaches out from you, touching a creature you can see within range to drain life from it. The target must make a Dexterity saving throw. On a successful save, the target takes 2d8 necrotic damage, and the power ends. On a failed save, the target takes 4d8 necrotic damage, and until the power ends, you can use your action on each of your turns to automatically deal 4d8 necrotic damage to the target. The power ends if you use your action to do anything else, if the target is ever outside the power's range, or if the target has total cover from you.\r\n\r\nWhenever the power deals damage to a target, you regain hit points equal to half the amount of necrotic damage the target takes.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Dark",
+  "higherLevelDescription": null,
+  "level": 5,
+  "name": "Siphon Life",
+  "powerType": "Force",
+  "prerequisite": "Drain Life",
+  "range": "60 feet",
+  "rowKey": "Siphon Life"
+}

@@ -1,0 +1,23 @@
+{
+  "ac": "+2",
+  "armorClassification": "Shield",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 375,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Medium shield generator",
+  "properties": [],
+  "propertiesMap": {},
+  "rowKey": "Medium shield generator",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "0"
+}

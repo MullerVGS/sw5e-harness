@@ -1,0 +1,95 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Charisma"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Four arms, fur-covered, prehensile feet",
+  "eyeColorOptions": "Brown or black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nArdennians are sentient humanoid simians hailing from the tropical paradise of Ardennia. They are covered in fur from head to their wrists and ankles, with brown and grey being the most common fur colors. Ardennians sport four arms and prehensile feet. All six of their limbs are equally dexterous.\r\n\r\n### Society and Culture\r\nThe Ardennian people themselves are a friendly communal species that are well known for welcoming visitors and inviting newcomers to traditional feasts and dances on the sandy beaches of Ardennia. Rural Ardiennan's live in modern tree-villages in the thick, dim jungle canopy on the majority of the islands. Ground level accommodations are available for off world visitors even in the smaller villages. Most off-worlders stay in the large modern resort complexes which boast having miles of private beaches or in the modern cities. Several large cities exist, scattered around the world, which typically encompass an entire island or a series of smaller islands joined together.\r\n\r\nArdennia's distance from the main hyperlanes makes it one of the lesser-known vacation destinations, but it's a popular one for those who don't mind the extra travel time. Some affluent visitors prefer the solitude that Ardennia offers, and occasionally end up purchasing one of the smaller islands to build their own home. Ardennia is notable for having the most beach per square meter in the galaxy. \r\n\r\n### Names\r\nArdennian's names are typically concise and rarely more than two syllables, with a familal surname.\r\n\r\n**Male Names.** Rio, Jakar, Hul, Lup, Quil, Jerno\r\n\r\n**Female Names.** Rac, Bras, Nuc, Kua, Karta, Sanya\r\n\r\n**Surnames.** Betal, Durant, Jabut, Karon, Rambuan",
+  "hairColorOptions": "Brown to gray",
+  "halfHumanTableEntries": {},
+  "heightAverage": "3'2\"",
+  "heightRollMod": "+2d8\"",
+  "homeworld": "Ardennia",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ardennian.png"
+  ],
+  "language": "Adrennian",
+  "manufacturer": null,
+  "name": "Ardennian",
+  "rowKey": "Ardennian",
+  "size": "Medium",
+  "skinColorOptions": "Brown or black",
+  "traits": [
+    {
+      "description": "Your Dexterity score increases by 2, and your Charisma score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Ardennians reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Ardennians' peaceful nature causes them to tend toward the light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Ardennians typically stand 4 to 4 and a half feet tall and weigh around 60 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have a keen eyesight, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "Ardennians have four arms which they can use independently of one another. You can only gain the benefit of items held by two of your arms at any given time, and once per round you can switch which arms you are benefiting from (no action required).",
+      "name": "Four-Armed"
+    },
+    {
+      "description": "Growing up in the tree-villages of Ardennia has left an impact. You don't treat jungle terrain as difficult terrain.",
+      "name": "Jungle Dweller"
+    },
+    {
+      "description": "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
+      "name": "Mask of the Wild"
+    },
+    {
+      "description": "You have supreme control over your feet and can use them to manipulate objects as well as your hands.",
+      "name": "Prehensile Feet"
+    },
+    {
+      "description": "When you make a long jump, you can cover a number of feet up to twice your Strength score. When you make a high jump, you can leap a number of feet up into the air equal to 3 + twice your Strength modifier.",
+      "name": "Strong-Legged"
+    },
+    {
+      "description": "You have a climbing speed of 25 feet. You have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing.",
+      "name": "Treeclimber"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Ardennian. Ardennian has a bubbly, energizing tone to it.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "50 lb.",
+  "weightRollMod": "x1 lb."
+}

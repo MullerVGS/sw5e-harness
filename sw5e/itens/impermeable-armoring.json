@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Impermeable Armoring",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Impermeable Armoring",
+  "searchableRarity": "Standard",
+  "subtype": "armor",
+  "text": "This armor gains the impermeable property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

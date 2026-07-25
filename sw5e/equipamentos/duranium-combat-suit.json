@@ -1,0 +1,29 @@
+{
+  "ac": "11 + Dex modifier",
+  "armorClassification": "Light",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1100,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Duranium combat suit",
+  "properties": [
+    "Cumbersome",
+    "reactive 1"
+  ],
+  "propertiesMap": {
+    "Cumbersome": "Cumbersome",
+    "Reactive": "reactive 1"
+  },
+  "rowKey": "Duranium combat suit",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "10"
+}

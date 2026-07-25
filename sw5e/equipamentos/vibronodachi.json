@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 2200,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 3,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibronodachi",
+  "properties": [
+    "Dexterity 17",
+    "piercing 1",
+    "two-handed",
+    "vicious 1"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 17",
+    "Piercing": "piercing 1",
+    "Two-Handed": "two-handed",
+    "Vicious": "vicious 1"
+  },
+  "rowKey": "Vibronodachi",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "12"
+}

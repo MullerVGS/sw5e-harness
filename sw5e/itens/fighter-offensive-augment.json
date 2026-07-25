@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "Augment",
+  "name": "Fighter Offensive Augment",
+  "prerequisite": " At least 3 levels in fighter",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Fighter Offensive Augment",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "You learn an additional maneuver, and you gain one additional superiority die.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

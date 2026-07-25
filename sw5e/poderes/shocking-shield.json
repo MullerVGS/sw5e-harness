@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Lightning courses in a sphere surrounding your body, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can use your action to end the power early.\r\n\r\nWhenever a creature within 5 feet of you hits you with a melee attack, it takes 2d8 lightning damage.",
+  "duration": "10 minutes",
+  "forceAlignment": "Dark",
+  "higherLevelDescription": null,
+  "level": 4,
+  "name": "Shocking Shield",
+  "powerType": "Force",
+  "prerequisite": "Shock",
+  "range": "Self",
+  "rowKey": "Shocking Shield"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Protocol",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Enhanced Reconstructor",
+  "prerequisite": " Class IV droid",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Enhanced Reconstructor",
+  "searchableRarity": "Premium",
+  "subtype": "protocol",
+  "text": "Whenever you roll a Hit Die to recover hit points, you add your Intelligence modifier to the roll (minimum of +1).",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

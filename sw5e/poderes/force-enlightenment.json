@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You touch a creature and enhance it with the Force. Choose one of the following effects; the target gains that effect until the power ends.\r\n- ***Strength.*** The target has advantage on Strength checks, and his or her carrying capacity doubles.\r\n- ***Dexterity.*** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.\r\n- ***Endurance.*** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the power ends.\r\n- ***Cunning.*** The target has advantage on Intelligence checks.\r\n- ***Wisdom.*** The target has advantage on Wisdom checks.\r\n- ***Splendor.*** The target has advantage on Charisma checks.\r\n\r\nThis power has no effect on droids or constructs.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.",
+  "duration": "up to 1 hour",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Force Enlightenment",
+  "powerType": "Force",
+  "prerequisite": "Guidance",
+  "range": "Touch",
+  "rowKey": "Force Enlightenment"
+}

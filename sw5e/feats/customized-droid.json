@@ -1,0 +1,11 @@
+{
+  "attributesIncreased": [
+    "Any"
+  ],
+  "contentSource": "WH",
+  "contentType": "Core",
+  "name": "Customized Droid",
+  "prerequisite": "Type droid",
+  "rowKey": "Customized Droid",
+  "text": "You've been customized beyond other droids of the same model, granting the following benefits: \r\n- Increase an ability score of your choice by 1, to a maximum of 20.\r\n- Choose one droid customization of standard rarity from Appendix A. That customization is installed and doesn't count against the maximum droid customizations you can support, but it does count towards your maximum parts or protocols, as appropriate.\r\n"
+}

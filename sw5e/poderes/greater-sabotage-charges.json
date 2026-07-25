@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You create six medium sabotage charges that last for the power's duration. When you cast the power, and as a bonus action on subsequent turns, you can hurl up to two of the charges to points you choose within 120 feet. Each charge explodes if it reaches the point or hits a solid surface. Each creature within 10 feet of the explosion must make a Dexterity save. The explosion deals 4d6 fire damage on a failure, or half damage on a success.\r\n\r\n***Overcharge Tech.*** The number of charges created increases by two for each slot level above 7th.",
+  "duration": "up to 10 minutes",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 7,
+  "name": "Greater Sabotage Charges",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Greater Sabotage Charges"
+}

@@ -1,0 +1,132 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 11,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "descriptionWithLinks": " The droid doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "monsterBehaviorType": "Trait",
+      "name": "Flyby",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+      "descriptionWithLinks": " The droid has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+      "monsterBehaviorType": "Trait",
+      "name": "Keen Hearing and Sight",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 3,
+      "attackType": "MeleeWeapon",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 lightning damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 lightning damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Shockprod",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "0",
+  "charisma": 7,
+  "charismaModifier": -2,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 8,
+  "constitutionModifier": -1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 13,
+  "dexterityModifier": 1,
+  "experiencePoints": 10,
+  "flavorText": "Sith probe droids were designed as passive spy units, and were plated with energy-absorbing stealth armor that baffled most sensor scans. However, weaponry could be mounted on the Sith Probe Droids in many configurations: the most common being a miniaturized grenade launcher. Armaments adopted by the Sith included blaster cannons, stun blasters, and dart launchers loaded with poison needles.",
+  "hitPointRoll": "1d4-1",
+  "hitPoints": 1,
+  "imageUrls": [],
+  "intelligence": 2,
+  "intelligenceModifier": -4,
+  "languages": [
+    "—"
+  ],
+  "name": "Sith Probe Droid",
+  "rowKey": "Sith Probe Droid",
+  "savingThrows": null,
+  "sectionText": "Probe droids (AKA probots or recon droids) are droids specifically designed to perform reconnaissance, reporting anything of significance as defined by specific preprogrammed protocols. Some models are equipped with a self-destruct mechanism in order to prevent those whom it had been sent to observe from studying them and determining their source, as well as a small blaster-type weapon for defense.",
+  "senses": [
+    "Darkvision 120 ft.",
+    "passive Perception 13"
+  ],
+  "size": "Tiny",
+  "skills": [
+    "Perception +3",
+    "Stealth +3",
+    "Survival +3"
+  ],
+  "speed": 5,
+  "speeds": "5 ft., fly 60 ft.",
+  "strength": 3,
+  "strengthModifier": -4,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

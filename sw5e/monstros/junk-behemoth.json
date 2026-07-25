@@ -1,0 +1,126 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 12,
+  "armorType": "armor scraps",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The junk behemoth makes two blaster cannon attacks or two slam attacks.",
+      "descriptionWithLinks": " The junk behemoth makes two blaster cannon attacks or two slam attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "RangedWeapon",
+      "damage": "6",
+      "damageRoll": "1d10+1",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d10+1) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d10+1) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Cannon",
+      "numberOfTargets": "one target.",
+      "range": "range 80/320 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 6,
+      "attackType": "MeleeWeapon",
+      "damage": "8",
+      "damageRoll": "1d10+3",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 8 (1d10+3) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 8 (1d10+3) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Slam",
+      "numberOfTargets": "one target.",
+      "range": "reach 10 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1",
+  "charisma": 5,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 17,
+  "constitutionModifier": 3,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 12,
+  "dexterityModifier": 1,
+  "experiencePoints": 200,
+  "flavorText": "",
+  "hitPointRoll": "6d12+18",
+  "hitPoints": 57,
+  "imageUrls": [],
+  "intelligence": 6,
+  "intelligenceModifier": -2,
+  "languages": [
+    "Binary",
+    "Galactic Basic"
+  ],
+  "name": "Junk Behemoth",
+  "rowKey": "Junk Behemoth",
+  "savingThrows": null,
+  "sectionText": "Junk Droid, or Monster Droid, is the term used to describe any droid that is created by piecing together component parts of many other droids.Though anyone with the know-how can cobble together a junk droid, they are most notably created by the various Jawa tribes on Tatooine. Because they mainly sell their wares to moisture farmers and small town businesses, Jawas know what peoples' needs are, and are able to create custom droids to meet the individual needs of any customer.  Some junk droids are even made by themselves.  Because of their often mashed-together programming, they are considered dangerous by most civilized people, for they could go on a rampage, confuse orders, or even start building more of their own kind when having enough junk to do so.Though no two junk droids are exactly the same, they are generally constructed in four classes:* The Mechano-droid was a heavy labor unit* The Tracto-droid was a mobile scanning/radar unit* The Quad-pod droid was a cargo carrier* The Rollarc droid was a multipurpose unit suited to variable tasksJunk droids are sometimes sought after by eccentric collectors looking to find the most functional droid comprised the most incorporated parts that is the most pleasing to the eye.",
+  "senses": null,
+  "size": "Huge",
+  "skills": null,
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 16,
+  "strengthModifier": 3,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 8,
+  "wisdomModifier": -1
+}

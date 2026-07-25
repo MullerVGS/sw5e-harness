@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1150,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Lightning",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightning carbine",
+  "properties": [
+    "Power cell (range 60/240)",
+    "penetrating 6",
+    "reload 12",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Penetrating": "penetrating 6",
+    "Power Cell": "Power cell (range 60/240)",
+    "Reload": "reload 12",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Lightning carbine",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "7"
+}

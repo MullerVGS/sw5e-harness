@@ -1,0 +1,83 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Constitution"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Exoskeletons, three-fingered hands",
+  "eyeColorOptions": "Brown, black, green, or silver",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nGand are sentient, stocky humanoids whose insectoid bodies are covered in a chitinous exoskeleton. The natural armor allow the Gand to shrug off injuries that would cripple most other species. The exoskeleton provides extra protection in the clavicle region, which prevented most nerve or pressure-point strikes to the neck and shoulders. In addition, Gands have the remarkable ability to regrow lost limbs. If a Gand is dismembered, it can regrow a lost limb in a few days. \r\n\r\n### Society and Culture\r\nGand society places heavy importance on the achievements of an individual and holds that an individual has no name, and thus no worth, until he or she proves otherwise. The speech patterns of Gands utilize third-person self-reference within each level of identity earned. Young or unproven Gands are all called \"Gand,\" as they are considered merely aspects of the same whole. Major accomplishments earn the use of a family surname. Mastering a skill, such as becoming a findsman, allows for the use of the given name, all with third-person self-reference. This manner of speaking is common within the spoken and written Gand language but is more predominant when a Gand speaks Basic; it is often a source of amusement to outsiders.\r\n\r\n### Names\r\nUntil a Gand has earned the use of a name, they go simply by the term \"Gand.\" Gand speak in the third person and refer to themselves by name. Often, when a Gand feels shamed, they will stop referring to themselves by their name and revert to calling themselves \"Gand\" until they prove themselves again. Male and female names are not distinct.\r\n\r\n**First Names.** C'nyir, Dash, Iglid, Kyuffax, T'rix\r\n\r\n**Surname.** Diqlu, Krakee, Praafri, Quudya, Zooq",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'1\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Gand",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gand.png"
+  ],
+  "language": "Gand",
+  "manufacturer": null,
+  "name": "Gand",
+  "rowKey": "Gand",
+  "size": "Medium",
+  "skinColorOptions": "Varying shades of brown, green, and purple",
+  "traits": [
+    {
+      "description": "Your Constitution score increases by 2, and your Intelligence score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Gand reach adulthood when they earn their name, which is usually in their teens, and live to be about 70 on average.",
+      "name": "Age"
+    },
+    {
+      "description": "Gand tend toward no particular alignment. The best and worst are found among them.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Gand stand 4 to 6 feet tall and weigh around 100 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have a thick exoskeleton. While you are unarmored or wearing light armor, your AC is 12 + your Dexterity modifier.",
+      "name": "Exoskeleton"
+    },
+    {
+      "description": "You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9).",
+      "name": "Gand Resilience"
+    },
+    {
+      "description": "Gand do not have lungs, and therefore do not need to breathe.",
+      "name": "Lungless"
+    },
+    {
+      "description": "When you take damage, you can use your reaction and expend a Hit Die to regain hit points as long as the damage would not reduce your hit points to 0.",
+      "name": "Regenerative"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Gand. The Gand language does not use pronouns as Gand refer to themselves in the third person, so often Gand who speak Galactic Basic are difficult to understand.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "75 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

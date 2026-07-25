@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Reactive Stitching (Excellent)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Reactive Stitching (Excellent)",
+  "searchableRarity": "Advanced",
+  "subtype": "clothing",
+  "text": "This clothing gains the reactive 2 armor property. If it already has the reactive armor property, its reactive number increases by 2, to a maximum of 3.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

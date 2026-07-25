@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Holocron (Novice)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Holocron (Novice)",
+  "searchableRarity": "Standard",
+  "subtype": "",
+  "text": "This holocron contains a single at-will force power. After meditating with the holocron for at least 2 hours, a forcecaster with a Max Power Level of 1st or higher can make a DC 10 forcecasting ability check with proficiency based on the alignment of the power stored within. On a success, they learn the contained force power, which does not count against their force powers known and can not be unlearned except through use of a *remove curse* power. On a failure, the power is not learned and the forcecaster can't try again for 24 hours.\r\n\r\n_Holocrons are information-storage devices used by Force-wielders that contain ancient lessons or valuable information in holographic form._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

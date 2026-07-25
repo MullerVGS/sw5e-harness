@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Detachable Hand",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Detachable Hand",
+  "searchableRarity": "Standard",
+  "subtype": "replacement",
+  "text": "This augmentation replaces a hand.\r\n\r\nAs an action, you can attach or detach this hand. While detached, the hand has a speed of 15 feet, an AC of 10, and 1 hit point. As an action on each of your turns, you can control the hand as long as it is within 30 feet of you. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a container. You can move the hand up to its speed each time you use it.\r\n\r\n**Side Effect:** This hand can no longer wield items that weigh more than 7 lbs.\r\n\r\n_This unique hand replacement is a favored option for those looking into places they aren't welcome._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Byrothsis Ancient Cell",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Byrothsis Ancient Cell",
+  "searchableRarity": "Artifact",
+  "subtype": "lightweapon",
+  "text": "When this weapon is levitated by the Force to deal damage through a class feature or force power you use, it deals additional damage equal to two of its weapon damage dice.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

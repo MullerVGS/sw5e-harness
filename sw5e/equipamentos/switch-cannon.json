@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 3350,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Switch cannon",
+  "properties": [
+    "Power cell (range 100/400)",
+    "burst 2",
+    "reload 4",
+    "strength 15",
+    "switch (2d4 acid/cold/fire/lightning)",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Burst": "burst 2",
+    "Power Cell": "Power cell (range 100/400)",
+    "Reload": "reload 4",
+    "Strength": "strength 15",
+    "Switch": "switch (2d4 acid/cold/fire/lightning)",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Switch cannon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "12.5"
+}

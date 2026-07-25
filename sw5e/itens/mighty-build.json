@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Part",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Mighty Build",
+  "prerequisite": " Class V droid",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Mighty Build",
+  "searchableRarity": "Premium",
+  "subtype": "part",
+  "text": "Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples.",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

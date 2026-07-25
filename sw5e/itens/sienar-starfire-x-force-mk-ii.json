@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Sienar Starfire X-Force Mk II",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Sienar Starfire X-Force Mk II",
+  "searchableRarity": "Legendary",
+  "subtype": "wristpad",
+  "text": "When you spend tech points to cast a tech power that restores hit points to a creature, the creature gains a number of temporary hit points equal to twice the number of tech points spent.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

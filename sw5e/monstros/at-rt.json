@@ -1,0 +1,157 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 15,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.",
+      "descriptionWithLinks": " The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.",
+      "monsterBehaviorType": "Trait",
+      "name": "Piloted",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct makes two attacks with its repeating blaster cannon or uses its mortar launcher.",
+      "descriptionWithLinks": " The construct makes two attacks with its repeating blaster cannon or uses its mortar launcher.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "RangedWeapon",
+      "damage": "10",
+      "damageRoll": "2d6+3",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +5 to hit, range 60/240 ft., one target. Hit: 10 (2d6+3) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +5 to hit, range 60/240 ft., one target. Hit: 10 (2d6+3) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Repeating Blaster Cannon",
+      "numberOfTargets": "one target.",
+      "range": "range 60/240 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct launches a mortar at a point it can see within 100 feet. Each creature in a 20-foot radius centered on that point must make a DC 13 Dexterity saving throw. A target takes 14 (4d6) damage on a failed save, or half as much on a successful one.",
+      "descriptionWithLinks": " The construct launches a mortar at a point it can see within 100 feet. Each creature in a 20-foot radius centered on that point must make a DC 13 Dexterity saving throw. A target takes 14 (4d6) damage on a failed save, or half as much on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Mortar Launcher",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " If the construct's pilot takes damage from a source the pilot is aware of and can see, the construct can use its reaction to instead take that damage.",
+      "descriptionWithLinks": " If the construct's pilot takes damage from a source the pilot is aware of and can see, the construct can use its reaction to instead take that damage.",
+      "monsterBehaviorType": "Reaction",
+      "name": "Redirect",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "4",
+  "charisma": 7,
+  "charismaModifier": -1,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 16,
+  "dexterityModifier": 3,
+  "experiencePoints": 1100,
+  "flavorText": "The All Terrain Recon Transport (AT-RT), is a one-man bipedal walker used for reconnaissance and patrolling made by Kuat Drive Yards as part of their All Terrain series. It is equipped with a single seat for a pilot, as well as a repeating blaster cannon and mortar launcher, and is 3.2 meters tall and 2.9 meters long,. Also known as the Republic scout walker, the AT-RT was used mainly during the Clone Wars by Advanced Recon Force troopers. It was the precursor to both the All Terrain Defense Pod and the All Terrain Scout Transport. During the Galactic Civil War, these walkers were adopted by both the Galactic Empire, who used Scout troopers to man the vehicles, and the Alliance to Restore the Republic, who upgraded them to compete with the advancements of the Empire.The AT-RT's were usually used for a variety of missions including ground support, police support, civil defense, and post-battle cleanup efforts. They occasionally took up position on the front lines of ground battles when difficult terrain prevented the use of larger vehicles.",
+  "hitPointRoll": "9d10+9",
+  "hitPoints": 58,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "�"
+  ],
+  "name": "AT-RT",
+  "rowKey": "AT-RT",
+  "savingThrows": [
+    "Dex +5"
+  ],
+  "sectionText": "The armies of the galaxy use a variety of land vehicles used to transport troops and as weapons of war to bring overwhelming firepower against their enemies.",
+  "senses": [
+    "�"
+  ],
+  "size": "Large",
+  "skills": null,
+  "speed": 50,
+  "speeds": "50 ft.",
+  "strength": 15,
+  "strengthModifier": 2,
+  "types": [
+    "construct"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

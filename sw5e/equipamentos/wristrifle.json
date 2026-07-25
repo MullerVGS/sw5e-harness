@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 250,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Wristrifle",
+  "properties": [
+    "Power cell (range 60/240)",
+    "fixed",
+    "reload 12"
+  ],
+  "propertiesMap": {
+    "Fixed": "fixed",
+    "Power Cell": "Power cell (range 60/240)",
+    "Reload": "reload 12"
+  },
+  "rowKey": "Wristrifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "4.5"
+}

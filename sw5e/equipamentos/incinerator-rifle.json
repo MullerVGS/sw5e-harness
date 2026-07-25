@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1950,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Fire",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Incinerator rifle",
+  "properties": [
+    "Dire 1",
+    "disintegrate 13",
+    "power cell (range 80/320)",
+    "reload 8",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Dire": "Dire 1",
+    "Disintegrate": "disintegrate 13",
+    "Power Cell": "power cell (range 80/320)",
+    "Reload": "reload 8",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Incinerator rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "9.5"
+}

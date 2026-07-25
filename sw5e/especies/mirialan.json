@@ -1,0 +1,79 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Facial tattoos, flexible and agile",
+  "eyeColorOptions": "Blue, green, violet, grey, red, yellow, or orange",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nMirialans are a near-human species native to the planet Mirial. They have green to yellow skin and tattoos on their faces. The Mirialans are known for their spirituality and strong connection with the world around them. Mirialans are very flexible and agile, making them fast and formidable foes.\r\n\r\n### Society and Culture\r\nThe Mirialan people are deeply religious and practice a primitive understanding of the Force. They believe each individual's actions contribute to their destiny, building upon past successes and failures to drive them towards their fates. Within their belief system was the view that individual actions ripple through the Force, also affecting the destiny of the species as a whole.\r\n\r\nA Mirialan often places a unique, geometrically repeated tattoo on their face and hands to signify that they have completed a certain test or task, or achieved sufficient aptitude for a certain skill. The number of tattoos often acts as a good indicator of how mature and/or skilled a Mirialan was. Because the more markings brings about a form of status, Mirialan society is stratified and allows the heavily marked citizens to access greater opportunities. Despite its importance, most Mirialans do not know the entirety of the tattoo lexicon due to its complexity. The interaction between placement and positioning of the shapes is incredibly subtle and changes their meaning greatly.\r\n\r\n### Names\r\nMirialan names are typically concise and rarely more than two syllables. Surnames are familial.\r\n\r\n**Male Names.** Boca, Floha, Jemy, Puv, Choqa\r\n\r\n**Female Names.** Buf, Ches, Kebe, Ovof, Shaqa\r\n\r\n**Surnames.** Acave, Ishakee, Kefvi, Uflozi, Zoria",
+  "hairColorOptions": "Black, blonde, brown, or red",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'6\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Mirial",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mirialan.png"
+  ],
+  "language": "Mirialan",
+  "manufacturer": null,
+  "name": "Mirialan",
+  "rowKey": "Mirialan",
+  "size": "Medium",
+  "skinColorOptions": "Green, olive, or yellow",
+  "traits": [
+    {
+      "description": "Your Dexterity score increases by 2, and your Intelligence score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Mirialan reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Mirialans spiritual tendencies cause them to tend towards the light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Mirialan typically stand 5 to 6 feet tall and weight 150 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 35 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have proficiency in Lore. Additionally, you are considered to have expertise in Intelligence (Lore) checks made to learn or recall something about a culture's religion.",
+      "name": "Spiritual"
+    },
+    {
+      "description": "If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.",
+      "name": "Surprise Attack"
+    },
+    {
+      "description": "Your unarmed strikes deal 1d4 kinetic damage and have the finesse property.",
+      "name": "Unarmed Combatant"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Mirialan.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "100 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

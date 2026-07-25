@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Biting Crystal (Ancient)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Biting Crystal (Ancient)",
+  "searchableRarity": "Artifact",
+  "subtype": "lightweapon",
+  "text": "This weapon gains the biting 18 property. If it already has the biting property, its biting number increases to 18.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

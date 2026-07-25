@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 600,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Ion",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Ion carbine",
+  "properties": [
+    "Power cell (range 60/240)",
+    "reload 12",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 60/240)",
+    "Reload": "reload 12",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Ion carbine",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "6"
+}

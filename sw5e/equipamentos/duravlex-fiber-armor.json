@@ -1,0 +1,27 @@
+{
+  "ac": "11 + Dex modifier",
+  "armorClassification": "Light",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1450,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Duravlex fiber armor",
+  "properties": [
+    "Silent"
+  ],
+  "propertiesMap": {
+    "Silent": "Silent"
+  },
+  "rowKey": "Duravlex fiber armor",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "13"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Ballistic Polymer",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Ballistic Polymer",
+  "searchableRarity": "Prototype",
+  "subtype": "armor",
+  "text": "While you have temporary hit points, kinetic and energy damage you take is reduced by an amount equal to half your proficiency bonus (rounded up). ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

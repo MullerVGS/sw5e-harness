@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "My family, clan, or tribe is the most important thing in my life, even when they are far from me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "An injury to the unspoiled wilderness of my home is an injury to me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I will bring terrible wrath down on the Darkdoers who destroyed my homeland.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I am the last of my tribe, and it is up to me to ensure their names enter legend.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I suffer awful visions of a coming disaster and will do anything to prevent it.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "It is my duty to provide children to sustain my tribe.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A hunting trap, a totemic token or set of tattoos marking your loyalty to your tribe, a set of traveler's clothes, and a pouch containing 100 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Animal Handler",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Brawny",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Naturalist",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Survivalist",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Entertainer",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Athlete",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Weapon Expert",
+      "roll": 8
+    }
+  ],
+  "featureName": "Barbarian Heritage",
+  "featureRowKeys": null,
+  "featureText": "You have an excellent knowledge of not only your tribe's territory, but also the terrain and natural resources of the rest of the worlds. You are familiar enough with any wilderness area that you find twice as much food and water as you normally would when you forage there.\r\n\r\nAdditionally, you can call upon the hospitality of other tribes in times of need.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "Though you might have only recently arrived in civilized lands, you are no stranger to the values of cooperation and group effort when striving for supremacy. You learned these principles, and much more, as a member of your tribe.\r\n\r\nYour people have always tried to hold to the old ways. Tradition and taboo have kept your tribe strong while the kingdoms of others have collapsed into chaos and ruin. But for the last few generations, some bands among the tribes were tempted to settle, make peace, trade, and even to build towns. Perhaps this is why your tribe chose to raise up the totems among the people as living embodiments of his power. Perhaps they needed a reminder of who they were and from whence they came. The Chosen of your tribe led bands back to the old ways, and most of your people abandoned the soft ways of civilization.",
+  "flawOptions": [
+    {
+      "description": "I am too enamored of ale, wine, and other intoxicants.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "There's no room for caution in a life lived to the fullest.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I remember every insult I've received and nurse a silent resentment toward anyone who's ever wronged me.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I am slow to trust members of other species, tribes, and societies.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "Violence is my answer to almost any challenge.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "Life is like the seasons, in constant change, and we must change with it. (Chaotic)",
+      "name": "Change",
+      "roll": 1
+    },
+    {
+      "description": "It is each person's responsibility to make the most happiness for the whole tribe. (Light)",
+      "name": "Greater Good",
+      "roll": 2
+    },
+    {
+      "description": "If I dishonor myself, I dishonor my whole clan. (Lawful)",
+      "name": "Honor",
+      "roll": 3
+    },
+    {
+      "description": "The strongest are meant to rule. (Dark)",
+      "name": "Might",
+      "roll": 4
+    },
+    {
+      "description": "The natural world is more important than all the constructs of civilization. (Neutral)",
+      "name": "Nature",
+      "roll": 5
+    },
+    {
+      "description": "I must earn glory in battle, for myself and my clan. (Any)",
+      "name": "Glory",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Barbarian",
+  "personalityTraitOptions": [
+    {
+      "description": "I'm driven by a wanderlust that led me away from home.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I watch over my friends as if they were a litter of newborn pups.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I once ran twenty-five miles without stopping to warn my clan of an approaching horde. I'd do it again if I had to.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have a lesson for every situation, drawn from observing nature.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I place no stock in wealthy or well-mannered folk. Money and manners won't save you from a hungry rancor.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I'm always picking things up, absently fiddling with them, and sometimes accidentally breaking them.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I feel far more comfortable around animals than people.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I was, in fact, raised by wampas.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Barbarian",
+  "skillProficiencies": "Choose two from Animal Handling, Athletics, Nature, and Survival",
+  "suggestedCharacteristics": "Often considered rude and uncouth among civilized folk, barbarians have little respect for the niceties of life in the cities. The ties of tribe, clan, family, and the natural world of which they are a part are the most important bonds to most outlanders. ",
+  "toolProficiencies": "One type of musical instrument or artisan's implements"
+}

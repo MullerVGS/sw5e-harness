@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1125,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Heavy shotgun",
+  "properties": [
+    "Burst 2",
+    "reload 8",
+    "slug cartridge (range 60/240)",
+    "strength 13",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Burst": "Burst 2",
+    "Range": "slug cartridge (range 60/240)",
+    "Reload": "reload 8",
+    "Strength": "strength 13",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Heavy shotgun",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "9.5"
+}

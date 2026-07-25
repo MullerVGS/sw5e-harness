@@ -1,0 +1,110 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 13,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The steep can breathe air and water.",
+      "descriptionWithLinks": " The steep can breathe air and water.",
+      "monsterBehaviorType": "Trait",
+      "name": "Amphibious",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " At the start of its turn, the steep can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.",
+      "descriptionWithLinks": " At the start of its turn, the steep can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.",
+      "monsterBehaviorType": "Trait",
+      "name": "Reckless",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "11",
+      "damageRoll": "1d8 + 2",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 2) kinetic damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the steep can't bite another target.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 2) kinetic damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the steep can't bite another target.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 3,
+  "charismaModifier": -4,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 13,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Energy",
+    "Ion"
+  ],
+  "damageResistancesOther": [
+    "and kinetic from unenhanced weapons"
+  ],
+  "damageResistancesParsed": [
+    3,
+    6
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 13,
+  "dexterityModifier": 1,
+  "experiencePoints": 450,
+  "flavorText": "",
+  "hitPointRoll": "10d8 + 10",
+  "hitPoints": 55,
+  "imageUrls": [],
+  "intelligence": 1,
+  "intelligenceModifier": -5,
+  "languages": [
+    "�"
+  ],
+  "name": "Steep",
+  "rowKey": "Steep",
+  "savingThrows": null,
+  "sectionText": "The steep are a species of non-sentient amphibians native to the planet Metellos. They dwell in the sewage-filled seas of the planet, bobbing on the surface of the waters. At night, the carnivorous steeps wander the alleyways of Metellos' settlements, searching for children to eat.***Biology & Appearance.*** Steeps stand on four spindly legs, each of which ends with a webbed foot, and are capable of walking on land. The carnivorous amphibians are protected by a tough, rubbery hide of ten-centimeter-thick, brownish-white skin. Although their heads are large, their brains are small. A steep's mouth stretches from one side of the head to the other, with two eyes located on purple stalks protruding from the tops of their heads. Similarly purple-colored growths extend down the backs of the species.***Behavior.*** Designated as non-sentient, steeps are known for their lack of intelligence and, when fighting an adversary, will continue attacking relentlessly until they themselves have been killed. Steeps are named after their habit of \"steeping\" themselves in the sewage-filled waters of their homeworld Metellos' seas. The amphibians are frequently seen floating on the surface of the water. Steeps are known to roam down Metellean alleyways at night seeking children for prey.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 13"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Stealth +4",
+    "Percpection +3"
+  ],
+  "speed": 30,
+  "speeds": "30 ft., swim 30 ft.",
+  "strength": 15,
+  "strengthModifier": 2,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

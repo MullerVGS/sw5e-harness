@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "Specific",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Reactive Ultrachrome Armor",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": true,
+  "rowKey": "Reactive Ultrachrome Armor",
+  "searchableRarity": "Legendary",
+  "subtype": "heavy exoskeleton",
+  "text": "_**Requires attunement**_\r\nYou have resistence to unenhanced damage while you wear this armor. Additionally, you can use an action to make yourself immune to unenhanced damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can't be used again until the next dawn.\r\n\r\n_Made with just enough ultrachrome to give you an edge while still keeping things interesting, these suits of armor can discharge an integrated power cell to catalyze this metal normally used in starship hulls into a more resilient state._",
+  "type": "Armor",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,83 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Charisma"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Elongated, tapered skull with an undersized face",
+  "eyeColorOptions": "Blue, magenta, or purple",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nA sentient species, the pykes are humanoid, although slimmer and taller than most humans. They have two long, lanky legs, and two arms that end in three-fingered hands. Their heads are large and elongated, with a tapered skull and an undersized face, a feature which some other species find unsettling. Pykes had two narrow, almond-shaped eyes which could be magenta or blue in color.\r\n\r\n### Society and Culture\r\nPykes hail from Oba Diah, a terrestrial planet marked by obsidian cliffs. Visitors to Oba Diah view both the population and terrain as unwelcoming. The pyke homeworld serves as the headquarters of the Pyke Syndicate, a criminal dealership within the Spice Cartel that operates in the criminal underworld distributing spice, an illicit substance harvested by slaves in the spice mines of the planet Kessel. To deliver spice to their customers, such as crime families on Coruscant, the Pyke Syndicate relies on smugglers and freighter captains to complete the dangerous Kessel Run. The Pyke Syndicate almost completely controls the production of raw spice in the galaxy, while maintaining tentative alliances with other criminal organizations throughout the galaxy, such as the Black Sun and the Crimson Dawn. \r\n\r\n### Names\r\nPyke names are often influenced by naming conventions of other species, with their rarely-used surnames being familial.\r\n\r\n**Male Names.** Dor, Eife, Qalo, Thok, Zret\r\n\r\n**Female Names.** Gali, Taela, Shethni, Vent, Zeeren\r\n\r\n**Surnames.** Kemtol, Nek, Pyke, Safet, Welkor ",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'2\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Oba Diah",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pyke.png"
+  ],
+  "language": "Pyke",
+  "manufacturer": null,
+  "name": "Pyke",
+  "rowKey": "Pyke",
+  "size": "Medium",
+  "skinColorOptions": "Gray or green",
+  "traits": [
+    {
+      "description": "Your Charisma score increases by 2, and your Intelligence score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Pykes reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Due to their underhanded nature, Pykes tend toward the dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Pykes typically stand 6 to 6 and a half feet tall and generally weigh about 155 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.",
+      "name": "Long-Limbed"
+    },
+    {
+      "description": "You have proficiency in one of the following skills of your choice: Deception, Persuasion, or Intimidation.",
+      "name": "Mercantile"
+    },
+    {
+      "description": "Whenever you make an ability check related to the buying, selling, or controlling of slaves, you are considered proficient in the check. If you would already be proficient, you instead have expertise.",
+      "name": "Notorious Slavers"
+    },
+    {
+      "description": "You are proficient in spicer's kit.",
+      "name": "Spicer"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Pyke. The Pyke language is characterized by its multisyllable grunts.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "100 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

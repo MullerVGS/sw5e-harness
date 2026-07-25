@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Duplexed Extender Channel",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Duplexed Extender Channel",
+  "searchableRarity": "Standard",
+  "subtype": "focus generator",
+  "text": "When you cast a force power through this focus generator that has a range of 5 feet or greater, you can increase the range of that force power by 10 feet. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

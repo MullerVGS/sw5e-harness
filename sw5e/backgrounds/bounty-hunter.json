@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "I'm trying to pay off an old debt I owe to a generous benefactor.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "My ill-gotten gains go to support my family.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Something important was taken from me, and I aim to steal it back.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I will become the greatest thief that ever lived.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm guilty of a terrible crime. I hope I can redeem myself for it.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Someone I loved died because of a mistake I made. That will never happen again.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "equipment": "A set of clothes appropriate to your duties, a set of binders, and a pouch containing 200 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Charmer",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Stealthy",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Alert",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Athlete",
+      "roll": 8
+    }
+  ],
+  "featureName": "Ear to the Ground",
+  "featureRowKeys": null,
+  "featureText": "You are in frequent contact with people in the segment of society that your chosen quarries move through. These people might be associated with the criminal underworld, the rough-and-tumble folk of the streets, or members of high society. This connection comes in the form of a contact in any city you visit, a person who provides information about the people and places of the local area.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren't a savage who follows quarry into or through the wilderness. You're involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What's more, you aren't alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.\r\n\r\nYou might be a cunning thief-catcher, prowling the rooftops to catch one of the myriad burglars of the city. Perhaps you are someone who has your ear to the street, aware of the doings of street gangs. You might be a \"velvet mask\" bounty hunter, one who blends in with high society and noble circles in order to catch the criminals that prey on the rich, whether pickpockets or con artists. As a member of an adventuring party, you might find it more difficult to pursue a personal agenda that doesn't fit with the group's objectives - but on the other hand, you can take down much more formidable targets with the help of your companions.",
+  "flawOptions": [
+    {
+      "description": "When I see something valuable, I can't think about anything but how to steal it.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "When faced with a choice between money and my friends, I usually choose the money.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have a �tell� that reveals when I'm lying.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I turn tail and run when things look bad.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "An innocent person is in prison for a crime that I committed. I'm okay with that.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I don't steal from others in the trade. (Lawful)",
+      "name": "Honor",
+      "roll": 1
+    },
+    {
+      "description": "Chains are meant to be broken, as are those who would forge them. (Chaotic)",
+      "name": "Freedom",
+      "roll": 2
+    },
+    {
+      "description": "I steal from the wealthy so that I can help people in need. (Light)",
+      "name": "Charity",
+      "roll": 3
+    },
+    {
+      "description": "I will do whatever it takes to become wealthy. (Dark)",
+      "name": "Greed",
+      "roll": 4
+    },
+    {
+      "description": "I'm loyal to my friends, not to any ideals, and everyone else can jog on for all I care. (Neutral)",
+      "name": "People",
+      "roll": 5
+    },
+    {
+      "description": "There's a spark of good in everyone. (Light)",
+      "name": "Redemption",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Bounty Hunter",
+  "personalityTraitOptions": [
+    {
+      "description": "I always have a plan for what to do when things go wrong.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I am always calm, no matter what the situation. I never raise my voice or let my emotions control me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "The first thing I do in a new place is note the locations of everything valuable � or where such things could be hidden.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I would rather make a new friend than a new enemy.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I am incredibly slow to trust. Those who seem the fairest often have the most to hide.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I don't pay attention to the risks in a situation. Never tell me the odds.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "The best way to get me to do something is to tell me I can't do it.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I blow up at the slightest insult.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Bounty Hunter",
+  "skillProficiencies": "Choose two from Deception, Insight, Persuasion, and Stealth",
+  "suggestedCharacteristics": "Your bond might involve other bounty hunters or the organizations or individuals that employ you. Your ideal could be associated with your determination always to catch your quarry or your desire to maintain your reputation for being dependable.",
+  "toolProficiencies": "Your choice of demolitions kit, security kit, or slicer's kit"
+}

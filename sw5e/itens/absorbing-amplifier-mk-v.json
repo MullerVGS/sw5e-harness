@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Absorbing Amplifier Mk V",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Absorbing Amplifier Mk V",
+  "searchableRarity": "Legendary",
+  "subtype": "wristpad",
+  "text": "This item gains the absorbing 10 property. If it already has the absorbing property, its absorbing number increases by 10, to a maximum of 12.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

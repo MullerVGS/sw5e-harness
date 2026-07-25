@@ -1,0 +1,83 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Horns (male), lethorns, black forked tongues",
+  "eyeColorOptions": "Black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nChagrians are born as tadpoles in clutches of three or more and raised in tubs of water in a family's private home. During this time, their arms, legs, and air-breathing lungs develop. Adult Chagrians are truly amphibious, retaining their ability to breathe underwater while also able to function without difficulty in air. They also possess acute low-light vision.\r\n\r\nThe average Chagrian stands taller than a Human. They are distinguished by two fleshy growths protruding from the sides of their heads, which they call lethorns. As they age, the lethorns thicken. Males also sport two horns growing from the top of their skulls. These were once used in underwater duels to attract a mate, and are seen as a sign of the males' strength and virility. Females lack the superior cranial horns, but had more pronounced and longer posterior head plates; these can reach halfway down their back. Chagrians also have very long black forked tongues.\r\n\r\n### Society and Culture\r\nAs a species, Chagrians are generally peaceful and law-abiding to the point of becoming stoic and obstinate. Many Chagrians are motivated only by basic desires such as sustenance, shelter, and healthcare. Chagrian government ensures that every citizen is cared and provided for, so the standard of living for the poorest Chagrian is high compared to the members of other species. Chagrians who expect violence often wear red.\r\n\r\n### Names\r\nChagrian names have a very melodic tone. Male names are typically shorter than female names. Surnames are familial.\r\n\r\n**Male Names.** Bom, Chen, Fiet, Nedd, Touk\r\n\r\n**Female Names.**  Chavik, Dabai, Fisil, Oolya, Tinto\r\n\r\n**Surnames.** Kassin, Molya, Nigna, Onirali, Treen",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'5\"",
+  "heightRollMod": "+2d8\"",
+  "homeworld": "Champala",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chagrian.png"
+  ],
+  "language": "Chagri",
+  "manufacturer": null,
+  "name": "Chagrian",
+  "rowKey": "Chagrian",
+  "size": "Medium",
+  "skinColorOptions": "Light to dark blue",
+  "traits": [
+    {
+      "description": "Your Dexterity score increases by 2, and your Wisdom score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Chagrians reach adulthood in their late teens and live an average of 75 years.",
+      "name": "Age"
+    },
+    {
+      "description": "Chagrians' peace-loving nature causes them to tend toward the light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Chagrians typically stand between 5 and 6 feet tall and weigh 150 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You can breathe air and water.",
+      "name": "Amphibious"
+    },
+    {
+      "description": "You have a keen eyesight, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9).",
+      "name": "Natural Resistance"
+    },
+    {
+      "description": "You have a swimming speed of 30 feet.",
+      "name": "Swim"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Chagri.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "120 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

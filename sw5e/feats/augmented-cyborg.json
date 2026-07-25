@@ -1,0 +1,11 @@
+{
+  "attributesIncreased": [
+    "Any"
+  ],
+  "contentSource": "WH",
+  "contentType": "Core",
+  "name": "Augmented Cyborg",
+  "prerequisite": "Type beast or humanoid",
+  "rowKey": "Augmented Cyborg",
+  "text": "You've experimented with cybernetic augmentations, granting the following benefits: \r\n- Increase an ability score of your choice by 1, to a maximum of 20.\r\n- Choose one cybernetic augmentation of standard rarity from Appendix A. That augmentation is installed and doesn't count against the maximum cybernetic augmentations you can support, but it does count towards your total cybernetics augmentations as shown in the Cybernetic Augmentations Side Effects table in Chapter 7.\r\n"
+}

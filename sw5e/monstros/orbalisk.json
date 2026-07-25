@@ -1,0 +1,90 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 14,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": "  The orbalisk can sense the presence and location of any dark side aligned creature within 300 feet.",
+      "descriptionWithLinks": "  The orbalisk can sense the presence and location of any dark side aligned creature within 300 feet.",
+      "monsterBehaviorType": "Trait",
+      "name": "Detect Dark Side",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 6,
+      "attackType": "MeleeWeapon",
+      "damage": "8",
+      "damageRoll": "1d8 + 4",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) kinetic damage, and the orbalisk attaches to the target. Once attached to a target, the orbalisk begins to reproduce through fragmentation. Whenever the host completes a long rest, they must make a DC 14 Wisdom saving throw. For each saving throw the host fails, the size of their Hit Dice is reduced: from d12 to d10, from d10 to d8, from d8 to d6, from d6 to d4, or from d4 to d2. If the host fails a saving throw while their Hit Die is a d2, they die as the orbalisks consume them.",
+      "descriptionWithLinks": " Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) kinetic damage, and the orbalisk attaches to the target. Once attached to a target, the orbalisk begins to reproduce through fragmentation. Whenever the host completes a long rest, they must make a DC 14 Wisdom saving throw. For each saving throw the host fails, the size of their Hit Dice is reduced: from d12 to d10, from d10 to d8, from d8 to d6, from d6 to d4, or from d4 to d2. If the host fails a saving throw while their Hit Die is a d2, they die as the orbalisks consume them.",
+      "monsterBehaviorType": "Action",
+      "name": "Attach",
+      "numberOfTargets": "one creature.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1",
+  "charisma": 3,
+  "charismaModifier": -4,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 13,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": [
+    "All except lightning"
+  ],
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [
+    "Lightning"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    8
+  ],
+  "dexterity": 8,
+  "dexterityModifier": -1,
+  "experiencePoints": 100,
+  "flavorText": "",
+  "hitPointRoll": "6d4+6",
+  "hitPoints": 21,
+  "imageUrls": [],
+  "intelligence": 1,
+  "intelligenceModifier": -5,
+  "languages": [
+    "—"
+  ],
+  "name": "Orbalisk",
+  "rowKey": "Orbalisk",
+  "savingThrows": null,
+  "sectionText": "Orbalisks are parasitic creatures native to Dxun. They lay inactive in caves or other dark places, until they find a suitable host creature on whose skin they can attach themselves to in order to feed. Orbalisks, once attached to a host, rapidly multiply, eventually enveloping and suffocating their victim. However, the holocron of Freedon Nadd contains the knowledge to make armament to prevent the orbalisks from covering the face, hands, and feet of the host, allowing them to keep this armor hidden.Perhaps by nature or as a result of residing on Dxun (which was itself a great focus of dark side power), orbalisks are able to feed on the Force-sensitivity of dark side wielders. It is said that the orbalisk armor's durability was such that lightsabers have a hard time penetrating it, making a wearer effectively immune to lightsaber attacks. The only weaknesses to this armor are the exposed joints at the neck and wrists, but these gaps are so small a lightsaber can only barely slice through. However, orbalisk armor is unable to protect the wearer from electricity. Orbalisks cause the wearer to feel pain, fueling the wearers dark side power; if they are removed or killed, they release a highly potent toxin into the host's body.",
+  "senses": [
+    "passive Perception 7"
+  ],
+  "size": "Tiny",
+  "skills": null,
+  "speed": 5,
+  "speeds": "5 ft.",
+  "strength": 18,
+  "strengthModifier": 4,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 4,
+  "wisdomModifier": -3
+}

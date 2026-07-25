@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 950,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": "The retrosaber is an ancient type of lightweapon that requires a power cell to function. Once four attacks have been made with a retrosaber, a character must replace the power cell using an action or bonus action. You must have one free hand to replace the power cell.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Retrosaber",
+  "properties": [
+    "Dexterity 13",
+    "dire 1",
+    "reckless 1",
+    "versatile (1d10)"
+  ],
+  "propertiesMap": {
+    "": "reckless 1",
+    "Dexterity": "Dexterity 13",
+    "Dire": "dire 1",
+    "Versatile": "versatile (1d10)"
+  },
+  "rowKey": "Retrosaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "3"
+}

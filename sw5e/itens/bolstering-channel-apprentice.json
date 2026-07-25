@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Bolstering Channel (Apprentice)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Bolstering Channel (Apprentice)",
+  "searchableRarity": "Premium",
+  "subtype": "focus generator",
+  "text": "This item gains the bolstering 4 property. If it already has the bolstering property, its bolstering number increases by 4, to a maximum of 12.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

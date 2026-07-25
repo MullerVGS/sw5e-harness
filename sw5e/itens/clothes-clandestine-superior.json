@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Body",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Clothes, Clandestine (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Clothes, Clandestine (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "body",
+  "text": "These clothes come with six hidden pockets, each of which can store up to 1 lb. Finding these hidden pockets requires a DC 24 Investigation check.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

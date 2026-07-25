@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You take a sensory snapshot of a target within range. Your tech grants you a brief insight into the target's defenses. You have advantage on the next attack roll you make against the target before the end of your next turn.\r\n\r\nThis power benefits additional attacks at higher levels: two attacks at 5th level, three attacks at 11th level, and four attacks at 17th level.",
+  "duration": "up to 1 round",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 0,
+  "name": "Assess the Situation",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "30 feet",
+  "rowKey": "Assess the Situation"
+}

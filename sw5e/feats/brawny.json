@@ -1,0 +1,11 @@
+{
+  "attributesIncreased": [
+    "Strength"
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "name": "Brawny",
+  "prerequisite": null,
+  "rowKey": "Brawny",
+  "text": "You become stronger, gaining the following benefits: \r\n- Increase your Strength score by 1, to a maximum of 20. \r\n- You gain proficiency in the Athletics skill. If you are already proficient in it, you instead gain expertise in it. \r\n- Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples.\r\n"
+}

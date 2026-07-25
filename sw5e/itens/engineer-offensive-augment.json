@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "Augment",
+  "name": "Engineer Offensive Augment",
+  "prerequisite": " At least 3 levels in engineer",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Engineer Offensive Augment",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "When you use your Potent Aptitude feature, you can target an additional creature within 60 feet of you who can hear you and grant them a Potent Aptitude die as well without expending an additional use.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

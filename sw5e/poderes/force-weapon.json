@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "BonusAction",
+  "castingPeriodText": "1 bonus action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You touch an unenhanced weapon with which you are proficient. While you wield it for the duration, that weapon becomes an enhanced weapon with a +1 bonus to attack rolls and damage rolls. Additionally, you can use your forcecasting ability modifier instead of your Strength or Dexterity modifier for attacks and damage rolls when attacking with that weapon.\r\n\r\n***Force Potency.*** When you cast this power using a force slot of 5th level or higher, the bonus increases to +2. When you use a force slot of 7th level or higher, the bonus increases to +3.",
+  "duration": "up to 1 hour",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 3,
+  "name": "Force Weapon",
+  "powerType": "Force",
+  "prerequisite": "Force Imbuement",
+  "range": "Touch",
+  "rowKey": "Force Weapon"
+}

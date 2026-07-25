@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Reaction",
+  "castingPeriodText": "1 reaction, which you take when you see a creature within 60 feet of you casting a tech power",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You attempt to interrupt a creature in the process of casting a tech power. If the creature is casting a power of 3rd level or lower, its power fails and has no effect. If it is casting a power of 4th level or higher, make an ability check using your techcasting ability. The DC equals 10 + the power's level. On a success, the creature's power fails and has no effect.\r\n\r\n***Overcharge Tech.*** When you cast this power using a tech slot of 4th level or higher, the interrupted power has no effect if its level is less than or equal to the level of the tech slot you used.",
+  "duration": "Instantaneous",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 3,
+  "name": "Tech Override",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "60 feet",
+  "rowKey": "Tech Override"
+}

@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 750,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Acid",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Disruptor pistol",
+  "properties": [
+    "Disintegrate 13",
+    "power cell (range 45/180)",
+    "reload 12",
+    "strength 11"
+  ],
+  "propertiesMap": {
+    "Disintegrate": "Disintegrate 13",
+    "Power Cell": "power cell (range 45/180)",
+    "Reload": "reload 12",
+    "Strength": "strength 11"
+  },
+  "rowKey": "Disruptor pistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "4.5"
+}

@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Reaction",
+  "castingPeriodText": "1 reaction, which you take when a creature you can see within range is hit by an attack or targeted by the *homing rockets* power",
+  "concentration": false,
+  "contentSource": "EC",
+  "contentType": "Core",
+  "description": "An energy shield appears and protects the target. Until the start of the target's next turn, the target has a +5 bonus to AC, including against the triggering attack, and the target takes no damage from *homing rockets*.",
+  "duration": "1 round",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Greater Energy Shield",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "15 feet",
+  "rowKey": "Greater Energy Shield"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Enlarging Processor (Prime)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Enlarging Processor (Prime)",
+  "searchableRarity": "Artifact",
+  "subtype": "wristpad",
+  "text": "This item gains the enlarging 30 property. If it already has the enlarging property, its enlarging number increases to 30.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

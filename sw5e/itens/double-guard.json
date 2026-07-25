@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Double Guard",
+  "prerequisite": " Lacks two-handed or versatile property",
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Double Guard",
+  "searchableRarity": "Advanced",
+  "subtype": "vibroweapon",
+  "text": "This weapon gains the double property, with a double damage value equal to its normal damage.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

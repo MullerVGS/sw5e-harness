@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 725,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Shotgun",
+  "properties": [
+    "Burst 2",
+    "reload 4",
+    "slug cartridge (range 30/120)",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Burst": "Burst 2",
+    "Range": "slug cartridge (range 30/120)",
+    "Reload": "reload 4",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Shotgun",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "6.5"
+}

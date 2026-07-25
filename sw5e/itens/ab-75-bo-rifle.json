@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "Specific",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "AB-75 Bo-Rifle",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "AB-75 Bo-Rifle",
+  "searchableRarity": "Prototype",
+  "subtype": "bo-rifle",
+  "text": "You have a +2 bonus to attack and damage rolls with this enhanced weapon. Additionally, while it is in staff mode, the save DC for its shocking property increases to 15.\r\n\r\n_This version of the bo-rifle was exclusive to high-ranking members of the Honor Guard of Lasan._",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

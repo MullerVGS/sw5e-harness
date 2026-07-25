@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "This power enables you to use your health to fuel your force powers. For the duration, when you cast a force power, you can choose to pay up to half the cost of the force power using your hit points instead of your force points. When you do so, your maximum hit points are reduced by the same amount until you complete a long rest.\r\n\r\nYou may end this effect at any time. If you cast a force power that would reduce your hit points to 0, the power automatically fails and this effect ends.",
+  "duration": "1 hour",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Force Body",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Force Body"
+}

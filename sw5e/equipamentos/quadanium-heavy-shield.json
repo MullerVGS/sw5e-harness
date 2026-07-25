@@ -1,0 +1,33 @@
+{
+  "ac": "+3",
+  "armorClassification": "Shield",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 2000,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Quadanium heavy shield",
+  "properties": [
+    "Charging 1",
+    "cumbersome",
+    "obtrusive",
+    "strength 15"
+  ],
+  "propertiesMap": {
+    "": "obtrusive",
+    "Charging": "Charging 1",
+    "Cumbersome": "cumbersome",
+    "Strength": "strength 15"
+  },
+  "rowKey": "Quadanium heavy shield",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "36"
+}

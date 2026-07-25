@@ -1,0 +1,105 @@
+{
+  "alignment": "lawful dark",
+  "armorClass": 16,
+  "armorType": "light combat suit, medium shield",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The Officer makes two attacks.",
+      "descriptionWithLinks": " The Officer makes two attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "RangedWeapon",
+      "damage": "6",
+      "damageRoll": "1d6+3",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +5 to hit, range 40/160, one target. Hit: 6 (1d6+3) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +5 to hit, range 40/160, one target. Hit: 6 (1d6+3) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Blaster Pistol",
+      "numberOfTargets": "one target.",
+      "range": "range 40/160",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " (recharge 5-6) The Officer rallies his troops, giving all allies within 60 feet advantage on their next attack roll.",
+      "descriptionWithLinks": " (recharge 5-6) The Officer rallies his troops, giving all allies within 60 feet advantage on their next attack roll.",
+      "monsterBehaviorType": "Action",
+      "name": "Rally Troops",
+      "numberOfTargets": null,
+      "range": "giving all allies within 60 feet advantage on their next attack roll.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "3",
+  "charisma": 15,
+  "charismaModifier": 2,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 10,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 16,
+  "dexterityModifier": 3,
+  "experiencePoints": 700,
+  "flavorText": "",
+  "hitPointRoll": "8d10",
+  "hitPoints": 44,
+  "imageUrls": [],
+  "intelligence": 15,
+  "intelligenceModifier": 2,
+  "languages": [
+    "Galactic Basic",
+    "one other of your choice"
+  ],
+  "name": "ISB Officer",
+  "rowKey": "ISB Officer",
+  "savingThrows": [
+    "Dex +5",
+    "Wis +3"
+  ],
+  "sectionText": "The Imperial Security Bureau (ISB), also referred to as the Security Bureau or Imperial Security, was a law-enforcement and intelligence agency of the Galactic Empire that was charged with matters of state security and ensuring the loyalty of citizens to the Empire. It was larger than its sister agency Imperial Intelligence, and was led by ISB highcommand.The Imperial Security Bureau was formed by Galactic Emperor Palpatine as a secret police organization, dedicated to rooting out enemies of the New Order and maintaining stability throughout Imperial territories shortly after the proclamation of the New Order. Prospective ISB personnel were drawn from the Imperial Academy system and given training within the ISB Academy and Offices complex, located within the Verity District on Coruscant. Members went through a training regimen which included learning xenophobic propaganda, and were taught from the ISB Loyalty Manual. Members of the ISB were taught a specialized vocabulary to prevent outsiders from understanding their conversations. The term \"auditing\" was used to signal that suspects knew they were being investigated. The practice of provoking a suspect to commit a crime was referred to as \"crustbusting,\" and interrogating a supposed innocent in hopes he or she would react suspiciously was known as \"scattering.\" Framing a wanted suspect for a crime to makesure he or she would be arrested was referred to as \"Jabba.\"  Following completion of the Academy, recruits filed into one of several branches of the organization described below.High-ranking ISB agents could command stormtrooper squads, override orders of civilian and military authorities, replace questionable officers and commandeer Imperial military hardware, including Star Destroyers.",
+  "senses": [
+    "passive Perception 13"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Perception +3",
+    "Persuasion +4"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 8,
+  "strengthModifier": -1,
+  "types": [
+    "humanoid"
+  ],
+  "wisdom": 13,
+  "wisdomModifier": 1
+}

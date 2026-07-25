@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 625,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Mines can be set to detonate when a creature comes within up to 15 feet of it or paired with a remote ",
+  "equipmentCategory": "Explosive",
+  "modes": [],
+  "name": "Mine, gas",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Mine, gas",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "2"
+}

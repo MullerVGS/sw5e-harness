@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Part",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Repulsor Lifts (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Repulsor Lifts (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "part",
+  "text": "Repulsor lifts are a form of rocket propulsion affixed to the lower part of a droid's chassis. Activating or deactivating the repulsors requires a bonus action and, while active, you have a flying speed of 50 feet. The repulsor lifts last for 1 minute. Once they've been used, they can't be used again until an hour has passed.",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

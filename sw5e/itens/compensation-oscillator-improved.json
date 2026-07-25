@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Compensation Oscillator (Improved)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Compensation Oscillator (Improved)",
+  "searchableRarity": "Prototype",
+  "subtype": "vibroweapon",
+  "text": "This weapon's dexterity number is reduced by three steps (from 21 to 15, 19 to 13, or 17 to 11). If the dexterity number is 15 or lower, this modification removes the dexterity property from it entirely.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Ostrine Splitter Mk I",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Ostrine Splitter Mk I",
+  "searchableRarity": "Advanced",
+  "subtype": "blaster",
+  "text": "When you deal damage with this weapon, you deal an additional 1d4 acid, cold, fire, lightning, poison, or sonic damage (chosen by the GM when generating this item).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

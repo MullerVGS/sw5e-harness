@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "Our duty is to the Force as embodied by the Emperor.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "There is a person I care more about than my vows as a Knight or my loyalty to the Empire.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I might, by strength of my own will, develop my own creations.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I will not allow another who has risen in my defense to be killed!",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "My friend is not the most orthodox of Knights. I've learned a lot from her.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I had a mentor, who was willing to sacrifice himself for the greater good.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "a revised copy of the *Book of Anger*, an Imperial insignia, a black cape with a hood, and a belt pouch containing 100 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Brawny",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Threatening",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Perceptive",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Ace Pilot",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Force-Sensitive",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Armor Expert",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Weapon Expert",
+      "roll": 8
+    }
+  ],
+  "featureName": "Will of the Emperor",
+  "featureRowKeys": null,
+  "featureText": "The authority granted by your position is easily acknowledged even by those who don't recognize the Imperial Knights. Though they might not know you, common citizens will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to fight alongside you, should you find yourself facing an enemy alone.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "\r\nYou are an Imperial Knight, a Force-wielding protector of the Fel Empire. Your order combines the teachings of the Jedi with the creed of the Royal Guard of old, using the Force as a powerful and respected tool with which to serve the Force as embodied by your Emperor. Imperial Knights do not share the philosophies of the Jedi with regards to the Force and its light side, and are well aware of the dangers of the dark side, dutifully rejecting its use and temptations. \r\n\r\nWhile Imperial Knights wield and construct their own lightsabers, they assign them no ceremonial value, treating them as nothing more than tools. As such, almost all lightsabers of the Imperial Knights look the same, with uniform hilt design and signature silver blades. These blades are produced by synthetic crystals similar to the red variety used by the Sith, created with knowledge from Emperor Palpatine's *Book of Anger*, but in a process bereft of the dark side. Imperial Knights are also recognized by their crimson armor emblazoned with the insignia of the Empire and ideally crafted of lightsaber-resistant materials.",
+  "flawOptions": [
+    {
+      "description": "My passion is my strength�my passion is my weakness. So my Master always told me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "It was by the will of the Force my accident maimed me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Sometimes we must sacrifice those who need us for the greater good.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "The penalty for desertion has always been death.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I envy the freedom of others, but I'm not walking away from my responsibilities.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I can no longer be a Knight. I've become... something else.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "We serve with honor and if we are asked to sacrifice our honor as our duty, then we are betrayed. (Lawful)",
+      "name": "Duty",
+      "roll": 1
+    },
+    {
+      "description": "I do not understand, sire. But I will obey. (Lawful)",
+      "name": "Loyalty",
+      "roll": 2
+    },
+    {
+      "description": "I will not stray from the true path. I feel the responsibility that comes with wielding the Force now more than ever. (Light)",
+      "name": "Faith",
+      "roll": 3
+    },
+    {
+      "description": "Where I come from, we at least hear someone out before we shoot them. (Neutral)",
+      "name": "Prudence",
+      "roll": 4
+    },
+    {
+      "description": "We are Imperial Knights. There are none better. (Any)",
+      "name": "Pride",
+      "roll": 5
+    },
+    {
+      "description": "A tiny fever wasp can carry death into places where a Krayt dragon cannot go. (Any)",
+      "name": "Strategy",
+      "roll": 6
+    }
+  ],
+  "languages": null,
+  "name": "Imperial Knight",
+  "personalityTraitOptions": [
+    {
+      "description": "If a crisis comes, my place will be at the Emperor's side.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I dislike my title. It is only there to make me seem more important than I am.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I do not lead. I only advise.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "Some things are more important than the life of any one person�including mine.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I will not bend, I will not break, I will not serve.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I will not strike an enemy down in anger.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I can do whatever needs to be done!",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I've wanted to test myself against the Sith!",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Imperial Knight",
+  "skillProficiencies": "Choose two from Athletics, Intimidation, Perception, or Piloting",
+  "suggestedCharacteristics": "Imperial Knights are warriors first, not negotiators. Their bonds are shaped by the great value they put in teamwork with their fellow Knights, as well as their loyalty to their Emperor. Their flaws may lie in their hubris, sense of superiority, or overzealousness in banishing the dark side. Some Knights hold ideals that lie beyond their order, for better or worse.",
+  "toolProficiencies": "Armormech's implements and artificer's implements"
+}

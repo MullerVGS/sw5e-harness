@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Vicious Ascendancy Guard",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Vicious Ascendancy Guard",
+  "searchableRarity": "Artifact",
+  "subtype": "vibroweapon",
+  "text": "This weapon gains the vicious 3 property. If it already has the vicious property, its vicious number increases to 3.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

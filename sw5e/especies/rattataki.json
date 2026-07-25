@@ -1,0 +1,84 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Dexterity",
+          "Intelligence"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Near-human features, white skin, usually with a bald head, often tattooed",
+  "eyeColorOptions": "Grey or white",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nThe Rattataki are a near-human species characterized by their nimble movements, chalk-white skin and oft-bald heads. Virtually isolated from the rest of the galaxy, the Rattataki developed a violent society on their home planet of Rattatak, which involves extensive gladiatorial combat. \r\n\r\n### Society and Culture\r\nWhile most other inhabitants of Rattatak came from the Unknown Regions, there are a significant number of off-worlder mercenaries who come to Rattatak from time to time, likely to view or participate in gladiatorial combat, only to be stranded there permanently. The remarkably harsh conditions on the planet nearly drove its population to extinction. For eons, the Rattataki constantly battled amongst themselves and their fellow inhabitants (represented primarily by Humans, Zabraks, Siniteens, Vollick, and Weequay) over the planet's limited resources. Despite being nearly completely isolated from the outside galaxy, the Rattataki displayed remarkable initiative and continually created new ways to kill each other.\r\n\r\nRattataki culture is bloody and unforgiving. Punishment for even the smallest crimes is unnecessarily harsh, which does little to quell that behavior. In fact, Rattataki who are known to commit crimes without being caught are celebrated.\r\n\r\n### Names\r\nRattataki names are harsh sounding and short. Surnames are familial, though many Rattataki abandon them in favor of self-aggrandizing titles.\r\n\r\n**Male Names.** Aidus, Charnagus, Karok, Veran\r\n\r\n**Female Names.** Amaran, Kassien, Silas, Sraja, Vol\r\n\r\n**Surnames.** Anjek, Danvik, Degger, Kolla, Venkorr",
+  "hairColorOptions": "Brown, grey or white",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'4\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Rattatak",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rattataki.png"
+  ],
+  "language": "Rattataki",
+  "manufacturer": null,
+  "name": "Rattataki",
+  "rowKey": "Rattataki",
+  "size": "Medium",
+  "skinColorOptions": "Chalk-white",
+  "traits": [
+    {
+      "description": "Your Wisdom score increases by 2, and your Dexterity or Intelligence score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Rattataki reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Rattataki are self-serving and violent which causes them to tend toward the dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Rattataki typically stand about 5 and a half feet tall and weigh 140 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 35 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have proficiency in Acrobatics.",
+      "name": "Acrobatic"
+    },
+    {
+      "description": "You have proficiency in Intimidation.",
+      "name": "Intimidating"
+    },
+    {
+      "description": "If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.",
+      "name": "Surprise Attack"
+    },
+    {
+      "description": "Your unarmed strikes deal 1d4 kinetic damage and have the finesse property.",
+      "name": "Unarmed Combatant"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Rattataki. Rattataki is known for have an inordinate amount of curses.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "90 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "Augment",
+  "name": "Guardian Offensive Augment",
+  "prerequisite": " At least 3 levels in guardian",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Guardian Offensive Augment",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "The damage die for your Focused Strike die and Improved Force-Empowered Strikes features increases by one step (from d8 to d10, or d10 to d12).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

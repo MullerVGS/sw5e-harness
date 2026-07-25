@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Agile Armoring Mk IV",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Agile Armoring Mk IV",
+  "searchableRarity": "Advanced",
+  "subtype": "armor",
+  "text": "This armor gains the agile 17 property. If it already has the agile property, its agile number increases by four steps (from 11 to 19 or 13 to 21).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

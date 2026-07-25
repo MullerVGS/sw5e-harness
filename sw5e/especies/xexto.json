@@ -1,0 +1,99 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Four arms, long necks, spindly limbs",
+  "eyeColorOptions": "Dark blue or black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nXexto are spindly invertebrates with four arms with six fingers and two legs with ten toes. Almond-shaped eyes dominate a small head perched atop a long neck. Their brain is split between two parts of their body; the part located in the skull controls primitive emotions and basic body functions, while another portion in their chest controls higher functions such as creative thinking and logic. It's believed that xexto's body structure and lightning-fast reflexes developed to help them escape predators while pursuing their own prey, there is no question that genetic manipulation forever altered their evolutionary development.\r\n\r\n### Society and Culture\r\nAlthough the Old Republic had long since outlawed experimentation on sentient beings, unscrupulous arkanian geneticists continued to search for primitive sentients on distant planets as fodder for their experiments. One such group found the xexto's forbears- a society of loosely organized hunter-gatherer tribes taking shelter in the trees of Troiken. Independently, they developed technologically advanced civilizations, and were on the verge of attaining interstellar travel when Republic scouts contacted them. Difficult terrain and dangerous predators found on their homeworld have led many Xexto to admire and encourage risk-taking. Despite their thrillseeking nature and willingness to take risks, xexto are generally well mannered and even-tempered. Questioning a Xexto's bravery is one way to make him or her angry. \r\n\r\n### Names\r\nXexto have very unique names, often sounding odd to outsiders. Surnames are familiar but optional.\r\n\r\n**First Names.** Babading, Cicity, Gastoro, Maila, Qinla\r\n\r\n**Surnames.** Cherum, Hevad, Qatabas, Riived, Serap",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "2'10\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Troiken",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_xexto.png"
+  ],
+  "language": "Xextese",
+  "manufacturer": null,
+  "name": "Xexto",
+  "rowKey": "Xexto",
+  "size": "Small",
+  "skinColorOptions": "Chalk white to pale yellow",
+  "traits": [
+    {
+      "description": "Your Dexterity score increases by 2, and your Wisdom score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Xexto reach adulthood at 9 and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Despite being avid thrillseekers, xexto are calm and even tempered, tending them towards balanced alignments, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Xexto typically stand 3 to 5 feet tall and generally weigh about 50 lbs. Regardless of your position in that range, your size is Small.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 25 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have proficiency in one of the following skills: Acrobatics, Piloting, or Sleight of Hand.",
+      "name": "Dexterous"
+    },
+    {
+      "description": "You have advantage on saving throws against being frightened.",
+      "name": "Fearless"
+    },
+    {
+      "description": "Xexto have four arms which they can use independently of one another. You can only gain the benefit of items held by two of your arms at any given time, and once per round you can switch which arms you are benefiting from (no action required).",
+      "name": "Four-Armed"
+    },
+    {
+      "description": "Growing up in the rainforests of Troiken has left an impact. You don�t treat jungle terrain as difficult terrain.",
+      "name": "Jungle Dweller"
+    },
+    {
+      "description": "Whenever you make a Dexterity ability check, attack roll, or saving throw, you can choose to add 1d4 to the result. You cannot do so again until you complete a short or long rest.",
+      "name": "Racer's Reflexes"
+    },
+    {
+      "description": "When you make a Wisdom saving throw, you can use your reaction to gain advantage on the roll. Once you've done so, you must complete a short or long rest before you can do so again.",
+      "name": "Split Mind"
+    },
+    {
+      "description": "You have a climbing speed equal to your walking speed. You have advantage on Strength ability checks and saving throws that involve climbing.",
+      "name": "Treeclimber"
+    },
+    {
+      "description": "Your small stature makes it hard for you to wield bigger weapons. You can�t use heavy shields. Additionally, you can�t use martial weapons with the two-handed property unless it also has the light property, and if a martial weapon has the versatile property, you can only wield it in two hands.",
+      "name": "Undersized"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Xextese. Xextese is a blubbering sort of language, with many metaphors for natural phenomenon found in its vocabulary.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "45 lb.",
+  "weightRollMod": "x1 lb."
+}

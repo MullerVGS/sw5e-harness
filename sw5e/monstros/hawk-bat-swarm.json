@@ -1,0 +1,131 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 12,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small hawk-bats. The swarm can't regain hit points or gain temporary hit points.",
+      "descriptionWithLinks": " The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small hawk-bats. The swarm can't regain hit points or gain temporary hit points.",
+      "monsterBehaviorType": "Trait",
+      "name": "Swarm",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The swarm can't use its blindsight while deafened.",
+      "descriptionWithLinks": " The swarm can't use its blindsight while deafened.",
+      "monsterBehaviorType": "Trait",
+      "name": "Echolocation",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The swarm has advantage on Wisdom (Perception) checks that rely on hearing and sight.",
+      "descriptionWithLinks": " The swarm has advantage on Wisdom (Perception) checks that rely on hearing and sight.",
+      "monsterBehaviorType": "Trait",
+      "name": "Keen Hearing and Sight",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "MeleeWeapon",
+      "damage": "11",
+      "damageRoll": "2d8 + 2",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 11 (2d8 + 2) kinetic damage or 7 (1d8 + 2) kinetic damage if the swarm has half of its hit points or fewer.",
+      "descriptionWithLinks": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 11 (2d8 + 2) kinetic damage or 7 (1d8 + 2) kinetic damage if the swarm has half of its hit points or fewer.",
+      "monsterBehaviorType": "Action",
+      "name": "Talons",
+      "numberOfTargets": "one target in the swarm's space.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 5,
+  "charismaModifier": -3,
+  "conditionImmunities": [
+    "Charmed",
+    "Frightened",
+    "Paralyzed",
+    "Petrified",
+    "Prone",
+    "Restrained",
+    "Stunned"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    2,
+    4,
+    8,
+    9,
+    11,
+    12,
+    14
+  ],
+  "constitution": 10,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 14,
+  "dexterityModifier": 2,
+  "experiencePoints": 450,
+  "flavorText": "",
+  "hitPointRoll": "8d10",
+  "hitPoints": 44,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "�"
+  ],
+  "name": "Hawk-bat Swarm",
+  "rowKey": "Hawk-bat Swarm",
+  "savingThrows": null,
+  "sectionText": "Hawk-bats are reptavian creatures with a curved beak and leathery wings that can be found on urbanized worlds like Coruscant and Taris.***Biology & Appearance.*** The wingspan of a hawk-bat averages 1.5 meters. The wings consist of a thin membrane stretched over a series of wing-bones. The membrane itself is studded with spiky growths. The hooked beak of a hawk-bat contains tiny teeth that can tear prey to shreds, which they find with a combination of accurate eyesight and echolocation.Young hawk-bats hatch from eggs, lack feathers, have green skin, and are fully independent. Upon reaching maturity, the hawk-bat sheds its green skin for a purplish-gray skin.***Behavior.*** Flocks of hawk-bats hunt and attack their prey as one. Though they favor granite slugs and shadowmoth larvae, hawk-bats will feed on anything that moves. Even large enemies can be taken down by a large flock of hawk-bats. If one hawk-bat is disturbed, all of its companions attack the aggravator at once. They usually travel in large flocks through the pipes and lower levels of Coruscant. Every few months, they migrate despite lack of seasons within the lower levels. Hawk-bats hate the cold and usually stay away from it. Many live on power cables or in heated vents, hanging upside down from warm pipes below buildings.",
+  "senses": [
+    "blindsight 60 ft.",
+    "passive Perception 16"
+  ],
+  "size": "Large",
+  "skills": [
+    "Perception +6"
+  ],
+  "speed": 10,
+  "speeds": "10 ft., climb 10 ft., fly 60 ft.",
+  "strength": 8,
+  "strengthModifier": -1,
+  "types": [
+    "swarm of Small beasts"
+  ],
+  "wisdom": 14,
+  "wisdomModifier": 2
+}

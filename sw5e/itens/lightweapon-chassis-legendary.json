@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "AnyLightweapon",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Lightweapon Chassis (Legendary)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": true,
+  "rowKey": "Lightweapon Chassis (Legendary)",
+  "searchableRarity": "Legendary",
+  "subtype": "any lightweapon",
+  "text": "_**Requires attunement**_\r\nThis modifiable lightweapon chassis comes with vacant modification slots for lightweapon modifications, as well as two augment slots. It can house modifications of legendary rarity or lower.",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

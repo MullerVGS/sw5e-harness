@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 625,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Subrepeater",
+  "properties": [
+    "Auto",
+    "rapid 4",
+    "light",
+    "power cell (range 30/120)",
+    "reload 16",
+    "strength 11"
+  ],
+  "propertiesMap": {
+    "Auto": "Auto",
+    "Light": "light",
+    "Power Cell": "power cell (range 30/120)",
+    "Rapid": "rapid 4",
+    "Reload": "reload 16",
+    "Strength": "strength 11"
+  },
+  "rowKey": "Subrepeater",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "4"
+}

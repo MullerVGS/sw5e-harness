@@ -1,0 +1,84 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Constitution",
+          "Intelligence"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Hive-based, winged semi-insectoids",
+  "eyeColorOptions": "Black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nGeonosians have a hard chitin exoskeleton that provided protection from physical impacts and bouts of radiation that occasionally shower their world. Geonosians are strong despite their thin builds, and are capable of constructing massive hives and factories in concert. The head of a Geonosian is elongated and large with their skulls ridged on the top and by the side where they have bulbous, thick-lidded eyes. Both are physically strong and covered with bony ridges which protected their arms, legs, and vital organs. \r\n\r\n### Society and Culture\r\nGeonosian society is caste-based with little upward mobility, though some of the lower caste do develop ambition. Workers are conditioned to loathe even the concept of separation from their hive and the system of control. A low-ranking worker's normal life is one of endless toil and labor to satisfy the aristocracy, who are known to make spectacular demands. The warrior caste tend to be highly competitive and are eager to prove themselves. They are born with an abnormal level of intelligence, and one of their only hopes of escape from their rigid duty is entering voluntarily into gladiatorial combat. Should they survive, they are granted freedom. Ultimately, their society exist to benefit those few members that reside in the upper caste. Members of the aristocratic classes are known to be ambitious, domineering, and manipulative. They constantly move towards improving their standing and holdings while sumultaneously working to ruin their rivals.\r\n\r\n### Names\r\nGeonosian names are usually harsh sounding. Lower castes don't get surnames. Upper caste surnames are familial.\r\n\r\n**Male Names.** Buck, Goshey, Nik, Sozz, Techtu\r\n\r\n**Female Names.** Datte, Kida, Miri, Nare, Tenessi\r\n\r\n**Surnames.** Chak, Hor, Lur, Marpes, Zol",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'5\"",
+  "heightRollMod": "+2d4\"",
+  "homeworld": "Geonosis",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_geonosian.png"
+  ],
+  "language": "Geonosian",
+  "manufacturer": null,
+  "name": "Geonosian",
+  "rowKey": "Geonosian",
+  "size": "Medium",
+  "skinColorOptions": "Gray, green, or orange",
+  "traits": [
+    {
+      "description": "You Dexterity score increases by 2, and your Constitution or Intelligence score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Geonosians reach adulthood at 10 and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Geonosians' greedy and self-serving nature causes them to tend toward the dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Geonosians typically stand from 5 to 6 feet tall and rarely weigh more than 80 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Geonosian culture promotes artisanry. You have proficiency in one set of artisan's implements of your choice.",
+      "name": "Crafter"
+    },
+    {
+      "description": "You have a thick exoskeleton. While you are unarmored or wearing light armor, your AC is 12 + your Dexterity modifier.",
+      "name": "Exoskeleton"
+    },
+    {
+      "description": "You have a flying speed equal to your walking speed. While wearing medium or heavy armor, your flying speed is reduced by half.",
+      "name": "Flight"
+    },
+    {
+      "description": "You have proficiency in blasters that deal sonic damage.",
+      "name": "Geonosian Weaponry"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Geonosian. The Geonosian language consists of click consonants through use of a Geonosians' dual mandibles. This makes it difficult for other species to learn to speak it.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "60 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

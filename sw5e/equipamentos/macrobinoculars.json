@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 750,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Macrobinoculars are handheld viewing devices that allow users to observe distant objects. Some models are able to see into space from the surface of a planet.",
+  "equipmentCategory": "Utility",
+  "modes": [],
+  "name": "Macrobinoculars",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Macrobinoculars",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "1"
+}

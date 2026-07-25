@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Barbed Armoring Mk III",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Barbed Armoring Mk III",
+  "searchableRarity": "Artifact",
+  "subtype": "armor",
+  "text": "This armor gains the barbed (1d8) property. If it already has the barbed property, the barbed damage increases to d8. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

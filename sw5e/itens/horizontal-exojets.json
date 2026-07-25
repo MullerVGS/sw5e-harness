@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Horizontal Exojets",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Horizontal Exojets",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "Whenever you take the Dodge or Dash actions, your walking speed increases by 10 feet until the end of your turn.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

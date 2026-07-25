@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Handwraps Chassis (Prototype)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Handwraps Chassis (Prototype)",
+  "searchableRarity": "Prototype",
+  "subtype": "hands",
+  "text": "_**Requires attunement**_\r\nThese modifiable handwraps chassis comes with vacant modification slots for vibroweapon modifications, as well as one augment slot. They can house modifications of prototype rarity or lower.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

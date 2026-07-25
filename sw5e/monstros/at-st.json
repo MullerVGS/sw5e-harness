@@ -1,0 +1,207 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 17,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Creatures of Medium size or smaller can stand in the AT-ST's space.",
+      "descriptionWithLinks": " Creatures of Medium size or smaller can stand in the AT-ST's space.",
+      "monsterBehaviorType": "Trait",
+      "name": "Towering",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.",
+      "descriptionWithLinks": " The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.",
+      "monsterBehaviorType": "Trait",
+      "name": "Piloted",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AT-ST's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.",
+      "descriptionWithLinks": " The AT-ST's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.",
+      "monsterBehaviorType": "Trait",
+      "name": "Vulnerable Interior",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AT-ST can use its Frightful Presence. It then makes two attacks with its medium repeating blasters or takes the Stomp action.",
+      "descriptionWithLinks": " The AT-ST can use its Frightful Presence. It then makes two attacks with its medium repeating blasters or takes the Stomp action.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 7,
+      "attackType": "RangedWeapon",
+      "damage": "25",
+      "damageRoll": "4d10+3",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +7 to hit, range 120/240 ft., one target. Hit: 25 (4d10+3) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +7 to hit, range 120/240 ft., one target. Hit: 25 (4d10+3) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Medium Repeating Blasters",
+      "numberOfTargets": "one target.",
+      "range": "range 120/240 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " All creatures standing within the AT-ST's space or within 5 feet of it must make a DC 18 Dexterity saving throw, taking 39 (6d12) kinetic damage on a failed save, or half as much damage on a successful one.",
+      "descriptionWithLinks": " All creatures standing within the AT-ST's space or within 5 feet of it must make a DC 18 Dexterity saving throw, taking 39 (6d12) kinetic damage on a failed save, or half as much damage on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Stomp",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Each creature of the AT-ST's choice that is within 80 feet of the AT-ST and aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the AT-ST's Frightful Presence for the next 24 hours.",
+      "descriptionWithLinks": " Each creature of the AT-ST's choice that is within 80 feet of the AT-ST and aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the AT-ST's Frightful Presence for the next 24 hours.",
+      "monsterBehaviorType": "Action",
+      "name": "Frightful Presence",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "11",
+  "charisma": 7,
+  "charismaModifier": -2,
+  "conditionImmunities": [
+    "Poisoned",
+    "Frightened",
+    "Petrified",
+    "Restrained",
+    "Incapacitated",
+    "Stunned",
+    "Prone",
+    "Blinded",
+    "Charmed"
+  ],
+  "conditionImmunitiesOther": [
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [
+    10,
+    4,
+    9,
+    12,
+    6,
+    14,
+    11,
+    1,
+    2
+  ],
+  "constitution": 19,
+  "constitutionModifier": 4,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [
+    "Poison",
+    "Necrotic"
+  ],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [
+    10,
+    9
+  ],
+  "damageResistances": [
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 16,
+  "dexterityModifier": 3,
+  "experiencePoints": 7200,
+  "flavorText": "The All Terrain Scout Transport (or AT-ST), also known as the chicken walker for its two-legged design, is a bipedal walker used by the Galactic Republic during the late Clone Wars and, later and more extensively, by the Galactic Empire during the Galactic Civil War.AT-STs are commonly used to screen the flanks of larger assault walkers for major ground operations. The Empire used them for swift reconnaissance and troop support. As such, they are essential for cleaning up minor resistance along the path of a planned invasion route, and can quickly eliminate small threats that evade an AT-AT's barrage. The walker is commonly used on anti-personnel hunting missions, and is piloted by two AT-ST drivers.Despite its speed and agility, an AT-ST walker's offensive and defensive power are significantly compromised. Offensively, its weapons systems are only good against lightly armored targets at close range. Defensively, its lighter armor can repel attacks from small-arms fire, but not laser cannons, missiles, or other heavy ordnance. Its armor does not cover its entire frame, lest the walker lose its agility. Striking the walker's unprotected gyros underneath the command module can destabilize the walker and cause it to fall. Additionally, deep trenches or cable lines leveled at the height of the AT-ST's ankles and knees can cause it to trip and topple the vehicle.The modular design of the AT-ST allows for ease in customizing the walker with armaments and tools for specific mission parameters such as mortar launchers attached to the command pod.",
+  "hitPointRoll": "16d12+64",
+  "hitPoints": 168,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "�"
+  ],
+  "name": "AT-ST",
+  "rowKey": "AT-ST",
+  "savingThrows": [
+    "Str +10",
+    "Con +8"
+  ],
+  "sectionText": "The armies of the galaxy use a variety of land vehicles used to transport troops and as weapons of war to bring overwhelming firepower against their enemies.",
+  "senses": [
+    "�"
+  ],
+  "size": "Huge",
+  "skills": null,
+  "speed": 40,
+  "speeds": "40 ft.",
+  "strength": 23,
+  "strengthModifier": 6,
+  "types": [
+    "construct"
+  ],
+  "wisdom": 14,
+  "wisdomModifier": 2
+}

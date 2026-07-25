@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Rapid Core (Superior)",
+  "prerequisite": " Blaster that uses cells or cartridges",
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Rapid Core (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "blaster",
+  "text": "This weapon gains the rapid property, with a rapid number equal to one-fourth its reload number (rounded up), to a minimum of 2. If it already has the rapid property, the rapid number is reduced to one-eighth its reload number (rounded up), to a minimum of 2.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

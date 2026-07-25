@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Seeking Subroutine",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "Prototype",
+  "requiresAttunement": false,
+  "rowKey": "Seeking Subroutine",
+  "searchableRarity": "Prototype",
+  "subtype": "wristpad",
+  "text": "If you miss with a tech power that calls for an attack roll, you can spend 2 tech points to reroll the attack. You must use the new roll.\r\n\r\nYou can only spend a number of tech points in this way equal to your proficiency bonus. You regain the ability to do so when you complete a long rest. \r\n\r\nYou can use Seeking Subroutine even if you have already used a different Subroutine modificatio during the casting of the power.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Insulated Reinforcement (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Insulated Reinforcement (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "armor",
+  "text": "This armor or shield gains the insulated 8 property. If it already has the insulated property, its insulated number increases by 4, to a maximum of 10.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

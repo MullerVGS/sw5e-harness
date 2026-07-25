@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 250,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrostiletto",
+  "properties": [
+    "Finesse",
+    "keen 1",
+    "light",
+    "thrown (range 30/90)"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Keen": "keen 1",
+    "Light": "light",
+    "Range": "thrown (range 30/90)"
+  },
+  "rowKey": "Vibrostiletto",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "1"
+}

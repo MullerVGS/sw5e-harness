@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 725,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Neuronic whip",
+  "properties": [
+    "Reach",
+    "shocking 15",
+    "specialized (shocking)"
+  ],
+  "propertiesMap": {
+    "Reach": "Reach",
+    "Shocking": "shocking 15",
+    "Special": "specialized (shocking)"
+  },
+  "rowKey": "Neuronic whip_ExoticVibroweapon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "ExoticVibroweapon",
+  "weight": "0"
+}

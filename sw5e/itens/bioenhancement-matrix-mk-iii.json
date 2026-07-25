@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Bioenhancement Matrix Mk III",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Bioenhancement Matrix Mk III",
+  "searchableRarity": "Artifact",
+  "subtype": "armor",
+  "text": "Your hit point maximum increases by an amount equal to three times your level, and it increases by 3 every time you gain a level.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

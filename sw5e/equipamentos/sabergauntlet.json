@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 475,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Sabergauntlet",
+  "properties": [
+    "Finesse",
+    "fixed",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Fixed": "fixed",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Sabergauntlet",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "1.5"
+}

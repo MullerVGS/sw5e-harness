@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Cortosis Weave",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Cortosis Weave",
+  "searchableRarity": "Prototype",
+  "subtype": "armor",
+  "text": "This armor or shield gains the absorptive 1 property. If it already has the absorptive property, its absorptive property increases by 1, to a maximum of 3. Additionally, when taking energy damage from a lightweapon, this armor or shield's absorptive number is doubled, to a maximum of 6.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

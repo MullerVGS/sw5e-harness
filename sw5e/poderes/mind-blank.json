@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Until the power ends, one willing creature you touch is immune to psychic and sonic damage, any effect that would sense its emotions or read its thoughts, and the charmed condition. The power foils powers or effects of similar power used to affect the target's mind or to gain information about the target.",
+  "duration": "24 hours",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 8,
+  "name": "Mind Blank",
+  "powerType": "Force",
+  "prerequisite": "Mind Trap",
+  "range": "Touch",
+  "rowKey": "Mind Blank"
+}

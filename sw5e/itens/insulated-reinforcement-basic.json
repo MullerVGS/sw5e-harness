@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Insulated Reinforcement (Basic)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Insulated Reinforcement (Basic)",
+  "searchableRarity": "Standard",
+  "subtype": "armor",
+  "text": "This armor or shield gains the insulated 5 property. If it already has the insulated property, its insulated number increases by 1, to a maximum of 10. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

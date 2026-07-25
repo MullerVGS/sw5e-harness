@@ -1,0 +1,230 @@
+{
+  "bondOptions": [
+    {
+      "description": "I fleeced the wrong person and must work to ensure that this individual never crosses paths with me or those I care about.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I owe everything to my mentor�a horrible person who's probably rotting in jail somewhere.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Somewhere out there, I have a child who doesn't know me. I'm making the world better for him or her.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I come from a noble family, and one day I'll reclaim my lands and title from those who stole them from me.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "A powerful person killed someone I love. Some day soon, I'll have my revenge.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I swindled and ruined a person who didn't deserve it, and I seek to atone for my misdeeds.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "equipment": "A set of fine clothes, a disguise kit, a memento of a former con, and a belt pouch containing 150 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Performer",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Quick-Fingered",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Force of Personality",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Snappy Interjection",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Actor",
+      "roll": 8
+    }
+  ],
+  "featureName": "False Identity",
+  "featureRowKeys": null,
+  "featureText": "You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona.\r\n\r\nAdditionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.\r\n",
+  "features": null,
+  "flavorDescription": "Every scoundrel has an angle they use in preference to other schemes. Choose a favorite scam or roll on the table below.\r\n\r\n|d6|Scam|\r\n|:--:|:--:|\r\n|1|I cheat at games involving chance.|\r\n|2|I shave creds or forge documents.|\r\n|3|I insinuate myself into people's lives to prey on their weakness and secure their fortunes.|\r\n|4|I put on new identities like clothes.|\r\n|5|I run sleight-of-hand cons on street corners.|\r\n|6|I convince people that worthless junk is worth their hard-earned money.|\r\n",
+  "flavorName": "Favorite Schemes",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "I cheat at games involving chance.",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "I shave creds or forge documents.",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "I insinuate myself into people's lives to prey on their weakness and secure their fortunes.",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "I put on new identities like clothes.",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "I run sleight-of-hand cons on street corners.",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "I convince people that worthless junk is worth their hard-earned money.",
+      "roll": 6
+    }
+  ],
+  "flavorText": "You have always had a way with people. You can tease out their heart's desires after a few minutes of conversation, and with a few leading questions you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage. You know what people want and you promise to deliver, coaxing people into otherwise foolish decisions. You make the improbable sound plausible, and come ahead on every deal.\r\n",
+  "flawOptions": [
+    {
+      "description": "I can't resist a pretty face.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster than I bring them in.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I'm convinced that no one could ever fool me the way I fool others.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'm too greedy for my own good. I can't resist taking a risk if there's money involved.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I can't resist swindling people who are more powerful than me.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I am a free spirit� no one tells me what to do. (Chaotic)",
+      "name": "Independence",
+      "roll": 1
+    },
+    {
+      "description": "I never target people who can't afford to lose a few creds. (Lawful)",
+      "name": "Fairness",
+      "roll": 2
+    },
+    {
+      "description": "I distribute the money I acquire to the people who really need it. (Light)",
+      "name": "Charity",
+      "roll": 3
+    },
+    {
+      "description": "I never run the same con twice. (Any)",
+      "name": "Creativity",
+      "roll": 4
+    },
+    {
+      "description": "Material goods come and go. Bonds of friendship last forever. (Light)",
+      "name": "Friendship",
+      "roll": 5
+    },
+    {
+      "description": "I'm determined to make something of myself. (Any)",
+      "name": "Aspiration",
+      "roll": 6
+    }
+  ],
+  "languages": null,
+  "name": "Scoundrel",
+  "personalityTraitOptions": [
+    {
+      "description": "I fall in and out of love easily, and am always pursuing someone.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I have a joke for every occasion, especially occasions where humor is inappropriate.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Flattery is my preferred trick for getting what I want.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'm a born gambler who can't resist taking a risk for a potential payoff.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I lie about almost everything, even when there's no good reason to.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Sarcasm and insults are my weapons of choice.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I keep multiple symbols on me and invoke whatever power might come in useful at any given moment.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I pocket anything I see that might have some value.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Scoundrel",
+  "skillProficiencies": "Choose two from Deception, Insight, Performance, and Sleight of Hand",
+  "suggestedCharacteristics": "Scoundrels are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.",
+  "toolProficiencies": "Disguise Kit, Forgery Kit"
+}

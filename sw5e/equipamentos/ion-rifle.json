@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1150,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Ion",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Ion rifle",
+  "properties": [
+    "Power cell (range 80/320)",
+    "reload 8",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 80/320)",
+    "Reload": "reload 8",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Ion rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "8"
+}

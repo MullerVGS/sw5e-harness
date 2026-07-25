@@ -1,0 +1,240 @@
+{
+  "bondOptions": [
+    {
+      "description": "I carry with me a unique piece of technology unknown to me, but I keep it as a good luck charm.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "My fellow scavengers mean the world to me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I unintentionally killed someone by stealing their property. I hope to redeem myself for it.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I used to work for a horrible employer that abused their power; I will take my revenge on any who bully others.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm working off the debt I owe to a wealthy benefactor.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Someone I loved died because of a mistake I made. That will never happen again.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of common clothes with a hood, 2 days field rations, mechanic's goggles, a bedroll, and a pouch containing 200 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Quick-Fingered",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Techie",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Tech Dabbler",
+      "roll": 8
+    }
+  ],
+  "featureName": "Rugged Survivalist",
+  "featureRowKeys": null,
+  "featureText": "Scavengers due to their line of work have an eye for spotting useful or even valuable parts of technology or artifacts. You can easily spot the best place to scavenge the most valuable parts.\r\n",
+  "features": null,
+  "flavorDescription": "\r\n|d8|Specialty|\r\n|:---:|:----------:|\r\n|1|Droid Scavenger|\r\n|2|Ship Scavenger|\r\n|3|Junk Dealer|\r\n|4|Scrapper|\r\n\r\n|d8|Specialty|\r\n|:---:|:----------:|\r\n|5|Collector|\r\n|6|Trader|\r\n|7|Clean-up|\r\n|8|Fence|\r\n",
+  "flavorName": "Scavenger Specialty",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "Droid Scavenger",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Ship Scavenger",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Junk Dealer",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Scrapper",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Collector",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Trader",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Clean-up",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Fence",
+      "roll": 8
+    }
+  ],
+  "flavorText": "You are experienced with collecting lost or abandoned items or recovering wreckage from the aftermath of large scale conflicts or natural disasters. Scavengers sole occupation is to salvage anything they can find that they can reuse or sell for much needed credits.  ",
+  "flawOptions": [
+    {
+      "description": "When I see something valuable, I can�t think about anything but how to make a profit from it.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "When faced with a choice between money and my friends, I usually choose the money.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "If there�s a plan, I�ll forget it. If I don�t forget it, I�ll ignore it.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have a \"tell\" that reveals when I'm lying.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I turn tail and run when things look bad.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I tend to hold people who work normal jobs in contempt.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I don�t steal from other in or outside of the trade. (Lawful)",
+      "name": "Honor",
+      "roll": 1
+    },
+    {
+      "description": "I do not work well with others, I work alone. (Chaotic)",
+      "name": "Independence",
+      "roll": 2
+    },
+    {
+      "description": "I use the credits I gain to help those less fortunate. (Light)",
+      "name": "Charity",
+      "roll": 3
+    },
+    {
+      "description": "I will do whatever it takes to get more credits. (Dark)",
+      "name": "Greed",
+      "roll": 4
+    },
+    {
+      "description": "I�m loyal to my friends and fellow Scavengers. (Neutral)",
+      "name": "Community",
+      "roll": 5
+    },
+    {
+      "description": "I hope to one day get enough money to start a new life in the stars. (Neutral)",
+      "name": "Hope",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Scavenger",
+  "personalityTraitOptions": [
+    {
+      "description": "I am quiet, reserved, and focused on my work. It takes a lot for me to raise my voice or object outside of my job.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "If I find an intact piece of technology, I'll be focused on how many credits I can get by salvaging it.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "When I find myself in a trove full of technology, I'm thinking of a way to use them for profit.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I look down on people that do not like getting their hands dirty.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I like making friends, those who don't like widening their circle are fools.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I am polite around my customers or patrons, though I am harsh toward my fellow Scavengers.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I am slow to trust people as in my line of work; it's every individual for themselves.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "If there is a lost individual that is in need, I will always lend a hand.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Scavenger",
+  "skillProficiencies": "Choose two from Persuasion, Sleight of Hand, Survival, and Technology",
+  "suggestedCharacteristics": "Scavengers are usually self-employed while searching for the next piece of technology or random junk to sell for profit or merely for survival.",
+  "toolProficiencies": "Your choice of archaeologist kit, jeweler's implements, mechanic's kit, or scavenging kit"
+}

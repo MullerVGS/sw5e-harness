@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "Augment",
+  "name": "Operative Offensive Augment",
+  "prerequisite": " At least 3 levels in operative",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Operative Offensive Augment",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "Your Sneak Attack damage die increases by one step (from d6 to a d8, d8 to d10, or d10 to d12).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

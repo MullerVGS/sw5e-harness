@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Phobium Echoer (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Phobium Echoer (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "focus generator",
+  "text": "When you cast a force power that affects an area in a radius or a cube, you can increase the radius or length of the cube by 10 feet. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

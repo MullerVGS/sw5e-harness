@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Throwing Weapon Hilt (Fine)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Throwing Weapon Hilt (Fine)",
+  "searchableRarity": "Premium",
+  "subtype": "lightweapon",
+  "text": "This weapon gains thrown (20/60) property. If it already has the thrown property, the range increases by 10/30.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Circlet of Persistence",
+  "prerequisite": " at least 3 levels in consular",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Circlet of Persistence",
+  "searchableRarity": "Prototype",
+  "subtype": "head",
+  "text": "This item can hold a number of charges equal to half your consular level (rounded up). When you complete a long rest, this item regains all missing charges. When you would use a Force-Empowered Casting option, you can expend charges instead of force points.\r\n\r\nWhen you reach 5th level in consular, when you use your Force Recovery feature, you can add both your Wisdom and Charisma modifier to the number of force points regained, instead of just one.\r\n\r\nWhen you reach 11th level in consular, you can ignore the prerequisites for force powers that are lower level than your Max Power Level.\r\n\r\nWhen you reach 17th level in consular, when you make a Constitution saving throw to maintain concentration on a force power, you can add your Wisdom or Charisma modifier (your choice, minimum of one) if it doesn't already include that modifier. \r\n\r\n_This platinum circlet contains a gem that shifts colors at the whim of its bearer._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

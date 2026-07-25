@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Goggles of the Tinkerer",
+  "prerequisite": " at least 3 levels in engineer",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Goggles of the Tinkerer",
+  "searchableRarity": "Prototype",
+  "subtype": "head",
+  "text": "This item can hold a number of charges equal to half your engineer level (rounded up). When you complete a long rest, this item regains all missing charges. Once per turn, when you use a Potent Aptitude feature, you can spend 1 charge to roll the Potent Aptitude dice twice and add them together.\r\n\r\nWhen you reach 5th level in engineer, you become a valid target of your Potent Aptitude feature. Additionally, you gain 1 additional modification slot.\r\n\r\nWhen you reach 11th level in engineer, you can add half your proficiency bonus, rounded down, to any ability check with tools you make that doesn't already include your proficiency bonus. Additionally, you gain 1 additional modification slot (2).\r\n\r\nWhen you reach 17th level in engineer, when use your bonus action to grant a Potent Aptitude die, you can grant a d4 instead of expending a use of your Potent Aptitude. Additionally, you gain 1 additional modification slot (3).\r\n\r\n_These goggles feature one-way glass lenses. When worn over the eyes, the lenses take whatever appearance the bearer decides._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

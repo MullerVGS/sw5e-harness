@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 1850,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 2,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Beam rifle",
+  "properties": [
+    "Penetrating 2",
+    "power cell (range 150/600)",
+    "reload 2",
+    "strength 15",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Penetrating": "Penetrating 2",
+    "Power Cell": "power cell (range 150/600)",
+    "Reload": "reload 2",
+    "Strength": "strength 15",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Beam rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "16"
+}

@@ -1,0 +1,17 @@
+{
+  "casterRatio": 0.0,
+  "casterType": "None",
+  "classCasterType": "None",
+  "className": "Monk",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "featureRowKeys": null,
+  "features": null,
+  "imageUrls": [],
+  "leveledTable": null,
+  "leveledTableHeaders": null,
+  "name": "Nightsister Order",
+  "rowKey": "Nightsister Order",
+  "text": "Monks of the Nightsister Order utilize an innate Force-sensitivity to commune with death. They learn to channel this power to drain the life of their foes to prolong their own existence. Males who join this order are called Nightbrothers.\r\n\r\n### Ichor Lightning\r\n_**Nightsister Order:** 3rd level_\r\nYou gain a new attack option that you can use with the Attack action. This special attack is a ranged focus attack with a range of 30 feet. You are proficient with it, and you add your focus ability modifier to its attack and damage rolls. Its damage is necrotic, it counts as an unarmed strike for the sake of your Martial Arts feature, and it uses your Martial Arts die for its damage die.\r\n\r\nWhen you would make an unarmed strike as part of your Martial Arts bonus action attack or your Flurry of Blows, you can replace the attack with this one.\r\n\r\nWhen you reduce a creature to 0 hit points with this attack, you gain temporary hit points equal to your focus ability modifier (your choice, minimum of one) + your monk level.\r\n\r\n### Dark Magick\r\n_**Nightsister Order:** 6th level_\r\nYou can use your action to force each creature within 30 feet of you that can see you to make a Wisdom saving throw against your focus save DC or be charmed or frightened (your choice) of you until the end of your next turn. \r\n\r\n### Mastery of Death\r\n_**Nightsister Order:** 11th level_\r\nWhen you are reduced to 0 hit points, you can expend 1 focus point (no action required) to have 1 hit point instead.\r\n\r\n### Spirit Blade Assault\r\n_**Nightsister Order:** 17th level_\r\nAs an action, you conjure a blade of spirit energy and strike one creature within 5 feet of you with it, expending 1 to 10 focus points. The target must make a Constitution saving throw against your focus save DC. On a failed save, it takes 2d10 necrotic damage per focus point spent, or half as much on a successful one. ",
+  "text2": null
+}

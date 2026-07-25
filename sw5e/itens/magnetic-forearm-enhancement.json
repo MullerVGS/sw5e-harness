@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Magnetic Forearm Enhancement",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Magnetic Forearm Enhancement",
+  "searchableRarity": "Standard",
+  "subtype": "replacement",
+  "text": "This augmentation replaces a forearm.\r\n\r\nUnarmed strikes with this hand have the reach property.\r\n\r\n**Side Effect:** When you roll a 1 on an ability check, attack roll, or saving throw with this arm, the hand disconnects and falls to the ground. It can be picked up and replaced as a bonus action.\r\n\r\n_This hand replacement creates a magnetic connection between the hand and forearm, emitting a minor hum._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

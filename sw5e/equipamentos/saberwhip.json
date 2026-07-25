@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 750,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Saberwhip",
+  "properties": [
+    "Finesse",
+    "hidden",
+    "luminous",
+    "reach"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Hidden": "hidden",
+    "Luminous": "luminous",
+    "Reach": "reach"
+  },
+  "rowKey": "Saberwhip",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "3.5"
+}

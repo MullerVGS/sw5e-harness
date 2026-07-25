@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Mag-lock Boots",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Mag-lock Boots",
+  "searchableRarity": "Standard",
+  "subtype": "feet",
+  "text": "While you wear these boots, you can activate or deactivate heir mag-locks as a bonus action. While the mag locks are engaged, you move at half speed, can walk on any solid metallic surface, ignore difficult terrain caused by metallic debris, and ignore the effects of gravity (or the lack thereof), allowing you to walk up vertical surfaces or even upside-down. \r\n\r\nThe battery in these boots lasts for a total of 1 hour and recharges at the end of a long rest.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

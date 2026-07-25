@@ -1,0 +1,125 @@
+# feats — 119 entidades
+
+Índice do espelho: escolha por aqui e só então abra a fatia. O arquivo é o
+nome em slug (minúsculas, hífens); onde o nome não basta, ele vem entre
+backticks na linha.
+
+- **Ace Pilot** — sem pré-requisito
+- **Acrobat** — sem pré-requisito
+- **Actor** — sem pré-requisito
+- **Adaptable Fading** — pré-req: 4th level
+- **Alert** — sem pré-requisito
+- **Animal Handler** — sem pré-requisito
+- **Armor Expert** — sem pré-requisito
+- **Athlete** — sem pré-requisito
+- **Auditory Dampening** — sem pré-requisito
+- **Augmented Cyborg** — pré-req: Type beast or humanoid
+- **Battle Scarred** — sem pré-requisito
+- **Blinding Agility** — pré-req: 12th level, Dexterity 20
+- **Bountiful Luck** — pré-req: 4th level, Lucky feat
+- **Brawny** — sem pré-requisito
+- **Casting Specialist** — pré-req: 4th level, the ability to cast force or tech powers
+- **Charmer** — sem pré-requisito
+- **Chemical Buffer** — sem pré-requisito
+- **Class Improvement** — pré-req: 4th level
+- **Class Proficiencies** — sem pré-requisito
+- **Climber** — sem pré-requisito
+- **Close Quarters Caster** — pré-req: 4th level, the ability to cast force or tech powers
+- **Combat Caster** — pré-req: 4th level, the ability to cast force or tech powers
+- **Commando** — sem pré-requisito
+- **Companion Keeper** — pré-req: 4th level
+- **Competitor** — sem pré-requisito
+- **Crafter** — sem pré-requisito
+- **Cunning Forcecaster** — pré-req: The ability to cast force powers
+- **Cunning Intellect** — pré-req: 12th level, Intelligence 20
+- **Customized Droid** — pré-req: Type droid
+- **Double-Weapon Casting** — pré-req: 4th level, the ability to cast force or tech powers
+- **Dual Focused Caster** — pré-req: 4th level, the ability to cast force or tech powers
+- **Dungeon Delver** — sem pré-requisito
+- **Durable** — sem pré-requisito
+- **Dutifully Deployed** — sem pré-requisito
+- **Electrical Grounding** — sem pré-requisito
+- **Empathic** — sem pré-requisito
+- **Entertainer** — sem pré-requisito
+- **Exalted Awareness** — pré-req: 12th level, Wisdom 20
+- **Exotic Weapon Training** — sem pré-requisito
+- **Fanatic** — pré-req: 4th level
+- **Feigned Confidence** — sem pré-requisito
+- **Fighting Master** — pré-req: 4th level
+- **Fighting Styles and Masteries** (`fighting-styles-and-masteries-ec.json`) — sem pré-requisito
+- **Fighting Styles and Masteries** (`fighting-styles-and-masteries-wh.json`) — sem pré-requisito
+- **Fighting Stylist** — pré-req: 4th level
+- **Flexible Rending** — pré-req: 4th level
+- **Force Frustrater** — sem pré-requisito
+- **Force Guidance** — pré-req: The ability to cast force powers
+- **Force of Personality** — sem pré-requisito
+- **Force-Sensitive** — pré-req: Type humanoid
+- **Forceful Vigor** — sem pré-requisito
+- **Formfighting Dabbler** — pré-req: The ability to cast force powers
+- **Galvanizing Presence** — sem pré-requisito
+- **Greater Force-Sensitive** — pré-req: The ability to cast 3rd-level force powers
+- **Greater Tech Dabbler** — pré-req: The ability to cast 3rd-level tech powers
+- **Haggler** — sem pré-requisito
+- **Healer** — sem pré-requisito
+- **Heat Shielded** — sem pré-requisito
+- **Improved Force-Sensitive** — pré-req: The ability to cast 2nd-level force powers
+- **Improved Tech Dabbler** — pré-req: The ability to cast 2nd-level tech powers
+- **Inspiring Leader** — pré-req: Charisma 13
+- **Investigative Attunement** — pré-req: 4th level
+- **Investigator** — sem pré-requisito
+- **Keen Mind** — sem pré-requisito
+- **Linguist** — sem pré-requisito
+- **Loremaster** — sem pré-requisito
+- **Lucky** — pré-req: 4th level
+- **Mariner** — sem pré-requisito
+- **Master Force-Sensitive** — pré-req: The ability to cast 4th-level force powers
+- **Master Tech Dabbler** — pré-req: The ability to cast 4th-level tech powers
+- **Medic** — sem pré-requisito
+- **Metabolic Tolerance** — sem pré-requisito
+- **Mindful Meditator** — sem pré-requisito
+- **Mobile** — pré-req: 4th level
+- **Mounted Caster** — pré-req: 4th level, the ability to cast force or tech powers
+- **Multiclass Improvement** — pré-req: 4th level
+- **Muscled Menace** — pré-req: Strength 13, size Medium
+- **Naturalist** — sem pré-requisito
+- **Observant** — sem pré-requisito
+- **Overwhelming Presence** — pré-req: 12th level, Charisma 20
+- **Perceptive** — sem pré-requisito
+- **Performer** — sem pré-requisito
+- **Power Adept** — pré-req: 4th level, the ability to cast force or tech powers
+- **Power Channeling** — pré-req: 4th level, the ability to cast force or tech powers
+- **Practiced** — sem pré-requisito
+- **Promising Commander** — sem pré-requisito
+- **Quick Caster** — pré-req: 4th level, the ability to cast force or tech powers
+- **Quick-Fingered** — sem pré-requisito
+- **Quick-Witted** — sem pré-requisito
+- **Resilient** — pré-req: 4th level
+- **Savage Shorty** — pré-req: Strength 13, size Small
+- **Shard Modification** — pré-req: Type droid
+- **Silver-Tongued** — sem pré-requisito
+- **Snappy Interjection** — sem pré-requisito
+- **Sniping Caster** — pré-req: 4th level, the ability to cast force or tech powers
+- **Specialist** — sem pré-requisito
+- **Spiritual Techcaster** — pré-req: The ability to cast tech powers
+- **Splashclass Improvement** — pré-req: 4th level
+- **Stealthy** — sem pré-requisito
+- **Supreme Accuracy** — pré-req: 4th level; Dexterity, Intelligence, Wisdom, or Charisma 13
+- **Supreme Aptitude** — pré-req: 4th level; Strength, Dexterity, Constitution, or Intelligence 13
+- **Supreme Durability** — pré-req: 4th level; Strength, Constitution, Wisdom, or Charisma 13
+- **Survivalist** — sem pré-requisito
+- **Tech Dabbler** — sem pré-requisito
+- **Techie** — sem pré-requisito
+- **Threatening** — sem pré-requisito
+- **Tiny Terror** — pré-req: Strength 13, size Tiny
+- **Titan's Power** — pré-req: 12th level, Strength 20
+- **Total Reconstruction** — pré-req: Type beast or humanoid
+- **Tough** — pré-req: 4th level, Durable feat
+- **Two-Weapon Casting** — pré-req: 4th level, the ability to cast force or tech powers
+- **Unnatural Resilience** — pré-req: 12th level, Constitution 20
+- **Versatile Withering** — pré-req: 4th level
+- **Vigorous Virility** — sem pré-requisito
+- **War Caster** — pré-req: 4th level, the ability to cast force or tech powers
+- **Weapon Expert** — sem pré-requisito
+- **Weapon Focused** — pré-req: 4th level
+- **Weapon Supremacist** — pré-req: 4th level
+- **Well-Insulated** — sem pré-requisito

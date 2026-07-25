@@ -1,0 +1,70 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 14,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: (2d6 + 3) kinetic damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: (2d6 + 3) kinetic damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1",
+  "charisma": 7,
+  "charismaModifier": -2,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 15,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 15,
+  "dexterityModifier": 2,
+  "experiencePoints": 100,
+  "flavorText": "",
+  "hitPointRoll": "5d10+9",
+  "hitPoints": 36,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "—"
+  ],
+  "name": "Anooba",
+  "rowKey": "Anooba",
+  "savingThrows": null,
+  "sectionText": "Anoobas were aggressive pack predators native to Tatooine. Opportunistic hunters as well as scavengers, these wolflike canines would attack virtually anything smaller than themselves (such as scurriers) and would band together in packs to bring down rontos, eopies, and similar creatures.Strong, horny beaks on their jaws assisted in the breaking of thick skeletons, while long, tufted tails helped to counterbalance the body and dissipate heat. Anoobas could vary in weight from 20 to 45 kilograms�males being larger than females�and often banded into packs of ten to twelve. These units were dominated by an alpha male and alpha female, and it was not uncommon to see entire packs waiting alongside podrace courses for an easy meal.Like the winged urusai, accounts tell of anoobas being so engorged on meals that they are unable to move. This may be due in part to the fact that anooba mothers fed their young, born three to four at a time, through regurgitation.***Domestication.*** Anoobas were also known to be, like the massiff, domesticated by Tatooine's Tusken Raiders as pets and guard animals.***Off-World.*** Packs of escaped, adaptable anoobas imported from Tatooine roamed Coruscant alleys looking for prey. As a result, nocturnal foot traffic in certain areas was highly risky. Anoobas on Coruscant were known to howl at the planet's moons. Anoobas were sometimes caught in packs and used as gladiatorial fighting animals, for which they were given a shock collar to control their behavior.",
+  "senses": [
+    "passive perception 13"
+  ],
+  "size": "Medium",
+  "skills": null,
+  "speed": 50,
+  "speeds": "50 ft.",
+  "strength": 16,
+  "strengthModifier": 3,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

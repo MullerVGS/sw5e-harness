@@ -1,0 +1,155 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 15,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The rathtar can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "descriptionWithLinks": " The rathtar can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+      "monsterBehaviorType": "Trait",
+      "name": "Spider Climb",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The rathtar can have up to eight arms at a time.  Each arm can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage).  Destroying an arm deals no damage to the rathtar, which can extrude a replacement arm on its next turn.  An arm can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.",
+      "descriptionWithLinks": " The rathtar can have up to eight arms at a time.  Each arm can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage).  Destroying an arm deals no damage to the rathtar, which can extrude a replacement arm on its next turn.  An arm can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.",
+      "monsterBehaviorType": "Trait",
+      "name": "Grasping Arms",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The rathtar makes four flailing arm attacks, uses Reel, and makes one attack with its bite.",
+      "descriptionWithLinks": " The rathtar makes four flailing arm attacks, uses Reel, and makes one attack with its bite.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 7,
+      "attackType": "MeleeWeapon",
+      "damage": "6",
+      "damageRoll": "1d4 + 4",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 6 (1d4 + 4)  kinetic damage, and the target is grappled (escape DC 15) if it is Medium or smaller. Until the grapple ends, the rathar can't use this arm on another target. The rathtar has eight arms and can have up to four creatures grappled at a time.",
+      "descriptionWithLinks": " Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 6 (1d4 + 4)  kinetic damage, and the target is grappled (escape DC 15) if it is Medium or smaller. Until the grapple ends, the rathar can't use this arm on another target. The rathtar has eight arms and can have up to four creatures grappled at a time.",
+      "monsterBehaviorType": "Action",
+      "name": "Flailing Arms",
+      "numberOfTargets": "one target.",
+      "range": "reach 15 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 7,
+      "attackType": "MeleeWeapon",
+      "damage": "11",
+      "damageRoll": "2d6 + 4",
+      "damageType": "Kinetic",
+      "description": "  Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) kinetic damage.",
+      "descriptionWithLinks": "  Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The rathtar pulls each creature grapples by it up to 15 feet straight toward it.",
+      "descriptionWithLinks": " The rathtar pulls each creature grapples by it up to 15 feet straight toward it.",
+      "monsterBehaviorType": "Action",
+      "name": "Reel",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "5",
+  "charisma": 6,
+  "charismaModifier": -2,
+  "conditionImmunities": [
+    "Poisoned",
+    "Prone"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    10,
+    11
+  ],
+  "constitution": 19,
+  "constitutionModifier": 4,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Poison"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    10
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 10,
+  "dexterityModifier": 0,
+  "experiencePoints": 1800,
+  "flavorText": "",
+  "hitPointRoll": "12d10 + 48",
+  "hitPoints": 114,
+  "imageUrls": [],
+  "intelligence": 6,
+  "intelligenceModifier": -2,
+  "languages": [
+    "�"
+  ],
+  "name": "Rathtar, Dwarf",
+  "rowKey": "Rathtar, Dwarf",
+  "savingThrows": [
+    "Con +7"
+  ],
+  "sectionText": "Rathtars were large, carnivorous cephalopods that were native to the planet Twon Ketee. Regarded as one of the most dangerous beasts in the galaxy, rathtars were known for hunting in packs, and their subspecies, the dwarf rathtar were involved in an incident known as the Trillia Massacre.   ***Biology.*** Although the study of rathtars was rare due to the danger posed by the beasts, it was believed that they shared common ancestry with other tentacled species such as the sarlaccs, the blixii, and the vixus of Umbara. Rathtars reproduced by fission, leading to rapidly increasing numbers if the species' population was not controlled.***Hunting.*** Rathtars appeared physiologically primitive, endowed with only rudimentary senses and possessing small brains. Despite the appearance of a mindless eating machine, rathtars proved effective at working together, and displayed affinity for pack hunting. Individual rathtars appeared to become smarter when in proximity to others of its species, and rathtar packs utilized howls, at a frequency beyond humanoid hearing, to communicate among one another. They also vocalized deafening roars when attacking and devouring prey, and let out horrifying shrieks of fury when in pain. If in danger from a rathtar, one's best hope was to hide, as the creatures were largely blind.***Feeding.*** Lacking a true skeleton, a rathtar had an enormous, round, slug-like body covered in light-reactive sensing orbs. They possessed multiple long, tentacle-like appendages; their principle feeding tentacles whipped out to capture and devour prey, which typically consisted of anything they perceived as non-rathtar. The creatures were ravenous and persistent eaters, capable of consuming virtually anything that they could fit into their robust, radial mouths, which were funnel-shaped and lined with rows of razor sharp teeth. Their throat distended outward into a hollow tongue, useful for swallowing struggling prey. The bilious creatures typically tore their meals apart piece by piece.***Movement.*** Capable of locomotion, rathtars curled their ambulatory tentacles inward to form a ball and roll themselves forward in a whirl of whipping tentacles. They moved deceptively fast for their size, and had adhesive pads on their pointed tentacle tips�known as a club�which helped them attach to surfaces. ***Tentacles and Tougness.*** Their tentacles had enormous strength, and were of a muscular hydrostat form. Their fleshy bodies were covered in a hard, rubbery exterior, giving the rathtars a heavy resistance to blaster bolts, small-arms fire, and even biting attacks.",
+  "senses": [
+    "blindsight 60 ft.",
+    "passive Perception 11"
+  ],
+  "size": "Large",
+  "skills": [
+    "Stealth +6"
+  ],
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 18,
+  "strengthModifier": 4,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

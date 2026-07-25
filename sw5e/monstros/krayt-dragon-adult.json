@@ -1,0 +1,199 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 19,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.",
+      "descriptionWithLinks": " The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 12,
+      "attackType": "MeleeWeapon",
+      "damage": "18",
+      "damageRoll": "2d10 + 7",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) kinetic damage plus 7 (2d6) poison damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) kinetic damage plus 7 (2d6) poison damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 10 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 12,
+      "attackType": "MeleeWeapon",
+      "damage": "14",
+      "damageRoll": "2d6 + 7",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Claw",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 12,
+      "attackType": "MeleeWeapon",
+      "damage": "16",
+      "damageRoll": "2d8 + 7",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 16 (2d8 + 7) kinetic damage. The target must make a DC 15 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.",
+      "descriptionWithLinks": " Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 16 (2d8 + 7) kinetic damage. The target must make a DC 15 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Tail Stinger",
+      "numberOfTargets": "one target.",
+      "range": "reach 15 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.",
+      "descriptionWithLinks": " Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.",
+      "monsterBehaviorType": "Action",
+      "name": "Frightful Presence",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The dragon spits poison in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage damage on a failed save, or half as much damage on a successful one.",
+      "descriptionWithLinks": " The dragon spits poison in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage damage on a failed save, or half as much damage on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Venom Spray",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Recharge 5-6"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The dragon makes a Wisdom (Perception) check.",
+      "descriptionWithLinks": " The dragon makes a Wisdom (Perception) check.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Detect",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The dragon makes a claw attack. If the attack hits, the target must succeed on a DC 18 Strength saving throw or be pushed 15 feet in a straight line away from the dragon. If the saving throw fails by 5 or more, the target falls prone.",
+      "descriptionWithLinks": " The dragon makes a claw attack. If the attack hits, the target must succeed on a DC 18 Strength saving throw or be pushed 15 feet in a straight line away from the dragon. If the saving throw fails by 5 or more, the target falls prone.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Swat Away",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The dragon makes a tail stinger attack.",
+      "descriptionWithLinks": " The dragon makes a tail stinger attack.",
+      "monsterBehaviorType": "Legendary",
+      "name": "Tail Attack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "17",
+  "charisma": 17,
+  "charismaModifier": 3,
+  "conditionImmunities": [
+    "Poisoned"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    10
+  ],
+  "constitution": 22,
+  "constitutionModifier": 6,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [
+    "Poison"
+  ],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [
+    10
+  ],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 10,
+  "dexterityModifier": 0,
+  "experiencePoints": 18000,
+  "flavorText": "The greater krayt was a rarer, larger species of krayt dragon, known for its tremendous size and continual growth over time. Creatures of near legendary status, greater krayt dragons had ten legs, measured at least 100 meters from snout to tail tip and had the ability to move through or on Tatooine's desert sand. Greater krayt dragons attacked with their massive jaws or whip-like spike-tail, using their claws only to move through the sand.",
+  "hitPointRoll": "21d12 + 126",
+  "hitPoints": 262,
+  "imageUrls": [],
+  "intelligence": 6,
+  "intelligenceModifier": -2,
+  "languages": [
+    "�"
+  ],
+  "name": "Krayt Dragon, Adult",
+  "rowKey": "Krayt Dragon, Adult",
+  "savingThrows": [
+    "Str +12",
+    "Con +11",
+    "Wis +7"
+  ],
+  "sectionText": "Krayt dragons were large, carnivorous reptiles that hailed from Tatooine, a desert planet in the galaxy's Outer Rim Territories. They came in two subspecies and, despite their fierceness, were hunted for the precious pearls found in their bodies.",
+  "senses": [
+    "blindsight 60 ft.",
+    "darkvision 60 ft.",
+    "passive Perception 18"
+  ],
+  "size": "Huge",
+  "skills": [
+    "Perception +7",
+    "Stealth +5"
+  ],
+  "speed": 40,
+  "speeds": "40 ft., burrow 40 ft.",
+  "strength": 25,
+  "strengthModifier": 7,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 14,
+  "wisdomModifier": 2
+}

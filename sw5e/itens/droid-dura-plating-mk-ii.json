@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Part",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Droid Dura Plating Mk II",
+  "prerequisite": " Proficiency with heavy armor",
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Droid Dura Plating Mk II",
+  "searchableRarity": "Advanced",
+  "subtype": "part",
+  "text": "Your base AC becomes 20.\r\n\r\n_Originally used on starship hulls, durasteel is the most cost-effective way to prevent the destruction of your droids._",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

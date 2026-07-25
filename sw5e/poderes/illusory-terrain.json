@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Minute",
+  "castingPeriodText": "10 minutes",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You make terrain in a 150-foot cube in range look, sound, and smell like some other sort of terrain. \r\n\r\nThe tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn't obvious by touch, a creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your tech save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.",
+  "duration": "24 hours",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 4,
+  "name": "Illusory Terrain",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "300 feet",
+  "rowKey": "Illusory Terrain"
+}

@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "I carry with me a strange artifact that I found in a dungeon, but I don't know what it's for.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "My adventuring party means the world to me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I have sworn to hunt down the monster or villain who killed my former adventuring party.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I adventure in order to bring honor (or money) to my family.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "There is a faraway place I've always wanted to visit, and I won't stop until I make it there.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "All I want is to make the ones who trained me in the way of adventuring proud.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "50 feet of rope, a small knife, a trophy, a set of traveler's clothes, and a belt pouch containing 100 cr.",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Brawny",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Investigator",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Naturalist",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Survivalist",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Alert",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Athlete",
+      "roll": 8
+    }
+  ],
+  "featureName": "Faction Membership",
+  "featureRowKeys": null,
+  "featureText": "You are an established and respected member of an adventurer's faction, allowing you to rely on certain benefits that membership provides. If you are in a town with a headquarters for your adventurer's faction and you are in good standing with the faction, you will be allowed to look at the job postings and find adventuring work to earn money. \r\n\r\nfactions often wield tremendous political power. If you are accused of a crime, your faction will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the faction, if you are a member in good standing. You must pay dues of 50 cr per month to the faction. Your dues must be current to remain in the faction's good graces.\r\n",
+  "features": null,
+  "flavorDescription": "You have either been adventuring or assisting other in adventuring since a very young age. Perhaps your parents were famous adventurers, or a group of adventurers found and raised you as their own. Perhaps you were trained to be a professional monster hunter, or maybe another faction member saved your life so you swore loyalty to them. Work with your GM to determine the nature of your adventuring.\r\n",
+  "flavorName": "Adventuring Origin",
+  "flavorOptions": null,
+  "flavorText": "Adventuring is nothing new to you. Due to the circumstances of how you were raised, you have been involved with wandering heroes for most of your life. Maybe you were part of an adventuring band previously, but split with them after a disagreement or tragedy. Or, perhaps you worked around heroes in a lesser role for most of your young life, and you are now ready to graduate to the front lines.",
+  "flawOptions": [
+    {
+      "description": "I default to solving problems with violence even when it's unwise or immoral.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I expect to be lavished with praise whenever I do my job, and I get mad when no one acknowledges me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "All members of \"Dark\" species must be Dark, so I will never trust them.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "Waiting around makes me antsy. I'd rather do something stupid than do nothing at all.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "My habit of looting dungeons makes me swipe things I shouldn't.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "A monstrous enemy I faced in the past still leaves me quivering with fear.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "All I want is to travel the world and see amazing things. (Any)",
+      "name": "Adventure",
+      "roll": 1
+    },
+    {
+      "description": "I am dedicated to helping people in need. (Light)",
+      "name": "Heroism",
+      "roll": 2
+    },
+    {
+      "description": "I use my power to save the world from the forces of destruction and chaos. (Lawful)",
+      "name": "Order",
+      "roll": 3
+    },
+    {
+      "description": "An ordinary life is boring, I'd rather travel around and find trouble. (Chaotic)",
+      "name": "Excitement",
+      "roll": 4
+    },
+    {
+      "description": "The more powerful enemies I defeat, the stronger I become. (Neutral)",
+      "name": "Power",
+      "roll": 5
+    },
+    {
+      "description": "I want to go down in history as a brave, powerful hero. (Any)",
+      "name": "Aspiration",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Faction Adventurer",
+  "personalityTraitOptions": [
+    {
+      "description": "I can't bring myself to ignore a cry for help.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I hold onto every mildly interesting item I find, in case it comes in handy someday.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "After all the weirdness I've seen on my travels, nothing can surprise me.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I spit and laugh in the face of danger.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "Giving up is never an option for me.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I feel more at home in monster-infested dungeons than in civilized society.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I fill silence with wacky stories about my past misadventures, which may or may not be exaggerated.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "My sense of humor is as dark and grim as the dungeons I explore.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Faction Adventurer",
+  "skillProficiencies": "Choose two from Athletics, Investigation, Nature, and Survival",
+  "suggestedCharacteristics": "Adventurers are well adjusted to life on the road. They are often comfortable doing dangerous things like dungeoneering and fighting and can stay level-headed in the face of danger, but they may not be so well adapted to other parts of life.",
+  "toolProficiencies": "Your choice demolitions kit, security kit, or slicer's kit"
+}

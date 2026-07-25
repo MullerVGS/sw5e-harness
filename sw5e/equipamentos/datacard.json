@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 5,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A datacard or data disk is a flat, hand-held device used in conjunction with a datapad to store information.",
+  "equipmentCategory": "DataRecordingAndStorage",
+  "modes": [],
+  "name": "Datacard",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Datacard",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "0"
+}

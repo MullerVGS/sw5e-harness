@@ -1,0 +1,240 @@
+{
+  "bondOptions": [
+    {
+      "description": "My honor is my life.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "Someone saved my life on the battlefield. To this day, I will never leave a friend behind.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Those who fight beside me are those worth dying for.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I fight for those who cannot fight for themselves.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I would still lay down my life for the people I serve with.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "A proud commander once gave me a horrible beating, and I will take my revenge on any bully I encounter.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "Badge or emblem of your rank, your chosen tools, a set of common clothes, and a pouch containing 100 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Brawny",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Medic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Perceptive",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Ace Pilot",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Alert",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Athlete",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Forceful Vigor",
+      "roll": 8
+    }
+  ],
+  "featureName": "Republic Rank",
+  "featureRowKeys": null,
+  "featureText": "You are a soldier of the Republic. Those loyal to the Republic will respect your status and defer to you if they don't outrank you. You can invoke your position to exert influence over other soldiers, requisition simple equipment, and gain access to military compounds affiliated with the Republic.\r\n",
+  "features": null,
+  "flavorDescription": "While most clones serve as simple soldier, there are many specialized units. Roll a d8 or choose from the options in the table below to determine your specialization:\r\n\r\n|d8|Specialization|\r\n|:--:|:--|\r\n|1|Trooper|\r\n|2|Commando|\r\n|3|Jet Trooper|\r\n|4|Medic|\r\n\r\n|d8|Specialization|\r\n|:--:|:--|\r\n|5|Spec Ops|\r\n|6|Ordnance|\r\n|7|Officer|\r\n|8|Scout|\r\n",
+  "flavorName": "Clone Specialization",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "Trooper",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Commando",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Jet Trooper",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Medic",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Spec Ops",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Ordnance",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Officer",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Scout",
+      "roll": 8
+    }
+  ],
+  "flavorText": "You are one of millions; genetically engineered, identical specimens designed to be the perfect soldier. Created from a template provided by the legendary bounty hunter Jango Fett, you represent the latest and greatest evolution in galactic warfare. ",
+  "flawOptions": [
+    {
+      "description": "I have little respect for anyone who is of a lesser rank.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I obey orders without question, even if the orders cause misery.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I'd rather eat my armor than admit when I'm wrong.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I judge others harshly, and myself even more severely.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I am inflexible in my thinking.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I can't tell a lie for the life of me.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I do what I must and obey just authority. (Lawful)",
+      "name": "Responsibility",
+      "roll": 1
+    },
+    {
+      "description": "Strength, not compassion, wins battles. (Dark)",
+      "name": "Might",
+      "roll": 2
+    },
+    {
+      "description": "My brothers, the Republic, or people are all that matter. (Any)",
+      "name": "Republic",
+      "roll": 3
+    },
+    {
+      "description": "We fight not for ourselves, but for countless of others that can't fight for themselves. (Light)",
+      "name": "Greater Good",
+      "roll": 4
+    },
+    {
+      "description": "Tyrants must not be allowed to oppress the people. (Chaotic)",
+      "name": "Freedom",
+      "roll": 5
+    },
+    {
+      "description": "Ideals aren't worth killing or going to war over. (Neutral)",
+      "name": "Live and Let Live",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Clone Trooper",
+  "personalityTraitOptions": [
+    {
+      "description": "I always respect my commander.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I can stare down a krayt dragon without flinching.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I face problems head-on. A simple, direct solution is the best path to success.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have a sense of humor. This is rare among my brothers.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I judge people by their actions, not their words.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I've lost too many friends, and I'm slow to make new ones.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I ask a lot of questions.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I'll settle for nothing less than perfection.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Clone Trooper",
+  "skillProficiencies": "Choose two from Athletics, Medicine, Perception, and Piloting",
+  "suggestedCharacteristics": "Clones are trained from birth to be the perfect soldier; over time, they also develop their own personalities. They are universally loyal to the Republic. While clones share genetic coding, no two are completely identical.",
+  "toolProficiencies": "Your choice of demolitions kit, security kit, or slicer's kit"
+}

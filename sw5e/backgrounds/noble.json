@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "I will face any challenge to win the approval of my family.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "My house's alliance with another noble family must be sustained at all costs.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Nothing is more important than the other members of my family.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I am in love with the heir of a family that my family despises.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "My loyalty to my sovereign is unwavering.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "The common folk must see me as a hero of the people.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "equipment": "A set of fine clothes, a signet ring, a letter of pedigree, and a purse containing 250 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Charmer",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Competitor",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Inspiring Leader",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Observant",
+      "roll": 8
+    }
+  ],
+  "featureName": "Position of Privilege",
+  "featureRowKeys": null,
+  "featureText": "Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with manual labor, a former merchant just elevated to the nobility, or an honest, hard-working landowner who cares deeply about the people who live and work on your land.\r\n\r\nWork with your GM to come up with an appropriate title and determine how much authority that title carries, as well as your family and their influence on you. Is your family old and established, or was your title only recently bestowed? How much influence do they wield, how do people regard them?\r\n\r\nWhat's your position in the family? Are you the heir to the head of the family or the head itself? Are you far down the line of succession? How does the head of your family feel about your adventuring career? Are you in your family's good graces? \r\n\r\nDoes your family have a coat of arms you might wear, a signet ring, or particular colors? \r\n\r\nThese details help establish your family and your title as features of the world of the campaign.\r\n",
+  "flawOptions": [
+    {
+      "description": "I secretly believe that everyone is beneath me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I hide a truly scandalous secret that could ruin my family forever.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I too often hear veiled insults and threats in every word addressed to me, and I'm quick to anger.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have an insatiable desire for carnal pleasures.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "In fact, the world does revolve around me.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "By my words and actions, I often bring shame to my family.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Light)",
+      "name": "Respect",
+      "roll": 1
+    },
+    {
+      "description": "It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful)",
+      "name": "Responsibility",
+      "roll": 2
+    },
+    {
+      "description": "I must prove that I can handle myself without the coddling of my family. (Chaotic)",
+      "name": "Independence",
+      "roll": 3
+    },
+    {
+      "description": "If I can attain more power, no one will tell me what to do. (Dark)",
+      "name": "Power",
+      "roll": 4
+    },
+    {
+      "description": "Blood runs thicker than water. (Any)",
+      "name": "Family",
+      "roll": 5
+    },
+    {
+      "description": "It is my duty to protect and care for the people beneath me. (Light)",
+      "name": "Noble Obligation",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Noble",
+  "personalityTraitOptions": [
+    {
+      "description": "My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "The common folk love me for my kindness and generosity.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I take great pains to always look my best and follow the latest fashions.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I don't like to get my hands dirty, and I won't be caught dead in unsuitable accommodations.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Despite my noble birth, I do not place myself above other folk. We all have the same blood.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "My favor, once lost, is lost forever.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "If you do me an injury, I will crush you, ruin your name, and salt your fields.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Noble",
+  "skillProficiencies": "Choose two from Deception, Insight, Lore, and Persuasion",
+  "suggestedCharacteristics": "Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds�responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.",
+  "toolProficiencies": "One type of gaming set"
+}

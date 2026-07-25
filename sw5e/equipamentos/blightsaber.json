@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1800,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Necrotic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Blightsaber",
+  "properties": [
+    "Corruption 13",
+    "hidden",
+    "versatile (2d4)"
+  ],
+  "propertiesMap": {
+    "Corruption": "Corruption 13",
+    "Hidden": "hidden",
+    "Versatile": "versatile (2d4)"
+  },
+  "rowKey": "Blightsaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "2.5"
+}

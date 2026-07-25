@@ -1,0 +1,143 @@
+# arquetipos — 137 entidades
+
+Índice do espelho: escolha por aqui e só então abra a fatia. O arquivo é o
+nome em slug (minúsculas, hífens); onde o nome não basta, ele vem entre
+backticks na linha.
+
+- **Acquisitions Practice** — Operative
+- **Addicted Approach** — Berserker
+- **Adept Specialist** — Fighter
+- **Aing-Tii Order** — Monk
+- **Aqinos Form** — Guardian
+- **Archaeologist Pursuit** — Scholar
+- **Armored Approach** — Berserker
+- **Armormech Engineering** — Engineer
+- **Armstech Engineering** — Engineer
+- **Artificer Engineering** — Engineer
+- **Artillerist Technique** — Scout
+- **Artillerist Technique (Companion)** — Scout
+- **Assault Specialist** — Fighter
+- **Astrotech Engineering** — Engineer
+- **Astrotech Engineering (Companion)** — Engineer
+- **Ataru Form** — Guardian
+- **Audiotech Engineering** — Engineer
+- **Ballistic Approach** — Berserker
+- **Beastmaster Approach** — Berserker
+- **Beastmaster Approach (Companion)** — Berserker
+- **Beguiler Practice** — Operative
+- **Biochem Engineering** — Engineer
+- **Biotech Engineering** — Engineer
+- **Blademaster Specialist** — Fighter
+- **Bloodstorm Approach** — Berserker
+- **Bolstering Practice** — Operative
+- **Brawling Approach** — Berserker
+- **Bulwark Technique** — Scout
+- **Champion Approach** — Berserker
+- **Chef Pursuit** — Scholar
+- **Construction Engineering** — Engineer
+- **Crimson Order** — Monk
+- **Cybertech Engineering** — Engineer
+- **Cybertech Engineering (Depreciated)** — Engineer
+- **Cybertech Engineering (Old)** — Engineer
+- **Cyclone Approach** — Berserker
+- **Deadeye Technique** — Scout
+- **Demolitions Specialist** — Fighter
+- **Detective Pursuit** — Scholar
+- **Disabling Practice** — Operative
+- **Echani Order** — Monk
+- **Enhancement Specialist** — Fighter
+- **Exhibition Specialist** — Fighter
+- **Explorer Pursuit** — Scholar
+- **Fireteam Specialist** — Fighter
+- **Fireteam Specialist (Companion)** — Fighter
+- **Frenzied Approach** — Berserker
+- **Gadgeteer Engineering** — Engineer
+- **Gambler Pursuit** — Scholar
+- **Geneticist Pursuit** — Scholar
+- **Gunslinger Practice** — Operative
+- **Heavy Weapons Specialist** — Fighter
+- **Hunter Technique** — Scout
+- **Illusionist Technique** — Scout
+- **Industrial Approach** — Berserker
+- **Inquisitor Technique** — Scout
+- **Jal Shey Order** — Monk
+- **Jar'Kai Form** — Guardian
+- **Juggernaut Approach** — Berserker
+- **Juyo/Vaapad Form** — Guardian
+- **Kage Order** — Monk
+- **Kro Var Order** — Monk
+- **Kyuzo Order** — Monk
+- **Lethality Practice** — Operative
+- **Makashi Form** — Guardian
+- **Marauder Approach** — Berserker
+- **Mastermind Technique** — Scout
+- **Matukai Order** — Monk
+- **Maverick Practice** — Operative
+- **Mechanist Technique** — Scout
+- **Mechanist Technique (Companion)** — Scout
+- **Mounted Specialist** — Fighter
+- **Nightsister Order** — Monk
+- **Niman Form** — Guardian
+- **Occultist Pursuit** — Scholar
+- **Path of Aggression** — Sentinel
+- **Path of Communion** — Sentinel
+- **Path of Ethereality** — Sentinel
+- **Path of Focus** — Sentinel
+- **Path of Iron** — Sentinel
+- **Path of Meditation** — Sentinel
+- **Path of Shadows** — Sentinel
+- **Path of Synthesis** — Sentinel
+- **Path of Tenacity** — Sentinel
+- **Path of Witchcraft** — Sentinel
+- **Path of Witchcraft (Companion)** — Sentinel
+- **Path of the Corsair** — Sentinel
+- **Path of the Forceblade** — Sentinel
+- **Performance Practice** — Operative
+- **Physician Pursuit** — Scholar
+- **Politician Pursuit** — Scholar
+- **Praetorian Specialist** — Fighter
+- **Precision Approach** — Berserker
+- **Predator Technique** — Scout
+- **Pugnacity Practice** — Operative
+- **Rakatan Order** — Monk
+- **Ruffian Practice** — Operative
+- **Saboteur Practice** — Operative
+- **Sawbones Practice** — Operative
+- **Scrapper Practice** — Operative
+- **Shadow Killer Practice** — Operative
+- **Sharpshooter Practice** — Operative
+- **Shield Specialist** — Fighter
+- **Shien/Djem So Form** — Guardian
+- **Shii-Cho Form** — Guardian
+- **Slayer Technique** — Scout
+- **Slicer Pursuit** — Scholar
+- **Sokan Form** — Guardian
+- **Soresu Form** — Guardian
+- **Stalker Technique** — Scout
+- **Tactical Specialist** — Fighter
+- **Tactician Pursuit** — Scholar
+- **Teleportation Technique** — Scout
+- **Teras Kasi Order** — Monk
+- **Totem Specialist** — Fighter
+- **Trakata Form** — Guardian
+- **Triage Technique** — Scout
+- **Trickster Order** — Monk
+- **Unstable Engineering** — Engineer
+- **Vonil/Ishu Form** — Guardian
+- **Vonil/Ishu Form (Companion)** — Guardian
+- **Warchief Approach** — Berserker
+- **Way of Balance** — Consular
+- **Way of Confluence** — Consular
+- **Way of Endurance** — Consular
+- **Way of Lightning** — Consular
+- **Way of Manipulation** — Consular
+- **Way of Negation** — Consular
+- **Way of Suggestion** — Consular
+- **Way of Technology** — Consular
+- **Way of Telekinetics** — Consular
+- **Way of Tutelage** — Consular
+- **Way of the Sage** — Consular
+- **Way of the Seer** — Consular
+- **Whills Order** — Monk
+- **Ysannanite Form** — Guardian
+- **Zoologist Pursuit** — Scholar

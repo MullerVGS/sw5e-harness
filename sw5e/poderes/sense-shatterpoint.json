@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "BonusAction",
+  "castingPeriodText": "1 bonus action",
+  "concentration": true,
+  "contentSource": "EC",
+  "contentType": "Core",
+  "description": "You seek deeper insight into the defenses of a creature you can see within range. Until the end of your next turn, you have advantage on your next two attack rolls against the target.",
+  "duration": "up to 1 round",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 2,
+  "name": "Sense Shatterpoint",
+  "powerType": "Force",
+  "prerequisite": "Battle Insight",
+  "range": "30 feet",
+  "rowKey": "Sense Shatterpoint"
+}

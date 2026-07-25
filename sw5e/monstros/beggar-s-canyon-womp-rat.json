@@ -1,0 +1,101 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 13,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The rat has advantage on on Wisdom (Perception) checks that rely on hearing and smell.",
+      "descriptionWithLinks": " The rat has advantage on on Wisdom (Perception) checks that rely on hearing and smell.",
+      "monsterBehaviorType": "Trait",
+      "name": "Keen Hearing and Smell",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The rat has advantage on an attack roll against a creature if it is grappled by at least one of the rat's allies.",
+      "descriptionWithLinks": " The rat has advantage on an attack roll against a creature if it is grappled by at least one of the rat's allies.",
+      "monsterBehaviorType": "Trait",
+      "name": "Pack Tactics",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "MeleeWeapon",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2d4 + 2) kinetic damage.  If the target is a creature, it must succeed on a DC 11 Strength saving throw or be grappled.",
+      "descriptionWithLinks": " Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2d4 + 2) kinetic damage.  If the target is a creature, it must succeed on a DC 11 Strength saving throw or be grappled.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1/4",
+  "charisma": 6,
+  "charismaModifier": -2,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 15,
+  "dexterityModifier": 2,
+  "experiencePoints": 50,
+  "flavorText": "",
+  "hitPointRoll": "2d8 + 2",
+  "hitPoints": 11,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "None"
+  ],
+  "name": "Beggar's Canyon Womp Rat",
+  "rowKey": "Beggar's Canyon Womp Rat",
+  "savingThrows": null,
+  "sectionText": "Native to Tatooine, the womp rat is a breed of rodent, and considered hairy, monstrous pests. They moved on four legs tipped with three-clawed paws, and had long tails and ears. Typically not much bigger than two meters, they possessed big, sharp fangs used to seize prey, and had large, yellow eyes.Womp rats were not timid creatures, hunting in packs and using their fangs to seize prey. When alone, a single womp rat was known to devour the garbage left by moisture farmers. When traveling in packs of up to 20 individuals, Womp Rats were known to overwhelm larger prey items, such as Dewbacks and Banthas. When they bite, their teeth set in and the animals will not release their hold, even if they are killed. There were three species of womp rats: ones that lived in Beggar's Canyon, ones that lived in the Jundland Wastes, and swamp womp rats. The Jundland Wastes womp rat appeared shortly after Imperials arrived on Tatooine, and some have speculated it was a mutated form of the Beggar's Canyon womp rat, affected by chemicals from Imperial waste dumps. Some of its mutations include a larger size, slower reproduction rate, and lower numbers than Beggar's Canyon womp rat. Their ears are also elongated and winglike. Another variety, the swamp womp rat, was found on a few fringe worlds as well as on Cularin.",
+  "senses": [
+    "passive Perception 13"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Perception +3",
+    "Stealth +4"
+  ],
+  "speed": 40,
+  "speeds": "40 ft.",
+  "strength": 12,
+  "strengthModifier": 1,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "EC",
+  "contentType": "Core",
+  "description": "You use the Force to inure yourself to the elements. For the duration, you are considered adapted to hot and cold climates.",
+  "duration": "24 hours",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 1,
+  "name": "Tapas",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "Self",
+  "rowKey": "Tapas"
+}

@@ -1,0 +1,164 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 14,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Any creature that starts its turn within 10 feet of the slug must succeed on a DC 15 Constitution saving throw or take 9 (2d8) poison damage.",
+      "descriptionWithLinks": " Any creature that starts its turn within 10 feet of the slug must succeed on a DC 15 Constitution saving throw or take 9 (2d8) poison damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Vile Stench",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The slug can hold its breath for 1 hour.",
+      "descriptionWithLinks": " The slug can hold its breath for 1 hour.",
+      "monsterBehaviorType": "Trait",
+      "name": "Hold Breath",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The slug makes one bite attack and one slam attack.",
+      "descriptionWithLinks": " The slug makes one bite attack and one slam attack.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 11,
+      "attackType": "MeleeWeapon",
+      "damage": "17",
+      "damageRoll": "2d10 + 6",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) kinetic damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the slug can't bite another target.",
+      "descriptionWithLinks": " Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) kinetic damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the slug can't bite another target.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 11,
+      "attackType": "MeleeWeapon",
+      "damage": "22",
+      "damageRoll": "3d10 + 6",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Slam",
+      "numberOfTargets": "one target.",
+      "range": "reach 10 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": "If the slug dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.  The slug makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the slug, and it takes 7 (2d6) kinetic damage plus 7 (2d6) acid damage at the start of each of the slug's turns. The slug can have only one target swallowed at a time.",
+      "descriptionWithLinks": "If the slug dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.  The slug makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the slug, and it takes 7 (2d6) kinetic damage plus 7 (2d6) acid damage at the start of each of the slug's turns. The slug can have only one target swallowed at a time.",
+      "monsterBehaviorType": "Action",
+      "name": "Swallow",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "14",
+  "charisma": 7,
+  "charismaModifier": -2,
+  "conditionImmunities": [
+    "Poisoned",
+    "Prone"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    10,
+    11
+  ],
+  "constitution": 23,
+  "constitutionModifier": 6,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [
+    "Poison"
+  ],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [
+    10
+  ],
+  "damageResistances": [
+    "Energy",
+    "Ion"
+  ],
+  "damageResistancesOther": [
+    "and kinetic from unenhanced weapons"
+  ],
+  "damageResistancesParsed": [
+    3,
+    6
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 12,
+  "dexterityModifier": 1,
+  "experiencePoints": 11500,
+  "flavorText": "",
+  "hitPointRoll": "14d12 + 84",
+  "hitPoints": 175,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "—"
+  ],
+  "name": "Swamp Slug",
+  "rowKey": "Swamp Slug",
+  "savingThrows": [
+    "Con +11"
+  ],
+  "sectionText": "An omnivorous species, swamp slugs have thousands of teeth and twenty-four pairs of legs. Their orange or golden eyes, the size of boulders, allow them to see clearly beneath the murky, cloudy waters, while the two rubbery antennae on the top of their heads, which grew to two meters, utilize sonar to pinpoint exact locations of objects, searching by motion. Swamp slugs are omnivores, eating anything organic that they can fit in their mouths of jagged teeth. The teeth, or radula, lining the slug's esophagus pulverize into organic slime any plant or animal matter that it ingests. An hermaphroditic species, the swamp slugs reproduce sexually. Each partner lays hundreds of eggs, most of which are eaten by other animals. They exude a thick, foul-smelling mucus which damages the breathing organs of other species. They are not desirable to eat by other predators and are given a wide berth in the swamps.",
+  "senses": [
+    "blindsight 30 ft.",
+    "darkvision 60 ft.",
+    "passive Perception 16"
+  ],
+  "size": "Huge",
+  "skills": [
+    "Perception +6"
+  ],
+  "speed": 20,
+  "speeds": "20 ft., swim 40 ft.",
+  "strength": 22,
+  "strengthModifier": 6,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 13,
+  "wisdomModifier": 1
+}

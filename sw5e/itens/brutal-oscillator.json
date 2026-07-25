@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Brutal Oscillator",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Brutal Oscillator",
+  "searchableRarity": "Premium",
+  "subtype": "vibroweapon",
+  "text": "This weapon gains the brutal 1 property. If it already has the brutal property, its brutal number increases by 1, to a maximum of 3.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

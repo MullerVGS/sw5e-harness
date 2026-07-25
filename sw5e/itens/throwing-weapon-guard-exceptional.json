@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Throwing Weapon Guard (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Throwing Weapon Guard (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "vibroweapon",
+  "text": "This weapon gains thrown (50/150) property. If it already has the thrown property, the range increases by 25/75.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

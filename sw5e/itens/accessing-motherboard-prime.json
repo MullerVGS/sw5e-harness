@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Accessing Motherboard (Prime)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Accessing Motherboard (Prime)",
+  "searchableRarity": "Artifact",
+  "subtype": "wristpad",
+  "text": "This item gains the accessing 6 property. If it already has the accessing property, its accessing number increases to 6.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

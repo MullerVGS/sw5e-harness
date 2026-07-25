@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "AnyLightweapon",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Lightweapon Chassis (Artifact)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": true,
+  "rowKey": "Lightweapon Chassis (Artifact)",
+  "searchableRarity": "Artifact",
+  "subtype": "any lightweapon",
+  "text": "_**Requires attunement**_\r\nThis modifiable lightweapon chassis comes with vacant modification slots for lightweapon modifications, as well as two augment slots. It can house modifications of artifact rarity or lower.",
+  "type": "Weapon",
+  "valuableType": "None",
+  "valueText": null
+}

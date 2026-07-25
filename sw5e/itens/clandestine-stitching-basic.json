@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Clandestine Stitching (Basic)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Clandestine Stitching (Basic)",
+  "searchableRarity": "Standard",
+  "subtype": "clothing",
+  "text": "This article of clothing come with one hidden pocket, which can store up to 1 lb. Finding this hidden pocket requires a DC 15 Investigation check. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

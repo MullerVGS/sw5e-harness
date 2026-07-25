@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Shocking Oscillator Mk VI",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Shocking Oscillator Mk VI",
+  "searchableRarity": "Artifact",
+  "subtype": "vibroweapon",
+  "text": "This weapon gains the shocking 18 property. If it already has the shocking property, its shocking number increases to 18.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

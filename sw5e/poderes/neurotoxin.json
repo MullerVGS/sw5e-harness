@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "BonusAction",
+  "castingPeriodText": "1 bonus action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You release a series of darts filled with neurotoxin. Choose any number of creatures you can see within range. Each creature  must make a Constitution saving throw. On a failed save, a creature suffers an effect based on its current hit points:\r\n\r\n- 60 hit points or fewer: poisoned for 1 minute\r\n- 50 hit points or fewer: poisoned and deafened for 1 minute\r\n- 40 hit points or fewer: poisoned, deafened, and blinded for 10 minutes\r\n- 30 hit points or fewer: poisoned, blinded, deafened, and stunned for 1 hour\r\n- 20 hit points or fewer: killed instantly\r\n\r\nThis power has no effect on droids or constructs.",
+  "duration": "Instantaneous",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 7,
+  "name": "Neurotoxin",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "30 feet",
+  "rowKey": "Neurotoxin"
+}

@@ -1,0 +1,124 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 12,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The veermok makes three attacks: one with its bite and two with its fists.",
+      "descriptionWithLinks": " The veermok makes three attacks: one with its bite and two with its fists.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "12",
+      "damageRoll": "2d8 + 3",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "10",
+      "damageRoll": "2d6 + 3",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Claw",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "RangedWeapon",
+      "damage": "10",
+      "damageRoll": "2d6 + 3",
+      "damageType": "Kinetic",
+      "description": " Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Rock",
+      "numberOfTargets": "one target.",
+      "range": "range 25/50 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 5,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 14,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Energy",
+    "Ion"
+  ],
+  "damageResistancesOther": [
+    "and kinetic from unenhanced weapons"
+  ],
+  "damageResistancesParsed": [
+    3,
+    6
+  ],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 14,
+  "dexterityModifier": 2,
+  "experiencePoints": 450,
+  "flavorText": "Veermok are large, ferocious primates native to the swamps and woodlands of Naboo. They hunt Jimvu and young Hrumphs through stealth and surprise, using powerful claws for gouging and grabbing.",
+  "hitPointRoll": "4d10 + 8",
+  "hitPoints": 30,
+  "imageUrls": [],
+  "intelligence": 6,
+  "intelligenceModifier": -2,
+  "languages": [
+    "�"
+  ],
+  "name": "Veermok",
+  "rowKey": "Veermok",
+  "savingThrows": null,
+  "sectionText": "Ysalamiri are furry, lizard-like tree-dwellers about 2 feet in length, native to the planet Myrkr, and most known for their ability to create a Force-neutral bubble. This ability evolved in response to predation by the Force-sensitive vornskrs. Many ysalamiri grouped together would expand their Force-neutral bubble by varying distances � sometimes by kilometers.Ysalamiri sink their claws into the Olbio trees on which they live and draw nutrients. It is very difficult to remove a ysalamir from its tree without killing it, although this has been known to happen. Some few have developed back harness or nutrient frames which allow transport of the ysalamiri and, therefore, their Force repelling bubble. Ysalamiri do not actually negate the Force; since all existence is infused with Force energy, this would not be possible. Rather, they project a bubble inside which users are unable to exert any influence over the Force. A single bubble measures a few meters in diameter; large groups of ysalamiri could extend their collective bubble by kilometers, but only in great numbers.Miriskin was a commodity  made from ysalamir skin.",
+  "senses": [
+    "passive Perception 13"
+  ],
+  "size": "Large",
+  "skills": [
+    "Athletics +5",
+    "Stealth +5",
+    "Perception +3"
+  ],
+  "speed": 40,
+  "speeds": "40 ft., climb 40 ft.",
+  "strength": 16,
+  "strengthModifier": 3,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Overlay Amplifier (Apprentice)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Overlay Amplifier (Apprentice)",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "While using this item as your focus, you gain a +1 bonus to melee force attacks.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

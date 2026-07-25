@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1275,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": "Mounted by the shoulder slot, a shoulder blaster does not require a free hand to use. Additionally, you have advantage on Strength ability checks and saving throws to avoid being disarmed of this weapon.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Shoulder blaster",
+  "properties": [
+    "Power cell (range 40/160)",
+    "rapid 4",
+    "reload 16",
+    "smart (15/+2)",
+    "special"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 40/160)",
+    "Rapid": "rapid 4",
+    "Reload": "reload 16",
+    "Smart": "smart (15/+2)",
+    "Special": "special"
+  },
+  "rowKey": "Shoulder blaster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "3"
+}

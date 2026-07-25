@@ -1,0 +1,275 @@
+{
+  "casterRatio": 0.0,
+  "casterType": "None",
+  "classCasterType": "Tech",
+  "className": "Scout",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "featureRowKeys": null,
+  "features": null,
+  "imageUrls": [],
+  "leveledTable": {
+    "3": [
+      {
+        "key": "Maneuvers Known",
+        "value": "2"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "2"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d4"
+      }
+    ],
+    "4": [
+      {
+        "key": "Maneuvers Known",
+        "value": "2"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "2"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d4"
+      }
+    ],
+    "5": [
+      {
+        "key": "Maneuvers Known",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "3"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d6"
+      }
+    ],
+    "6": [
+      {
+        "key": "Maneuvers Known",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "3"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d6"
+      }
+    ],
+    "7": [
+      {
+        "key": "Maneuvers Known",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "3"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d6"
+      }
+    ],
+    "8": [
+      {
+        "key": "Maneuvers Known",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "3"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d6"
+      }
+    ],
+    "9": [
+      {
+        "key": "Maneuvers Known",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d8"
+      }
+    ],
+    "10": [
+      {
+        "key": "Maneuvers Known",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d8"
+      }
+    ],
+    "11": [
+      {
+        "key": "Maneuvers Known",
+        "value": "7"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d8"
+      }
+    ],
+    "12": [
+      {
+        "key": "Maneuvers Known",
+        "value": "7"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "4"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d8"
+      }
+    ],
+    "13": [
+      {
+        "key": "Maneuvers Known",
+        "value": "9"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d10"
+      }
+    ],
+    "14": [
+      {
+        "key": "Maneuvers Known",
+        "value": "9"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d10"
+      }
+    ],
+    "15": [
+      {
+        "key": "Maneuvers Known",
+        "value": "10"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d10"
+      }
+    ],
+    "16": [
+      {
+        "key": "Maneuvers Known",
+        "value": "10"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "5"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d10"
+      }
+    ],
+    "17": [
+      {
+        "key": "Maneuvers Known",
+        "value": "11"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d12"
+      }
+    ],
+    "18": [
+      {
+        "key": "Maneuvers Known",
+        "value": "11"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d12"
+      }
+    ],
+    "19": [
+      {
+        "key": "Maneuvers Known",
+        "value": "12"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d12"
+      }
+    ],
+    "20": [
+      {
+        "key": "Maneuvers Known",
+        "value": "12"
+      },
+      {
+        "key": "Superiority Dice Quantity",
+        "value": "6"
+      },
+      {
+        "key": "Superiority Dice Size",
+        "value": "d12"
+      }
+    ]
+  },
+  "leveledTableHeaders": [
+    "Level",
+    "Maneuvers Known",
+    "Superiority Dice Quantity",
+    "Superiority Dice Size"
+  ],
+  "name": "Deadeye Technique",
+  "rowKey": "Deadeye Technique",
+  "text": "\r\nSome scouts become legends written in blaster burns. Followers of the Deadeye Technique perfect the art of the blaster shot and utilize their incredible focus to make shots that most would deem impossible. When everything depends on one shot, you want a Deadeye pulling the trigger.\r\n\r\nDue to their uncanny focus, Deadeyes can make shots that other marksmen would never dare to attempt. Deadeyes know how to make the most of ranged weapons and can use them to greater effect than other Scouts.\r\n\r\n### Deadeye Superiority\r\n_**Deadeye Technique:** 3rd level_\r\nYou learn maneuvers that are fueled by special dice called superiority dice. See chapter 13 for the maneuvers list.\r\n\r\n#### Maneuvers Known\r\nYou learn two maneuvers of your choice, and you earn more at higher levels, as shown in the Maneuvers Known column of the Deadeye Superiority table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver once per turn.\r\n\r\nEach time you learn new maneuvers, you can also replace one maneuver you know with a different one.\r\n\r\n#### Superiority Dice\r\nYou have two superiority dice, which are d4s, and you earn more at higher levels, as shown in the Superiority Dice Quantity column of the Deadeye Superiority table. This die changes as you gain scout levels, as shown in the Superiority Dice Size column of the Deadeye Superiority table. A superiority die is expended when you use it. \r\n\r\nYou regain all of your expended superiority dice when you finish a short or long rest.\r\n\r\n#### Maneuver Ability\r\nYour maneuver ability varies based on the type of the maneuver you use. You use Strength, Dexterity, or Constitution for physical maneuvers (your choice), Intelligence, Wisdom, or Charisma for mental maneuvers (your choice), and an ability of your choice for general maneuvers. You use this ability whenever a maneuver refers to your maneuver ability. Additionally, you use this ability modifier when setting the saving throw DC for a maneuver you use.\r\n\r\n___\r\n\r\n**Maneuver save DC** = 8 + your proficiency bonus + your maneuver ability modifier\r\n\r\n___\r\n\r\n### Mark of the Deadeye\r\n_**Deadeye Technique:** 3rd level_\r\nThe range of your Ranger's Quarry feature doubles. Additionally, when making ranged weapon attacks against the target of your Ranger's Quarry, the normal and long range of your blaster weapons double.\r\n\r\n### Cover to Cover\r\n_**Deadeye Technique:** 7th level_\r\nAttack rolls made against you on your turn are made with disadvantage.\r\n\r\n##### Deadeye Superiority\r\n\r\n### Shoot First\r\n_**Deadeye Technique:** 11th, 13th, and 17th level_\r\nYou have learned that the person who shoots first is often the one who walks out alive. When you make a ranged weapon attack against a creature that has not yet acted during your first turn in combat and you have advantage on the roll, you can reroll one of the dice once. Additionally, on a hit, you deal an extra 1d8 damage of the same type as the weapon. This damage increases to 1d10 at 13th level and 1d12 at 17th level.\r\n\r\n### Overwatch\r\n_**Deadeye Technique:** 15th level_\r\nYou have become a master at protecting your allies from afar. When a creature attempts to make an opportunity attack against an allied creature, or forces your ally to make a saving throw, you can use your reaction to make an attack roll against the enemy creature. \r\n\r\nIf your attack hits, either impose disadvantage on the enemy creature's opportunity attack roll or grant advantage to any allies making the saving throw.",
+  "text2": null
+}

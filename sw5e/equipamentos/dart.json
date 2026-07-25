@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 5,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "This wrist launcher ammunition deals 1d6 kinetic damage on a hit.",
+  "equipmentCategory": "Ammunition",
+  "modes": [],
+  "name": "Dart",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Dart",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "0"
+}

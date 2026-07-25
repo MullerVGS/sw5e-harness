@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "I will never rest until I find out what happened to me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I have a family out there who's looking for me. I can't let them down.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I was given a chance to start fresh, and I'm not taking it for granted.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "My entire life was lost in the blink of an eye. What's the point of all this?",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I've already lost everything. Now I do as I please.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I will become something great so that even if I forget, others won't.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of common clothes, a relic of your past which you do not remember, and a belt pouch containing 200 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Silver-Tongued",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Investigator",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Survivalist",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Practiced",
+      "roll": 8
+    }
+  ],
+  "featureName": "A Life Once Lived",
+  "featureRowKeys": null,
+  "featureText": "You once had a home, a family, relationships, possessions, but now you are left with nothing but the ability to start anew. You are unfamiliar with the world around you as well as the people in it. You may often need to ask for clarification on things other adventurers may know intrinsically. Some events, locations, names, phrases, or objects may also trigger you to recall small details which could relate to the life you once had, at the discretion of the GM.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "\r\nOne day you awoke, perhaps in a forest or on a sandy beach, with no recollection of what happened to you. How did you get here? Who were you? These questions elude and boggle your mind. Some people wish for a fresh start, but you never even got a choice.",
+  "flawOptions": [
+    {
+      "description": "I've lost all hope since I woke up.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I'm obsessed with the life I left behind.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Sometimes I crack under the stress of starting new.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I get tunnel vision when investigating my past life.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I no longer care about anything. It could all be gone in an instant.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I am constantly angry about forgetting everything.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I've forgotten before, I can forget again.  I don't let my conscience get in the way of my actions. (Lawful)",
+      "name": "Conscience",
+      "roll": 1
+    },
+    {
+      "description": "With no past to tie me down I do was I will. (Chaotic)",
+      "name": "Freedom",
+      "roll": 2
+    },
+    {
+      "description": "People deserve to be treated with respect. (Light)",
+      "name": "Respect",
+      "roll": 3
+    },
+    {
+      "description": "I will destroy whatever I have to in order to reclaim what I once had. (Dark)",
+      "name": "Past",
+      "roll": 4
+    },
+    {
+      "description": "Ideals aren't worth killing over or going to war for. (Neutral)",
+      "name": "Live and Let Live",
+      "roll": 5
+    },
+    {
+      "description": "Finding out my history drives every action I do. (Any)",
+      "name": "Memory",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Amnesiac",
+  "personalityTraitOptions": [
+    {
+      "description": "I don't know who you are but I'll try to help you.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I will let nothing stop my quest for answers.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Even if I never find out who I was before, I will know who I am now.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I am sometimes clumsy when speaking. I must've not been very eloquent.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I shy away from forging new relationships. I don't want to leave anyone behind again.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Having no memories of the past has left me feeling free and happy.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I am eager to learn and devour any knowledge I can.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I am insightful and can often see things from other peoples point of view.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Amnesiac",
+  "skillProficiencies": "Choose two from Deception, Insight, Investigation, and Survival",
+  "suggestedCharacteristics": "The important things to consider when choosing this background are how your character has dealt with starting life anew and what have they done to set down that path.",
+  "toolProficiencies": "Choose one from disguise kit, forgery kit, or tinker's implements"
+}

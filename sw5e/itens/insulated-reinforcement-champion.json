@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Insulated Reinforcement (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Insulated Reinforcement (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "armor",
+  "text": "This armor or shield gains the insulated 10 property. If it already has the insulated property, its insulated number increases to 10.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

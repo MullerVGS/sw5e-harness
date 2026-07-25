@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Part",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Resourceful Drive",
+  "prerequisite": " Class III droid",
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Resourceful Drive",
+  "searchableRarity": "Standard",
+  "subtype": "part",
+  "text": "Your speed increases by 5 feet, and you gain proficiency in one blaster or vibroweapon of your choice.",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

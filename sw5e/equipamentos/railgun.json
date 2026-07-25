@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1900,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 2,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Railgun",
+  "properties": [
+    "Piercing 1",
+    "reload 2",
+    "slug cartridge (range 150/600)",
+    "strength 17",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Piercing": "Piercing 1",
+    "Range": "slug cartridge (range 150/600)",
+    "Reload": "reload 2",
+    "Strength": "strength 17",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Railgun",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "16"
+}

@@ -1,0 +1,37 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 2125,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Lightning",
+  "description": "Whenever you deal damage with this weapon and roll the maximum on the weapon damage die, the creature hit becomes shocked until the end of its next turn.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "ARC caster",
+  "properties": [
+    "Power cell (range 60/240)",
+    "burst 8",
+    "rapid 4",
+    "reload 9",
+    "strength 11",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Burst": "burst 8",
+    "Power Cell": "Power cell (range 60/240)",
+    "Rapid": "rapid 4",
+    "Reload": "reload 9",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "ARC caster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "9"
+}

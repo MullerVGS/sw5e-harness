@@ -1,0 +1,91 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Prehensile snouts, protective eyewear",
+  "eyeColorOptions": "Red",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nKubaz are distinctive for their short, prehensile facial snouts which were used for reaching insects within their hives. They have adapted to their sun-scorched, vegetation-deprived world by learning to survive off their world's native insect population. Filled with two rows of teeth for gnashing their food, the Kubaz trunk also functions as a highly sensitive nose.  Due to living on their homeworld of Kubindi�a planet which orbits a blue star�Kubaz are highly sensitive to red wavelengths; when traveling to planets with a red or yellow star, Kubaz are forced to don protective eyewear to avoid damaging their sensitive eyes.\r\n\r\n### Society and Culture\r\nThe Kubazi society is based on a clan structure which dwell in underground nests. Ruled by a queen, each clan takes the name of their queen they are descended from. Developing a non-verbal language of hand gestures which indicated their intentions, Kubaz are able to speak Galactic Basic, though with a strong nasally accent.  When interacting with other species, some Kubaz will share certain hand signals with non-Kubaz in order to ease communications.  Obsessed with tact and decorum, the Kubaz place a high emphasis on the family unit and proper courtesies, displaying truthfulness to a fault. Valuing art and literature with such vigor as to sometimes practice smuggling of great works, the Kubaz do not find such pursuits to be wrong or unlawful.  Due to their diet on Kubindi, the Kubaz have poor relations with sentient insectile species. \r\n\r\n### Names\r\nKubaz names are usually dominated by harsher sounds, but some names lean more melodic. Surnames are clan-based.\r\n\r\n**Male Names.** Shaf, Rizor, Duldril, Kurn, Schnaldiz\r\n\r\n**Female Names.** Zhanro, Dizi, Tavo, Agoz, Nuzrem\r\n\r\n**Surnames.** Re, Eadzan, Hai, Khu'nar, Mairvuc, Va",
+  "hairColorOptions": "Black",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'9\"",
+  "heightRollMod": "+2d8\"",
+  "homeworld": "Kubindi",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kubaz.png"
+  ],
+  "language": "Kubazian",
+  "manufacturer": null,
+  "name": "Kubaz",
+  "rowKey": "Kubaz",
+  "size": "Medium",
+  "skinColorOptions": "Black, dark grey, or dark green",
+  "traits": [
+    {
+      "description": "Your Dexterity score increases by 2, and your Intelligence score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Kubaz reach adulthood in their early teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Kubaz' courteous nature causes them to tend toward lawful alignments, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Kubaz typically stand 5 to 6 feet tall and weigh around 160 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Whenever you make an ability check related to the acquisition or location of art or valuables, you are considered proficient in the check. If you would already be proficient, you instead have expertise.",
+      "name": "Art Obsession"
+    },
+    {
+      "description": "You have a keen eyesight, especially in the dark. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "You have proficiency in one of the following skills: Deception, Sleight of Hand, or Stealth.",
+      "name": "Deft Hand"
+    },
+    {
+      "description": "You have advantage on Wisdom (Perception) checks that rely on smell.",
+      "name": "Keen Smell"
+    },
+    {
+      "description": "You have proficiency with the Technology skill and the slicer's kit.",
+      "name": "Slicer"
+    },
+    {
+      "description": "You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.",
+      "name": "Sunlight Sensitivity"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Kubazian. Kubazian is comprised of a unique series of whirring, nasally syllables, causing Kubaz to have a high-pitched accent when speaking other languages.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "105 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

@@ -1,0 +1,31 @@
+{
+  "ac": "15 + Dex modifier (max 2)",
+  "armorClassification": "Medium",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 4500,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Plastoid composite",
+  "properties": [
+    "Bulky",
+    "reinforced",
+    "rigid"
+  ],
+  "propertiesMap": {
+    "Bulky": "Bulky",
+    "Reinforced": "reinforced",
+    "Rigid": "rigid"
+  },
+  "rowKey": "Plastoid composite",
+  "stealthDisadvantage": true,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "45"
+}

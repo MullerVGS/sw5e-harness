@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1250,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Cold",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Cryo carbine",
+  "properties": [
+    "Power cell (range 45/180)",
+    "reload 12",
+    "two-handed",
+    "vicious 1"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 45/180)",
+    "Reload": "reload 12",
+    "Two-Handed": "two-handed",
+    "Vicious": "vicious 1"
+  },
+  "rowKey": "Cryo carbine",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "6"
+}

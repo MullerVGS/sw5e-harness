@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 625,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Revolver",
+  "properties": [
+    "Slug cartridge (range 60/240)",
+    "rapid 4",
+    "reload 8",
+    "strength 11"
+  ],
+  "propertiesMap": {
+    "Range": "Slug cartridge (range 60/240)",
+    "Rapid": "rapid 4",
+    "Reload": "reload 8",
+    "Strength": "strength 11"
+  },
+  "rowKey": "Revolver",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "6.5"
+}

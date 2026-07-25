@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Nagai Edge (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Nagai Edge (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "vibroweapon",
+  "text": "When you have advantage on an attack roll you make with this weapon, get the same result on both dice rolls, and hit, you deal three additional weapon dice worth of damage.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

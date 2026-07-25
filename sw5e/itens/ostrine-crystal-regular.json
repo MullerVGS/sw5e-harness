@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Ostrine Crystal (Regular)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Ostrine Crystal (Regular)",
+  "searchableRarity": "Advanced",
+  "subtype": "lightweapon",
+  "text": "When you deal damage with this weapon, you deal an additional 1d4 force, lightning, necrotic, poison, psychic, or sonic damage (chosen by the GM when generating this item).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Taozin Amulet",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": true,
+  "rowKey": "Taozin Amulet",
+  "searchableRarity": "Premium",
+  "subtype": "neck",
+  "text": "_**Requires attunement**_\r\nWhile wearing this amulet, you are hidden from detection through the Force. You can't be targeted by force powers or features that would detect the presence of the Force in you, and features that would detect your attunement to the Force show you glowing a faint yellow.\r\n\r\n_Made from the skin of a taozin, this amulet blurs and clouds Force senses so their wearers can not easily be detected by another Force-sensitive._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

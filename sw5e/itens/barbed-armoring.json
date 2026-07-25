@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Barbed Armoring",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Barbed Armoring",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "This armor gains the barbed (1d4) property. If it already has the barbed property, the barbed damage increases by one step (from d4 to d6, or from d6 to d8). ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

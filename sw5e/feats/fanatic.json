@@ -1,0 +1,9 @@
+{
+  "attributesIncreased": null,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "name": "Fanatic",
+  "prerequisite": "4th level",
+  "rowKey": "Fanatic",
+  "text": "Every blow that hits your enemies make you feel closer to victory, making you shake in excitement. You gain the following benefits:\r\n- When you score a critical hit with an attack roll or reduce a creature to 0 hit points, you can make one weapon attack as a bonus action.\r\n- Whenever a creature you can see within 30 feet is reduced to 0 hit points, you go into a fervor gaining temporary hit points equal to 1d4 + your Constitution modifier. \r\n"
+}

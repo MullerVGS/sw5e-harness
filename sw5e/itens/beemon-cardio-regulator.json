@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Beemon Cardio-Regulator",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Beemon Cardio-Regulator",
+  "searchableRarity": "Prototype",
+  "subtype": "neck",
+  "text": "_**Requires attunement**_\r\nYour Constitution score is 19 while you wear this choker. It has no effect on you if your Constitution is already 19 or higher.\r\n\r\n_Demand for Beemon Laboratories' implants streches even to those too sickly to use them without assistance from another of their fine products._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

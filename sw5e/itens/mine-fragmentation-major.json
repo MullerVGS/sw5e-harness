@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Explosives",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Mine, Fragmentation (Major)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Mine, Fragmentation (Major)",
+  "searchableRarity": "Prototype",
+  "subtype": "explosive",
+  "text": "Mines can be set to detonate when a creature comes within up to 15 feet of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which activates at the start of your next turn. When detonated, each creature within 15 feet of it must make a DC 18 Dexterity saving throw. A creature takes 6d10 kinetic damage on a failed save, or half as much as on a successful one.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

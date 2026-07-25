@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "EC",
+  "contentType": "Core",
+  "description": "You enhance a droid or construct's protocols. You touch one willing droid or construct and give it expertise in one tool or skill of your choice.\r\n\r\nYou must choose a tool or skill in which the target is proficient and that isn't already benefiting from an effect, such as expertise, that doubles its proficiency bonus.",
+  "duration": "up to 1 hour",
+  "forceAlignment": "None",
+  "higherLevelDescription": null,
+  "level": 5,
+  "name": "Skill Protocol",
+  "powerType": "Tech",
+  "prerequisite": null,
+  "range": "Touch",
+  "rowKey": "Skill Protocol"
+}

@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1175,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightsaber pike",
+  "properties": [
+    "Dexterity 11",
+    "double (1d8 energy)",
+    "luminous",
+    "reach"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Double": "double (1d8 energy)",
+    "Luminous": "luminous",
+    "Reach": "reach"
+  },
+  "rowKey": "Lightsaber pike",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "4.25"
+}

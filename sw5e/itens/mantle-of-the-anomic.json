@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Mantle of the Anomic",
+  "prerequisite": " at least 3 levels in sentinel",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Mantle of the Anomic",
+  "searchableRarity": "Prototype",
+  "subtype": "shoulders",
+  "text": "This item can hold a number of charges equal to half your sentinel level (rounded up). When you complete a long rest, this item regains all missing charges. When you would use a Force-Empowered Self option, you can expend charges instead of force points.\r\n\r\nWhen you reach 5th level in sentinel, you can use two Force-Empowered Self options per hit, instead of only one.\r\n\r\nWhen you reach 11th level in sentinel, you can use each Force-Empowered Self option twice per turn, instead of only once. You can still only use each option once per hit.\r\n\r\nWhen you reach 17th level in sentinel, you can use your Enlightened Evasion feature for any saving throws, instead of just against effects that deal damage.\r\n\r\n_This visually unremarkable mantle resists effects that would cause it to move or make noise._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

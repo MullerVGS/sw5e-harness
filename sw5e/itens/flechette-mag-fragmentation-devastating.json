@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Flechette Mag, Fragmentation (Devastating)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Flechette Mag, Fragmentation (Devastating)",
+  "searchableRarity": "Artifact",
+  "subtype": "ammunition",
+  "text": "When triggered, this enhanced flechette cannon ammunition fires a volley of kinetic flechette rounds in a short line 15 feet long and 5 feet wide or a long line 45 feet long and 5 feet wide. A single flechette mag holds enough ammunition for three attacks in a short line or one attack in a long line. Each creature must make a DC 24 Dexterity saving throw. A creature takes 7d10 kinetic damage on a failed save, or half as much as on a successful one. ",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

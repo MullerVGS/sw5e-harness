@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Minute",
+  "castingPeriodText": "10 minutes",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "This power further bolsters your allies with toughness and resolve. Choose up to twelve creatures within range. Each target gains the following benefits:\r\n- The becomes immune to poison and disease. Any currently existing poison or diseases still exist.\r\n- The creature becomes immune to being frightened by powers.\r\n- The creature's hit point maximum and current hit points increase by 2d10 for the duration.\r\n\r\nThese benefits last for 24 hours or until the end of your next long rest, whichever happens first.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 5,
+  "name": "Improved Force Barrier",
+  "powerType": "Force",
+  "prerequisite": "Force Barrier",
+  "range": "30 feet",
+  "rowKey": "Improved Force Barrier"
+}

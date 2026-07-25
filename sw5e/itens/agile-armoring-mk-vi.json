@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Agile Armoring Mk VI",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Agile Armoring Mk VI",
+  "searchableRarity": "Artifact",
+  "subtype": "armor",
+  "text": "This armor gains the agile 21 property. If it already has the agile property, its agile number increases to 21.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

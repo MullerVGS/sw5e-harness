@@ -1,0 +1,87 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 13,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The K'lor'slug has advantage on an attack roll against a creature if at least one of the k'lor'slug's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "descriptionWithLinks": " The K'lor'slug has advantage on an attack roll against a creature if at least one of the k'lor'slug's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "monsterBehaviorType": "Trait",
+      "name": "Swarm Tactics",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) kinetic damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
+      "descriptionWithLinks": " Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) kinetic damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1/4",
+  "charisma": 2,
+  "charismaModifier": -4,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 14,
+  "dexterityModifier": 2,
+  "experiencePoints": 0,
+  "flavorText": "",
+  "hitPointRoll": "1d6+1",
+  "hitPoints": 4,
+  "imageUrls": [],
+  "intelligence": 1,
+  "intelligenceModifier": -5,
+  "languages": [
+    "—"
+  ],
+  "name": "K'lor'slug",
+  "rowKey": "K'lor'slug",
+  "savingThrows": null,
+  "sectionText": "K'lor'slugs are dangerous vermiforms native to the swamps of Noe'ha'on. They were also found on Korriban and Taris.***Biology & Appearance.*** K'lor'slugs are large worm-like creatures that possess a serpentine body propelled by many dangerously-edged legs. The mouth is a gaping circular maw filled with concentric rings of teeth.***Behavior.*** K'lor'slugs are carnivorous hunters on their homeworld, possessing keen olfactory and visual senses in addition to a deadly venom. For reproduction, the creatures lay more than 300 eggs in a single birthing period. When hatched, the young k'lor'slug is immediately ravenous for food. In addition to their aggressiveness, these creatures are considered pests aboard starships. They are known to invade the darkest spots on unsanitary space vehicles and breed. When dealing with more than 300 eggs hatching, an infestation aboard a space vehicle could become harder to control�and more potentially fatal�the longer it is tolerated.***Cultural Impact.*** Because of their notoriety as an aggressive and deadly species, they are used as a holomonster playing piece in the popular strategy game, dejarik.",
+  "senses": [
+    "blindsight 30 ft.",
+    "passive Perception 11"
+  ],
+  "size": "Small",
+  "skills": [
+    "Perception +3"
+  ],
+  "speed": 30,
+  "speeds": "30 ft., climb 30 ft.",
+  "strength": 5,
+  "strengthModifier": -3,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

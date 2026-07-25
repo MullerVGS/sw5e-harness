@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Maser Core",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Maser Core",
+  "searchableRarity": "Standard",
+  "subtype": "blaster",
+  "text": "When a creature tries to reduce the damage of a shot from this weapon with a feature or power, such as monk's Deflect Missiles or the *saber reflect* force power, they have disadvantage on the reduction roll.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

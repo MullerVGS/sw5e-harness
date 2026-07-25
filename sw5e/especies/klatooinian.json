@@ -1,0 +1,84 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Strength",
+          "Constitution"
+        ],
+        "amount": 1
+      },
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Heavy brows, short canine muzzles",
+  "eyeColorOptions": "Brown, black, gray",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nKlatooinians are a humanoid species with canine features, having short muzzles over toothy overbites. They are also notable for their heavy brows and ridges along the tops of their heads. \r\n\r\n### Society and Culture\r\nFor centuries, klatooinians have been slaves to the hutts, whom they view as almost godlike, immortal beings. Although the hutts allow a council of elders to rule on Klatooine, all off-world affairs are wholly under hutt control. Under the hutts, the klatooinians serve as soldiers and guards. Even those klatooinians who do not serve the hutts are often employed as hired muscle by other masters.\r\n\r\nKlatooinian society was known for a strong belief in tradition and the wisdom of the elders, although some younger klatooinians rebelled against this norm and sought out freedom from enslavement. Others attempted to gain their own fortunes as smugglers, pirates, bounty hunters, or raiders.\r\n\r\n### Names\r\nKlatooinian names are often derived from the names of great heroes and historical figures. Surnames are familial, and are usually shorter than klatooinian given names. \r\n\r\n**Male Names.** Barada, Castas, Sta-Den, Tarados\r\n\r\n**Female Names.** Gelis, Petkara, Sterasi, Yelmith \r\n\r\n**Surnames.** Eek, Gort, Gon, Ovin",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'4\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Klatooine",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_klatooinian.png"
+  ],
+  "language": "Huttese, Klatooinian",
+  "manufacturer": null,
+  "name": "Klatooinian",
+  "rowKey": "Klatooinian",
+  "size": "Medium",
+  "skinColorOptions": "Green, gray, brown",
+  "traits": [
+    {
+      "description": "Your Strength, Constitution, and Wisdom scores increase by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Klatooinians reach adulthood in their late teens and can live as long as 90 standard years.",
+      "name": "Age"
+    },
+    {
+      "description": "Klatooinian society encourages reverence for tradition and an inclination towards violence, causing them to tend toward lawful dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Klatooinians typically stand around 6 feet tall and generally weigh about 170 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You are proficient in the Intimidation skill. When you take the Help action to give an ally advantage on an Intimidation check, they gain a bonus to the roll equal to your proficiency bonus.",
+      "name": "Enforcer"
+    },
+    {
+      "description": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.",
+      "name": "Toughness"
+    },
+    {
+      "description": "Klatooinians are trained to fight from a young age. You have proficiency in two martial vibroweapons of your choice.",
+      "name": "Weapon Training"
+    },
+    {
+      "description": "You are proficient in the Lore skill.",
+      "name": "Wisdom of the Elders"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic, Klatooinian, and Huttese. Klatooinian is a gutteral, barking language, with many loanwords adopted from Huttese over the centuries.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "125 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Nagai Edge (Basic)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Nagai Edge (Basic)",
+  "searchableRarity": "Standard",
+  "subtype": "vibroweapon",
+  "text": "When you have advantage on an attack roll you make with this weapon, get the same result on both dice rolls, and hit, you deal one additional weapon die worth of damage.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

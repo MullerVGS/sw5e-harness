@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Impermeable Overlay Mk VI",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Impermeable Overlay Mk VI",
+  "searchableRarity": "Artifact",
+  "subtype": "armor",
+  "text": "This armor gains the impermeable 9 property (suits chosen by the GM). If it already has the impermeable property, its impermeable number increases to 9.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

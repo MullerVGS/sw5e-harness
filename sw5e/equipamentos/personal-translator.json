@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 150,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A personal translator is a hand held device that can translate verbal communications between up to five languages. The languages can be changed out while interfaced with a protocol droid or appropriate computer.",
+  "equipmentCategory": "Communications",
+  "modes": [],
+  "name": "Personal translator",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Personal translator",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "0.5"
+}

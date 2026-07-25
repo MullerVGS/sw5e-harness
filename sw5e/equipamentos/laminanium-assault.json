@@ -1,0 +1,33 @@
+{
+  "ac": "17",
+  "armorClassification": "Heavy",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 8000,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Laminanium assault",
+  "properties": [
+    "Bulky",
+    "cumbersome",
+    "obscured",
+    "strength 15"
+  ],
+  "propertiesMap": {
+    "Bulky": "Bulky",
+    "Cumbersome": "cumbersome",
+    "Obscured": "obscured",
+    "Strength": "strength 15"
+  },
+  "rowKey": "Laminanium assault",
+  "stealthDisadvantage": true,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "60"
+}

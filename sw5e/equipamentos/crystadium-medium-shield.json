@@ -1,0 +1,31 @@
+{
+  "ac": "+2",
+  "armorClassification": "Shield",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 900,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Crystadium medium shield",
+  "properties": [
+    "Absorptive 1",
+    "imbalanced",
+    "strength 13"
+  ],
+  "propertiesMap": {
+    "Absorptive": "Absorptive 1",
+    "Imbalanced": "imbalanced",
+    "Strength": "strength 13"
+  },
+  "rowKey": "Crystadium medium shield",
+  "stealthDisadvantage": false,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "18"
+}

@@ -1,0 +1,29 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 250,
+  "damageDiceDieTypeEnum": 3,
+  "damageDieModifier": 0,
+  "damageDieType": 3,
+  "damageNumberOfDice": 1,
+  "damageType": "Ion",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Ion pistol",
+  "properties": [
+    "Power cell (range 40/160)",
+    "reload 16"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 40/160)",
+    "Reload": "reload 16"
+  },
+  "rowKey": "Ion pistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "1"
+}

@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1500,
+  "damageDiceDieTypeEnum": 12,
+  "damageDieModifier": 0,
+  "damageDieType": 12,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrolance",
+  "properties": [
+    "Dexterity 13",
+    "reach",
+    "special"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 13",
+    "Reach": "reach",
+    "Special": "special"
+  },
+  "rowKey": "Vibrolance",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "8.5"
+}

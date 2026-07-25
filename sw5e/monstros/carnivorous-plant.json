@@ -1,0 +1,117 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 8,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Any unenhanced weapon made of metal that hits the plant corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. The plant can eat through 2-inch-thick, unenhanced metal in 1 round.",
+      "descriptionWithLinks": " Any unenhanced weapon made of metal that hits the plant corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. The plant can eat through 2-inch-thick, unenhanced metal in 1 round.",
+      "monsterBehaviorType": "Trait",
+      "name": "Corrode Metal",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " While the plant remains motionless, it is indistinguishable from a normal plant.",
+      "descriptionWithLinks": " While the plant remains motionless, it is indistinguishable from a normal plant.",
+      "monsterBehaviorType": "Trait",
+      "name": "False Appearance",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 2,
+      "attackType": "MeleeWeapon",
+      "damage": "4",
+      "damageRoll": "1d6 + 1",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) kinetic damage plus 7 (2d6) acid damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) kinetic damage plus 7 (2d6) acid damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1",
+  "charisma": 2,
+  "charismaModifier": -4,
+  "conditionImmunities": [
+    "Blinded",
+    "Charmed",
+    "Deafened",
+    "Prone"
+  ],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [
+    1,
+    2,
+    3,
+    11
+  ],
+  "constitution": 16,
+  "constitutionModifier": 3,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Acid"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    1
+  ],
+  "damageVulnerabilities": [
+    "Fire"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    4
+  ],
+  "dexterity": 11,
+  "dexterityModifier": 0,
+  "experiencePoints": 100,
+  "flavorText": "",
+  "hitPointRoll": "4d6 + 12",
+  "hitPoints": 24,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "—"
+  ],
+  "name": "Carnivorous Plant",
+  "rowKey": "Carnivorous Plant",
+  "savingThrows": null,
+  "sectionText": "While most plants are harmless, many plants are malicious and self-aware, becoming formidable foes.",
+  "senses": [
+    "Blindsight 60 ft. (blind beyond this radius)",
+    "passive Perception 10"
+  ],
+  "size": "Small",
+  "skills": null,
+  "speed": 10,
+  "speeds": "10 ft., climb 10 ft.",
+  "strength": 12,
+  "strengthModifier": 1,
+  "types": [
+    "plant"
+  ],
+  "wisdom": 10,
+  "wisdomModifier": 0
+}

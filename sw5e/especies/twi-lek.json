@@ -1,0 +1,87 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Charisma"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "distinctions": "Lekku, sharp claw-like nails, males often file their teeth to points",
+  "eyeColorOptions": "Black, blue, brown, green, hazel, orange, pink, purple, or yellow",
+  "features": [],
+  "flavorText": "### Biology and Appearence\r\nTwi'leks are usually thin, although corpulent individuals were known to exist. Twi'leks are omnivores; this diet is essential given that food is scarce on their homeworld, Ryloth. Twi'leks possess multiple stomachs, an unusual trait that enables them to eat almost any food. When traveling off their homeworld, twi'leks rarely refuse food, which frequently leads to obesity among starfarers. Twi'lek society also considers obesity as a sign of influence and success.\r\n\r\n### Society and Culture\r\nThe natural grace and exotic beauty of the female twi'leks make them a popular target among slave traders. Slavery is the main currency of Ryloth. Some see it as a chance to make money by kidnapping or selling orphaned children, while others see slavery as a way of saving children from growing up in Ryloth's harsh environment. A number of twi'leks believe that slavery is an efficient way to proliferate their species and preserve their culture, as the twi'leks lack their own means of inter-planetary travel. Regardless of how it came about, many twi'leks live as slaves or entertainers and are considered status symbols, especially the females of rarer skin hues. Twi'leks that manage to escape from captivity usually turned to a life of thievery or prostitution, with both genders making use of their powers of seduction.\r\n\r\n### Names\r\nTwi'lek names combine their first name and a clan name into a single name, rather than having a separate surname.\r\n\r\n**Male Names.** Ecrizsati, Gaj'mogos, Ukelweko\r\n\r\n**Female Names.** Arag'mure, Oanicfuba, Unaecripi",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'3\"",
+  "heightRollMod": "+2d12\"",
+  "homeworld": "Ryloth",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_twilek.png"
+  ],
+  "language": "Twi'leki",
+  "manufacturer": null,
+  "name": "Twi'lek",
+  "rowKey": "Twi'lek",
+  "size": "Medium",
+  "skinColorOptions": "Blue, brown, dark grey, green, orange, pink, purple, red, tan, teal, white, yellow, or striped",
+  "traits": [
+    {
+      "description": "Your Charisma score increases by 2, and your Dexterity score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Twi'leks reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Twi'leks harsh upbringing cause them to tend toward the dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Twi'leks stand between 5 and 7 feet tall and weigh up to 200 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have proficiency with Deception or Persuasion (your choice).",
+      "name": "Charismatic"
+    },
+    {
+      "description": "Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "You have proficiency in the Performance skill.",
+      "name": "Elegant Dancers"
+    },
+    {
+      "description": "You have advantage on saving throws against poison and disease, and you have resistance against poison damage (explained in Chapter 9).",
+      "name": "Natural Antitoxins"
+    },
+    {
+      "description": "Your unarmed strikes deal 1d4 kinetic damage and have the finesse property.",
+      "name": "Unarmed Combatant"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Twi’leki. You can communicate non-verbally with other twi’leks through a complex language of subtle head-tail motions.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "125 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

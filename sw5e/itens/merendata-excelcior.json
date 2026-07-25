@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "MerenData Excelcior",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "MerenData Excelcior",
+  "searchableRarity": "Standard",
+  "subtype": "wristpad",
+  "text": "When you deal cold damage to a creature with a tech power cast through this wristpad, the creature gains 1 slowed level until the end of its next turn.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

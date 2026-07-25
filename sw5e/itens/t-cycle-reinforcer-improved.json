@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "T-Cycle Reinforcer (Improved)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "T-Cycle Reinforcer (Improved)",
+  "searchableRarity": "Premium",
+  "subtype": "focus generator",
+  "text": "When you cast a force power that pushes or pulls a creature, you can increase the distance pushed or pulled by 10 feet.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

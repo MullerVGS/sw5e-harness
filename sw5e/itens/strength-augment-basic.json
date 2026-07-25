@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "Augment",
+  "name": "Strength Augment (Basic)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Strength Augment (Basic)",
+  "searchableRarity": "Standard",
+  "subtype": "augment",
+  "text": "Your Strength score increases by 1. One ability score other than Strength (chosen by the GM) decreases by 1.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

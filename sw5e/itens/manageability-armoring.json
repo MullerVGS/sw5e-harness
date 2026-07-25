@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Manageability Armoring",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Manageability Armoring",
+  "searchableRarity": "Standard",
+  "subtype": "armor",
+  "text": "This armor loses the bulky property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

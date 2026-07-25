@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Absorbing Conductor (Apprentice)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Absorbing Conductor (Apprentice)",
+  "searchableRarity": "Premium",
+  "subtype": "focus generator",
+  "text": "This item gains the absorbing 4 property. If it already has the absorbing property, its absorbing number increases by 4, to a maximum of 12.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Throwing Weapon Hilt (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Throwing Weapon Hilt (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "lightweapon",
+  "text": "This weapon gains thrown (60/180) property. If it already has the thrown property, the range increases by 30/90.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

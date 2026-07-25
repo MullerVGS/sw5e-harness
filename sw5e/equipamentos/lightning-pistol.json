@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 550,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Lightning",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightning pistol",
+  "properties": [
+    "Power cell (range 30/120)",
+    "penetrating 8",
+    "reload 16"
+  ],
+  "propertiesMap": {
+    "Penetrating": "penetrating 8",
+    "Power Cell": "Power cell (range 30/120)",
+    "Reload": "reload 16"
+  },
+  "rowKey": "Lightning pistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "2"
+}

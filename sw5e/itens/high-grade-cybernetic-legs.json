@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "High-Grade Cybernetic Legs",
+  "prerequisite": " Constitution 13",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "High-Grade Cybernetic Legs",
+  "searchableRarity": "Prototype",
+  "subtype": "replacement",
+  "text": "This augmentation replaces both legs.\r\n\r\nYou gain advantage on Strength ability checks and Strength saving throws, you can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet, and your speed increases by 10 feet.  \r\n\r\n**Side Effect:** Your powerful legs have difficulty moving quietly. You have disadvantage on Dexterity (Stealth) checks that rely on moving silently.\r\n\r\n_This mechanical leg replacement increases speed and jumping height._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

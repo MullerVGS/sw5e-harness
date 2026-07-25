@@ -1,0 +1,263 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 19,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " by a Pilot & Gunner roll a separate initiative for both",
+      "descriptionWithLinks": " by a Pilot & Gunner roll a separate initiative for both",
+      "monsterBehaviorType": "Trait",
+      "name": "Operated",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. Pilot Controls movement, Ram action, & Rocket launchers",
+      "descriptionWithLinks": " The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. Pilot Controls movement, Ram action, & Rocket launchers",
+      "monsterBehaviorType": "Trait",
+      "name": "Piloted",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct requires an active gunner to operate the vehicles weaponry. Gunner controls Plasma Cannon & Medium Repeating Blasters",
+      "descriptionWithLinks": " The construct requires an active gunner to operate the vehicles weaponry. Gunner controls Plasma Cannon & Medium Repeating Blasters",
+      "monsterBehaviorType": "Trait",
+      "name": "Gunner",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AAT ignores difficult terrain and can pass through occupied hostile spaces",
+      "descriptionWithLinks": " The AAT ignores difficult terrain and can pass through occupied hostile spaces",
+      "monsterBehaviorType": "Trait",
+      "name": "Freedom of Movement",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AAT's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.",
+      "descriptionWithLinks": " The AAT's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.",
+      "monsterBehaviorType": "Trait",
+      "name": "Vulnerable Interior",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " of the AAT can use the Ram action and make 1 attack utilizing the Rocket Launcher",
+      "descriptionWithLinks": " of the AAT can use the Ram action and make 1 attack utilizing the Rocket Launcher",
+      "monsterBehaviorType": "Action",
+      "name": "Pilot",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Any creature within the AAT's movement path must make a DC 17 Dexterity saving throw, taking 26 (4d12) kinetic damage on a failed save and is knocked prone, or half as much damage on a successful one.",
+      "descriptionWithLinks": " Any creature within the AAT's movement path must make a DC 17 Dexterity saving throw, taking 26 (4d12) kinetic damage on a failed save and is knocked prone, or half as much damage on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Ram",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Ranged weapon range 100/400 DC 14 launches a barrage of rockets at a target and any creature within 10 feet Taking 6d6 kinetic damage on a failed save and half as much on a successful one",
+      "descriptionWithLinks": " Ranged weapon range 100/400 DC 14 launches a barrage of rockets at a target and any creature within 10 feet Taking 6d6 kinetic damage on a failed save and half as much on a successful one",
+      "monsterBehaviorType": "Action",
+      "name": "Rocket Launchers",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "6/day Reload 1 turn"
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " can make two attacks using the medium repeating blasters",
+      "descriptionWithLinks": " can make two attacks using the medium repeating blasters",
+      "monsterBehaviorType": "Action",
+      "name": "Gunner",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Ranged Weapon Attack: +10 to hit, range 120/240 ft., one target. Hit: 25 (4d10+6) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +10 to hit, range 120/240 ft., one target. Hit: 25 (4d10+6) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Medium Repeating Blasters",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The AAT launches a plasma shell 150/300 ft range target must be at least 15 ft away from the AAT.  Blast has a 15 foot radius. Each creature in that area must make a DC 18 Dexterity saving throw, taking 52 (8d12) fire damage on a failed save, or half as much damage on a successful one.",
+      "descriptionWithLinks": " The AAT launches a plasma shell 150/300 ft range target must be at least 15 ft away from the AAT.  Blast has a 15 foot radius. Each creature in that area must make a DC 18 Dexterity saving throw, taking 52 (8d12) fire damage on a failed save, or half as much damage on a successful one.",
+      "monsterBehaviorType": "Action",
+      "name": "Plasma Cannon",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": "Recharge 5-6"
+    }
+  ],
+  "challengeRating": "13",
+  "charisma": 7,
+  "charismaModifier": -2,
+  "conditionImmunities": [
+    "Poisoned",
+    "Frightened",
+    "Petrified",
+    "Restrained",
+    "Incapacitated",
+    "Stunned",
+    "Prone",
+    "Blinded",
+    "Charmed"
+  ],
+  "conditionImmunitiesOther": [
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [
+    10,
+    4,
+    9,
+    12,
+    6,
+    14,
+    11,
+    1,
+    2
+  ],
+  "constitution": 19,
+  "constitutionModifier": 4,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [
+    "Poison",
+    "Necrotic"
+  ],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [
+    10,
+    9
+  ],
+  "damageResistances": [
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 22,
+  "dexterityModifier": 6,
+  "experiencePoints": 10000,
+  "flavorText": "The Armored Assault Tank, also known as the AAT battle tank or the AAT-1 Hover Tank, was a tank vehicle used by the Trade Federation[4] and later donated to the Confederacy of Independent Systems where it served as one of its backbone infantry defenses and backbone vehicles during the Clone Wars. Many of the AATs used by the Confederacy were painted in Confederate colors, such as blue, however there were still tanks used by the CIS in the previous tan used by the Trade Federation. The tanks were also donated to Death Watch during their alliance with the Confederacy.",
+  "hitPointRoll": "16d12+64",
+  "hitPoints": 168,
+  "imageUrls": [],
+  "intelligence": 10,
+  "intelligenceModifier": 0,
+  "languages": [
+    "�"
+  ],
+  "name": "AAT",
+  "rowKey": "AAT",
+  "savingThrows": [
+    "Str +9",
+    "Con +8"
+  ],
+  "sectionText": "The armies of the galaxy use a variety of land vehicles used to transport troops and as weapons of war to bring overwhelming firepower against their enemies.",
+  "senses": [
+    "passive perception 12"
+  ],
+  "size": "Huge",
+  "skills": null,
+  "speed": 30,
+  "speeds": "30 ft.",
+  "strength": 20,
+  "strengthModifier": 5,
+  "types": [
+    "construct"
+  ],
+  "wisdom": 14,
+  "wisdomModifier": 2
+}

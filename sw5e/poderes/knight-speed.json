@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Choose a willing creature that you can see within range. Until the power ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.\r\n\r\nWhen the power ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 3,
+  "name": "Knight Speed",
+  "powerType": "Force",
+  "prerequisite": "Burst of Speed",
+  "range": "30 feet",
+  "rowKey": "Knight Speed"
+}

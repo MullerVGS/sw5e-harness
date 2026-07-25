@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "A willing creature you touch becomes invisible until the power ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. ",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 4,
+  "name": "Improved Force Camouflage",
+  "powerType": "Force",
+  "prerequisite": "Force Camouflage",
+  "range": "Touch",
+  "rowKey": "Improved Force Camouflage"
+}

@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 650,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Electroprod",
+  "properties": [
+    "Disruptive",
+    "shocking 13",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Disruptive": "Disruptive",
+    "Shocking": "shocking 13",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Electroprod",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleVibroweapon",
+  "weight": "6"
+}

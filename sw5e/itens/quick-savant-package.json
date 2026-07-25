@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Enhancement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Quick Savant Package",
+  "prerequisite": " Intelligence 15",
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Quick Savant Package",
+  "searchableRarity": "Legendary",
+  "subtype": "enhancement",
+  "text": "Your Intelligence score increases by 1, and your maximum for this score increases by 1. Additionally, you have advantage on Intelligence saving throws.\r\n\r\n**Side Effect:** One ability score other than Intelligence (chosen by the GM) decreases by 1.\r\n\r\n_This implant drastically increases your mental capacities._ ",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

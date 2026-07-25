@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 450,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Vibrokatana",
+  "properties": [
+    "Dexterity 11",
+    "piercing 1",
+    "versatile (1d10)"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Piercing": "piercing 1",
+    "Versatile": "versatile (1d10)"
+  },
+  "rowKey": "Vibrokatana",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "5.75"
+}

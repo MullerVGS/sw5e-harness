@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "My instrument is my most treasured possession, and it reminds me of someone I lost.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I'd do anything for another Jizz Wailer.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "A deal is a deal, I never go back on my word.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'll do whatever it takes to stay in the spotlight.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'll never sell out, artistic integrity is all I have.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I do it all for the fans, without them I'd be nothing.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A musical instrument (one of your choice), a cool hat, a set of common clothes and a belt pouch containing 150 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Empathic",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Performer",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Charmer",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Quick-Fingered",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Entertainer",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Feigned Confidence",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Snappy Interjection",
+      "roll": 8
+    }
+  ],
+  "featureName": "Steady Gig",
+  "featureRowKeys": null,
+  "featureText": "You can always find a place to perform, usually in an cantina or spice den but possibly in a fine dining establishment, culture center or even a noble�s court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.\r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "\r\nYou are one of the grooviest beings in the galaxy. You are a professional musician, versed in the improvisational style of the outer rim known as Jizz. \r\n\r\nJizz is a melting pot of thousands of different alien musical traditions. Jizz celebrates spontaneity, groove and experimentation. It is almost always played in an ensemble band, but the instruments can vary. Knowing how to play with others, when to push and when to pull back, is the key to a good ensemble.\r\n\r\nBut Jizz is more than the music. It's about wandering the galaxy and living out of a suitcase. It's about playing the sleaziest cantinas you can find and having a good time while you do it. Jizz is the music of freedom and freedom loving people. Jizz is Life and Life is Jizz.",
+  "flawOptions": [
+    {
+      "description": "I blow my money on booze, gambling, pretty companions or some other vice.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "Despite being a renowned Jizz Wailer, most people think my music sounds awful.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I'm a flake, I'm always late to rehearsal.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'm wanted by the Law for my hooliganism.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I owe debts or favors to criminals.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I'm caught up with several lovers and my infidelity causes me problems.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "Jizz is the voice of freedom, a light in the darkness. (Light)",
+      "name": "Freedom",
+      "roll": 1
+    },
+    {
+      "description": "I've put my life as a Jizz Wailer behind me, it was a mistake of my youth. (Lawful)",
+      "name": "Retired",
+      "roll": 2
+    },
+    {
+      "description": "Life is like Jizz, its best when you improvise. (Chaotic)",
+      "name": "Improvisation",
+      "roll": 3
+    },
+    {
+      "description": "Life is short, we might as well have a good time while it lasts. (Dark)",
+      "name": "Good Times",
+      "roll": 4
+    },
+    {
+      "description": "I'm gonna be the biggest thing since Max Rebo and Droopy McCool. (Neutral)",
+      "name": "Fame",
+      "roll": 5
+    },
+    {
+      "description": "If you aren't cool, you might as well be dead. (Any)",
+      "name": "Cool",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Jizz Wailer",
+  "personalityTraitOptions": [
+    {
+      "description": "I always wear a cool hat so everyone knows I'm a real Jizz Man.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I constantly hum or whistle tunes.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I'm pioneering a new style, it's gonna blow your mind.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I'm always hustling and looking for the next job.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I have a ridiculous stage name.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I'm always searching for new sounds.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I've played with all the legends and won't shut up about it.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I speak in lyrics, catchphrases and hipster slang.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Jizz Wailer",
+  "skillProficiencies": "Choose two from Insight, Performance, Persuasion, and Sleight of Hand",
+  "suggestedCharacteristics": "Its said that if you have to ask what Jizz is, then you'll never know. It doesn't matter where you come from, what matters is if you've got the groove.",
+  "toolProficiencies": "One type of musical instrument"
+}

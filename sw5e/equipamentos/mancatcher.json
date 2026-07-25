@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 800,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": "When you would make a Strength (Athletics) check to attempt to grapple a creature while wielding a weapon with the grappling property, you can instead make a melee weapon attack with it. If the attack hits, the creature becomes grappled by you, and it takes damage equal to your Strength modifier of the same type as the weapon’s damage.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Mancatcher",
+  "properties": [
+    "Reach",
+    "special",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Reach": "Reach",
+    "Special": "special",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Mancatcher",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleVibroweapon",
+  "weight": "7"
+}

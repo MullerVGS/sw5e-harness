@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Inconspicuous Shielding",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Inconspicuous Shielding",
+  "searchableRarity": "Standard",
+  "subtype": "armor",
+  "text": "_**Prerequiste:** Shield_\r\nThis shield loses the obtrusive property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

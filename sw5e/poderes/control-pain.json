@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You use the Force to push your body beyond its normal limits. You can't die from damage or from failed death saving throws while this power is in effect, but the effort taxes you. If you have 0 hit points while you are under the effect of this power, you do not fall unconscious, and continue acting and fighting normally. While you remain at 0 hit points, you must make a death saving throw at the start of each of your turns. Each time you fail a death saving throw, you suffer a cumulative -1 penalty to attack rolls, ability checks, and saving throws (including death saving throws). This penalty lasts until you regain hit points. Successful death saving throws have no effect, but a natural 20 restores 1 hit point as usual. \r\n\r\nIf you have 0 hit points when this power ends, you die instantly.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Universal",
+  "higherLevelDescription": null,
+  "level": 5,
+  "name": "Control Pain",
+  "powerType": "Force",
+  "prerequisite": "Force Body",
+  "range": "Self",
+  "rowKey": "Control Pain"
+}

@@ -1,0 +1,199 @@
+{
+  "bondOptions": [
+    {
+      "description": "I was picked on while growing up for being a bookworm.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "The world is such an open place, I feel like there is still so much to learn. I want to compile knowledge from different places.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I like reading books and writing, but I'm no poet yet. It is just a hobby I want to share with others, looking for exotic inspirations.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I will become the power behind the throne by controlling the information the throne receives.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "Children are our future, and I will mold them.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I can't teach what I don't know. I will teach everything.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of common clothes, an instrument or set of tools with which you are proficient, a token from a former student, and a belt pouch containing 50 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Naturalist",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Performer",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Techie",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Entertainer",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Feigned Confidence",
+      "roll": 8
+    }
+  ],
+  "featureName": "Knowledge",
+  "featureRowKeys": null,
+  "featureText": "If you need information on something, you know if there is a book containing that information and where to find it. Further, when you hear a creature speaking or when you see language written down, you can identify exactly what language is being used even if you are not proficient in the language.  Finally, when you hear music, you know which instruments are being used in the performance, even if you are not proficient in their use. \r\n",
+  "features": null,
+  "flavorDescription": null,
+  "flavorName": null,
+  "flavorOptions": null,
+  "flavorText": "You are an experienced teacher who knows how to best instruct others in an array of disciplines.  Although you have a vast amount of knowledge yourself, pedagogy is the most important tool in your toolbox because it allows the rest of your knowledge to spread most efficiently.\r\n",
+  "flawOptions": [
+    {
+      "description": "Someone showing bad manners does not exist to me. I will never talk to or acknowledge that person.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I overemphasize the importance of discipline.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I invest so much time into planning that I can't bring myself to deviate from the plan, even when it is needed.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I look down on uneducated adults.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'd give up my companions for a piece of secret information.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I can't stand not reading at least one page of a book a day.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I must spread what I have learned. (Lawful)",
+      "name": "Teach",
+      "roll": 1
+    },
+    {
+      "description": "When I find something new I must learn everything about it, no matter the cost. (Chaotic)",
+      "name": "Insatiable",
+      "roll": 2
+    },
+    {
+      "description": "Every single piece of information is waiting to be discovered. (Light)",
+      "name": "Discovery",
+      "roll": 3
+    },
+    {
+      "description": "Every piece of knowledge will be mine. (Dark)",
+      "name": "Greed",
+      "roll": 4
+    },
+    {
+      "description": "I will teach anybody anything. (Neutral)",
+      "name": "People",
+      "roll": 5
+    },
+    {
+      "description": "Knowledge is power. (Any)",
+      "name": "Power",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Teacher",
+  "personalityTraitOptions": [
+    {
+      "description": "Books are my everything.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "Knowledge is the most important thing in the world.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I have quotes for every occasion.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "My vocabulary is vast enough I sometimes use words that are larger than necessary.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I love working with kids.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Because I understand why people can make mistakes, I am also patient with them.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "Sometimes I start explaining things at a level much to basic for the audience.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I reward hard work and good manners.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Teacher",
+  "skillProficiencies": "Choose two from Lore, Nature, Performance, and Technology",
+  "suggestedCharacteristics": "As a teacher you are devoted to educating others, as well as learning new information for yourself. It is up to you whether you are preachy or wise, a bookworm or more kinesthetic, a note taker or visual learner.  In any case, you are most likely underappreciated.",
+  "toolProficiencies": "One instrument or set of artisan's implements of your choice"
+}

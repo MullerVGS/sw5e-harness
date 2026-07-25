@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Mandalorian Shuk'orok",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": true,
+  "rowKey": "Mandalorian Shuk'orok",
+  "searchableRarity": "Advanced",
+  "subtype": "hands",
+  "text": "_**Requires attunement**_\r\nWhile wearing these gloves, your Strength score becomes 21. If your Strength is already equal to or greater than 21, it has no effect on you.\r\n\r\n***Mandalorian Vestments.*** While wearing and attuned to these gloves and Mandalorian Beskar'gam, these gauntlets no longer count towards your maximum attunement. While wearing and attuned to these gloves, Mandalorian Beskar'gam, and Mandalorian Helmet, you have resistance to kinetic and energy damage from unenhanced sources.\r\n\r\n_The final piece of a Mandalorian's armor, these gauntlets grant augmented strength._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

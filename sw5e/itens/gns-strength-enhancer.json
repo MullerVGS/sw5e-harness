@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "GNS Strength Enhancer",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": true,
+  "rowKey": "GNS Strength Enhancer",
+  "searchableRarity": "Legendary",
+  "subtype": "waist",
+  "text": "_**Requires attunement**_\r\nWhile wearing this belt, your Strength score becomes 25. If your Strength is already equal to or greater than 25, it has no effect on you.\r\n\r\n_This large belt greatly increases a users physical power with an array of repulsorfield microgenerators and a pair of reactive-lift actuators that increase raw force and lift-capacity without any loss of speed or fine motor skills._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

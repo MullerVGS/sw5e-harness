@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 200,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Wristblaster",
+  "properties": [
+    "Disguised",
+    "fixed",
+    "light",
+    "power cell (range 30/120)",
+    "reload 8"
+  ],
+  "propertiesMap": {
+    "Disguised": "Disguised",
+    "Fixed": "fixed",
+    "Light": "light",
+    "Power Cell": "power cell (range 30/120)",
+    "Reload": "reload 8"
+  },
+  "rowKey": "Wristblaster",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "0.5"
+}

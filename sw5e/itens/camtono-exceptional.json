@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Camtono (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Camtono (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "",
+  "text": "A camtono is a secured, handle container used for transporting valuable goods. A camtono comes with one key. Without the key, unlocking the camtono requires a DC 27 security kit to force open. It stores 9 lb., not exceeding 3/8 cubic foot, has an AC of 14, and 75 hit points. Destroying the camtono risks damaging any goods stored inside.",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

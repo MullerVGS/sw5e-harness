@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 250,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Light slugpistol",
+  "properties": [
+    "Light",
+    "reload 8",
+    "slug cartridge (range 35/140)"
+  ],
+  "propertiesMap": {
+    "Light": "Light",
+    "Range": "slug cartridge (range 35/140)",
+    "Reload": "reload 8"
+  },
+  "rowKey": "Light slugpistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "1"
+}

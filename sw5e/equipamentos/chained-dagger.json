@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 350,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Chained dagger",
+  "properties": [
+    "Disarming",
+    "finesse",
+    "reach"
+  ],
+  "propertiesMap": {
+    "Disarming": "Disarming",
+    "Finesse": "finesse",
+    "Reach": "reach"
+  },
+  "rowKey": "Chained dagger",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "3.75"
+}

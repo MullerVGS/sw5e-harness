@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "Medium",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Verpine Auto-Shielding Unit",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": true,
+  "rowKey": "Verpine Auto-Shielding Unit",
+  "searchableRarity": "Advanced",
+  "subtype": "medium shield generator",
+  "text": "_**Requires attunement**_\r\nWhile wearing this shield generator, you can speak its command word as a bonus action to cause it to animate. The shield projects into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect, or until you are incapacitated or die, at which point the shield deactivates.\r\n\r\n_The pinnacle of Verpine scientists' shameless theft of ancient Arkanian energy shield designs._",
+  "type": "Shield",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Enhancement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Charming Noble Package",
+  "prerequisite": " Charisma 15",
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Charming Noble Package",
+  "searchableRarity": "Legendary",
+  "subtype": "enhancement",
+  "text": "Your Charisma score increases by 1, and your maximum for this score increases by 1. Additionally, you have advantage on Charisma saving throws.\r\n\r\n**Side Effect:** One ability score (other than Charisma) that is chosen by the DM when this augmentation is installed decreases by 1.\r\n\r\n_This implant drastically increases your force of personality._",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

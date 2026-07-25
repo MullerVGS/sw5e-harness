@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Forged Ferricite Supremacy Channel",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Forged Ferricite Supremacy Channel",
+  "searchableRarity": "Legendary",
+  "subtype": "focus generator",
+  "text": "When you cast a force power of 1st-level or higher that deals damage, you can increase the damage by twice the number of force points spent. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

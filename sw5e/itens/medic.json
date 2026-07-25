@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Part",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Medic",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Medic",
+  "searchableRarity": "Standard",
+  "subtype": "part",
+  "text": "As an action, you can activate the medical kit, choosing one of the following options:\r\n- You can stabilize a creature within 5 feet of you that has 0 hit points, without needing to make a Wisdom (Medicine) check.\r\n- You can restore 1d4+1 hit points to a creature within 5 feet.\r\n- You can cure a target of one poison affecting them or to give them advantage on saving throws against poison for 1 hour.\r\n\r\nThis medical kit has no effect on droids or constructs. You can use each feature once. You regain all expended uses when you complete a long rest.\r\n\r\n_This part equips the droid with a compact medical kit._",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

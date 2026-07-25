@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 100,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "A Large or smaller creature hit by a bolas is restrained until it is freed. A bolas has no effect on formless or Huge or larger creatures. A creature can use its action to make a DC 13 Dexterity check, freeing itself or another creature within its reach on a success. The bolas has an AC of 10, 5 hit points, and immunity to all damage not dealt by melee weapons. Destroying the bolas frees the creature without harming it and immediately ends the bolas’s effects. While a creature is restrained by a bolas, you can make no further attacks with it.\r\n\r\nDue to their unwieldy nature, bolas make ineffective melee weapons. Melee attack rolls made with them are made at disadvantage.",
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Bolas",
+  "properties": [
+    "Light",
+    "special",
+    "thrown (range 20/60)"
+  ],
+  "propertiesMap": {
+    "Light": "Light",
+    "Range": "thrown (range 20/60)",
+    "Special": "special"
+  },
+  "rowKey": "Bolas",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialVibroweapon",
+  "weight": "2"
+}

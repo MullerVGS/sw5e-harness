@@ -1,0 +1,99 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Ability to absorb light, light blindness, claws",
+  "eyeColorOptions": "Black, orange, or red",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nWhile defel appear to be visually similar to the shistavanen, they are very different on a biological level. Defel have the ability to bend waves of light in such a manner that it renders them practically invisible to the human eye. Despite this ability, they could be still be spotted by force-users and keen-eyed individuals.\r\n\r\nDefel have extremely high perceptive ability because of their large ears, sensitive noses, and keen eyes. Because of the heightened levels of visual stimuli their eyes experience, defel are nearly blinded by sunlight but  can see rather well in the dark.\r\n\r\n### Society and Culture\r\nDefel live in tight-knit, interdependent communites underground. The harsh environment on Af'El turned the defel into rugged survivors, able to hold their own in the Galaxy. \r\n\r\nDefel have a strong sense of honor and will not associate with individuals that do not keep their word.\r\n\r\nBecause defel have yet to achieve interplanetary travel, they are a rare sight in the galaxy.\r\n\r\n### Defel Names\r\nDefel names tend to sound dark and mysterious, and are mostly composed of multiple syllables. Defel surnames are familial, using stern and simple sounds.\r\n\r\n**Male Names.** Alustair, Claustro, Tenebris, Varsiin\r\n\r\n**Female Names.** Lhantra, Soliel, Stroika, Zavtra\r\n\r\n**Surnames.** Gauss, Neura, Tume, Vecherom",
+  "hairColorOptions": "Blue to yellow in ultraviolet light, black to dark brown in visible light",
+  "halfHumanTableEntries": {},
+  "heightAverage": "3'10\"",
+  "heightRollMod": "+2d6\"",
+  "homeworld": "Af'El",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_defel.png"
+  ],
+  "language": "Defel",
+  "manufacturer": null,
+  "name": "Defel",
+  "rowKey": "Defel",
+  "size": "Small",
+  "skinColorOptions": "Black, brown, or grey",
+  "traits": [
+    {
+      "description": "Your Wisdom score increases by 2, and your Dexterity score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Defel reach adulthood in their early teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Defel tend toward no particular alignment. The best and worst are found among them.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Defel typically stand 4 to 5 feet tall and generally weigh around 100 lbs. Regardless of your position in that range, your size is Small.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 25 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "Your claws are a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d4 kinetic damage and have the finesse property.",
+      "name": "Claws"
+    },
+    {
+      "description": "You have a keen eyesight, especially in the dark. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "As a bonus action, you can turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you've used this trait, you can't use it again until you finish a short or long rest.",
+      "name": "Hidden Step"
+    },
+    {
+      "description": "You have proficiency in scavenging kits.",
+      "name": "Miners"
+    },
+    {
+      "description": "You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.",
+      "name": "Sunlight Sensitivity"
+    },
+    {
+      "description": "You are proficient in the Stealth skill.",
+      "name": "Sneaky"
+    },
+    {
+      "description": "If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.",
+      "name": "Surprise Attack"
+    },
+    {
+      "description": "Your small stature makes it hard for you to wield bigger weapons. You can't use heavy shields. Additionally, you can't use martial weapons with the two-handed property unless it also has the light property, and if a martial weapon has the versatile property, you can only wield it in two hands.",
+      "name": "Undersized"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Defel. Most defel refuse to speak Galactic Basic while on their home planet of Af'El unless they have a specific need for it.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "65 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

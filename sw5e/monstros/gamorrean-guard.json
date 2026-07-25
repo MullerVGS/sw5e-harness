@@ -1,0 +1,102 @@
+{
+  "alignment": "chaotic dark",
+  "armorClass": 15,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.",
+      "descriptionWithLinks": " At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.",
+      "monsterBehaviorType": "Trait",
+      "name": "Reckless",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " When the guards scores a critical hit with a melee weapon attack, roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.",
+      "descriptionWithLinks": " When the guards scores a critical hit with a melee weapon attack, roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.",
+      "monsterBehaviorType": "Trait",
+      "name": "Brutal Critical",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 7,
+      "attackType": "MeleeWeapon",
+      "damage": "12",
+      "damageRoll": "1d12 + 6",
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit 12 (1d12 + 6)",
+      "descriptionWithLinks": " Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit 12 (1d12 + 6)",
+      "monsterBehaviorType": "Action",
+      "name": "Vibroaxe",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 9,
+  "charismaModifier": -1,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 18,
+  "constitutionModifier": 4,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": [
+    "kinetic and energy from unenhanced weapons"
+  ],
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 12,
+  "dexterityModifier": 1,
+  "experiencePoints": 450,
+  "flavorText": "",
+  "hitPointRoll": "9d8 + 36",
+  "hitPoints": 84,
+  "imageUrls": [],
+  "intelligence": 9,
+  "intelligenceModifier": -1,
+  "languages": [
+    "Gamorrese",
+    "Galactic Basic (underst",
+    "s but can't speak)"
+  ],
+  "name": "Gamorrean Guard",
+  "rowKey": "Gamorrean Guard",
+  "savingThrows": null,
+  "sectionText": "Gamorreans were a sentient species of green-skinned porcine humanoids that hailed from the Outer Rim planet of Gamorr.***Biology & Appearance.*** A species of tall, strong bipeds, the Gamorreans have porcine traits, like an upturned, large-nostriled cartilaginous snout, jowls, and upturned tusks. Their hulking bodies are covered in green, thick and hairless skin. They have five digits on every extremity, each sporting a hard nail. The digits of their hands include an opposable thumb, which allows the Gamorreans to easily grasp and handle objects. The species has two sexes: the males, referred to as boars, and the females, called sows.***Society & Culture.*** Gamorreans have a clan-based society. Each clan is ruled by a female leader, the Clan Matron, and a male leader, the Warlord, although the Gamorrean society is, at heart, a matriarchy. Indeed, a Warlord holds his position by way of marriage to a Matron rather than force, although Matrons make their selections based on the boars' combat skills. Gamorreans see war as glorious, and violent clashes between clans are rife.Because of their low intelligence, Gamorreans tend to be both stubborn and loyal; philosophically, they believe that any problem can be solved by hitting it with brute force. They have a language of their own that sounds like mere grunts and squeals to outsiders. Although they can understand other languages, such as Galactic Basic, they find most of them too difficult to pronounce.Technologically speaking, the Gamorreans are primitive, and they favor melee weapons like vibro-axes and vibro-lances over blasters. They did not discover space travel on their own. Moreover, Gamorrean boars fail to maintain personal hygiene, rarely changing their clothes or wiping the streaming mucus from under their snouts.***Across the Galaxy.*** Offworld Gamorreans are a common sight, be they mercenaries or enforcers working for crime lords.  They also colonized the planet Pzob in the K749 system and are the majority sentient species on Lanthrym in the Elrood sector.",
+  "senses": [
+    "passive Perception 10"
+  ],
+  "size": "Medium",
+  "skills": null,
+  "speed": 40,
+  "speeds": "40 ft.",
+  "strength": 18,
+  "strengthModifier": 4,
+  "types": [
+    "humanoid"
+  ],
+  "wisdom": 11,
+  "wisdomModifier": 0
+}

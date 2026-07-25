@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You hurl a bolt of lightning at a target within range, making a ranged force attack. On a hit, the target takes 1d10 lightning damage. The lightning ignites flammable objects in the area that aren't being worn or carried.\r\n\r\nThis power's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).",
+  "duration": "Instantaneous",
+  "forceAlignment": "Dark",
+  "higherLevelDescription": null,
+  "level": 0,
+  "name": "Shock",
+  "powerType": "Force",
+  "prerequisite": null,
+  "range": "120 feet",
+  "rowKey": "Shock"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Other",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Dominator Belt",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": true,
+  "rowKey": "Dominator Belt",
+  "searchableRarity": "Artifact",
+  "subtype": "waist",
+  "text": "_**Requires attunement**_\r\nWhile wearing this belt, your Strength score becomes 29. If your Strength is already equal to or greater than 29, it has no effect on you.\r\n\r\n_While only barely adhering to the most technical definition of a belt, this harness-like rig of pneumaticized limb actuators supplies enormous strength to every limb of its wearer's body, monstrously increasing their physical power._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

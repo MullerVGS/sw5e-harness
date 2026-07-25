@@ -1,0 +1,144 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 11,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The droid comes with proficiency in security and slicer tools.",
+      "descriptionWithLinks": " The droid comes with proficiency in security and slicer tools.",
+      "monsterBehaviorType": "Trait",
+      "name": "Security Protocol",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " While you are interfaced with this droid via the tracker droid interface tech power, whenever you have advantage on an ability check or attack roll granted by the droid taking the Help action you can reroll one of the dice once.",
+      "descriptionWithLinks": " While you are interfaced with this droid via the tracker droid interface tech power, whenever you have advantage on an ability check or attack roll granted by the droid taking the Help action you can reroll one of the dice once.",
+      "monsterBehaviorType": "Trait",
+      "name": "Interfaced Assistance Protocol",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 3,
+      "attackType": "MeleeWeapon",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 lightning damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 lightning damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Shockprod",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The Security Droid may enter a sentry state, granting the benefits of the alarm tech power to a target creature within 10 feet of the droid at the time of entering the sentry state.  The Security Droid must remain within 60 feet of the warded location or the ability ends.",
+      "descriptionWithLinks": " The Security Droid may enter a sentry state, granting the benefits of the alarm tech power to a target creature within 10 feet of the droid at the time of entering the sentry state.  The Security Droid must remain within 60 feet of the warded location or the ability ends.",
+      "monsterBehaviorType": "Action",
+      "name": "Sentry",
+      "numberOfTargets": null,
+      "range": "granting the benefits of the *alarm* tech power to a target creature within 10 feet of the droid at the time of entering the sentry state.  The Security Droid must remain within 60 feet of the warded location or the ability ends.",
+      "restrictions": "1/day"
+    }
+  ],
+  "challengeRating": "0",
+  "charisma": 7,
+  "charismaModifier": -2,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 10,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 13,
+  "dexterityModifier": 1,
+  "experiencePoints": 10,
+  "flavorText": "The Z-58 series security droid is a floating security droid manufactured by Arakyd Industries that has limited capabilities in technical and physical security.",
+  "hitPointRoll": "1d4",
+  "hitPoints": 2,
+  "imageUrls": [],
+  "intelligence": 8,
+  "intelligenceModifier": -1,
+  "languages": [
+    "—"
+  ],
+  "name": "Z-58 Series Security Droid",
+  "rowKey": "Z-58 Series Security Droid",
+  "savingThrows": null,
+  "sectionText": "Tracker Droids are a general term used to describe simple droids that are capable of being permanently linked to via the tech power *tracker droid interface*.  Tracker droids are not all dedicated tracking or probe droids as the name might suggest, but these are the most common types of droids to become linked with in most cultures throughout the galaxy, explaining this commonly used shorthand.  ",
+  "senses": [
+    "Darkvision 120 ft.",
+    "passive Perception 13"
+  ],
+  "size": "Tiny",
+  "skills": [
+    "Perception +3"
+  ],
+  "speed": 40,
+  "speeds": "fly 40 ft.",
+  "strength": 3,
+  "strengthModifier": -4,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

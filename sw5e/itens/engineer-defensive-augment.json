@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "Augment",
+  "name": "Engineer Defensive Augment",
+  "prerequisite": " At least 3 levels in engineer",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Engineer Defensive Augment",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "This item becomes a valid target of the Infuse Item feature if it wasn't already, granting a bonus appropriate to the item's type. Additionally, you gain an additional use of your Potent Aptitude.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

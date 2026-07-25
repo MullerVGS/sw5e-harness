@@ -1,0 +1,29 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 175,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Blaster pistol",
+  "properties": [
+    "Power cell (range 50/200)",
+    "reload 16"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 50/200)",
+    "Reload": "reload 16"
+  },
+  "rowKey": "Blaster pistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "2.5"
+}

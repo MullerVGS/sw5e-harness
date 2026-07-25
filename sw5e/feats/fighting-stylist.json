@@ -1,0 +1,13 @@
+{
+  "attributesIncreased": [
+    "Strength",
+    "Dexterity",
+    "Constitution"
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "name": "Fighting Stylist",
+  "prerequisite": "4th level",
+  "rowKey": "Fighting Stylist",
+  "text": "You adopt a particular style of fighting as your specialty, gaining the following benefits:\r\n- Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.\r\n- Choose one of the fighting style options, detailed later in this chapter. \r\n\r\nYou can take this feat multiple times. \r\n"
+}

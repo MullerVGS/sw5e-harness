@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Ship Shield (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Ship Shield (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "any",
+  "text": "Your ship has a +3 bonus to Strength, Dexterity, and Constitution saving throws while this shield is installed. ",
+  "type": "ShipShield",
+  "valuableType": "None",
+  "valueText": null
+}

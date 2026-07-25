@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "Body",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Jedi Knight's Robe",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Jedi Knight's Robe",
+  "searchableRarity": "Prototype",
+  "subtype": "body",
+  "text": "_**Requires attunement**_\r\nYou gain a +2 bonus to AC while you wear this robe.\r\n\r\n_Members of the Order typically wear plain or unassuming garments, but this variant offers the additional protection needed by Jedi influencing important events._",
+  "type": "AdventuringGear",
+  "valuableType": "None",
+  "valueText": null
+}

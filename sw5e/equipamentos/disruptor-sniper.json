@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 3300,
+  "damageDiceDieTypeEnum": 12,
+  "damageDieModifier": 0,
+  "damageDieType": 12,
+  "damageNumberOfDice": 1,
+  "damageType": "Acid",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Disruptor sniper",
+  "properties": [
+    "Disintegrate 13",
+    "power cell (range 120/480)",
+    "reload 2",
+    "strength 15",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Disintegrate": "Disintegrate 13",
+    "Power Cell": "power cell (range 120/480)",
+    "Reload": "reload 2",
+    "Strength": "strength 15",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Disruptor sniper",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "15"
+}

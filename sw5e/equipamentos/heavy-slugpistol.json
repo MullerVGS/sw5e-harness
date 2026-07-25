@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 375,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Heavy slugpistol",
+  "properties": [
+    "Rapid 8",
+    "reload 12",
+    "slug cartridge (range 30/120)"
+  ],
+  "propertiesMap": {
+    "Range": "slug cartridge (range 30/120)",
+    "Rapid": "Rapid 8",
+    "Reload": "reload 12"
+  },
+  "rowKey": "Heavy slugpistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "3.5"
+}

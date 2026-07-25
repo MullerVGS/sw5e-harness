@@ -1,0 +1,306 @@
+{
+  "archetypeFlavorName": "Sentinel Callings",
+  "archetypeFlavorText": "Different sentinels select different callings, called Paths, to follow as they hone their powers. Your calling grants you features at 3rd, 7th, 13th, and 18th level.",
+  "archetypes": null,
+  "armorProficiencies": [
+    "Light armor"
+  ],
+  "casterRatio": 0.6666666666666666,
+  "casterType": "Force",
+  "classFeatureText": "\r\n### Forcecasting\r\n_**Sentinel:** 1st level_\r\nIn your meditations on the force, you have learned powers, fragments of knowledge that imbue you with an abiding force ability. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.\r\n\r\n#### Force Powers Known\r\nYou learn 7 force powers of your choice, and you learn more at higher levels, as shown in the Force Powers Known column of the sentinel table. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite.\r\n\r\n#### Force Points\r\nYou have a number of force points equal to your sentinel level x 3, as shown in the Force Points column of the sentinel table, + your Wisdom or Charisma modifier (your choice). You use these force points to cast force powers. You regain all expended force points when you finish a long rest.\r\n\r\n#### Max Power Level\r\nMany force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the sentinel table.\r\n\r\nYou may only cast force powers at 5th, 6th, and 7th-level once. You regain the ability to do so after a long rest.\r\n\r\n#### Forcecasting Ability\r\nYour forcecasting ability varies based on the alignment of the powers you cast. You use Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability whenever a power refers to your forcecasting ability. Additionally, you use this ability modifier when setting the saving throw DC for a force power you cast and when making an attack roll with one.\r\n\r\n___\r\n\r\n**Force save DC** = 8 + your proficiency bonus + your forcecasting ability modifier\r\n\r\n___\r\n\r\n**Force attack modifier** = your proficiency bonus + your forcecasting ability modifier\r\n\r\n___\r\n\r\n### Led by the Force\r\n_**Sentinel:** 1st level_\r\nYou can add half your proficiency bonus to any ability check you make that doesn't already include your proficiency bonus.\r\n\r\n### Force-Empowered Self\r\n_**Sentinel:** 2nd level_\r\nYour training allows you to harness the mystical energy of the Force throughout your body. You learn three effects: Deflection, Double Strike, and Slow Time. Each effect costs 1 force point and uses a d4, which changes as you gain sentinel levels, as shown in the Kinetic Combat column of the sentinel table. You can only use each effect once per round.\r\n\r\n#### Deflection\r\nWhen you are the target of an attack, you can roll a Kinetic Combat die and add it to your AC (no action required). You can do so before or after the attack is made, but you must choose to do so before the GM determines if the attack hits.\r\n\r\n#### Double Strike\r\nWhen you hit a creature with a weapon attack, you can roll a Kinetic Combat die and deal additional damage of the same type equal to the amount rolled.\r\n\r\n#### Slow Time\r\nWhen you move on your turn, you can roll a Kinetic Combat die to increase your speed by 5 x the amount rolled until the end of your turn.\r\n\r\n### Sentinel Ideals\r\n_**Sentinel:** 2nd level_\r\nYou adopt ideals that exemplify your bond with the Force. You adopt two ideals of your choice, as detailed at the end of the class description, and you adopt more at higher levels, as shown in the Ideals Known column of the sentinel table.\r\n\r\nYou can manifest your ideals a combined total of twice, and you can manifest them more times at higher levels as shown in the Ideal Manifests column of the sentinel table.\r\n\r\n### Sentinel Calling\r\n_**Sentinel:** 3rd, 7th, 13th, and 18th level_\r\nYou choose a sentinel calling, which is detailed at the end of the class description. \r\n\r\n### Ability Score Improvement\r\n_**Sentinel:** 4th, 8th, 12th, 16th, and 19th level_\r\nYou can increase one ability score by 2, or you can increase two ability scores by 1. You can't increase an ability score above 20 using this feature.\r\n\r\n### Extra Attack\r\n_**Sentinel:** 5th level_\r\nYou can attack twice, instead of once, whenever you take the Attack action on your turn.\r\n\r\n### Battle Readiness\r\n_**Sentinel:** 10th level_\r\nYou have fully learned how to meld your physical self with the Force. When you take the Dodge or Disengage actions, or use your action to cast a force power, you can make one weapon attack as a bonus action.\r\n\r\n### Enlightened Evasion\r\n_**Sentinel:** 15th level_\r\nWhen you are subjected to an effect that forces you to make a saving throw, you can spend 2 force points to add your Wisdom or Charisma modifier (your choice, minimum of one) to the saving throw. If you do so, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. \r\n\r\n### Center of the Force\r\n_**Sentinel:** 20th level_\r\nYou are perfectly centered with the Force. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores increases by 2.\r\n\r\nAdditionally, once per turn, when you would roll a Kinetic Combat die, you can instead choose the maximum.\r\n\r\n### Sentinel Ideals\r\nThe ideals are presented in alphabetical order.\r\n\r\n#### Ideal of the Agile\r\nYou gain a swimming speed and a climbing speed equal to your walking speed. When you make a long jump, you can cover a number of feet up to twice your Wisdom or Charisma score (your choice). When you make a high jump, you can leap a number of feet up into the air equal to 3 + twice your Wisdom or Charisma modifier (your choice).\r\n\r\nAdditionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, opportunity attacks against you are made with disadvantage.\r\n\r\n#### Ideal of the Artisan\r\nChoose one of your skill or tool proficiencies. When you make an ability check with the chosen skill or tool, you can add half your Wisdom or Charisma modifier (your choice, minimum of one).\r\n\r\nAdditionally, as an action, you can manifest this ideal in a brief surge of energy. For the next 10 minutes, the bonus increases to your Wisdom or Charisma modifier, and you can choose a second skill or tool to extend this feature to.\r\n\r\n#### Ideal of the Contender\r\nYour unarmed strike damage increases by one step (from 1 to d4, d4 to d6, or d6 to d8), and your unarmed strikes gain the finesse property.\r\n\r\nAdditionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, your unarmed strikes count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and damage, and you can use your Wisdom or Charisma modifier (your choice) instead of Strength for checks made to grapple a target or escape a grapple.\r\n\r\n#### Ideal of the Fighter\r\nYou adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6. \r\n\r\nAdditionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you know the fighting mastery that corresponds with the fighting style you chose with this feature. If you already know that fighting mastery, you instead learn another of your choice for the duration.\r\n\r\n#### Ideal of the Hunter\r\nYou gain darkvision out to a range of 60 feet. If you already have darkvision, this ideal increases its range by 30 feet.\r\n\r\nAdditionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you can see normally in enhanced darkness, and you gain blindsight to 10 feet.\r\n\r\n#### Ideal of the Steadfast\r\nWhen you would make a melee weapon attack roll, you can instead force the target to make a Dexterity saving throw (DC = 8 + your bonus to attacks with the weapon). If you would have advantage on your attack roll, the creature instead has disadvantage on their saving throw, and if you would have disadvantage on your attack roll, the creature instead has advantage on their saving throw. On a failed save, the target takes normal weapon damage and is subjected to any additional effects that would occur on a hit.\r\n\r\nAdditionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, when a creature succeeds on the saving throw, they take half the normal weapon damage, and when a creature rolls a 1 on the saving throw, they treat the damage as if you had rolled the maximum.\r\n\r\n#### Ideal of the Titan\r\nYou gain proficiency in medium armor.\r\n\r\nAdditionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you have advantage on ability checks and attack rolls that would forcefully move another creature, and the distance they would be moved increases by 5 feet.\r\n\r\n#### Ideal of the Tranquil\r\nWhen you finish a short or long rest, you gain a number of temporary force points equal to half your Wisdom or Charisma modifier (your choice, minimum of one). When you would spend a force point while you have temporary force points, the temporary force points are spent first. All temporary force points are lost at the end of your next short or long rest.\r\n\r\nAdditionally, as an action, you can manifest this ideal in a brief surge of energy. You regain a number of force points equal to half your Wisdom or Charisma modifier (your choice, minimum of one).\r\n\r\n#### Ideal of the Vigorous\r\nWhen you roll a Hit Die to regain hit points, you may use your Wisdom or Charisma modifier in place of your Constitution modifier when determining the number of hit points you regain.\r\n\r\nAdditionally, as an action, you can manifest this ideal in a brief surge of energy. You gain a number of temporary hit points equal to half your sentinel level + your Wisdom or Charisma modifier (your choice, minimum of one).\r\n",
+  "classFeatureText2": null,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "creatingText": "While creating your sentinel, consider your personal philosophy in regards to the Force and its most famous practitioners � the Jedi and the Sith.  Are you a member of one of the two orders, or do you walk a different path? Are you an operative tapping into a latent Force-sensitivity? Were you trained in the force from a young age, or did you discover it as an adult? How do you treat those weaker than you? What was your family like? Do you see the Force as light and dark, or an impartial river of gray?\r\n",
+  "equipmentLines": [
+    "- *(a)* two simple lightweapons or vibroweapons or *(b)* one lightweapon or vibroweapon with which you are proficient",
+    "- *(a)* a dungeoneer's pack or *(b)* an explorer's pack",
+    "- A specialist's kit with which you are proficient",
+    "- A combat suit and a light physical shield"
+  ],
+  "featureRowKeys": null,
+  "features": null,
+  "flavorText": "Clad in black robes, the rattataki pulls his hood forward and steps into the shadowy alcove, only to reappear further down the hall. As his quarry walks past, he presses the hilt of his lightsaber to the back of their head, quickly toggling it on-and-off. He is gone before the corpse hits the ground.\r\n\r\nThe togruta dashes across the battlefield, doublesaber deflecting blaster shots to the ground. She pulls her wounded padawan to her feet, and guides her away from the warzone.\r\n\r\nGreen-bladed lightsaber a blur, the cathar ferociously presses the attack. With each strike, she guides her opponent closer to the ravine's edge. A flurry of blows followed by a quick *force push* and her foe tumbles over the edge.\r\n\r\nSentinels are the masters of blending force powers with weapon attacks. They weave the two together so expertly that their foes have trouble predicting them.\r\n\r\n### The Middle of the Road\r\nThe sentinel uses stealth and subterfuge to accomplish the will of the Force. Where the consular focuses on mastery of the Force and the guardian focuses on the mastery of the lightsaber, the sentinel focuses on merging the two. \r\n\r\n### Solitary Action\r\nSentinels are notoriously independent, most comfortable acting alone and without backup; where some use a team to make up for their weaknesses, the sentinel uses the Force to overcome theirs. While some take this independent streak to the extreme, they are usually accepting of authority, as long as they are allowed to carry out directions using their preferred methods.\r\n",
+  "hitDiceDieType": 8,
+  "hitPointsAtFirstLevel": "8 + your Constitution modifier",
+  "hitPointsAtFirstLevelNumber": 8,
+  "hitPointsAtHigherLevels": "1d8 (or 5) + your Constitution modifier per sentinel level after 1st",
+  "hitPointsAtHigherLevelsNumber": 5,
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/classes/sentinel_01.png",
+    "https://starwars5ecentral.blob.core.windows.net/site-images/classes/sentinel_02.png"
+  ],
+  "levelChangeHeaders": [
+    "Level",
+    "Proficiency Bonus",
+    "Features",
+    "Force Powers Known",
+    "Force Points",
+    "Max Power Level",
+    "Kinetic Combat",
+    "Ideals Known",
+    "Ideal Manifests"
+  ],
+  "levelChanges": {
+    "1": {
+      "Features": "Forcecasting, Led by the Force",
+      "Force Points": "3",
+      "Force Powers Known": "7",
+      "Ideal Manifests": "�",
+      "Ideals Known": "�",
+      "Kinetic Combat": "�",
+      "Level": "1st",
+      "Max Power Level": "1st",
+      "Proficiency Bonus": "+2"
+    },
+    "2": {
+      "Features": "Force-Empowered Self, Sentinel Ideals",
+      "Force Points": "6",
+      "Force Powers Known": "9",
+      "Ideal Manifests": "2",
+      "Ideals Known": "2",
+      "Kinetic Combat": "d4",
+      "Level": "2nd",
+      "Max Power Level": "1st",
+      "Proficiency Bonus": "+2"
+    },
+    "3": {
+      "Features": "Sentinel Calling",
+      "Force Points": "9",
+      "Force Powers Known": "11",
+      "Ideal Manifests": "2",
+      "Ideals Known": "2",
+      "Kinetic Combat": "d4",
+      "Level": "3rd",
+      "Max Power Level": "2nd",
+      "Proficiency Bonus": "+2"
+    },
+    "4": {
+      "Features": "Ability Score Improvement",
+      "Force Points": "12",
+      "Force Powers Known": "13",
+      "Ideal Manifests": "2",
+      "Ideals Known": "2",
+      "Kinetic Combat": "d4",
+      "Level": "4th",
+      "Max Power Level": "2nd",
+      "Proficiency Bonus": "+2"
+    },
+    "5": {
+      "Features": "Extra Attack",
+      "Force Points": "15",
+      "Force Powers Known": "15",
+      "Ideal Manifests": "2",
+      "Ideals Known": "2",
+      "Kinetic Combat": "d6",
+      "Level": "5th",
+      "Max Power Level": "2nd",
+      "Proficiency Bonus": "+3"
+    },
+    "6": {
+      "Features": "�",
+      "Force Points": "18",
+      "Force Powers Known": "17",
+      "Ideal Manifests": "2",
+      "Ideals Known": "3",
+      "Kinetic Combat": "d6",
+      "Level": "6th",
+      "Max Power Level": "3rd",
+      "Proficiency Bonus": "+3"
+    },
+    "7": {
+      "Features": "Calling feature",
+      "Force Points": "21",
+      "Force Powers Known": "18",
+      "Ideal Manifests": "2",
+      "Ideals Known": "3",
+      "Kinetic Combat": "d6",
+      "Level": "7th",
+      "Max Power Level": "3rd",
+      "Proficiency Bonus": "+3"
+    },
+    "8": {
+      "Features": "Ability Score Improvement",
+      "Force Points": "24",
+      "Force Powers Known": "19",
+      "Ideal Manifests": "2",
+      "Ideals Known": "3",
+      "Kinetic Combat": "d6",
+      "Level": "8th",
+      "Max Power Level": "3rd",
+      "Proficiency Bonus": "+3"
+    },
+    "9": {
+      "Features": "3",
+      "Force Points": "27",
+      "Force Powers Known": "21",
+      "Ideal Manifests": "3",
+      "Ideals Known": "3",
+      "Kinetic Combat": "d8",
+      "Level": "9th",
+      "Max Power Level": "4th",
+      "Proficiency Bonus": "+4"
+    },
+    "10": {
+      "Features": "Battle Readiness",
+      "Force Points": "30",
+      "Force Powers Known": "22",
+      "Ideal Manifests": "3",
+      "Ideals Known": "3",
+      "Kinetic Combat": "d8",
+      "Level": "10th",
+      "Max Power Level": "4th",
+      "Proficiency Bonus": "+4"
+    },
+    "11": {
+      "Features": "�",
+      "Force Points": "33",
+      "Force Powers Known": "24",
+      "Ideal Manifests": "3",
+      "Ideals Known": "4",
+      "Kinetic Combat": "d8",
+      "Level": "11th",
+      "Max Power Level": "5th",
+      "Proficiency Bonus": "+4"
+    },
+    "12": {
+      "Features": "Ability Score Improvement",
+      "Force Points": "36",
+      "Force Powers Known": "25",
+      "Ideal Manifests": "3",
+      "Ideals Known": "4",
+      "Kinetic Combat": "d8",
+      "Level": "12th",
+      "Max Power Level": "5th",
+      "Proficiency Bonus": "+4"
+    },
+    "13": {
+      "Features": "Calling feature",
+      "Force Points": "39",
+      "Force Powers Known": "26",
+      "Ideal Manifests": "3",
+      "Ideals Known": "4",
+      "Kinetic Combat": "d10",
+      "Level": "13th",
+      "Max Power Level": "5th",
+      "Proficiency Bonus": "+5"
+    },
+    "14": {
+      "Features": "�",
+      "Force Points": "42",
+      "Force Powers Known": "28",
+      "Ideal Manifests": "3",
+      "Ideals Known": "4",
+      "Kinetic Combat": "d10",
+      "Level": "14th",
+      "Max Power Level": "6th",
+      "Proficiency Bonus": "+5"
+    },
+    "15": {
+      "Features": "Enlightened Evasion",
+      "Force Points": "45",
+      "Force Powers Known": "29",
+      "Ideal Manifests": "3",
+      "Ideals Known": "4",
+      "Kinetic Combat": "d10",
+      "Level": "15th",
+      "Max Power Level": "6th",
+      "Proficiency Bonus": "+5"
+    },
+    "16": {
+      "Features": "Ability Score Improvement",
+      "Force Points": "48",
+      "Force Powers Known": "30",
+      "Ideal Manifests": "3",
+      "Ideals Known": "4",
+      "Kinetic Combat": "d10",
+      "Level": "16th",
+      "Max Power Level": "6th",
+      "Proficiency Bonus": "+5"
+    },
+    "17": {
+      "Features": "�",
+      "Force Points": "51",
+      "Force Powers Known": "32",
+      "Ideal Manifests": "4",
+      "Ideals Known": "4",
+      "Kinetic Combat": "d12",
+      "Level": "17th",
+      "Max Power Level": "7th",
+      "Proficiency Bonus": "+6"
+    },
+    "18": {
+      "Features": "Calling feature",
+      "Force Points": "54",
+      "Force Powers Known": "33",
+      "Ideal Manifests": "4",
+      "Ideals Known": "4",
+      "Kinetic Combat": "d12",
+      "Level": "18th",
+      "Max Power Level": "7th",
+      "Proficiency Bonus": "+6"
+    },
+    "19": {
+      "Features": "Ability Score Improvement",
+      "Force Points": "57",
+      "Force Powers Known": "34",
+      "Ideal Manifests": "4",
+      "Ideals Known": "4",
+      "Kinetic Combat": "d12",
+      "Level": "19th",
+      "Max Power Level": "7th",
+      "Proficiency Bonus": "+6"
+    },
+    "20": {
+      "Features": "Center of the Force",
+      "Force Points": "60",
+      "Force Powers Known": "35",
+      "Ideal Manifests": "4",
+      "Ideals Known": "4",
+      "Kinetic Combat": "d12",
+      "Level": "20th",
+      "Max Power Level": "7th",
+      "Proficiency Bonus": "+6"
+    }
+  },
+  "multiClassProficiencies": [
+    "Light armor",
+    "simple lightweapons",
+    "simple vibroweapons"
+  ],
+  "name": "Sentinel",
+  "numSkillChoices": 3,
+  "primaryAbility": "Dexterity",
+  "quickBuildText": "You can make a sentinel quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom or Charisma. Second, choose the Jedi or Sith background.\r\n",
+  "rowKey": "Sentinel",
+  "savingThrows": [
+    "Dexterity",
+    "Charisma"
+  ],
+  "skillChoices": "Choose three from Acrobatics, Animal Handling, Insight, Intimidation, Perception, Persuasion, Piloting, Stealth, and Technology",
+  "skillChoicesList": [
+    "Acrobatics",
+    "Animal Handling",
+    "Insight",
+    "Intimidation",
+    "Perception",
+    "Persuasion",
+    "Piloting",
+    "Stealth",
+    "Technology"
+  ],
+  "startingWealthVariant": "6d4 x 100 cr",
+  "summary": "Force-wielder who blends melee combat with the Force",
+  "toolProficiencies": [
+    "One specialist's kit of your choice"
+  ],
+  "toolProficienciesList": [
+    "One specialist's kit of your choice"
+  ],
+  "weaponProficiencies": [
+    "Simple lightweapons",
+    "simple vibroweapons",
+    "martial lightweapons with the finesse property",
+    "martial vibroweapons with the finesse property"
+  ]
+}

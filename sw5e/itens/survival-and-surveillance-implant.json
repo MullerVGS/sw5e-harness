@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Replacement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Survival and Surveillance Implant",
+  "prerequisite": " Intelligence 13",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Survival and Surveillance Implant",
+  "searchableRarity": "Premium",
+  "subtype": "replacement",
+  "text": "This augmentation replaces your eyes and face.\r\n\r\nThis implant contains several tools for long-term survival and reconnaissance. As a bonus action, you can activate one of the below modes that enable you to use several of these tools at once. Only one mode can be active at a time.\r\n___\r\n- **Communications Mode:** This communications suite includes a headcomm with a scrambler that automatically encodes messages sent to a specified recipient commlink or receiver. While this mode is active, you cannot be deafened.\r\n- **Interceptor Mode:** This is a jamming and electronic warfare suite that includes a comm jammer, a holotrace device and pocket scrambler.\r\n- **Respirator Mode:** This includes a basic respirator that grants advantage on saving throws made to avoid being poisoned and resistance to poison damage. \r\n\r\n**Side Effect:** This complex interface causes significant interference with other communication devices, rendering them impossible to use. While this implant is installed, you can not use any portable device used for communication or jamming, such as a commlink or holotrace device.\r\n\r\n_Frequently used by scouts and corporate espionage specialists, this imposing implant covers nearly the entire left half of the face, and includes a series of tools for long-term survival in hostile conditions._ ",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

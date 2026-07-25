@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "AnyMedium",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Jensaarai Armor",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": true,
+  "rowKey": "Jensaarai Armor",
+  "searchableRarity": "Prototype",
+  "subtype": "any medium",
+  "text": "_**Requires attunement**_\r\nWhile wearing this armor, you are considered proficient regardless of whether or not you have proficiency in medium armor. Additionally, it grants a +1 bonus to AC.\r\n\r\n***Jensaarai Regalia.*** While wearing and attuned to this armor and Jensaarai Cloak, you are adapted to both hot and cold climates, as described in chapter 5 of the Dungeon Master's Guide. Additionally, this armor now grants a +2 bonus to AC, instead of +1. While wearing and attuned to this armor, Jensaarai Cloak, and Jensaarai Headgear, this armor now grants a +3 bonus to AC, instead of +2.\r\n\r\n_At the height of their training, Jensaarai craft and bond with their own armor. While each set of armor is unique to its bearer, they share similar traits._",
+  "type": "Armor",
+  "valuableType": "None",
+  "valueText": null
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "Augment",
+  "name": "Monk Offensive Augment",
+  "prerequisite": " At least 3 levels in monk",
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Monk Offensive Augment",
+  "searchableRarity": "Prototype",
+  "subtype": "augment",
+  "text": "When you roll a 1 on the damage roll for an unarmed strike or monk weapon, you can reroll the die. You must use the new roll. ",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

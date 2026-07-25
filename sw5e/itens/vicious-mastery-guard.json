@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Vicious Mastery Guard",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Vicious Mastery Guard",
+  "searchableRarity": "Advanced",
+  "subtype": "vibroweapon",
+  "text": "This weapon gains the vicious 2 property. If it already has the vicious property, its vicious number increases by 2, to a maximum of 3.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

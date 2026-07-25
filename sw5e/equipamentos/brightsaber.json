@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 1800,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Fire",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Brightsaber",
+  "properties": [
+    "Bright 13",
+    "hidden",
+    "luminous",
+    "versatile (2d4)"
+  ],
+  "propertiesMap": {
+    "Bright": "Bright 13",
+    "Hidden": "hidden",
+    "Luminous": "luminous",
+    "Versatile": "versatile (2d4)"
+  },
+  "rowKey": "Brightsaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "2.5"
+}

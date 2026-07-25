@@ -1,0 +1,100 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 13,
+  "armorType": null,
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The bogwing is considered to be a Large animal for the purposes of determining its carrying capacity.",
+      "descriptionWithLinks": " The bogwing is considered to be a Large animal for the purposes of determining its carrying capacity.",
+      "monsterBehaviorType": "Trait",
+      "name": "Beast of Burden",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The bogwing can make two claw attacks.",
+      "descriptionWithLinks": " The bogwing can make two claw attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "6",
+      "damageRoll": "1d6 + 3",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Claws",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1",
+  "charisma": 5,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 11,
+  "constitutionModifier": 0,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 16,
+  "dexterityModifier": 3,
+  "experiencePoints": 200,
+  "flavorText": "",
+  "hitPointRoll": "4d6",
+  "hitPoints": 14,
+  "imageUrls": [],
+  "intelligence": 3,
+  "intelligenceModifier": -4,
+  "languages": [
+    "�"
+  ],
+  "name": "Bogwing, Greater",
+  "rowKey": "Bogwing, Greater",
+  "savingThrows": null,
+  "sectionText": "Bogwings are a reptavian species found on the planets of Naboo and Dagobah.  During the Cold War between the Galactic Republic and the reconstituted Sith Empire, bogwings were also seen in the swamps of the ruins of Taris.  ***Biology.*** Bogwings are known to be able to carry nine times their own weight and are very territorial. There are two races of bogwings: the greater bogwing and the lesser bogwing. They both feed on small creatures dwelling in the canopy, but the greater bogwing feeds in the upper levels, while the lesser bogwing feeds in the lower levels where it avoids larger predators such as the jubba bird.***Naboo.*** During Gulliball games played by Gungans, bogwings were released into the sky to signal halftime.",
+  "senses": [
+    "passive Perception 13"
+  ],
+  "size": "Small",
+  "skills": [
+    "Perception +3"
+  ],
+  "speed": 10,
+  "speeds": "10 ft., fly 40 ft.",
+  "strength": 6,
+  "strengthModifier": -2,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 13,
+  "wisdomModifier": 1
+}

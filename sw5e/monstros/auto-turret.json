@@ -1,0 +1,130 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 14,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "descriptionWithLinks": " The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.",
+      "monsterBehaviorType": "Trait",
+      "name": "Circuitry",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The turret uses its Intelligence modifier for attack, damage, and intitiative rolls.",
+      "descriptionWithLinks": " The turret uses its Intelligence modifier for attack, damage, and intitiative rolls.",
+      "monsterBehaviorType": "Trait",
+      "name": "Targeting Systems",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": " The turret makes two repeating blaster attacks.",
+      "descriptionWithLinks": " The turret makes two repeating blaster attacks.",
+      "monsterBehaviorType": "Action",
+      "name": "Multiattack",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 4,
+      "attackType": "RangedWeapon",
+      "damage": "5",
+      "damageRoll": "1d6+2",
+      "damageType": "Energy",
+      "description": " Ranged Weapon Attack: +4 to hit, range 40/160 ft., one target. Hit 5 (1d6+2) energy damage.",
+      "descriptionWithLinks": " Ranged Weapon Attack: +4 to hit, range 40/160 ft., one target. Hit 5 (1d6+2) energy damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Repeating Blaster",
+      "numberOfTargets": "one target.",
+      "range": "range 40/160 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1/2",
+  "charisma": 4,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": [
+    "poison",
+    "disease"
+  ],
+  "conditionImmunitiesParsed": [],
+  "constitution": 15,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 2,
+  "dexterityModifier": -4,
+  "experiencePoints": 100,
+  "flavorText": "An autoturret is a blaster turret emplacement used to defend an area. Known for their killing power and effectiveness, they are employed by many factions throughout galactic history. Autoturrets were used widely during the Jedi Civil War, with the Sith Empire deploying them to restrict access to the Undercity of Taris and to defend their military bases. Often, they were installed at the entrances to hidden bases, onboard capital ships, or near personal valuables.In the later stages of the Clone Wars, portable autoturrets were used by both the Grand Army of the Republiic and the Separatist Droid Army for covering fire or to reinforce the defense of field command posts. These autoturrets became the standard equipment of clone and droid snipers, who were entrusted with their deployment.",
+  "hitPointRoll": "3d8+6",
+  "hitPoints": 19,
+  "imageUrls": [],
+  "intelligence": 14,
+  "intelligenceModifier": 2,
+  "languages": [
+    "—"
+  ],
+  "name": "Auto-Turret",
+  "rowKey": "Auto-Turret",
+  "savingThrows": null,
+  "sectionText": "A turret is a mount for a weapon that enabled it to turn and pivot, allowing it to fire in many different directions. They are mounted on many vehicles, starfighters, and starships.  Other turrets are mounted on the ground, and can be both manned and un-manned. Weapons mounted on turrets included laser cannons and other types of projectile cannons.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 12"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Perception +2"
+  ],
+  "speed": 0,
+  "speeds": "0 ft.",
+  "strength": 12,
+  "strengthModifier": 1,
+  "types": [
+    "construct"
+  ],
+  "wisdom": 11,
+  "wisdomModifier": 0
+}

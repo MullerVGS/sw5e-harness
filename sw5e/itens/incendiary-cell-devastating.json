@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Incendiary Cell (Devastating)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Incendiary Cell (Devastating)",
+  "searchableRarity": "Artifact",
+  "subtype": "ammunition",
+  "text": "You have a +3 bonus to attack and damage rolls made with this enhanced incendiary cell. This bonus is in addition to any bonuses granted by the weapon. Once the incendiary cell is depleted, it no longer gives a bonus. Additionally, the loaded weapon deals fire damage instead of its normal damage type, and when you hit with a shot it sets the ground beneath it in a 5-foot square ablaze for 1 minute. When a creature enters the fire or starts its turn there it must make a DC 24 Dexterity saving throw. On a failed save, the creature takes 1d12 fire damage or half as much on a successful one. A construct makes this save with disadvantage.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

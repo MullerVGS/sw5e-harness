@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 650,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightfist",
+  "properties": [
+    "Disguised",
+    "disruptive",
+    "fixed",
+    "light",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Disguised": "Disguised",
+    "Disruptive": "disruptive",
+    "Fixed": "fixed",
+    "Light": "light",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Lightfist",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "1.5"
+}

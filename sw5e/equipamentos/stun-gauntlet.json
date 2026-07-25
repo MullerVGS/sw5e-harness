@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 400,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Stun gauntlet",
+  "properties": [
+    "Disruptive",
+    "fixed",
+    "shocking 13"
+  ],
+  "propertiesMap": {
+    "Disruptive": "Disruptive",
+    "Fixed": "fixed",
+    "Shocking": "shocking 13"
+  },
+  "rowKey": "Stun gauntlet",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleVibroweapon",
+  "weight": "2.25"
+}

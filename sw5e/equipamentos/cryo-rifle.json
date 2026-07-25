@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 2400,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Cold",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Cryo rifle",
+  "properties": [
+    "Power cell (range 50/200)",
+    "reload 4",
+    "strength 11",
+    "two-handed",
+    "vicious 1"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 50/200)",
+    "Reload": "reload 4",
+    "Strength": "strength 11",
+    "Two-Handed": "two-handed",
+    "Vicious": "vicious 1"
+  },
+  "rowKey": "Cryo rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "10.5"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Rocket, Fragmentation (Average)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Rocket, Fragmentation (Average)",
+  "searchableRarity": "Premium",
+  "subtype": "ammunition",
+  "text": "You have a +1 bonus to attack rolls made with this enhanced rocket launcher ammunition, which deals 2d6 kinetic damage on a hit. This bonus is in addition to any bonuses granted by the weapon. Once the rocket is fired, it no longer gives a bonus. Additionally, hit or miss, the rocket then explodes. The target and each creature within 15 feet must make a DC 16 Dexterity saving throw, taking 4d10 kinetic damage on a failed save or half as much on a successful one.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

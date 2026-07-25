@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 2000,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "This repulsorcraft is designed to efficiently move large amounts of goods. It has a speed of 30 feet and can store 2,000 lb., not exceeding 120 cubic feet.",
+  "equipmentCategory": "Storage",
+  "modes": [],
+  "name": "Hovercart",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Hovercart",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "150"
+}

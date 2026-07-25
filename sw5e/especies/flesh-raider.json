@@ -1,0 +1,92 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Strength"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Wisdom",
+          "Charisma"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Horizontal eye stalks, horizontal spade-shaped head, tridactyl hands",
+  "eyeColorOptions": "Black, dark blue, dark green",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nFlesh raiders are a more primitive, and more physically imposing subspecies of rakata that mutated prior to the end of the Infinite Empire. A life above ground and in caves has led the flesh raiders to lose their more amphibian traits, and are now more humanoid in their biological needs, though they seem to only be able to digest meats and flesh.\r\n\r\nFlesh raiders keep many of their ancestral rakatan features, though they have experienced a form of gigantism that has lead to their interesting appearance, that of a flat topped, spade shaped head, with blade-like eye stalks coming off the side ends of the spade. Their body structure also more closely matches that of a trandoshan or dashade, being bulky and imposing in stature, towering over most other sentient creatures.\r\n\r\nUnlike contemporary rakata, flesh raiders did not lose their ability to tap into the Force.\r\n\r\n### Society and Culture\r\nFlesh raiders are known to form small clan structures, with a war boss in charge of the clan. Those flesh raiders who are born Force-sensitive can be found imitating a temple structure, with a powerful Force-sensitive, usually from another species, leading them. \r\n\r\nFlesh raiders still speak the rakatan language, though it has developed into a cruder variant.\r\n\r\n### Names\r\nFlesh  raider names tend to be short and concise, embodying strength and virility. Flesh raider names make no distinction between male and female names. Surnames are clan-based, though they are rarely used.\r\n\r\n**First Names.** Cha'nagh, Fashk, Gorshh, Keshk, Mar'govrok\r\n\r\n**Surnames.** Ban, Fel, Kuir, Penk, Teeshk",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "5'8\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Tython",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_fleshRaider.png"
+  ],
+  "language": "Rakata",
+  "manufacturer": null,
+  "name": "Flesh Raider",
+  "rowKey": "Flesh Raider",
+  "size": "Medium",
+  "skinColorOptions": "Brown, pink, red, or tan",
+  "traits": [
+    {
+      "description": "Your Strength score increases by 2, and your Wisdom or Charisma score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Flesh raiders reach adulthoood by 20 and rarely live longer than 90 years.",
+      "name": "Age"
+    },
+    {
+      "description": "Flesh raiders' propensity towards war and aggression cause them to tend toward chaotic dark side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Flesh raiders typically stand between 6 and 7 feet tall and weigh around 200 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.",
+      "name": "Aggressive"
+    },
+    {
+      "description": "If you spend at least 1 minute devouring the corpse of a beast or humanoid, you gain temporary hit points equal to your Constitution modifier (minimum of one). Once you've used this feature, you must complete a short or long rest before you can use it again.",
+      "name": "Cannibalize"
+    },
+    {
+      "description": "You have a keen eyesight, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+      "name": "Darkvision"
+    },
+    {
+      "description": "Due to their unique physiology, flesh raider hardiness allows them to overcome use of the Force. You have advantage on Strength and Constitution saving throws against force powers.",
+      "name": "Force Contention"
+    },
+    {
+      "description": "You gain proficiency in the Intimidation skill.",
+      "name": "Menacing"
+    },
+    {
+      "description": "Whenever you make a Wisdom (Survival) check to hunt for food, you are considered to have expertise in the Survival skill.",
+      "name": "Hunters"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Rakata. Rakata is characterized by its deep tones and simplistic nature, using mainly consonants and long vowels. It's script seems to be a very ancient form of Galactic Basic.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "145 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

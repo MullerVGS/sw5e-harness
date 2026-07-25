@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 925,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 2,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Sith saber",
+  "properties": [
+    "Dexterity 11",
+    "hidden",
+    "keen 1",
+    "versatile (1d10)"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Hidden": "hidden",
+    "Keen": "keen 1",
+    "Versatile": "versatile (1d10)"
+  },
+  "rowKey": "Sith saber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "2.75"
+}

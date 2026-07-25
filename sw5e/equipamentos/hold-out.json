@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 225,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Hold-out",
+  "properties": [
+    "Hidden",
+    "light",
+    "power cell (range 30/120)",
+    "reload 8"
+  ],
+  "propertiesMap": {
+    "Hidden": "Hidden",
+    "Light": "light",
+    "Power Cell": "power cell (range 30/120)",
+    "Reload": "reload 8"
+  },
+  "rowKey": "Hold-out",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "0.5"
+}

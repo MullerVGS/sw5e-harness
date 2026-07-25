@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Expanded Magazine (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Expanded Magazine (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "blaster",
+  "text": "Once on each of your turns, you can reload this weapon once without using an action. You can use this feature four times. You regain all expended uses when you reload the weapon with an action.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

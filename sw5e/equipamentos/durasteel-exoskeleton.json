@@ -1,0 +1,33 @@
+{
+  "ac": "18",
+  "armorClassification": "Heavy",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 15000,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": null,
+  "equipmentCategory": "Armor",
+  "modes": [],
+  "name": "Durasteel exoskeleton",
+  "properties": [
+    "Bulky",
+    "impermeable 2",
+    "rigid",
+    "strength 17"
+  ],
+  "propertiesMap": {
+    "Bulky": "Bulky",
+    "Impermeable": "impermeable 2",
+    "Rigid": "rigid",
+    "Strength": "strength 17"
+  },
+  "rowKey": "Durasteel exoskeleton",
+  "stealthDisadvantage": true,
+  "strengthRequirement": "",
+  "weaponClassification": "Unknown",
+  "weight": "65"
+}

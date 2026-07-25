@@ -1,0 +1,83 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Strength"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Horns, precognition, telepathy, thick pink skin",
+  "eyeColorOptions": "Black",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nIktotchi do not have hair, but rather they had a very resistant skin which protected them from the violent winds which crossed the satellite. Both males and females have down-curved cranial horns, which gave them an aggressive aspect. The males' horns are generally a little larger, a remnant from their mountain-dwelling, caprinaen ancestors. The horns are able to regenerate if damaged.\r\n\r\n### Society and Culture\r\nThe Iktotchi are a fiercely guarded and isolationist species - vaunted for their ability to hide their feelings and bury any semblance of emotion. Originating on the harsh, windy moon of Iktotch, which orbits the planet Iktotchon in the Expansion Region, the Iktotch are gifted with precognition, and are courted as often by Jedi as by pirates for their skills.\r\n\r\nIktotchi society is a stratified society. Upward mobility is both possible and encouraged. Iktotchi are an outwardly dispassionate people, which is evidenced by their culture. They have a robust legal system, and suffer little crime. Iktotchi are respectful of cultures other than their own and can easily integrate with others.\r\n\r\nIktotchi who distinguish themselves often earn a titular nickname, by which they are referred to in place of their name. Generally, this is done by accomplishing a remarkable feat that benefits the Iktotchi as whole.\r\n\r\n### Names\r\nIktotchi names are generally two syllables. Surnames are familial. Respected Iktotchi often adopt a nickname, which they use in place of their birth name.\r\n\r\n**Male Names.** Dilnam, Imruth, Kashkil, Yellam\r\n\r\n**Female Names.** Kemkal, Onyeth, Reshu, Zorlu\r\n\r\n**Surnames.** Hevil, Kaawi, Mimir, Nudaal, Zelend",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'11\"",
+  "heightRollMod": "+2d10\"",
+  "homeworld": "Iktotch, moon of Iktotchon",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_iktotchi.png"
+  ],
+  "language": "Iktotchese",
+  "manufacturer": null,
+  "name": "Iktotchi",
+  "rowKey": "Iktotchi",
+  "size": "Medium",
+  "skinColorOptions": "Pink",
+  "traits": [
+    {
+      "description": "Your Intelligence score increases by 2, and your Strength score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Iktotchi reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Iktotchi are lawful and tend toward the light side, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Iktotchi typically stand between 5 and 6 feet tall and weigh about 170 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You can see brief fragments of the future, that allow you to turn failures into successes. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.",
+      "name": "Precognition"
+    },
+    {
+      "description": "You can communicate telepathically with creatures within 30 feet of you. You must share a language with the target in order to communicate in this way.",
+      "name": "Telepathy"
+    },
+    {
+      "description": "Your horns are a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.",
+      "name": "Horns"
+    },
+    {
+      "description": "You have proficiency in the Piloting skill.",
+      "name": "Pilot"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Iktotchese.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "120 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

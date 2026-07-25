@@ -1,0 +1,70 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 9,
+  "armorType": "natural armor",
+  "behaviors": [
+    {
+      "attackBonus": 5,
+      "attackType": "MeleeWeapon",
+      "damage": "5",
+      "damageRoll": "1d4+3",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) kinetic damage.",
+      "descriptionWithLinks": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) kinetic damage.",
+      "monsterBehaviorType": "Action",
+      "name": "Bite",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "1/8",
+  "charisma": 5,
+  "charismaModifier": -3,
+  "conditionImmunities": [],
+  "conditionImmunitiesOther": null,
+  "conditionImmunitiesParsed": [],
+  "constitution": 14,
+  "constitutionModifier": 2,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [],
+  "damageVulnerabilities": [],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [],
+  "dexterity": 8,
+  "dexterityModifier": -1,
+  "experiencePoints": 25,
+  "flavorText": "Tauntauns are a species of omnivorous reptomammals who are indigenous to the icy planet of Hoth. Tauntauns are commonly used as pack animals by Hoth's denizens. Tauntauns are also used as patrol mounts since they are so well-adapted to the cold.",
+  "hitPointRoll": "2d10+4",
+  "hitPoints": 15,
+  "imageUrls": [],
+  "intelligence": 2,
+  "intelligenceModifier": -4,
+  "languages": [
+    "�"
+  ],
+  "name": "Tauntaun",
+  "rowKey": "Tauntaun",
+  "savingThrows": null,
+  "sectionText": "Ysalamiri are furry, lizard-like tree-dwellers about 2 feet in length, native to the planet Myrkr, and most known for their ability to create a Force-neutral bubble. This ability evolved in response to predation by the Force-sensitive vornskrs. Many ysalamiri grouped together would expand their Force-neutral bubble by varying distances � sometimes by kilometers.Ysalamiri sink their claws into the Olbio trees on which they live and draw nutrients. It is very difficult to remove a ysalamir from its tree without killing it, although this has been known to happen. Some few have developed back harness or nutrient frames which allow transport of the ysalamiri and, therefore, their Force repelling bubble. Ysalamiri do not actually negate the Force; since all existence is infused with Force energy, this would not be possible. Rather, they project a bubble inside which users are unable to exert any influence over the Force. A single bubble measures a few meters in diameter; large groups of ysalamiri could extend their collective bubble by kilometers, but only in great numbers.Miriskin was a commodity  made from ysalamir skin.",
+  "senses": [
+    "passive Perception 9"
+  ],
+  "size": "Large",
+  "skills": null,
+  "speed": 50,
+  "speeds": "50 ft.",
+  "strength": 16,
+  "strengthModifier": 3,
+  "types": [
+    "beast"
+  ],
+  "wisdom": 8,
+  "wisdomModifier": -1
+}

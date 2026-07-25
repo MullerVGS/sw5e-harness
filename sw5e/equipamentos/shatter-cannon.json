@@ -1,0 +1,39 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1625,
+  "damageDiceDieTypeEnum": 10,
+  "damageDieModifier": 0,
+  "damageDieType": 10,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Shatter cannon",
+  "properties": [
+    "Slug cartridge (range 75/300)",
+    "auto",
+    "burst 4",
+    "reload 8",
+    "silent",
+    "strength 15",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Auto": "auto",
+    "Burst": "burst 4",
+    "Range": "Slug cartridge (range 75/300)",
+    "Reload": "reload 8",
+    "Silent": "silent",
+    "Strength": "strength 15",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Shatter cannon",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "14"
+}

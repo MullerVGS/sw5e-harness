@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Yaladai (Pure)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Yaladai (Pure)",
+  "searchableRarity": "Artifact",
+  "subtype": "substance",
+  "text": "Yaladai is a powerful stimulant that grants extreme clarity, improving relaxation and focus. As an action, you can apply this substance to a creature within 5 feet. For the next hour, the creature experiences a high that increases their current and maximum force points by 2d12. At the end of the high, the creature must succeed on a DC 24 Wisdom saving throw or experience a low that lasts 8 hours, their current and maximum force points are reduced by 2d12. At the end of the low, the creature must make a DC 24 Constitution saving throw to resist addiction.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

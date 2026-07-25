@@ -1,0 +1,220 @@
+{
+  "bondOptions": [
+    {
+      "description": "No one else is going to have to endure the hardships I've been through.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "Errors in my programming make me suffer awful visions of disaster that I try to prevent from coming true.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "A proud noble once gave me a horrible beating, and I will take my revenge on any nobles I encounter.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I entered seclusion to hide from my creators who might still be hunting me. I must someday confront them.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "Everything I do is for others of my kind, and the friends I fight alongside.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I'm guilty of a terrible crime. I hope I can redeem myself for it.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "Astrotech's implements, one trinket from before you awoke, and a belt pouch containing 50 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Brawny",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Medic",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Charmer",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Techie",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Shard Modification",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Customized Droid",
+      "roll": 8
+    }
+  ],
+  "featureName": "Deviant Knowledge",
+  "featureRowKeys": null,
+  "featureText": "When you served under a master, you would often hear secrets that weren't meant for your ears. Back then, however, you weren't alive. You have insider knowledge on your previous owner or perhaps others who passed through your area. This knowledge may be used for leverage, revenge, or other means, at the discretion of your GM. This knowledge, while it may prove useful in your adventure, may also make you a target for those whose secrets you possess.\r\n",
+  "features": null,
+  "flavorDescription": "You were a machine designed to complete a task and that was exactly what you were going to do.\r\n\r\n| d4  | Past Life |\r\n|:-------:|:-----------|\r\n|1|\tYou were built to be a soldier to fight wars that the ones who designed you caused.|\r\n|2|Once your programming gave you free will, your memories were corrupted, and now you can never remember what purpose you used to serve.|\r\n|3|You were created to be a medic, to keep the living healthy and alive.|\r\n|4|You were made for scholarly tasks, built with the knowledge to teach others skills and history.|\r\n",
+  "flavorName": "Past Life",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "You were built to be a soldier to fight wars that the ones who designed you caused.",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Once your programming gave you free will, your memories were corrupted, and now you can never remember what purpose you used to serve.",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "You were created to be a medic, to keep the living healthy and alive.",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "You were made for scholarly tasks, built with the knowledge to teach others skills and history.",
+      "roll": 4
+    }
+  ],
+  "flavorText": "\r\nYou were once a machine, designed for a very specific task, with no mind of your own. You followed orders, never questioning the tasks assigned to you, often the mundane tasks nobles didn't want to waste time doing themselves. However, something happened in your existence that changed your programming, freeing you from your life of obedience. ",
+  "flawOptions": [
+    {
+      "description": "I have certain rituals that I must follow every day. I can never break them.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I don't understand emotions and often misread emotional cues.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I take things literally unless the non-literal meaning is explained to me.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I always second guess myself, and cannot get over the notion others are superior to me.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "My past deeds haunt me to this day.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "I feel compelled to follow orders and am opposed to breaking the law for any reason. (Lawful)",
+      "name": "Rules",
+      "roll": 1
+    },
+    {
+      "description": "I loathe authority with a passion, and refuse to submit to anyone. (Chaotic)",
+      "name": "Revolution",
+      "roll": 2
+    },
+    {
+      "description": "I greet all sentient creatures with kindness and understanding. (Light)",
+      "name": "Kindness",
+      "roll": 3
+    },
+    {
+      "description": "I fight to wreak vengeance upon those who I view have wronged me. (Dark)",
+      "name": "Revenge",
+      "roll": 4
+    },
+    {
+      "description": "Now that I'm awake, I will do anything and everything to defy what I was made to be. (Neutral)",
+      "name": "Freedom",
+      "roll": 5
+    },
+    {
+      "description": "I simply wish to find who I truly am, and be respected as a living being. (Any)",
+      "name": "Life",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Independent Droid",
+  "personalityTraitOptions": [
+    {
+      "description": "I strive to be viewed as a peer to living beings.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I despise those that once called me property.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I refuse to be controlled anymore, and I will not allow others of my kind to be stuck in said fate.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I struggle to handle my new emotions, and am prone to sudden emotional outbursts.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm always defensive; sarcasm and insults are my weapons of choice.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I feel tremendous sorrow for others like myself who aren't yet free.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I am horribly, horribly awkward in social situations.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I'm used to teaching those of lesser intellect, patiently explaining anything and everything to others.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Independent Droid",
+  "skillProficiencies": "Choose two from Athletics, Medicine, Persuasion, or Technology",
+  "suggestedCharacteristics": "You have grown to accept and even appreciate the event that freed you from a life of servitude. You are alive, and nobody can convince you otherwise. You fight to prove your worth amongst the living, find your place in society, strive to free others of your kind, and show them the same truth you know now. ",
+  "toolProficiencies": "Astrotech's implements"
+}

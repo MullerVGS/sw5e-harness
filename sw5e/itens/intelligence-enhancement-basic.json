@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "Enhancement",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Intelligence Enhancement (Basic)",
+  "prerequisite": " Intelligence 11",
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Intelligence Enhancement (Basic)",
+  "searchableRarity": "Standard",
+  "subtype": "enhancement",
+  "text": "Your Intelligence score increases by 1, to a maximum of 20.\r\n\r\n**Side Effect:** One ability score other than Intelligence (chosen by the GM) decreases by 1.",
+  "type": "CyberneticAugmentation",
+  "valuableType": "None",
+  "valueText": null
+}

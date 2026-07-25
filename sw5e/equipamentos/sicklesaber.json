@@ -1,0 +1,35 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 700,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Sicklesaber",
+  "properties": [
+    "Dexterity 11",
+    "dire 1",
+    "hidden",
+    "light",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Dire": "dire 1",
+    "Hidden": "hidden",
+    "Light": "light",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Sicklesaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleLightweapon",
+  "weight": "1"
+}

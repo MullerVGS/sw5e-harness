@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Shield Anchor",
+  "prerequisite": " Physical shield",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Shield Anchor",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "This shield gains the anchor property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

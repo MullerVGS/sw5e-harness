@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Mighty Core",
+  "prerequisite": " Lacks strength property",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Mighty Core",
+  "searchableRarity": "Premium",
+  "subtype": "blaster",
+  "text": "This weapon gains the mighty property.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

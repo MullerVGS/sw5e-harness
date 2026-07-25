@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Withercasting Channel (Fighting)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Withercasting Channel (Fighting)",
+  "searchableRarity": "Premium",
+  "subtype": "focus generator",
+  "text": "While using this item as your focus, you gain a +1 bonus to the force save DC of powers that require a Wisdom or Charisma saving throw.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

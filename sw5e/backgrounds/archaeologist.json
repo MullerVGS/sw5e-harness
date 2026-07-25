@@ -1,0 +1,240 @@
+{
+  "bondOptions": [
+    {
+      "description": "Ever since I was a child, I've heard stories about a lost city. I aim to find it, learn its secrets, and earn my place in the history books.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I want to find my mentor, who disappeared on an expedition some time ago.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I have a friendly rival. Only one of us can be the best, and I aim to prove it's me.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I won't sell an art object or other treasure that has historical significance or is one of a kind.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm secretly in love with the wealthy patron who sponsors my archaeological exploits.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I hope to bring prestige to an library, a museum, or a university.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A case containing a physical or digital map to a ruin or dungeon, a lantern, a vibropick, a set of traveler's clothes, a shovel, a two-person tent, a trinket recovered from a dig site, and a pouch containing 250 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Investigator",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Loremaster",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Perceptive",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Survivalist",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Crafter",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Dungeon Delver",
+      "roll": 8
+    }
+  ],
+  "featureName": "Historical Knowledge",
+  "featureRowKeys": null,
+  "featureText": "When you enter a ruin or dungeon, you can correctly ascertain its original purpose and determine its builders, whether those were jedi, sith, hutts, rakata, or some other known species or civilization. Additionally, you can readily determine the value of ancient art.\r\n",
+  "features": null,
+  "flavorDescription": "Prior to becoming an adventurer, you spent most of your young life crawling around in the dust, pilfering relics of questionable value from crypts and ruins. Though you managed to sell a few of your discoveries and earn enough credits to buy proper adventuring gear, you have held onto an item that has great emotional value to you. You can determine your signature item or determine it randomly below.\r\n\r\n|d8|Signature Item|\r\n|:---:|:----------:|\r\n|1|10-foot pole|\t\r\n|2|Hat|\r\n|3|Hammer|\t\r\n|4|Lantern|\r\n\r\n|d8|Signature Item|\r\n|:---:|:----------:|\r\n|5|Medallion|\r\n|6|Prybar|\r\n|7|Shovel|\r\n|8|Whip|\r\n",
+  "flavorName": "Dust Digger",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "10-foot pole",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Hat",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Hammer",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Lantern",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Medallion",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Prybar",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Shovel",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Whip",
+      "roll": 8
+    }
+  ],
+  "flavorText": "\r\nAn archaeologist learns about the long-lost and fallen cultures of the past by studying their remains � their bones, their ruins, their surviving masterworks, and their tombs. Those who practice archaeology travel to the far corners of the world to root through crumbled cities and lost dungeons, digging in search of artifacts that might tell the stories of monarchs and high priests, wars and cataclysms.",
+  "flawOptions": [
+    {
+      "description": "I have a secret fear of some common wild animal, and in my work, I see them everywhere.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I can't leave a room without searching it for secret doors.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "When I'm not exploring dungeons or ruins, I get jittery and impatient.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have no time for friends or family. I spend every waking moment thinking about and preparing for my next expedition.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "When given the choice of going left or right, I always go left.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I can't sleep except in total darkness.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "That artifact belongs in a museum. (Light)",
+      "name": "Preservation",
+      "roll": 1
+    },
+    {
+      "description": "I won't risk my life for nothing. I expect some kind of payment. (Any)",
+      "name": "Greed",
+      "roll": 2
+    },
+    {
+      "description": "Nothing is more exhilarating than a narrow escape from the jaws of death. (Chaotic)",
+      "name": "Death Wish",
+      "roll": 3
+    },
+    {
+      "description": "The dead and their belongings deserve to be treated with respect. (Lawful)",
+      "name": "Dignity",
+      "roll": 4
+    },
+    {
+      "description": "All my exploring is part of a plan to find the secret of everlasting life. (Any)",
+      "name": "Immortality",
+      "roll": 5
+    },
+    {
+      "description": "With every great discovery comes grave danger. The two walk hand in hand. (Any)",
+      "name": "Danger",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Archaeologist",
+  "personalityTraitOptions": [
+    {
+      "description": "I love a good puzzle or mystery.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I'm a pack rat who never throws anything away.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "Fame is more important to me than money.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I have no qualms about stealing from the dead.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I'm happier in a dusty old tomb than I am in the centers of civilization.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Traps don't make me nervous. Idiots who trigger traps make me nervous.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "I might fail, but I will never give up.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "You might think I'm a scholar, but I love a good brawl. These fists were made for punching.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Archaeologist",
+  "skillProficiencies": "Choose two from Investigation, Lore, Perception, or Survival",
+  "suggestedCharacteristics": "Few archaeologists can resist the lure of an unexplored ruin or dungeon, particularly if such a site is the source of legends or is rumored to contain noteworthy relics. Whatever their motivations, they combine the likes of a dutiful historian with those of a dogged scoundrel.",
+  "toolProficiencies": "Surveyor's implements or scavenging kit"
+}

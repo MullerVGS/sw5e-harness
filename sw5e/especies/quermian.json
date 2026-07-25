@@ -1,0 +1,85 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Wisdom"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Intelligence"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Long necks, two brains, two pairs of arms",
+  "eyeColorOptions": "Brown or Red",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nCreated by arkanian scientists from the DNA of the xexto species, the quermians were designed to be taller than their fore-bearers and were left to evolve without any predators on their terraformed garden homeworld. Equipped with long necks for peering over vegetation mats, bulbous heads with a permanently bemused smile, and two sets of spindly arms, they also have two brains, one located in the chest cavity. Their two brains can cause mental problems when each brain developed a different personality, but also gives them a type of \"telepathy\" which they attribute to an ability to better observe and understand body language. Possessing no noses, the olfactory glands of this species are found in the hands.\r\n\r\n### Society and Culture\r\nQuermians are a gentle, unassuming people. They embrace reason, shun violence, and enjoy interacting with members of other species and cultures. A peaceful society developed on Quermia without arkanian interference, as the quermians evolved on their own in the absence of any predators or outside intervention. As a race they are dedicated to complex philosophical ideas, and many of the galaxy's most prominent diplomats and thinkers are found among their ranks. While they have four arms and are capable of using both sets with ease, they prefer to keep the lower set hidden beneath their robes when dealing with offworlders.\r\n\r\n### Names\r\nQuermian names are usually one to three syllables long, featuring hard or soft consonants.\r\n\r\n**Male Names.** Murk, Koa, Jedoo, Vinian \r\n\r\n**Female Names.** Gouren, Kindee, Meroo, Kiaa  \r\n\r\n**Surnames.** Kreen, Lundi, Raelo, Bactra",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "6'8\"",
+  "heightRollMod": "+2d6\"",
+  "homeworld": "Quermia",
+  "imageUrls": [],
+  "language": "Quermian",
+  "manufacturer": null,
+  "name": "Quermian",
+  "rowKey": "Quermian",
+  "size": "Medium",
+  "skinColorOptions": "Grey to pasty white",
+  "traits": [
+    {
+      "description": "Your Wisdom score increases by 2, and your Intelligence score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Quermians reach adulthood in their early teens and live a little under a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Querians philosophic culture causes them to tend toward light alignments, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Quermians typically stand 7 to 8 feet tall and generally weigh about 140 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You have proficiency with Insight or Persuasion (your choice).",
+      "name": "Diplomatic"
+    },
+    {
+      "description": "Quermians have four arms which they can use independently of one another. You can only gain the benefit of items held by two of your arms at any given time, and once per round you can switch which arms you are benefiting from (no action required).",
+      "name": "Four-Armed"
+    },
+    {
+      "description": "Quermians' talent at reading the body language of others allow them to sense the emotions in those around them. You have advantage on Wisdom (Insight) checks to determine emotions against humanoids and beasts within 10 feet of you.",
+      "name": "Natural Empathy"
+    },
+    {
+      "description": "When you make a Wisdom saving throw, you can use your reaction to gain advantage on the roll. Once you've done so, you must complete a short or long rest before you can do so again.",
+      "name": "Two Brains"
+    },
+    {
+      "description": "You have proficiency in the Perception skill.",
+      "name": "Watchful"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Quermian. You can also communicate with other quermians more effectively through a thorough understanding of body language that xenobiologists widely attribute to latent telepathy.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "110 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

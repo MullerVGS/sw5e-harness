@@ -1,0 +1,240 @@
+{
+  "bondOptions": [
+    {
+      "description": "There is nothing more important to me than my vehicle.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I will win the Coruscant Invitational one day.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I'm trying to pay off the debt on my vehicle.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "I owe a lot of money to the wrong kind of people.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I do what feels good.  Let's see the authorities catch me.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Someone I loved died because they were too slow.  That will never happen to me.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "equipment": "A set of common clothes, a trophy or ribbon from your first-ever win, a gaming set (one of your choice), and a belt pouch containing 150 cr",
+  "featOptions": [
+    {
+      "description": null,
+      "name": "Animal Handler",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Naturalist",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Ace Pilot",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Techie",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Competitor",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Specialist",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Linguist",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Observant",
+      "roll": 8
+    }
+  ],
+  "featureName": "Terrain Mastery",
+  "featureRowKeys": null,
+  "featureText": "You have a preternatural instinct for understanding the terrain, interpreting maps, and planning routes.  You and your party can move at three-fourths your speed over difficult terrain during long-distance travel.  Because of these skills, if you know your destination and the intervening terrain--either by reputation, by sight, or by maps you have seen--you are able to identify an effective short-cut, trimming your travel time by up to half.  Your GM may rule that your short-cut entails significant danger or may be temporarily impassable.\r\n",
+  "features": null,
+  "flavorDescription": "There are many places to race and many things to race with.  Maybe you dabble in all things fast.  Even still, all professional racers have a type of racing they prefer above all else; a race in which they are masters. Choose your vehicular or beastly specialty, or roll on the table below.\r\n\r\n|d8|Specialty|\r\n|:---:|:----------:|\r\n|1|Air Speeders|\r\n|2|Boonta Speeders|\r\n|3|Pod Racers|\r\n|4|Speeder Bikes|\r\n\r\n|d8|Specialty|\r\n|:---:|:----------:|\r\n|5|Starships|\r\n|6|Swoop Bikes|\r\n|7|Fathiers|\r\n|8|Varactyls|\r\n",
+  "flavorName": "Racing Specialty",
+  "flavorOptions": [
+    {
+      "description": null,
+      "name": "Air Speeders",
+      "roll": 1
+    },
+    {
+      "description": null,
+      "name": "Boonta Speeders",
+      "roll": 2
+    },
+    {
+      "description": null,
+      "name": "Pod Racers",
+      "roll": 3
+    },
+    {
+      "description": null,
+      "name": "Speeder Bikes",
+      "roll": 4
+    },
+    {
+      "description": null,
+      "name": "Starships",
+      "roll": 5
+    },
+    {
+      "description": null,
+      "name": "Swoop Bikes",
+      "roll": 6
+    },
+    {
+      "description": null,
+      "name": "Fathiers",
+      "roll": 7
+    },
+    {
+      "description": null,
+      "name": "Varactyls",
+      "roll": 8
+    }
+  ],
+  "flavorText": "You have a need for speed.  You live off of the adrenaline rush of piloting your craft or steering your beast through the dangers of a race.  You love the thrill of a photo-finish and relish the sweet taste of victory.",
+  "flawOptions": [
+    {
+      "description": "I think most people in life are content with a participation trophy. They disgust me.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "I classify everyone I meet as a winner or a loser.  There's only ever one winner.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "There is not a drug I won't try.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "Once I start drinking, it's hard for me to stop.",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "Once someone questions my courage, I never back down no matter how dangerous the situation.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "Waiting around makes me antsy. I'd rather do something stupid than do nothing at all.",
+      "name": null,
+      "roll": 6
+    }
+  ],
+  "idealOptions": [
+    {
+      "description": "It's not a victory if you don't follow the rules. (Lawful)",
+      "name": "Victory",
+      "roll": 1
+    },
+    {
+      "description": "A win is a win, no matter how it's done. (Chaotic)",
+      "name": "Win",
+      "roll": 2
+    },
+    {
+      "description": "I share my winnings with the less fortunate. (Light)",
+      "name": "Charity",
+      "roll": 3
+    },
+    {
+      "description": "I will do whatever it takes to be recognized as the best. (Dark)",
+      "name": "Pride",
+      "roll": 4
+    },
+    {
+      "description": "Life is a race worth entering, because you never know how the ships will fly. (Neutral)",
+      "name": "Excitement",
+      "roll": 5
+    },
+    {
+      "description": "Nothing worth doing is ever a sure thing. (Any)",
+      "name": "Victory",
+      "roll": 6
+    }
+  ],
+  "languages": "One of your choice",
+  "name": "Racer",
+  "personalityTraitOptions": [
+    {
+      "description": "Win or lose.  There is no try.",
+      "name": null,
+      "roll": 1
+    },
+    {
+      "description": "Giving up is never an option for me.",
+      "name": null,
+      "roll": 2
+    },
+    {
+      "description": "I spit and laugh in the face of danger.",
+      "name": null,
+      "roll": 3
+    },
+    {
+      "description": "Why do something if there is not the possibility of death?",
+      "name": null,
+      "roll": 4
+    },
+    {
+      "description": "I am always calm, no matter what the situation. I never raise my voice or let my emotions control me.",
+      "name": null,
+      "roll": 5
+    },
+    {
+      "description": "I don't pay attention to the risks in a situation. Never tell me the odds.",
+      "name": null,
+      "roll": 6
+    },
+    {
+      "description": "The best way to get me to do something is to tell me I can't do it.",
+      "name": null,
+      "roll": 7
+    },
+    {
+      "description": "I blow up at the slightest insult.",
+      "name": null,
+      "roll": 8
+    }
+  ],
+  "rowKey": "Racer",
+  "skillProficiencies": "Choose two from Animal Handling, Nature, Piloting, and Technology",
+  "suggestedCharacteristics": "Racers are usually competitive and often fearless. They can lead a whirlwind of a life, and sometimes the adrenaline of the race is no longer enough for them. ",
+  "toolProficiencies": "One type of gaming set or mechanic's kit"
+}

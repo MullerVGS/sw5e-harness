@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": false,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected.\r\n\r\nEach target must make an Intelligence saving throw. On a failed save, a target takes 14d6 psychic damage and is stunned. On a successful save, a target takes half as much damage and isn't stunned. \r\n\r\nA stunned target can make a Wisdom saving throw at the end of each of its turns. On a successful save, the stunning effect ends.",
+  "duration": "Instantaneous",
+  "forceAlignment": "Dark",
+  "higherLevelDescription": null,
+  "level": 9,
+  "name": "Master Feedback",
+  "powerType": "Force",
+  "prerequisite": "Greater Feedback",
+  "range": "90 feet",
+  "rowKey": "Master Feedback"
+}

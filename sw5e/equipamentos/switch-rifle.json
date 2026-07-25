@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 1025,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Switch rifle",
+  "properties": [
+    "Power cell (range 105/420)",
+    "reload 8",
+    "switch (1d6 lightning)",
+    "two-handed"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 105/420)",
+    "Reload": "reload 8",
+    "Switch": "switch (1d6 lightning)",
+    "Two-Handed": "two-handed"
+  },
+  "rowKey": "Switch rifle",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "9.5"
+}

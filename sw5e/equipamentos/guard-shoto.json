@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 375,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Guard shoto",
+  "properties": [
+    "Defensive 1",
+    "finesse",
+    "hidden",
+    "light luminous"
+  ],
+  "propertiesMap": {
+    "Defensive": "Defensive 1",
+    "Finesse": "finesse",
+    "Hidden": "hidden",
+    "Light": "light luminous"
+  },
+  "rowKey": "Guard shoto",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "1.25"
+}

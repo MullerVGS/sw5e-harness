@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Processing Rangefinder (Mastery)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Processing Rangefinder (Mastery)",
+  "searchableRarity": "Advanced",
+  "subtype": "wristpad",
+  "text": "While using this item as your focus, you gain a +3 bonus to ranged tech attacks.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

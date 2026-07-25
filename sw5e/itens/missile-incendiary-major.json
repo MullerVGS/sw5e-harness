@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Missile, Incendiary (Major)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Prototype"
+  ],
+  "rarityText": "prototype",
+  "requiresAttunement": false,
+  "rowKey": "Missile, Incendiary (Major)",
+  "searchableRarity": "Prototype",
+  "subtype": "ammunition",
+  "text": "You have a +2 bonus to attack rolls made with this enhanced wrist launcher ammunition, which deals 1d6 kinetic damage on a hit. This bonus is in addition to any bonuses granted by the weapon. Additionally, hit or miss, the missile then explodes, setting the ground beneath it in a 15 foot radius ablaze for 1 minute. When a creature enters the fire or starts its turn there it must make a DC 18 Dexterity saving throw. On a failed save, the creature takes 3d8 fire damage or half as much on a successful one. A construct makes this save with disadvantage.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

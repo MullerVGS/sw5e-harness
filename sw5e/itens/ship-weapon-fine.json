@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Ship Weapon (Fine)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Ship Weapon (Fine)",
+  "searchableRarity": "Premium",
+  "subtype": "any",
+  "text": "Your ship has a +1 bonus to attack and damage rolls made with this enhanced ship weapon.",
+  "type": "ShipWeapon",
+  "valuableType": "None",
+  "valueText": null
+}

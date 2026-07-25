@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Explosives",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Charge, Fragmentation (Average)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Charge, Fragmentation (Average)",
+  "searchableRarity": "Premium",
+  "subtype": "explosive",
+  "text": "A device used to blow holes in larger constructs and structures, a charge creates a devastating explosion focused in a specific direction. Installing a charge takes 1 minute. The charge can be set with a 6-second timer, or detonated remotely using a remote detonator.\r\n\r\nWhen detonated, the charge explodes in a 15-foot cone. Each creature within the cone must make a DC 16 Dexterity saving throw, taking 20d6 kinetic damage on a failed save or half as much on a successful one. If affixed to a creature, that creature has disadvantage on the saving throw. Objects, structures, and other surfaces have disadvantage on the saving throw. If affixed to the object, structure, or surface, it instead automatically fails this saving throw.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

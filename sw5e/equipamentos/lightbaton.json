@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 400,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Lightbaton",
+  "properties": [
+    "Hidden",
+    "light",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Hidden": "Hidden",
+    "Light": "light",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Lightbaton",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleLightweapon",
+  "weight": "1.25"
+}

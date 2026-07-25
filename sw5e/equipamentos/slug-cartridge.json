@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 2,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "Weapons with this property fire slug cartridges, which must be loaded in order to fire the weapon.",
+  "equipmentCategory": "Ammunition",
+  "modes": [],
+  "name": "Slug cartridge",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Slug cartridge",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "0"
+}

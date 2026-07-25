@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Part",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Manipulator Upgrade",
+  "prerequisite": " Class II droid",
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Manipulator Upgrade",
+  "searchableRarity": "Standard",
+  "subtype": "part",
+  "text": "You lose the Undersized special trait.",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

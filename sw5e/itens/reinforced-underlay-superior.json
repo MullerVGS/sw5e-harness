@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Reinforced Underlay (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Reinforced Underlay (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "armor",
+  "text": "You gain a +3 bonus to AC against ranged attacks while wearing this armor or wielding this shield.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

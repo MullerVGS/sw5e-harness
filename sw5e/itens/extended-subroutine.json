@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Extended Subroutine",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "Premium",
+  "requiresAttunement": false,
+  "rowKey": "Extended Subroutine",
+  "searchableRarity": "Premium",
+  "subtype": "wristpad",
+  "text": "When you cast a power that has a duration of 1 minute or longer, you can spend 1 additional tech point to double its duration, to a maximum duration of 24 hours. \r\n\r\nYou can only spend a number of tech points in this way equal to your proficiency bonus. You regain the ability to do so when you complete a long rest. \r\n\r\nYou can use only one Subroutine modification on a power when you cast it, unless otherwise noted.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

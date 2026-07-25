@@ -1,0 +1,147 @@
+# especies — 141 entidades
+
+Índice do espelho: escolha por aqui e só então abra a fatia. O arquivo é o
+nome em slug (minúsculas, hífens); onde o nome não basta, ele vem entre
+backticks na linha.
+
+- **Abyssin** — Medium · Constitution +2; Strength +1 · Byss
+- **Advozse** — Medium · Constitution +2; Wisdom +1 · Riflor
+- **Aing-Tii** — Medium · Wisdom +2; Constitution +1 · Aing-Tii homeworld in the Kathol Rift
+- **Aleena** — Small · Dexterity +2; Charisma +1 · Aleen
+- **Anomid** — Medium · Intelligence +2; Wisdom +1 · Yablari
+- **Anx** — Medium · Constitution +2; Wisdom +1 · Gravlex Med
+- **Anzellan** — Tiny · Intelligence +2; Any two +1 · Anzella
+- **Aqualish** — Medium · Strength +2; Charisma +1 · Ando
+- **Arcona** — Medium · Charisma +2; Constitution +1 · Cona
+- **Ardennian** — Medium · Dexterity +2; Charisma +1 · Ardennia
+- **Arkanian** — Medium · Intelligence +2; Wisdom +1 · Arkania
+- **Balosar** — Medium · Dexterity +2; Charisma +1 · Balosar
+- **Barabel** — Medium · Constitution +2; Dexterity +1 · Barab I
+- **Baragwin** — Medium · Intelligence +2; Constitution +1 · Old Barag
+- **Besalisk** — Medium · Strength +2; Wisdom +1 · Ojom
+- **Bith** — Medium · Intelligence +2; Dexterity +1 · Clak'dor VII
+- **Bothan** — Medium · Intelligence +2; Dexterity +1 · Bothawui
+- **Caamasi** — Medium · Wisdom +2; Intelligence +1 · Caamas
+- **Cathar** — Medium · Dexterity +2; Charisma +1 · Cathar
+- **Cerean** — Medium · Intelligence +2; Wisdom +1 · Cerea
+- **Chadra-Fan** — Small · Intelligence +2; Charisma +1 · Chad
+- **Chagrian** — Medium · Dexterity +2; Wisdom +1 · Champala
+- **Chevin** — Medium · Constitution +2; Wisdom +1 · Vinsoth
+- **Chironian** — Medium · Strength +2; Wisdom +1 · Chiron
+- **Chiss** — Medium · Intelligence +2; Charisma +1 · Csilla
+- **Clawdite** — Medium · Charisma +2; Any one +1 · Zolan
+- **Codru-Ji** — Medium · Charisma +2; Constitution +1 · Munto Codru
+- **Colicoid** — Medium · Intelligence +2; Strength, Constitution +1 · Colla IV
+- **Culisetto** — Small · Dexterity +2; Charisma +1 · Culiset
+- **Dashade** — Medium · Constitution +2; Charisma +1 · Urkupp
+- **Defel** — Small · Wisdom +2; Dexterity +1 · Af'El
+- **Devaronian** — Medium · Constitution +2; Charisma +1 · Devaron
+- **Diathim** — Medium · Charisma +2; Wisdom +1 · Iego
+- **Dowutin, Young** — Medium · Strength +2; Constitution +1 · Dowut
+- **Draethos** — Medium · Wisdom +2; Strength +1 · Draethos
+- **Droid, Class I** — Medium · Intelligence +2; Wisdom, Charisma +1
+- **Droid, Class II** — Small · Intelligence +2; Dexterity, Wisdom +1
+- **Droid, Class III** — Medium · Charisma +2; Intelligence, Wisdom +1
+- **Droid, Class IV** — Medium · Constitution +2; Strength, Dexterity +1
+- **Droid, Class V** — Medium · Strength +2; Dexterity, Constitution +1
+- **Dug** — Small · Strength +2; Dexterity +1 · Malastare
+- **Duros** — Medium · Dexterity +2; Intelligence +1 · Duro
+- **Echani** — Medium · Dexterity +2; Wisdom +1 · Eshan
+- **Esh-Kha** — Medium · Strength, Wisdom +2; Constitution +1 · Unknown, Belsavis (adopted)
+- **Ewok** — Small · Dexterity +2; Constitution +1 · Forest Moon of Endor
+- **Falleen** — Medium · Charisma +2; Dexterity +1 · Falleen
+- **Felucian** — Medium · Constitution +2; Wisdom +1 · Felucia
+- **Flesh Raider** — Medium · Strength +2; Wisdom, Charisma +1 · Tython
+- **Gamorrean** — Medium · Strength +2; Constitution +1 · Gamorr
+- **Gand** — Medium · Constitution +2; Intelligence +1 · Gand
+- **Gank** — Medium · Strength +2; Dexterity, Charisma +1 · Nar Shaddaa (possibly)
+- **Geonosian** — Medium · Dexterity +2; Constitution, Intelligence +1 · Geonosis
+- **Givin** — Medium · Intelligence +2; Constitution +1 · Yag'Dhul
+- **Gormak** — Medium · Strength +2; Intelligence +1 · Voss
+- **Gotal** — Medium · Wisdom +2; Any one +1 · Antar 4
+- **Gran** — Medium · Constitution +2; Wisdom +1 · Kinyen
+- **Gungan** — Medium · Dexterity +2; Strength +1 · Naboo
+- **Half-human** — híbrido · traço varia entre 125 espécies
+- **Harch** — Medium · Strength, Constitution +1; Intelligence +1 · Secundus Ando
+- **Herglic** — Medium · Strength +2; Intelligence +1 · Giju
+- **Ho'din** — Medium · Intelligence +2; Wisdom +1 · Moltok
+- **Houk** — Medium · Strength +2; Constitution +1 · Lijuter
+- **Human** — Medium · Any one +2; Any two +1 · Coruscant
+- **Hutt, Adolescent** — Medium · Constitution +2; Any two +1 · Nal Hutta
+- **Iktotchi** — Medium · Intelligence +2; Strength +1 · Iktotch, moon of Iktotchon
+- **Ithorian** — Medium · Charisma +2; Wisdom +1 · Ithor
+- **Jawa** — Small · Dexterity +2; Intelligence +1 · Tatooine
+- **Kage** — Medium · Dexterity +2; Wisdom +1 · Quarzite
+- **Kaleesh** — Medium · Strength +2; Dexterity +1 · Kalee
+- **Kalleran** — Medium · Strength +2; Dexterity +1 · Kaller
+- **Kaminoan** — Medium · Intelligence +2; Wisdom +1 · Kamino
+- **Karkarodon** — Medium · Constitution +2; Strength +1 · Karkaris
+- **Kel Dor** — Medium · Wisdom +2; Dexterity +1 · Dorin
+- **Kiffar** — Medium · Strength, Dexterity +2; Wisdom, Charisma +1 · Kiffu, Kiffex
+- **Killik** — Medium · Intelligence +2; Constitution +1 · Alderaan
+- **Klatooinian** — Medium · Strength, Constitution +1; Wisdom +1 · Klatooine
+- **Kubaz** — Medium · Dexterity +2; Intelligence +1 · Kubindi
+- **Kushiban** — Small · Charisma +2; Dexterity +1 · Kushibah
+- **Kyuzo** — Medium · Strength +2; Intelligence +1 · Phatrong
+- **Lannik** — Small · Wisdom +2; Intelligence +1 · Lannik
+- **Lasat** — Medium · Strength +2; Charisma +1 · Lira San
+- **Lurmen** — Small · Dexterity +2; Wisdom +1 · Mygeeto, Maridun
+- **Massassi** — Medium · Constitution +2; Strength +1
+- **Mikkian** — Medium · Wisdom +2; Any one +1 · Mikkia
+- **Miraluka** — Medium · Wisdom +2; Charisma +1 · Alpheridies
+- **Mirialan** — Medium · Dexterity +2; Intelligence +1 · Mirial
+- **Mon Calamari** — Medium · Charisma +2; Intelligence, Wisdom +1 · Mon Cala
+- **Mustafarian** — Medium · Constitution +2; Strength, Dexterity +1 · Mustafar
+- **Muun** — Medium · Intelligence +2; Charisma +1 · Scipio
+- **Nautolan** — Medium · Dexterity +2; Wisdom +1 · Glee Anselm
+- **Neimoidian** — Medium · Charisma +2; Wisdom +1 · Neimoidia
+- **Nikto** — Medium · Constitution +2; Any one +1 · Kintan
+- **Noghri** — Medium · Dexterity +2; Strength +1 · Honoghr
+- **Nothoiin** — Medium · Intelligence +2; Dexterity +1 · Nothoiin
+- **Ortolan** — Small · Intelligence +2; Charisma +1 · Orto
+- **Pa'lowick** — Medium · Dexterity +2; Charisma +1 · Lowick
+- **Pantoran** — Medium · Charisma +2; Intelligence, Wisdom +1 · Pantora
+- **Patrolian** — Small · Intelligence +2; Dexterity, Charisma +1 · Patrolia
+- **Pau'an** — Medium · Wisdom +2; Constitution +1 · Utapau
+- **Pyke** — Medium · Charisma +2; Intelligence +1 · Oba Diah
+- **Quarren** — Medium · Constitution +2; Wisdom +1 · Mon Cala
+- **Quermian** — Medium · Wisdom +2; Intelligence +1 · Quermia
+- **Rakata** — Medium · Strength +2; Intelligence +1 · Lehon
+- **Rattataki** — Medium · Wisdom +2; Dexterity, Intelligence +1 · Rattatak
+- **Rishii** — Medium · Dexterity +2; Constitution +1 · Rishi
+- **Rodian** — Medium · Dexterity +2; Constitution +1 · Rodia
+- **Ryn** — Medium · Intelligence, Charisma +2; Dexterity +1
+- **Selkath** — Medium · Intelligence +2; Charisma +1 · Manaan
+- **Selonian** — Medium · Dexterity +2; Strength +1 · Selonia
+- **Shistavanen** — Medium · Strength +2; Constitution +1 · Uvena Prime
+- **Sith Pureblood** — Medium · Charisma +2; Strength, Dexterity +1 · Korriban
+- **Squib** — Small · Charisma +2; Dexterity +1 · Skor II
+- **Ssi-Ruu** — Medium · Strength +2; Dexterity +1 · Lwhekk
+- **Sullustan** — Medium · Intelligence +2; Dexterity +1 · Sullust
+- **Talz** — Medium · Strength +2; Wisdom +1 · Orto Plutonia
+- **Tarasin** — Medium · Intelligence +2; Dexterity +1 · Cularin
+- **Taung** — Medium · Constitution +2; Strength +1 · Coruscant, Mandalore (adopted)
+- **Theelin** — Medium · Charisma +2; Any two +1
+- **Thisspiasian** — Medium · Wisdom +2; Strength +1 · Thisspias
+- **Tiss'shar** — Medium · Dexterity +2; Strength, Intelligence, Charisma +1 · Tiss'sharl
+- **Tognath** — Medium · Strength, Dexterity +1; Constitution +1 · Yar Togna
+- **Togorian** — Medium · Strength +2; Dexterity, Constitution +1 · Togoria
+- **Togruta** — Medium · Wisdom +2; Strength, Dexterity +1 · Shili
+- **Toydarian** — Small · Charisma +2; Intelligence +1 · Toydaria
+- **Trandoshan** — Medium · Strength +2; Wisdom +1 · Trandosha
+- **Tusken** — Medium · Constitution +2; Strength, Charisma +1 · Tatooine
+- **Twi'lek** — Medium · Charisma +2; Dexterity +1 · Ryloth
+- **Ugnaught** — Small · Intelligence +2; Strength +1 · Gentes
+- **Ugor** — Medium · Constitution +2; Intelligence +1 · Paradise System
+- **Umbaran** — Medium · Intelligence +2; Wisdom, Charisma +1 · Umbara
+- **Verpine** — Medium · Intelligence +2; Constitution +1 · Roche asteroid field
+- **Voss** — Medium · Wisdom +2; Constitution +1 · Voss
+- **Vurk** — Medium · Wisdom +2; Constitution +1 · Sembla
+- **Weequay** — Medium · Constitution +2; Wisdom, Charisma +1 · Sriluur
+- **Wookiee** — Medium · Strength +2; Constitution +1 · Kashyyyk
+- **Xexto** — Small · Dexterity +2; Wisdom +1 · Troiken
+- **Yevetha** — Medium · Strength +2; Intelligence +1 · N'zoth
+- **Zabrak** — Medium · Constitution +2; Strength, Dexterity +1
+- **Zeltron** — Medium · Charisma +2; Constitution +1 · Zeltros
+- **Zilkin** — Tiny · Dexterity +2; Any two +1 · Zilk
+- **Zygerrian** — Medium · Charisma +2; Intelligence +1 · Zygerria

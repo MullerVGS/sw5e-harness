@@ -1,0 +1,29 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 300,
+  "damageDiceDieTypeEnum": 8,
+  "damageDieModifier": 0,
+  "damageDieType": 8,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Heavy pistol",
+  "properties": [
+    "Power cell (range 45/180)",
+    "reload 16"
+  ],
+  "propertiesMap": {
+    "Power Cell": "Power cell (range 45/180)",
+    "Reload": "reload 16"
+  },
+  "rowKey": "Heavy pistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialBlaster",
+  "weight": "4"
+}

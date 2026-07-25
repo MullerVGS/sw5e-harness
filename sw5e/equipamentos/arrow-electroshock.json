@@ -1,0 +1,23 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 150,
+  "damageDiceDieTypeEnum": 0,
+  "damageDieModifier": 0,
+  "damageDieType": 0,
+  "damageNumberOfDice": 0,
+  "damageType": "Unknown",
+  "description": "An electroshock arrow is a specialized arrow for use with bow weapons. When you hit a creature with this arrow, the creature must make a DC 14 Dexterity saving throw. On a failed save, the creature takes 1d3 ion damage and becomes stunned until the start of its next turn. On a successful save, a creature takes half damage and isn’t stunned. Once the arrow hits a target, it no longer gives a bonus.",
+  "equipmentCategory": "Ammunition",
+  "modes": [],
+  "name": "Arrow, Electroshock",
+  "properties": null,
+  "propertiesMap": null,
+  "rowKey": "Arrow, Electroshock",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "Unknown",
+  "weight": "0"
+}

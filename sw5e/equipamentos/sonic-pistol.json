@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 375,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Sonic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Sonic pistol",
+  "properties": [
+    "Power cell (range 30/120)",
+    "disruptive",
+    "reload 16"
+  ],
+  "propertiesMap": {
+    "Disruptive": "disruptive",
+    "Power Cell": "Power cell (range 30/120)",
+    "Reload": "reload 16"
+  },
+  "rowKey": "Sonic pistol",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleBlaster",
+  "weight": "2"
+}

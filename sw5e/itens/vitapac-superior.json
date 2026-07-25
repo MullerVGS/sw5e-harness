@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Other",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Vitapac (Superior)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Advanced"
+  ],
+  "rarityText": "advanced",
+  "requiresAttunement": false,
+  "rowKey": "Vitapac (Superior)",
+  "searchableRarity": "Advanced",
+  "subtype": "medpac",
+  "text": "This fast-acting syringe grants a revitalizing boost. As an action, you can use this vitapac to restore expended Hit Dice to a beast or humanoid within 5 feet. The creature immediately regains six Hit Dice. If the creature has spent Hit Dice of different sizes, determine which Hit Dice are restored randomly.",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

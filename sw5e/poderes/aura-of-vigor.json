@@ -1,0 +1,17 @@
+{
+  "castingPeriod": "Action",
+  "castingPeriodText": "1 action",
+  "concentration": true,
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "description": "Envigorating energy radiates from you in a 30-foot radius. Until the power ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) deals an extra 1d4 damage with weapon attacks.",
+  "duration": "up to 1 minute",
+  "forceAlignment": "Light",
+  "higherLevelDescription": null,
+  "level": 3,
+  "name": "Aura of Vigor",
+  "powerType": "Force",
+  "prerequisite": "Valor",
+  "range": "Self (30-foot radius)",
+  "rowKey": "Aura of Vigor"
+}

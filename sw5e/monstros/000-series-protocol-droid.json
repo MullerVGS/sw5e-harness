@@ -1,0 +1,107 @@
+{
+  "alignment": "unaligned",
+  "armorClass": 11,
+  "armorType": "armor plating",
+  "behaviors": [
+    {
+      "attackBonus": 0,
+      "attackType": "None",
+      "damage": null,
+      "damageRoll": null,
+      "damageType": "Unknown",
+      "description": "At will: assess the situation, electroshock, venomous strike 1st-level: poison dart, spot the weakness, toxin scan, tranquilizer 2nd-level: paralyze humanoid, toxin purge, truth serum 3rd-level: tactical advantage  The droid is a 5th-level techcaster. Its techcasting ability is Intelligence (tech save DC 13, +5 to hit with tech powers). It has 22 tech points and knows the following tech powers:",
+      "descriptionWithLinks": " Techcasting. The droid is a 5th-level techcaster. Its techcasting ability is Intelligence (tech save DC 13, +5 to hit with tech powers). It has 22 tech points and knows the following tech powers: [](#)\r\nAt will: [assess the situation](#assess%20the%20situation), [electroshock](#electroshock), [venomous strike](#venomous%20strike)\r\n1st-level: [poison dart](#poison%20dart), [spot the weakness](#spot%20the%20weakness), [toxin scan](#toxin%20scan), [tranquilizer](#tranquilizer)\r\n2nd-level: [paralyze humanoid](#paralyze%20humanoid), [toxin purge](#toxin%20purge), [truth serum](#truth%20serum)\r\n3rd-level: [tactical advantage](#tactical%20advantage)",
+      "monsterBehaviorType": "Trait",
+      "name": "Techcasting",
+      "numberOfTargets": null,
+      "range": null,
+      "restrictions": null
+    },
+    {
+      "attackBonus": 3,
+      "attackType": "MeleeWeapon",
+      "damage": "2",
+      "damageRoll": "1d4",
+      "damageType": "Kinetic",
+      "description": " Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage and, if the target is a creature, the creature is shocked until the end of its next turn.",
+      "descriptionWithLinks": " Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage and, if the target is a creature, the creature is shocked until the end of its next turn.",
+      "monsterBehaviorType": "Action",
+      "name": "Tortuous Strike",
+      "numberOfTargets": "one target.",
+      "range": "reach 5 ft.",
+      "restrictions": null
+    }
+  ],
+  "challengeRating": "2",
+  "charisma": 14,
+  "charismaModifier": 2,
+  "conditionImmunities": [
+    "Poisoned"
+  ],
+  "conditionImmunitiesOther": [
+    "diseased"
+  ],
+  "conditionImmunitiesParsed": [
+    10
+  ],
+  "constitution": 12,
+  "constitutionModifier": 1,
+  "contentSource": "SnV",
+  "contentType": "Core",
+  "damageImmunities": [],
+  "damageImmunitiesOther": null,
+  "damageImmunitiesParsed": [],
+  "damageResistances": [
+    "Necrotic",
+    "Poison",
+    "Psychic"
+  ],
+  "damageResistancesOther": null,
+  "damageResistancesParsed": [
+    9,
+    10,
+    11
+  ],
+  "damageVulnerabilities": [
+    "Ion"
+  ],
+  "damageVulnerabilitiesOther": null,
+  "damageVulnerabilitiesParsed": [
+    6
+  ],
+  "dexterity": 10,
+  "dexterityModifier": 0,
+  "experiencePoints": 450,
+  "flavorText": "The 3PO-series protocol droid is a Human-cyborg relations protocol droid produced by Cybot Galactica.  They are equipped with a TranLang III communication module, and as a result are fluent in over 6 million forms of communication. The model series has very similar aesthetic design in its casing to other Cybot Galactica droid model series such as the TC-series, 3PX-series, and 5YQ-series protocol droids.***0-0-0.*** The Triple-Zero protocol personality matrix is a droid personality matrix that was created centuries before the rise of the Galactic Empire. The matrix is considered incredibly dangerous when placed into its designed droid body: a protocol droid. The matrix, when inserted into a protocol droid, turns it into an assassin droid that specializes in torture.It was quarantined on Quarantine World III in Kallidahin Space for centuries before it was stolen by the rogue archaeologist Doctor Aphra during the Galactic Civil War.",
+  "hitPointRoll": "5d8 + 5",
+  "hitPoints": 27,
+  "imageUrls": [],
+  "intelligence": 14,
+  "intelligenceModifier": 2,
+  "languages": [
+    "All registered languages"
+  ],
+  "name": "000 Series Protocol Droid",
+  "rowKey": "000 Series Protocol Droid",
+  "savingThrows": null,
+  "sectionText": "Protocol droids are programmed mostly for etiquette, and are often used as translators between sentients or between sentients and computers. They are generally designed to look like the sentients they serve; for example, 3PO-series protocol droids are humanoid.They possess knowledge about various cultures and customs, both to advise those for whom they were working, and to ensure their own behavior is diplomatic and culturally sensitive.***History.*** Protocol droids constructed around 4000 BBY (around the time of the Great Sith War and the Jedi Civil War) were frequently engineered with certain behavioral shifts set to occur whenever another design-generation was reached. A number of these droids underwent radical changes with each new generation�for example, when a C7-model droid supplanted the C6 variety. Each numeric \"jump\" in sequence could have had wide-ranging changes in functionality and temperament during that historical period.***Programming Units.*** Cybot Galactica, the most famous and successful manufacturer of protocol droids, outfit them with SyntheTech AA-1 VerboBrains to give their droids personalities with emotions and the ability to learn and grow very similar to organic beings. The 3PO unit possesses a TranLang III communications module that can reproduce over six million languages, as well as reproduce any sound it picks up. Linguistic modules are also used to improve their speech functions. Some models, such as the pricey E-3POs, also include the TechSpan I module, making it possible to interface with Imperial networks and undocumented technologies of Imperial subcontractors.",
+  "senses": [
+    "darkvision 60 ft.",
+    "passive Perception 11"
+  ],
+  "size": "Medium",
+  "skills": [
+    "Lore +5",
+    "Insight +4",
+    "Intimidation +5"
+  ],
+  "speed": 25,
+  "speeds": "25 ft.",
+  "strength": 10,
+  "strengthModifier": 0,
+  "types": [
+    "droid"
+  ],
+  "wisdom": 12,
+  "wisdomModifier": 1
+}

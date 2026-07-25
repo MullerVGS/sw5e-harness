@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "Stimpacs",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Constitution Stim (Champion)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Artifact"
+  ],
+  "rarityText": "artifact",
+  "requiresAttunement": false,
+  "rowKey": "Constitution Stim (Champion)",
+  "searchableRarity": "Artifact",
+  "subtype": "stimpac",
+  "text": "As an action, you can administer this stimpac to a creature within 5 feet. When you administer this stimpac, the target's Constitution score increases by 10, and its maximum for this score increases by 10. This effect lasts for 1 hour. A creature can benefit from only one stimpac at a time. ",
+  "type": "Consumable",
+  "valuableType": "None",
+  "valueText": null
+}

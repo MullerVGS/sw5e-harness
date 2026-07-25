@@ -1,0 +1,1924 @@
+# itens — 1918 entidades
+
+Índice do espelho: escolha por aqui e só então abra a fatia. O arquivo é o
+nome em slug (minúsculas, hífens); onde o nome não basta, ele vem entre
+backticks na linha.
+
+- **AB-75 Bo-Rifle** — Weapon · bo-rifle · prototype
+- **Absorbing Amplifier Mk I** — ItemModification · wristpad · standard
+- **Absorbing Amplifier Mk II** — ItemModification · wristpad · premium
+- **Absorbing Amplifier Mk III** — ItemModification · wristpad · prototype
+- **Absorbing Amplifier Mk IV** — ItemModification · wristpad · advanced
+- **Absorbing Amplifier Mk V** — ItemModification · wristpad · legendary
+- **Absorbing Amplifier Mk VI** — ItemModification · wristpad · artifact
+- **Absorbing Conductor (Adept)** — ItemModification · focus generator · advanced
+- **Absorbing Conductor (Ancient)** — ItemModification · focus generator · artifact
+- **Absorbing Conductor (Apprentice)** — ItemModification · focus generator · premium
+- **Absorbing Conductor (Journeyman)** — ItemModification · focus generator · prototype
+- **Absorbing Conductor (Master)** — ItemModification · focus generator · legendary
+- **Absorbing Conductor (Novice)** — ItemModification · focus generator · standard
+- **Absorptive Reinforcement** — ItemModification · armor · premium
+- **Absorptive Reinforcement Mk II** — ItemModification · armor · advanced
+- **Absorptive Reinforcement Mk III** — ItemModification · armor · artifact
+- **Accessing Cycler (Chipped)** — ItemModification · focus generator · premium
+- **Accessing Cycler (Cracked)** — ItemModification · focus generator · standard
+- **Accessing Cycler (Flawed)** — ItemModification · focus generator · prototype
+- **Accessing Cycler (Flawless)** — ItemModification · focus generator · legendary
+- **Accessing Cycler (Perfect)** — ItemModification · focus generator · artifact
+- **Accessing Cycler (Regular)** — ItemModification · focus generator · advanced
+- **Accessing Motherboard (Adequate)** — ItemModification · wristpad · premium
+- **Accessing Motherboard (Excellent)** — ItemModification · wristpad · advanced
+- **Accessing Motherboard (Leading)** — ItemModification · wristpad · prototype
+- **Accessing Motherboard (Outstanding)** — ItemModification · wristpad · legendary
+- **Accessing Motherboard (Prime)** — ItemModification · wristpad · artifact
+- **Accessing Motherboard (Simple)** — ItemModification · wristpad · standard
+- **Accuracy Focus Mk I** — ItemModification · blaster · standard
+- **Accuracy Focus Mk II** — ItemModification · blaster · premium
+- **Accuracy Focus Mk III** — ItemModification · blaster · prototype
+- **Accuracy Focus Mk IV** — ItemModification · blaster · advanced
+- **Ace Pilot's Pattern (Basic)** — ItemModification · clothing · standard
+- **Ace Pilot's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Ace Pilot's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Ace Pilot's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Ace Pilot's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Ace Pilot's Pattern (Fine)** — ItemModification · clothing · premium
+- **Acrobat's Pattern (Basic)** — ItemModification · clothing · standard
+- **Acrobat's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Acrobat's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Acrobat's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Acrobat's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Acrobat's Pattern (Fine)** — ItemModification · clothing · premium
+- **Active Camouflage Core** — CyberneticAugmentation · enhancement · advanced · pré-req: Constitution 13
+- **Adapted Armor** — Armor · any · prototype · sintonia
+- **Adegan Crystal (Chipped)** — ItemModification · lightweapon · premium
+- **Adegan Crystal (Cracked)** — ItemModification · lightweapon · standard
+- **Adegan Crystal (Flawed)** — ItemModification · lightweapon · prototype
+- **Adegan Crystal (Regular)** — ItemModification · lightweapon · advanced
+- **Agile Armoring Mk I** — ItemModification · armor · standard · pré-req: Armor
+- **Agile Armoring Mk II** — ItemModification · armor · premium · pré-req: Armor
+- **Agile Armoring Mk III** — ItemModification · armor · prototype · pré-req: Armor
+- **Agile Armoring Mk IV** — ItemModification · armor · advanced · pré-req: Armor
+- **Agile Armoring Mk V** — ItemModification · armor · legendary · pré-req: Armor
+- **Agile Armoring Mk VI** — ItemModification · armor · artifact · pré-req: Armor
+- **Alacrity Adrenal (Basic)** — Consumable · adrenal · standard
+- **Alacrity Adrenal (Champion)** — Consumable · adrenal · artifact
+- **Alacrity Adrenal (Exceptional)** — Consumable · adrenal · legendary
+- **Alacrity Adrenal (Fine)** — Consumable · adrenal · premium
+- **Alacrity Adrenal (Improved)** — Consumable · adrenal · prototype
+- **Alacrity Adrenal (Superior)** — Consumable · adrenal · advanced
+- **Amplifying Barrel (Basic)** — ItemModification · blaster · standard
+- **Amplifying Barrel (Fine)** — ItemModification · blaster · premium
+- **Amplifying Barrel (Improved)** — ItemModification · blaster · prototype
+- **Amplifying Barrel (Superior)** — ItemModification · blaster · advanced
+- **Amplifying Channel (Ascendancy)** — ItemModification · focus generator · artifact
+- **Amplifying Channel (Fighting)** — ItemModification · focus generator · premium
+- **Amplifying Channel (Mastery)** — ItemModification · focus generator · advanced
+- **Amplifying Processor (Ascendancy)** — ItemModification · wristpad · artifact
+- **Amplifying Processor (Fighting)** — ItemModification · wristpad · premium
+- **Amplifying Processor (Mastery)** — ItemModification · wristpad · advanced
+- **Analysis Protocol** — DroidCustomization · protocol · premium · pré-req: Class I droid
+- **Andris (Fine)** — Consumable · substance · premium
+- **Andris (High Quality)** — Consumable · substance · advanced
+- **Andris (Potent)** — Consumable · substance · legendary
+- **Andris (Pure)** — Consumable · substance · artifact
+- **Andris (Uncut)** — Consumable · substance · prototype
+- **Animal Handler's Pattern (Basic)** — ItemModification · clothing · standard
+- **Animal Handler's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Animal Handler's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Animal Handler's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Animal Handler's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Animal Handler's Pattern (Fine)** — ItemModification · clothing · premium
+- **Aratech Echo Belt** — AdventuringGear · waist · premium · sintonia
+- **Aratech Recycler Core Mk II** — ItemModification · blaster · legendary · pré-req: Burst property
+- **Aratech Sound Dampening Boots** — AdventuringGear · feet · premium · sintonia
+- **Armament and Defense Library** — CyberneticAugmentation · enhancement · prototype · pré-req: Intelligence 13
+- **Armor (Champion)** — Armor · any · artifact
+- **Armor (Exceptional)** — Armor · any · legendary
+- **Armor (Fine)** — Armor · any · premium
+- **Armor (Improved)** — Armor · any · prototype
+- **Armor (Superior)** — Armor · any · advanced
+- **Armor Chassis (Advanced)** — Armor · any · advanced · sintonia
+- **Armor Chassis (Artifact)** — Armor · any · artifact · sintonia
+- **Armor Chassis (Legendary)** — Armor · any · legendary · sintonia
+- **Armor Chassis (Premium)** — Armor · any · premium · sintonia
+- **Armor Chassis (Prototype)** — Armor · any · prototype · sintonia
+- **Armor Chassis (Standard)** — Armor · any · standard · sintonia
+- **Artificially Intelligent** — ItemModification · armor · prototype · pré-req: Armor
+- **Atmospheric Decanting Vessel** — AdventuringGear · premium
+- **Automated Adrenal Package** — CyberneticAugmentation · enhancement · advanced · pré-req: Constitution 15
+- **Avoidant Reinforcement** — ItemModification · armor · premium
+- **Avoidant Reinforcement Mk II** — ItemModification · armor · advanced
+- **Avoidant Reinforcement Mk III** — ItemModification · armor · artifact
+- **Avoidant Weave (Basic)** — ItemModification · clothing · premium
+- **Avoidant Weave (Choice)** — ItemModification · clothing · advanced
+- **Avoidant Weave (Exquisite)** — ItemModification · clothing · artifact
+- **Balanced Shielding** — ItemModification · armor · premium
+- **Ballistic Polymer** — ItemModification · armor · prototype
+- **Ballistic Polymer (Exceptional)** — ItemModification · armor · legendary
+- **Bansche Advanced 2ZBc** — ItemModification · wristpad · prototype
+- **Bansche Purifier MENAD Pro Mk I** — ItemModification · wristpad · premium
+- **Baragwin Stealth Unit** — AdventuringGear · waist · legendary · sintonia
+- **Barbed Armoring** — ItemModification · armor · premium · pré-req: Armor
+- **Barbed Armoring Mk II** — ItemModification · armor · advanced · pré-req: Armor
+- **Barbed Armoring Mk III** — ItemModification · armor · artifact · pré-req: Armor
+- **Battle Adrenal Mk I** — Consumable · adrenal · prototype
+- **Battle Adrenal Mk II** — Consumable · adrenal · artifact
+- **Bayonet** — ItemModification · blaster · premium
+- **Beemon Cardio-Regulator** — AdventuringGear · neck · prototype · sintonia
+- **Berserker Defensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in berserker
+- **Berserker Offensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in berserker
+- **Binders (Champion)** — AdventuringGear · artifact
+- **Binders (Exceptional)** — AdventuringGear · legendary
+- **Binders (Fine)** — AdventuringGear · premium
+- **Binders (Improved)** — AdventuringGear · prototype
+- **Binders (Superior)** — AdventuringGear · advanced
+- **Bioenhancement Matrix Mk I** — ItemModification · armor · premium
+- **Bioenhancement Matrix Mk II** — ItemModification · armor · advanced
+- **Bioenhancement Matrix Mk III** — ItemModification · armor · artifact
+- **Biometric Safety Measures** — ItemModification · lightweapon · standard
+- **Biting Crystal (Adept)** — ItemModification · lightweapon · advanced
+- **Biting Crystal (Ancient)** — ItemModification · lightweapon · artifact
+- **Biting Crystal (Apprentice)** — ItemModification · lightweapon · premium
+- **Biting Crystal (Journeyman)** — ItemModification · lightweapon · prototype
+- **Biting Crystal (Master)** — ItemModification · lightweapon · legendary
+- **Biting Crystal (Novice)** — ItemModification · Lightweapon · standard
+- **Blaster Chassis (Advanced)** — Weapon · any blaster · advanced · sintonia
+- **Blaster Chassis (Artifact)** — Weapon · any blaster · artifact · sintonia
+- **Blaster Chassis (Legendary)** — Weapon · any blaster · legendary · sintonia
+- **Blaster Chassis (Premium)** — Weapon · any blaster · premium · sintonia
+- **Blaster Chassis (Prototype)** — Weapon · any blaster · prototype · sintonia
+- **Blaster Chassis (Standard)** — Weapon · any blaster · standard · sintonia
+- **Blaster Integration** — DroidCustomization · part · standard
+- **Blueprint (Advanced)** — AdventuringGear · advanced
+- **Blueprint (Artifact)** — AdventuringGear · artifact
+- **Blueprint (Legendary)** — AdventuringGear · legendary
+- **Blueprint (Premium)** — AdventuringGear · premium
+- **Blueprint (Prototype)** — AdventuringGear · prototype
+- **Blueprint (Standard)** — AdventuringGear · standard
+- **Bolas (Champion)** — Weapon · bolas · artifact
+- **Bolas (Exceptional)** — Weapon · bolas · legendary
+- **Bolas (Fine)** — Weapon · bolas · premium
+- **Bolas (Improved)** — Weapon · bolas · prototype
+- **Bolas (Superior)** — Weapon · bolas · advanced
+- **Bolstering Channel (Adept)** — ItemModification · focus generator · advanced
+- **Bolstering Channel (Ancient)** — ItemModification · focus generator · artifact
+- **Bolstering Channel (Apprentice)** — ItemModification · focus generator · premium
+- **Bolstering Channel (Journeyman)** — ItemModification · focus generator · prototype
+- **Bolstering Channel (Master)** — ItemModification · focus generator · legendary
+- **Bolstering Channel (Novice)** — ItemModification · focus generator · standard
+- **Bonded Plates Mk I** — ItemModification · armor · standard
+- **Bonded Plates Mk II** — ItemModification · armor · premium
+- **Bonded Plates Mk III** — ItemModification · armor · prototype
+- **Bonded Plates Mk IV** — ItemModification · armor · advanced
+- **Bonded Weave (Basic)** — ItemModification · clothing · standard
+- **Bonded Weave (Choice)** — ItemModification · clothing · advanced
+- **Bonded Weave (Favored)** — ItemModification · clothing · prototype
+- **Bonded Weave (Fine)** — ItemModification · clothing · premium
+- **Boots of Bounding** — AdventuringGear · feet · prototype · sintonia · pré-req: at least 3 levels in fighter
+- **Boots of Hiding** — AdventuringGear · feet · premium
+- **Brawny Arm Prosthesis** — CyberneticAugmentation · replacement · standard
+- **Brawny Pattern (Basic)** — ItemModification · clothing · standard
+- **Brawny Pattern (Choice)** — ItemModification · clothing · advanced
+- **Brawny Pattern (Elite)** — ItemModification · clothing · legendary
+- **Brawny Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Brawny Pattern (Favored)** — ItemModification · clothing · prototype
+- **Brawny Pattern (Fine)** — ItemModification · clothing · premium
+- **Bright Crystal (Adept)** — ItemModification · lightweapon · advanced
+- **Bright Crystal (Ancient)** — ItemModification · lightweapon · artifact
+- **Bright Crystal (Apprentice)** — ItemModification · lightweapon · premium
+- **Bright Crystal (Journeyman)** — ItemModification · lightweapon · prototype
+- **Bright Crystal (Master)** — ItemModification · lightweapon · legendary
+- **Bright Crystal (Novice)** — ItemModification · Lightweapon · standard
+- **Brutal Cell** — ItemModification · lightweapon · premium
+- **Brutal Cell (Deadly)** — ItemModification · lightweapon · advanced
+- **Brutal Cell (Devastating)** — ItemModification · lightweapon · artifact
+- **Brutal Oscillator** — ItemModification · vibroweapon · premium
+- **Brutal Oscillator (Deadly)** — ItemModification · vibroweapon · advanced
+- **Brutal Oscillator (Devastating)** — ItemModification · vibroweapon · artifact
+- **Brutal Scope** — ItemModification · blaster · premium
+- **Brutal Scope (Deadly)** — ItemModification · blaster · advanced
+- **Brutal Scope (Devastating)** — ItemModification · blaster · artifact
+- **Burning Cell** — ItemModification · lightweapon · standard
+- **Burst Core** — ItemModification · blaster · premium · pré-req: Blaster that uses cells or cartridges
+- **Burst Core (Champion)** — ItemModification · blaster · artifact · pré-req: Blaster that uses cells or cartridges
+- **Burst Core (Superior)** — ItemModification · blaster · advanced · pré-req: Blaster that uses cells or cartridges
+- **Byrothsis Adept Cell** — ItemModification · lightweapon · advanced
+- **Byrothsis Ancient Cell** — ItemModification · lightweapon · artifact
+- **CNS Strength Enhancer** — AdventuringGear · waist · advanced · sintonia
+- **Camtono (Champion)** — AdventuringGear · artifact
+- **Camtono (Exceptional)** — AdventuringGear · legendary
+- **Camtono (Fine)** — AdventuringGear · premium
+- **Camtono (Improved)** — AdventuringGear · prototype
+- **Camtono (Superior)** — AdventuringGear · advanced
+- **Cape of the Orator** — AdventuringGear · shoulders · prototype · sintonia · pré-req: at least 3 levels in scholar
+- **Careful Subroutine** — ItemModification · wristpad · Premium
+- **Celerity Leg Prosthesis** — CyberneticAugmentation · replacement · standard
+- **Celerity Oscillator** — ItemModification · vibroweapon · standard
+- **Channeling Amplifier (Dueling)** — ItemModification · focus generator · prototype
+- **Channeling Amplifier (Fighting)** — ItemModification · focus generator · premium
+- **Channeling Amplifier (Mastery)** — ItemModification · focus generator · advanced
+- **Channeling Amplifier (Training)** — ItemModification · focus generator · standard
+- **Channeling Rangefinder (Dueling)** — ItemModification · focus generator · prototype
+- **Channeling Rangefinder (Fighting)** — ItemModification · focus generator · premium
+- **Channeling Rangefinder (Mastery)** — ItemModification · focus generator · advanced
+- **Channeling Rangefinder (Training)** — ItemModification · focus generator · standard
+- **Charge, Fragmentation (Average)** — Consumable · explosive · premium
+- **Charge, Fragmentation (Deadly)** — Consumable · explosive · advanced
+- **Charge, Fragmentation (Devastating)** — Consumable · explosive · artifact
+- **Charge, Fragmentation (Lethal)** — Consumable · explosive · legendary
+- **Charge, Fragmentation (Major)** — Consumable · explosive · prototype
+- **Charge, Plasma (Average)** — Consumable · explosive · premium
+- **Charge, Plasma (Deadly)** — Consumable · explosive · advanced
+- **Charge, Plasma (Devastating)** — Consumable · explosive · artifact
+- **Charge, Plasma (Lethal)** — Consumable · explosive · legendary
+- **Charge, Plasma (Major)** — Consumable · explosive · prototype
+- **Charging Reinforcement** — ItemModification · armor · premium
+- **Charging Reinforcement Mk II** — ItemModification · armor · advanced
+- **Charging Reinforcement Mk III** — ItemModification · armor · artifact
+- **Charisma Augment (Basic)** — ItemModification · augment · standard
+- **Charisma Augment (Champion)** — ItemModification · augment · artifact
+- **Charisma Augment (Exceptional)** — ItemModification · augment · legendary
+- **Charisma Augment (Fine)** — ItemModification · augment · premium
+- **Charisma Augment (Improved)** — ItemModification · augment · prototype
+- **Charisma Augment (Superior)** — ItemModification · augment · advanced
+- **Charisma Enhancement (Basic)** — CyberneticAugmentation · enhancement · standard · pré-req: Charisma 11
+- **Charisma Stim (Basic)** — Consumable · stimpac · standard
+- **Charisma Stim (Champion)** — Consumable · stimpac · artifact
+- **Charisma Stim (Exceptional)** — Consumable · stimpac · legendary
+- **Charisma Stim (Fine)** — Consumable · stimpac · premium
+- **Charisma Stim (Improved)** — Consumable · stimpac · prototype
+- **Charisma Stim (Superior)** — Consumable · stimpac · advanced
+- **Charisma Weave (Basic)** — ItemModification · clothing · standard
+- **Charisma Weave (Exceptional)** — ItemModification · clothing · legendary
+- **Charisma Weave (Improved)** — ItemModification · clothing · prototype
+- **Charmer's Pattern (Basic)** — ItemModification · clothing · standard
+- **Charmer's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Charmer's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Charmer's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Charmer's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Charmer's Pattern (Fine)** — ItemModification · clothing · premium
+- **Charming Noble Package** — CyberneticAugmentation · enhancement · legendary · pré-req: Charisma 15
+- **Charric Pistol** — Weapon · blaster pistol · prototype
+- **Charric Rifle** — Weapon · sniper rifle · advanced
+- **Cilona (Fine)** — Consumable · substance · premium
+- **Cilona (High Quality)** — Consumable · substance · advanced
+- **Cilona (Potent)** — Consumable · substance · legendary
+- **Cilona (Pure)** — Consumable · substance · artifact
+- **Cilona (Uncut)** — Consumable · substance · prototype
+- **Circlet of Persistence** — AdventuringGear · head · prototype · sintonia · pré-req: at least 3 levels in consular
+- **Clandestine Stitching (Basic)** — ItemModification · clothing · standard
+- **Clandestine Stitching (Champion)** — ItemModification · clothing · artifact
+- **Clandestine Stitching (Exceptional)** — ItemModification · clothing · legendary
+- **Clandestine Stitching (Fine)** — ItemModification · clothing · premium
+- **Clandestine Stitching (Improved)** — ItemModification · clothing · prototype
+- **Clandestine Stitching (Superior)** — ItemModification · clothing · advanced
+- **Cloak Chassis (Advanced)** — AdventuringGear · shoulders · advanced · sintonia
+- **Cloak Chassis (Artifact)** — AdventuringGear · shoulders · artifact · sintonia
+- **Cloak Chassis (Legendary)** — AdventuringGear · shoulders · legendary · sintonia
+- **Cloak Chassis (Premium)** — AdventuringGear · shoulders · premium · sintonia
+- **Cloak Chassis (Prototype)** — AdventuringGear · shoulders · prototype · sintonia
+- **Cloak Chassis (Standard)** — AdventuringGear · shoulders · standard · sintonia
+- **Clothes, Clandestine (Champion)** — AdventuringGear · body · artifact
+- **Clothes, Clandestine (Exceptional)** — AdventuringGear · body · legendary
+- **Clothes, Clandestine (Fine)** — AdventuringGear · body · premium
+- **Clothes, Clandestine (Improved)** — AdventuringGear · body · prototype
+- **Clothes, Clandestine (Superior)** — AdventuringGear · body · advanced
+- **Collapsible Frame** — ItemModification · vibroweapon · standard
+- **Collapsible Hilt** — ItemModification · lightweapon · standard
+- **Collapsible Stock** — ItemModification · blaster · standard
+- **Collapsible Suit** — ItemModification · armor · premium
+- **Comfortable Handle** — ItemModification · lightweapon · premium · pré-req: Lacks dexterity, two-handed, or versatile property
+- **Compensating Attachment** — ItemModification · blaster · advanced
+- **Compensation Oscillator** — ItemModification · vibroweapon · standard
+- **Compensation Oscillator (Champion)** — ItemModification · vibroweapon · artifact
+- **Compensation Oscillator (Exceptional)** — ItemModification · vibroweapon · legendary
+- **Compensation Oscillator (Fine)** — ItemModification · vibroweapon · premium
+- **Compensation Oscillator (Improved)** — ItemModification · vibroweapon · prototype
+- **Compensation Oscillator (Superior)** — ItemModification · vibroweapon · advanced
+- **Computer Spike (Champion)** — Consumable · technology · artifact
+- **Computer Spike (Fine)** — Consumable · technology · premium
+- **Computer Spike (Superior)** — Consumable · technology · advanced
+- **Concealing Shielding** — ItemModification · armor · premium
+- **Constitution Augment (Basic)** — ItemModification · augment · standard
+- **Constitution Augment (Champion)** — ItemModification · augment · artifact
+- **Constitution Augment (Exceptional)** — ItemModification · augment · legendary
+- **Constitution Augment (Fine)** — ItemModification · augment · premium
+- **Constitution Augment (Improved)** — ItemModification · augment · prototype
+- **Constitution Augment (Superior)** — ItemModification · augment · advanced
+- **Constitution Dataport (Basic)** — ItemModification · wristpad · standard
+- **Constitution Dataport (Champion)** — ItemModification · wristpad · artifact
+- **Constitution Dataport (Exceptional)** — ItemModification · wristpad · legendary
+- **Constitution Dataport (Fine)** — ItemModification · wristpad · premium
+- **Constitution Dataport (Improved)** — ItemModification · wristpad · prototype
+- **Constitution Dataport (Superior)** — ItemModification · wristpad · advanced
+- **Constitution Emitter (Basic)** — ItemModification · focus generator · standard
+- **Constitution Emitter (Champion)** — ItemModification · focus generator · artifact
+- **Constitution Emitter (Exceptional)** — ItemModification · focus generator · legendary
+- **Constitution Emitter (Fine)** — ItemModification · focus generator · premium
+- **Constitution Emitter (Improved)** — ItemModification · focus generator · prototype
+- **Constitution Emitter (Superior)** — ItemModification · focus generator · advanced
+- **Constitution Enhancement (Basic)** — CyberneticAugmentation · enhancement · standard · pré-req: Constitution 11
+- **Constitution Stim (Basic)** — Consumable · stimpac · standard
+- **Constitution Stim (Champion)** — Consumable · stimpac · artifact
+- **Constitution Stim (Exceptional)** — Consumable · stimpac · legendary
+- **Constitution Stim (Fine)** — Consumable · stimpac · premium
+- **Constitution Stim (Improved)** — Consumable · stimpac · prototype
+- **Constitution Stim (Superior)** — Consumable · stimpac · advanced
+- **Constitution Weave (Champion)** — ItemModification · clothing · artifact
+- **Constitution Weave (Fine)** — ItemModification · clothing · premium
+- **Constitution Weave (Superior)** — ItemModification · clothing · advanced
+- **Consular Defensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in consular
+- **Consular Offensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in consular
+- **Contoured Grip (Basic)** — ItemModification · vibroweapon · standard
+- **Contoured Grip (Fine)** — ItemModification · vibroweapon · premium
+- **Contoured Grip (Improved)** — ItemModification · vibroweapon · prototype
+- **Contoured Grip (Superior)** — ItemModification · vibroweapon · advanced
+- **Convenience Reinforcement** — ItemModification · armor · premium
+- **Corellian Crippler Matrix** — ItemModification · blaster · standard
+- **Corrosive Cartridge (Average)** — Consumable · ammunition · premium
+- **Corrosive Cartridge (Deadly)** — Consumable · ammunition · advanced
+- **Corrosive Cartridge (Devastating)** — Consumable · ammunition · artifact
+- **Corrosive Cartridge (Lethal)** — Consumable · ammunition · legendary
+- **Corrosive Cartridge (Major)** — Consumable · ammunition · prototype
+- **Corruption Crystal (Adept)** — ItemModification · lightweapon · advanced
+- **Corruption Crystal (Ancient)** — ItemModification · lightweapon · artifact
+- **Corruption Crystal (Apprentice)** — ItemModification · lightweapon · premium
+- **Corruption Crystal (Journeyman)** — ItemModification · lightweapon · prototype
+- **Corruption Crystal (Master)** — ItemModification · lightweapon · legendary
+- **Corruption Crystal (Novice)** — ItemModification · Lightweapon · standard
+- **Cortosis Weave** — ItemModification · armor · prototype
+- **Cortosis Weave (Exceptional)** — ItemModification · armor · legendary
+- **Cowl of the Professional** — AdventuringGear · shoulders · prototype · sintonia · pré-req: at least 3 levels in operative
+- **Credit Chip (Champion)** — AdventuringGear · artifact
+- **Credit Chip (Exceptional)** — AdventuringGear · legendary
+- **Credit Chip (Fine)** — AdventuringGear · premium
+- **Credit Chip (Improved)** — AdventuringGear · prototype
+- **Credit Chip (Superior)** — AdventuringGear · advanced
+- **Crossguard Hilt** — ItemModification · lightweapon · premium
+- **Crossguard Hilt (Champion)** — ItemModification · lightweapon · artifact
+- **Crossguard Hilt (Superior)** — ItemModification · lightweapon · advanced
+- **Cryo Cell (Average)** — Consumable · ammunition · premium
+- **Cryo Cell (Deadly)** — Consumable · ammunition · advanced
+- **Cryo Cell (Devastating)** — Consumable · ammunition · artifact
+- **Cryo Cell (Lethal)** — Consumable · ammunition · legendary
+- **Cryo Cell (Major)** — Consumable · ammunition · prototype
+- **Crystalizing Amplifier (Dueling)** — ItemModification · lightweapon · prototype
+- **Crystalizing Amplifier (Fighting)** — ItemModification · lightweapon · premium
+- **Crystalizing Amplifier (Mastery)** — ItemModification · lightweapon · advanced
+- **Crystalizing Amplifier (Training)** — ItemModification · lightweapon · standard
+- **Crystalizing Rangefinder (Dueling)** — ItemModification · lightweapon · prototype
+- **Crystalizing Rangefinder (Fighting)** — ItemModification · lightweapon · premium
+- **Crystalizing Rangefinder (Mastery)** — ItemModification · lightweapon · advanced
+- **Crystalizing Rangefinder (Training)** — ItemModification · lightweapon · standard
+- **Czerka Attenuating Pulsator** — ItemModification · blaster · advanced · pré-req: The ability to cast tech powers
+- **Czerka Elite Pro Mk V** — ItemModification · wristpad · legendary
+- **Czerka Variable Claw-Hand Multitool** — CyberneticAugmentation · replacement · prototype · pré-req: Intelligence 13
+- **Damind Crystal (Flawed)** — ItemModification · lightweapon · prototype
+- **Damind Crystal (Flawless)** — ItemModification · lightweapon · legendary
+- **Damind Crystal (Perfect)** — ItemModification · lightweapon · artifact
+- **Damind Crystal (Regular)** — ItemModification · lightweapon · advanced
+- **Daring Acrobat Package** — CyberneticAugmentation · enhancement · legendary · pré-req: Dexterity 15
+- **Darksaber** — Weapon · martial lightsaber · legendary · sintonia
+- **Darkvision Goggles** — AdventuringGear · head · premium
+- **Darkvision Visor** — ItemModification · armor · premium · pré-req: Armor
+- **Dart (Average)** — Consumable · ammunition · premium
+- **Dart (Deadly)** — Consumable · ammunition · advanced
+- **Dart (Devastating)** — Consumable · ammunition · artifact
+- **Dart (Lethal)** — Consumable · ammunition · legendary
+- **Dart (Major)** — Consumable · ammunition · prototype
+- **Datacron Mk I** — AdventuringGear · standard
+- **Datacron Mk II** — AdventuringGear · premium
+- **Datacron Mk III** — AdventuringGear · prototype
+- **Datacron Mk IV** — AdventuringGear · advanced
+- **Datacron Mk V** — AdventuringGear · legendary
+- **Datacron Mk VI** — AdventuringGear · artifact
+- **Deafening Calibrator (Average)** — Consumable · ammunition · premium
+- **Deafening Calibrator (Deadly)** — Consumable · ammunition · advanced
+- **Deafening Calibrator (Devastating)** — Consumable · ammunition · artifact
+- **Deafening Calibrator (Lethal)** — Consumable · ammunition · legendary
+- **Deafening Calibrator (Major)** — Consumable · ammunition · prototype
+- **Deafening Cell (Average)** — Consumable · ammunition · premium
+- **Deafening Cell (Deadly)** — Consumable · ammunition · advanced
+- **Deafening Cell (Devastating)** — Consumable · ammunition · artifact
+- **Deafening Cell (Lethal)** — Consumable · ammunition · legendary
+- **Deafening Cell (Major)** — Consumable · ammunition · prototype
+- **Deafening Collimator (Average)** — Consumable · ammunition · premium
+- **Deafening Collimator (Deadly)** — Consumable · ammunition · advanced
+- **Deafening Collimator (Devastating)** — Consumable · ammunition · artifact
+- **Deafening Collimator (Lethal)** — Consumable · ammunition · legendary
+- **Deafening Collimator (Major)** — Consumable · ammunition · prototype
+- **Deafening Dart (Average)** — Consumable · ammunition · premium
+- **Deafening Dart (Deadly)** — Consumable · ammunition · advanced
+- **Deafening Dart (Devastating)** — Consumable · ammunition · artifact
+- **Deafening Dart (Lethal)** — Consumable · ammunition · legendary
+- **Deafening Dart (Major)** — Consumable · ammunition · prototype
+- **Defel Mimicker** — AdventuringGear · waist · prototype · sintonia
+- **Defensive Guard** — ItemModification · vibroweapon · premium
+- **Defensive Guard (Champion)** — ItemModification · vibroweapon · artifact
+- **Defensive Guard (Superior)** — ItemModification · vibroweapon · advanced
+- **Detachable Eye** — CyberneticAugmentation · replacement · standard
+- **Detachable Hand** — CyberneticAugmentation · replacement · standard
+- **Deuterium-pyro (Aged)** — Consumable · substance · advanced
+- **Deuterium-pyro (Fine)** — Consumable · substance · premium
+- **Deuterium-pyro (Matured)** — Consumable · substance · prototype
+- **Deuterium-pyro (Reserve)** — Consumable · substance · legendary
+- **Deuterium-pyro (Special)** — Consumable · substance · artifact
+- **Dexterity Augment  (Champion)** — ItemModification · augment · artifact
+- **Dexterity Augment (Basic)** — ItemModification · augment · standard
+- **Dexterity Augment (Exceptional)** — ItemModification · augment · legendary
+- **Dexterity Augment (Fine)** — ItemModification · augment · premium
+- **Dexterity Augment (Improved)** — ItemModification · augment · prototype
+- **Dexterity Augment (Superior)** — ItemModification · augment · advanced
+- **Dexterity Enhancement (Basic)** — CyberneticAugmentation · enhancement · standard · pré-req: Dexterity 11
+- **Dexterity Stim (Basic)** — Consumable · stimpac · standard
+- **Dexterity Stim (Champion)** — Consumable · stimpac · artifact
+- **Dexterity Stim (Exceptional)** — Consumable · stimpac · legendary
+- **Dexterity Stim (Fine)** — Consumable · stimpac · premium
+- **Dexterity Stim (Improved)** — Consumable · stimpac · prototype
+- **Dexterity Stim (Superior)** — Consumable · stimpac · advanced
+- **Dexterity Weave (Champion)** — ItemModification · clothing · artifact
+- **Dexterity Weave (Fine)** — ItemModification · clothing · premium
+- **Dexterity Weave (Superior)** — ItemModification · clothing · advanced
+- **Dire Ascendancy Guard** — ItemModification · vibroweapon · artifact
+- **Dire Ascendancy Hilt** — ItemModification · lightweapon · artifact
+- **Dire Ascendancy Scope** — ItemModification · blaster · artifact
+- **Dire Fighting Guard** — ItemModification · vibroweapon · premium
+- **Dire Fighting Hilt** — ItemModification · lightweapon · premium
+- **Dire Fighting Scope** — ItemModification · blaster · premium
+- **Dire Mastery Guard** — ItemModification · vibroweapon · advanced
+- **Dire Mastery Hilt** — ItemModification · lightweapon · advanced
+- **Dire Mastery Scope** — ItemModification · blaster · advanced
+- **Disarming Cell** — ItemModification · lightweapon · standard
+- **Disarming Oscillator** — ItemModification · vibroweapon · standard
+- **Disguised Guard** — ItemModification · vibroweapon · standard
+- **Disguised Hilt** — ItemModification · lightweapon · standard
+- **Disguised Stock** — ItemModification · blaster · standard
+- **Disintegration Core** — ItemModification · blaster · standard
+- **Disintegration Core Mk II** — ItemModification · blaster · premium
+- **Disintegration Core Mk III** — ItemModification · blaster · prototype
+- **Disintegration Core Mk IV** — ItemModification · blaster · advanced
+- **Disintegration Core Mk V** — ItemModification · blaster · legendary
+- **Disintegration Core Mk VI** — ItemModification · blaster · artifact
+- **Dispelling Dataport (Basic)** — ItemModification · wristpad · standard
+- **Dispelling Dataport (Champion)** — ItemModification · wristpad · artifact
+- **Dispelling Dataport (Exceptional)** — ItemModification · wristpad · legendary
+- **Dispelling Dataport (Fine)** — ItemModification · wristpad · premium
+- **Dispelling Dataport (Improved)** — ItemModification · wristpad · prototype
+- **Dispelling Dataport (Superior)** — ItemModification · wristpad · advanced
+- **Dispelling Emitter (Basic)** — ItemModification · focus generator · standard
+- **Dispelling Emitter (Champion)** — ItemModification · focus generator · artifact
+- **Dispelling Emitter (Exceptional)** — ItemModification · focus generator · legendary
+- **Dispelling Emitter (Fine)** — ItemModification · focus generator · premium
+- **Dispelling Emitter (Improved)** — ItemModification · focus generator · prototype
+- **Dispelling Emitter (Superior)** — ItemModification · focus generator · advanced
+- **Disruption Cell** — ItemModification · lightweapon · premium
+- **Disruption Core** — ItemModification · blaster · premium
+- **Disruption Oscillator** — ItemModification · vibroweapon · premium
+- **Distant Subroutine** — ItemModification · wristpad · Premium
+- **Dominator Belt** — AdventuringGear · waist · artifact · sintonia
+- **Double Guard** — ItemModification · vibroweapon · advanced · pré-req: Lacks two-handed or versatile property
+- **Double Hilt** — ItemModification · lightweapon · advanced · pré-req: Lacks two-handed or versatile property
+- **Droid Dura Plating Mk I** — DroidCustomization · part · prototype · pré-req: Proficiency with heavy armor
+- **Droid Dura Plating Mk II** — DroidCustomization · part · advanced · pré-req: Proficiency with heavy armor
+- **Droid Dura Plating Mk III** — DroidCustomization · part · legendary · pré-req: Proficiency with heavy armor
+- **Duplexed Extender Channel** — ItemModification · focus generator · standard
+- **Duplexed Extender Channel (Fine)** — ItemModification · focus generator · premium
+- **Electrifying Calibrator (Average)** — Consumable · ammunition · premium
+- **Electrifying Calibrator (Deadly)** — Consumable · ammunition · advanced
+- **Electrifying Calibrator (Devastating)** — Consumable · ammunition · artifact
+- **Electrifying Calibrator (Lethal)** — Consumable · ammunition · legendary
+- **Electrifying Calibrator (Major)** — Consumable · ammunition · prototype
+- **Electrifying Cartridge (Average)** — Consumable · ammunition · premium
+- **Electrifying Cartridge (Deadly)** — Consumable · ammunition · advanced
+- **Electrifying Cartridge (Devastating)** — Consumable · ammunition · artifact
+- **Electrifying Cartridge (Lethal)** — Consumable · ammunition · legendary
+- **Electrifying Cartridge (Major)** — Consumable · ammunition · prototype
+- **Electrifying Collimator (Average)** — Consumable · ammunition · premium
+- **Electrifying Collimator (Deadly)** — Consumable · ammunition · advanced
+- **Electrifying Collimator (Devastating)** — Consumable · ammunition · artifact
+- **Electrifying Collimator (Lethal)** — Consumable · ammunition · legendary
+- **Electrifying Collimator (Major)** — Consumable · ammunition · prototype
+- **Electrifying Dart (Average)** — Consumable · ammunition · premium
+- **Electrifying Dart (Deadly)** — Consumable · ammunition · advanced
+- **Electrifying Dart (Devastating)** — Consumable · ammunition · artifact
+- **Electrifying Dart (Lethal)** — Consumable · ammunition · legendary
+- **Electrifying Dart (Major)** — Consumable · ammunition · prototype
+- **Electrifying Oscillator** — ItemModification · vibroweapon · prototype
+- **Elongating Dataport Mk I** — ItemModification · wristpad · standard
+- **Elongating Dataport Mk II** — ItemModification · wristpad · premium
+- **Elongating Dataport Mk III** — ItemModification · wristpad · prototype
+- **Elongating Dataport Mk IV** — ItemModification · wristpad · advanced
+- **Elongating Dataport Mk V** — ItemModification · wristpad · legendary
+- **Elongating Dataport Mk VI** — ItemModification · wristpad · artifact
+- **Elongating Emitter (Adept)** — ItemModification · focus generator · advanced
+- **Elongating Emitter (Ancient)** — ItemModification · focus generator · artifact
+- **Elongating Emitter (Apprentice)** — ItemModification · focus generator · premium
+- **Elongating Emitter (Journeyman)** — ItemModification · focus generator · prototype
+- **Elongating Emitter (Master)** — ItemModification · focus generator · legendary
+- **Elongating Emitter (Novice)** — ItemModification · focus generator · standard
+- **Emergency Landing Braces** — ItemModification · armor · standard
+- **Empathic Pattern (Basic)** — ItemModification · clothing · standard
+- **Empathic Pattern (Choice)** — ItemModification · clothing · advanced
+- **Empathic Pattern (Elite)** — ItemModification · clothing · legendary
+- **Empathic Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Empathic Pattern (Favored)** — ItemModification · clothing · prototype
+- **Empathic Pattern (Fine)** — ItemModification · clothing · premium
+- **Engineer Defensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in engineer
+- **Engineer Offensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in engineer
+- **Enhanced Endurance** — ItemModification · armor · premium · pré-req: Armor
+- **Enhanced Reconstructor** — DroidCustomization · protocol · premium · pré-req: Class IV droid
+- **Enlarging Channel (Chipped)** — ItemModification · focus generator · premium
+- **Enlarging Channel (Cracked)** — ItemModification · focus generator · standard
+- **Enlarging Channel (Flawed)** — ItemModification · focus generator · prototype
+- **Enlarging Channel (Flawless)** — ItemModification · focus generator · legendary
+- **Enlarging Channel (Perfect)** — ItemModification · focus generator · artifact
+- **Enlarging Channel (Regular)** — ItemModification · focus generator · advanced
+- **Enlarging Processor (Adequate)** — ItemModification · wristpad · premium
+- **Enlarging Processor (Excellent)** — ItemModification · wristpad · advanced
+- **Enlarging Processor (Leading)** — ItemModification · wristpad · prototype
+- **Enlarging Processor (Outstanding)** — ItemModification · wristpad · legendary
+- **Enlarging Processor (Prime)** — ItemModification · wristpad · artifact
+- **Enlarging Processor (Simple)** — ItemModification · wristpad · standard
+- **Environmental Barrier Mk I** — Consumable · barrier · standard
+- **Environmental Barrier Mk II** — Consumable · barrier · premium
+- **Environmental Barrier Mk III** — Consumable · barrier · prototype
+- **Environmental Barrier Mk IV** — Consumable · barrier · advanced
+- **Environmental Barrier Mk V** — Consumable · barrier · legendary
+- **Environmental Barrier Mk VI** — Consumable · barrier · artifact
+- **Expanded Magazine** — ItemModification · blaster · standard
+- **Expanded Magazine (Champion)** — ItemModification · blaster · artifact
+- **Expanded Magazine (Exceptional)** — ItemModification · blaster · legendary
+- **Expanded Magazine (Fine)** — ItemModification · blaster · premium
+- **Expanded Magazine (Improved)** — ItemModification · blaster · prototype
+- **Expanded Magazine (Superior)** — ItemModification · blaster · advanced
+- **Expanding Amplifier (Basic)** — ItemModification · wristpad · standard
+- **Expanding Amplifier (Champion)** — ItemModification · wristpad · artifact
+- **Expanding Amplifier (Exceptional)** — ItemModification · wristpad · legendary
+- **Expanding Amplifier (Fine)** — ItemModification · wristpad · premium
+- **Expanding Amplifier (Improved)** — ItemModification · wristpad · prototype
+- **Expanding Amplifier (Superior)** — ItemModification · wristpad · advanced
+- **Expanding Conductor (Basic)** — ItemModification · focus generator · standard
+- **Expanding Conductor (Champion)** — ItemModification · focus generator · artifact
+- **Expanding Conductor (Exceptional)** — ItemModification · focus generator · legendary
+- **Expanding Conductor (Fine)** — ItemModification · focus generator · premium
+- **Expanding Conductor (Improved)** — ItemModification · focus generator · prototype
+- **Expanding Conductor (Superior)** — ItemModification · focus generator · advanced
+- **Extended Beam** — ItemModification · lightweapon · advanced
+- **Extended Subroutine** — ItemModification · wristpad · Premium
+- **Extending Cycler (Basic)** — ItemModification · focus generator · standard
+- **Extending Cycler (Champion)** — ItemModification · focus generator · artifact
+- **Extending Cycler (Exceptional)** — ItemModification · focus generator · legendary
+- **Extending Cycler (Fine)** — ItemModification · focus generator · premium
+- **Extending Cycler (Improved)** — ItemModification · focus generator · prototype
+- **Extending Cycler (Superior)** — ItemModification · focus generator · advanced
+- **Extending Motherboard (Basic)** — ItemModification · wristpad · standard
+- **Extending Motherboard (Champion)** — ItemModification · wristpad · artifact
+- **Extending Motherboard (Exceptional)** — ItemModification · wristpad · legendary
+- **Extending Motherboard (Fine)** — ItemModification · wristpad · premium
+- **Extending Motherboard (Improved)** — ItemModification · wristpad · prototype
+- **Extending Motherboard (Superior)** — ItemModification · wristpad · advanced
+- **Fadecasting Channel (Dueling)** — ItemModification · focus generator · prototype
+- **Fadecasting Channel (Fighting)** — ItemModification · focus generator · premium
+- **Fadecasting Channel (Mastery)** — ItemModification · focus generator · advanced
+- **Fadecasting Channel (Training)** — ItemModification · focus generator · standard
+- **Fadecasting Core (Dueling)** — ItemModification · blaster · prototype
+- **Fadecasting Core (Fighting)** — ItemModification · blaster · premium
+- **Fadecasting Core (Mastery)** — ItemModification · blaster · advanced
+- **Fadecasting Core (Training)** — ItemModification · blaster · standard
+- **Fadecasting Crystal (Dueling)** — ItemModification · lightweapon · prototype
+- **Fadecasting Crystal (Fighting)** — ItemModification · lightweapon · premium
+- **Fadecasting Crystal (Mastery)** — ItemModification · lightweapon · advanced
+- **Fadecasting Crystal (Training)** — ItemModification · lightweapon · standard
+- **Fadecasting Guard (Adept)** — ItemModification · vibroweapon · advanced
+- **Fadecasting Guard (Apprentice)** — ItemModification · vibroweapon · premium
+- **Fadecasting Guard (Journeyman)** — ItemModification · vibroweapon · prototype
+- **Fadecasting Guard (Novice)** — ItemModification · vibroweapon · standard
+- **Fadecasting Inlay (Adept)** — ItemModification · clothing · advanced
+- **Fadecasting Inlay (Apprentice)** — ItemModification · clothing · premium
+- **Fadecasting Inlay (Journeyman)** — ItemModification · clothing · prototype
+- **Fadecasting Inlay (Novice)** — ItemModification · clothing · standard
+- **Fadecasting Oscillator Mk I** — ItemModification · vibroweapon · standard
+- **Fadecasting Oscillator Mk II** — ItemModification · vibroweapon · premium
+- **Fadecasting Oscillator Mk III** — ItemModification · vibroweapon · prototype
+- **Fadecasting Oscillator Mk IV** — ItemModification · vibroweapon · advanced
+- **Fadecasting Overlay (Adept)** — ItemModification · armor · advanced
+- **Fadecasting Overlay (Apprentice)** — ItemModification · armor · premium
+- **Fadecasting Overlay (Journeyman)** — ItemModification · armor · prototype
+- **Fadecasting Overlay (Novice)** — ItemModification · armor · standard
+- **Fadecasting Processor (Dueling)** — ItemModification · wristpad · prototype
+- **Fadecasting Processor (Fighting)** — ItemModification · wristpad · premium
+- **Fadecasting Processor (Mastery)** — ItemModification · wristpad · advanced
+- **Fadecasting Processor (Training)** — ItemModification · wristpad · standard
+- **Fadecasting Stitching Mk I** — ItemModification · clothing · standard
+- **Fadecasting Stitching Mk II** — ItemModification · clothing · premium
+- **Fadecasting Stitching Mk III** — ItemModification · clothing · prototype
+- **Fadecasting Stitching Mk IV** — ItemModification · clothing · advanced
+- **Fadecasting Underlay Mk I** — ItemModification · armor · standard
+- **Fadecasting Underlay Mk II** — ItemModification · armor · premium
+- **Fadecasting Underlay Mk III** — ItemModification · armor · prototype
+- **Fadecasting Underlay Mk IV** — ItemModification · armor · advanced
+- **Fading Cycler (Ascendancy)** — ItemModification · focus generator · artifact
+- **Fading Cycler (Fighting)** — ItemModification · focus generator · premium
+- **Fading Cycler (Mastery)** — ItemModification · focus generator · advanced
+- **Fading Motherboard (Ascendancy)** — ItemModification · wristpad · artifact
+- **Fading Motherboard (Fighting)** — ItemModification · wristpad · premium
+- **Fading Motherboard (Mastery)** — ItemModification · wristpad · advanced
+- **Fiber-Alloy Guard** — ItemModification · vibroweapon · advanced · pré-req: Two-handed property
+- **Fighter Defensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in fighter
+- **Fighter Offensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in fighter
+- **Finesse Oscillator** — ItemModification · vibroweapon · premium · pré-req: Lacks dexterity, two-handed, or versatile property
+- **Flashlight Attachment** — ItemModification · blaster · standard
+- **Flashlight Guard** — ItemModification · vibroweapon · standard
+- **Flashy** — Weapon · heavy pistol · premium
+- **Flechette Clip, Fragmentation (Average)** — Consumable · ammunition · premium
+- **Flechette Clip, Fragmentation (Deadly)** — Consumable · ammunition · advanced
+- **Flechette Clip, Fragmentation (Devastating)** — Consumable · ammunition · artifact
+- **Flechette Clip, Fragmentation (Lethal)** — Consumable · ammunition · legendary
+- **Flechette Clip, Fragmentation (Major)** — Consumable · ammunition · prototype
+- **Flechette Clip, Ion (Average)** — Consumable · ammunition · premium
+- **Flechette Clip, Ion (Deadly)** — Consumable · ammunition · advanced
+- **Flechette Clip, Ion (Devastating)** — Consumable · ammunition · artifact
+- **Flechette Clip, Ion (Lethal)** — Consumable · ammunition · legendary
+- **Flechette Clip, Ion (Major)** — Consumable · ammunition · prototype
+- **Flechette Clip, Plasma (Average)** — Consumable · ammunition · premium
+- **Flechette Clip, Plasma (Deadly)** — Consumable · ammunition · advanced
+- **Flechette Clip, Plasma (Devastating)** — Consumable · ammunition · artifact
+- **Flechette Clip, Plasma (Lethal)** — Consumable · ammunition · legendary
+- **Flechette Clip, Plasma (Major)** — Consumable · ammunition · prototype
+- **Flechette Mag, Fragmentation (Average)** — Consumable · ammunition · premium
+- **Flechette Mag, Fragmentation (Deadly)** — Consumable · ammunition · advanced
+- **Flechette Mag, Fragmentation (Devastating)** — Consumable · ammunition · artifact
+- **Flechette Mag, Fragmentation (Lethal)** — Consumable · ammunition · legendary
+- **Flechette Mag, Fragmentation (Major)** — Consumable · ammunition · prototype
+- **Flechette Mag, Ion (Average)** — Consumable · ammunition · premium
+- **Flechette Mag, Ion (Deadly)** — Consumable · ammunition · advanced
+- **Flechette Mag, Ion (Devastating)** — Consumable · ammunition · artifact
+- **Flechette Mag, Ion (Lethal)** — Consumable · ammunition · legendary
+- **Flechette Mag, Ion (Major)** — Consumable · ammunition · prototype
+- **Flechette Mag, Plasma (Average)** — Consumable · ammunition · premium
+- **Flechette Mag, Plasma (Deadly)** — Consumable · ammunition · advanced
+- **Flechette Mag, Plasma (Devastating)** — Consumable · ammunition · artifact
+- **Flechette Mag, Plasma (Lethal)** — Consumable · ammunition · legendary
+- **Flechette Mag, Plasma (Major)** — Consumable · ammunition · prototype
+- **Flexible Armoring** — ItemModification · armor · premium · pré-req: Armor
+- **Flightsuit** — AdventuringGear · body · standard
+- **Flux Collimator (Average)** — Consumable · ammunition · premium
+- **Flux Collimator (Deadly)** — Consumable · ammunition · advanced
+- **Flux Collimator (Devastating)** — Consumable · ammunition · artifact
+- **Flux Collimator (Lethal)** — Consumable · ammunition · legendary
+- **Flux Collimator (Major)** — Consumable · ammunition · prototype
+- **Focus Generator (Fine)** — Focus · force · premium · sintonia
+- **Focus Generator (Improved)** — Focus · force · prototype · sintonia
+- **Focus Generator (Superior)** — Focus · force · advanced · sintonia
+- **Focus Generator Chassis (Advanced)** — Focus · force · advanced · sintonia
+- **Focus Generator Chassis (Artifact)** — Focus · force · artifact · sintonia
+- **Focus Generator Chassis (Legendary)** — Focus · force · legendary · sintonia
+- **Focus Generator Chassis (Premium)** — Focus · force · premium · sintonia
+- **Focus Generator Chassis (Prototype)** — Focus · force · prototype · sintonia
+- **Focus Generator Chassis (Standard)** — Focus · force · standard · sintonia
+- **Focused Amplifier** — ItemModification · wristpad · standard
+- **Focused Conductor** — ItemModification · focus generator · standard
+- **Focusing Scope** — ItemModification · blaster · standard
+- **Forged Ferricite Ascendancy Channel** — ItemModification · focus generator · artifact
+- **Forged Ferricite Dueling Channel** — ItemModification · focus generator · prototype
+- **Forged Ferricite Fighting Channel** — ItemModification · focus generator · premium
+- **Forged Ferricite Mastery Channel** — ItemModification · focus generator · advanced
+- **Forged Ferricite Supremacy Channel** — ItemModification · focus generator · legendary
+- **Fortitude Enhancer Mk I** — CyberneticAugmentation · enhancement · premium · pré-req: Strength 13
+- **Fortitude Enhancer Mk II** — CyberneticAugmentation · enhancement · advanced · pré-req: Constitution 13
+- **Fortitude Enhancer Mk III** — CyberneticAugmentation · enhancement · artifact · pré-req: Strength and Constitution 15
+- **Fortitude Protocol Mk I** — DroidCustomization · protocol · premium · sintonia
+- **Fortitude Protocol Mk II** — DroidCustomization · protocol · advanced · sintonia
+- **Fortitude Protocol Mk III** — DroidCustomization · protocol · artifact · sintonia
+- **Four-Armed Combatant** — DroidCustomization · part · standard · pré-req: Class IV droid
+- **GNS Strength Enhancer** — AdventuringGear · waist · legendary · sintonia
+- **Gas Cartridge (Average)** — Consumable · ammunition · premium
+- **Gas Cartridge (Deadly)** — Consumable · ammunition · advanced
+- **Gas Cartridge (Devastating)** — Consumable · ammunition · artifact
+- **Gas Cartridge (Lethal)** — Consumable · ammunition · legendary
+- **Gas Cartridge (Major)** — Consumable · ammunition · prototype
+- **Gauntlet Armoring** — ItemModification · armor · standard · pré-req: Armor
+- **Gauntlet Armoring Mk II** — ItemModification · armor · prototype · pré-req: Armor
+- **Gauntlet Armoring Mk III** — ItemModification · armor · legendary · pré-req: Armor
+- **Gauntlets of the Warrior** — AdventuringGear · hands · prototype · sintonia · pré-req: at least 3 levels in guardian
+- **Ghostfire Crystal** — ItemModification · lightweapon · legendary
+- **Giggledust (Fine)** — Consumable · substance · premium
+- **Giggledust (High Quality)** — Consumable · substance · advanced
+- **Giggledust (Potent)** — Consumable · substance · legendary
+- **Giggledust (Pure)** — Consumable · substance · artifact
+- **Giggledust (Uncut)** — Consumable · substance · prototype
+- **Glitterstim (Fine)** — Consumable · substance · premium
+- **Glitterstim (High Quality)** — Consumable · substance · advanced
+- **Glitterstim (Potent)** — Consumable · substance · legendary
+- **Glitterstim (Pure)** — Consumable · substance · artifact
+- **Glitterstim (Uncut)** — Consumable · substance · prototype
+- **Gloom Cell** — ItemModification · lightweapon · standard
+- **Goggles of the Tinkerer** — AdventuringGear · head · prototype · sintonia · pré-req: at least 3 levels in engineer
+- **Grappling Harpoon** — ItemModification · armor · prototype · pré-req: Armor
+- **Grenade Launcher (Champion)** — Weapon · grenade launcher · artifact
+- **Grenade Launcher (Exceptional)** — Weapon · grenade launcher · legendary
+- **Grenade Launcher (Fine)** — Weapon · grenade launcher · premium
+- **Grenade Launcher (Improved)** — Weapon · grenade launcher · prototype
+- **Grenade Launcher (Superior)** — Weapon · grenade launcher · advanced
+- **Grenade, Corrosive (Average)** — Consumable · explosive · premium
+- **Grenade, Corrosive (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Corrosive (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Corrosive (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Corrosive (Major)** — Consumable · explosive · prototype
+- **Grenade, Cryo (Average)** — Consumable · explosive · premium
+- **Grenade, Cryo (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Cryo (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Cryo (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Cryo (Major)** — Consumable · explosive · prototype
+- **Grenade, Deafening (Average)** — Consumable · explosive · premium
+- **Grenade, Deafening (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Deafening (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Deafening (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Deafening (Major)** — Consumable · explosive · prototype
+- **Grenade, Electrifying (Average)** — Consumable · explosive · premium
+- **Grenade, Electrifying (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Electrifying (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Electrifying (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Electrifying (Major)** — Consumable · explosive · prototype
+- **Grenade, Flash (Average)** — Consumable · explosive · premium
+- **Grenade, Flash (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Flash (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Flash (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Flash (Major)** — Consumable · explosive · prototype
+- **Grenade, Fragmentation (Average)** — Consumable · explosive · premium
+- **Grenade, Fragmentation (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Fragmentation (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Fragmentation (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Fragmentation (Major)** — Consumable · explosive · prototype
+- **Grenade, Gas (Average)** — Consumable · explosive · premium
+- **Grenade, Gas (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Gas (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Gas (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Gas (Major)** — Consumable · explosive · prototype
+- **Grenade, Incendiary (Average)** — Consumable · explosive · premium
+- **Grenade, Incendiary (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Incendiary (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Incendiary (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Incendiary (Major)** — Consumable · explosive · prototype
+- **Grenade, Ion (Average)** — Consumable · explosive · premium
+- **Grenade, Ion (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Ion (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Ion (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Ion (Major)** — Consumable · explosive · prototype
+- **Grenade, Panic (Average)** — Consumable · explosive · premium
+- **Grenade, Panic (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Panic (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Panic (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Panic (Major)** — Consumable · explosive · prototype
+- **Grenade, Plasma (Average)** — Consumable · explosive · premium
+- **Grenade, Plasma (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Plasma (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Plasma (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Plasma (Major)** — Consumable · explosive · prototype
+- **Grenade, Stun (Average)** — Consumable · explosive · premium
+- **Grenade, Stun (Deadly)** — Consumable · explosive · advanced
+- **Grenade, Stun (Devastating)** — Consumable · explosive · artifact
+- **Grenade, Stun (Lethal)** — Consumable · explosive · legendary
+- **Grenade, Stun (Major)** — Consumable · explosive · prototype
+- **Guard Amplifier (Adept)** — ItemModification · vibroweapon · advanced
+- **Guard Amplifier (Apprentice)** — ItemModification · vibroweapon · premium
+- **Guard Amplifier (Journeyman)** — ItemModification · vibroweapon · prototype
+- **Guard Amplifier (Novice)** — ItemModification · vibroweapon · standard
+- **Guard Rangefinder (Adept)** — ItemModification · vibroweapon · advanced
+- **Guard Rangefinder (Apprentice)** — ItemModification · vibroweapon · premium
+- **Guard Rangefinder (Journeyman)** — ItemModification · vibroweapon · prototype
+- **Guard Rangefinder (Novice)** — ItemModification · vibroweapon · standard
+- **Guardian Defensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in guardian
+- **Guardian Offensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in guardian
+- **Handwraps (Basic)** — AdventuringGear · hands · standard
+- **Handwraps (Champion)** — AdventuringGear · hands · artifact
+- **Handwraps (Exceptional)** — AdventuringGear · hands · legendary
+- **Handwraps (Fine)** — AdventuringGear · hands · premium
+- **Handwraps (Improved)** — AdventuringGear · hands · prototype
+- **Handwraps (Superior)** — AdventuringGear · hands · advanced
+- **Handwraps Chassis (Advanced)** — AdventuringGear · hands · advanced · sintonia
+- **Handwraps Chassis (Artifact)** — AdventuringGear · hands · artifact · sintonia
+- **Handwraps Chassis (Legendary)** — AdventuringGear · hands · legendary · sintonia
+- **Handwraps Chassis (Premium)** — AdventuringGear · hands · premium · sintonia
+- **Handwraps Chassis (Prototype)** — AdventuringGear · hands · prototype · sintonia
+- **Handwraps Chassis (Standard)** — AdventuringGear · hands · standard · sintonia
+- **Hardy Torso Prosthesis** — CyberneticAugmentation · replacement · standard
+- **Harpoon Reel Attachment** — ItemModification · blaster · prototype
+- **Harpoon Reel Guard** — ItemModification · vibroweapon · prototype
+- **Hawkeye Ocular Package** — CyberneticAugmentation · replacement · premium · pré-req: Intelligence 13
+- **Heavy Cell** — ItemModification · lightweapon · premium
+- **Heavy Oscillator** — ItemModification · vibroweapon · premium
+- **Heavy Suit** — ItemModification · armor · premium · pré-req: Armor
+- **Heightened Subroutine** — ItemModification · wristpad · Prototype
+- **Helisaber Attachment** — ItemModification · lightweapon · premium · pré-req: Double property
+- **Hewey** — Weapon · vibroblade · advanced
+- **Hidden Compartment Blaster** — CyberneticAugmentation · enhancement · standard
+- **High-Grade Cybernetic Arm** — CyberneticAugmentation · replacement · prototype · pré-req: Constitution 13
+- **High-Grade Cybernetic Legs** — CyberneticAugmentation · replacement · prototype · pré-req: Constitution 13
+- **Hilt Blaster** — ItemModification · lightweapon · premium
+- **Holocron (Adept)** — AdventuringGear · advanced
+- **Holocron (Ancient)** — AdventuringGear · artifact
+- **Holocron (Apprentice)** — AdventuringGear · premium
+- **Holocron (Journeyman)** — AdventuringGear · prototype
+- **Holocron (Master)** — AdventuringGear · legendary
+- **Holocron (Novice)** — AdventuringGear · standard
+- **Horizontal Exojets** — ItemModification · armor · premium · pré-req: Armor
+- **Humanoid Replicant** — DroidCustomization · part · standard · pré-req: Humanoid proportions
+- **Hydraulic Equalizer** — ItemModification · armor · standard
+- **Hydraulic Equalizer Mk II** — ItemModification · armor · premium
+- **Hydraulic Equalizer Mk III** — ItemModification · armor · prototype
+- **Hydraulic Equalizer Mk IV** — ItemModification · armor · advanced
+- **Hydraulic Equalizer Mk V** — ItemModification · armor · legendary
+- **Hydraulic Equalizer Mk VI** — ItemModification · armor · artifact
+- **Impermeable Armoring** — ItemModification · armor · standard · pré-req: Armor
+- **Impermeable Inlay (Basic)** — ItemModification · clothing · standard
+- **Impermeable Inlay (Champion)** — ItemModification · clothing · artifact
+- **Impermeable Inlay (Exceptional)** — ItemModification · clothing · legendary
+- **Impermeable Inlay (Fine)** — ItemModification · clothing · premium
+- **Impermeable Inlay (Improved)** — ItemModification · clothing · prototype
+- **Impermeable Inlay (Superior)** — ItemModification · clothing · advanced
+- **Impermeable Overlay Mk I** — ItemModification · armor · standard · pré-req: Armor
+- **Impermeable Overlay Mk II** — ItemModification · armor · premium · pré-req: Armor
+- **Impermeable Overlay Mk III** — ItemModification · armor · prototype · pré-req: Armor
+- **Impermeable Overlay Mk IV** — ItemModification · armor · advanced · pré-req: Armor
+- **Impermeable Overlay Mk V** — ItemModification · armor · legendary · pré-req: Armor
+- **Impermeable Overlay Mk VI** — ItemModification · armor · artifact · pré-req: Armor
+- **Improved Subroutine** — ItemModification · wristpad · Premium
+- **Incendiary Cell (Average)** — Consumable · ammunition · premium
+- **Incendiary Cell (Deadly)** — Consumable · ammunition · advanced
+- **Incendiary Cell (Devastating)** — Consumable · ammunition · artifact
+- **Incendiary Cell (Lethal)** — Consumable · ammunition · legendary
+- **Incendiary Cell (Major)** — Consumable · ammunition · prototype
+- **Inconspicuous Shielding** — ItemModification · armor · standard
+- **Increasing Cycler (Adept)** — ItemModification · focus generator · advanced
+- **Increasing Cycler (Ancient)** — ItemModification · focus generator · artifact
+- **Increasing Cycler (Apprentice)** — ItemModification · focus generator · premium
+- **Increasing Cycler (Journeyman)** — ItemModification · focus generator · prototype
+- **Increasing Cycler (Master)** — ItemModification · focus generator · legendary
+- **Increasing Cycler (Novice)** — ItemModification · focus generator · standard
+- **Increasing Motherboard Mk I** — ItemModification · wristpad · standard
+- **Increasing Motherboard Mk II** — ItemModification · wristpad · premium
+- **Increasing Motherboard Mk III** — ItemModification · wristpad · prototype
+- **Increasing Motherboard Mk IV** — ItemModification · wristpad · advanced
+- **Increasing Motherboard Mk V** — ItemModification · wristpad · legendary
+- **Increasing Motherboard Mk VI** — ItemModification · wristpad · artifact
+- **Indomitable Fortress Package** — CyberneticAugmentation · enhancement · legendary · pré-req: Constitution 15
+- **Infiltration Package** — CyberneticAugmentation · replacement · premium
+- **Inflating Amplifier (Adequate)** — ItemModification · wristpad · premium
+- **Inflating Amplifier (Excellent)** — ItemModification · wristpad · advanced
+- **Inflating Amplifier (Leading)** — ItemModification · wristpad · prototype
+- **Inflating Amplifier (Outstanding)** — ItemModification · wristpad · legendary
+- **Inflating Amplifier (Prime)** — ItemModification · wristpad · artifact
+- **Inflating Amplifier (Simple)** — ItemModification · wristpad · standard
+- **Inflating Conductor (Chipped)** — ItemModification · focus generator · premium
+- **Inflating Conductor (Cracked)** — ItemModification · focus generator · standard
+- **Inflating Conductor (Flawed)** — ItemModification · focus generator · prototype
+- **Inflating Conductor (Flawless)** — ItemModification · focus generator · legendary
+- **Inflating Conductor (Perfect)** — ItemModification · focus generator · artifact
+- **Inflating Conductor (Regular)** — ItemModification · focus generator · advanced
+- **Inlay Amplifier (Adept)** — ItemModification · clothing · advanced
+- **Inlay Amplifier (Apprentice)** — ItemModification · clothing · premium
+- **Inlay Amplifier (Journeyman)** — ItemModification · clothing · prototype
+- **Inlay Amplifier (Novice)** — ItemModification · clothing · standard
+- **Inlay Rangefinder (Adept)** — ItemModification · clothing · advanced
+- **Inlay Rangefinder (Apprentice)** — ItemModification · clothing · premium
+- **Inlay Rangefinder (Journeyman)** — ItemModification · clothing · prototype
+- **Inlay Rangefinder (Novice)** — ItemModification · clothing · standard
+- **Inquisitor Saber** — Weapon · any lightweapon · prototype · sintonia · pré-req: Double property
+- **Insulated Pattern (Basic)** — ItemModification · clothing · standard
+- **Insulated Pattern (Champion)** — ItemModification · clothing · artifact
+- **Insulated Pattern (Exceptional)** — ItemModification · clothing · legendary
+- **Insulated Pattern (Fine)** — ItemModification · clothing · premium
+- **Insulated Pattern (Improved)** — ItemModification · clothing · prototype
+- **Insulated Pattern (Superior)** — ItemModification · clothing · advanced
+- **Insulated Reinforcement (Basic)** — ItemModification · armor · standard
+- **Insulated Reinforcement (Champion)** — ItemModification · armor · artifact
+- **Insulated Reinforcement (Exceptional)** — ItemModification · armor · legendary
+- **Insulated Reinforcement (Fine)** — ItemModification · armor · premium
+- **Insulated Reinforcement (Improved)** — ItemModification · armor · prototype
+- **Insulated Reinforcement (Superior)** — ItemModification · armor · advanced
+- **Integrated Jetboosters Mk I** — ItemModification · armor · prototype · pré-req: Armor
+- **Integrated Subdermal Armor** — CyberneticAugmentation · enhancement · premium
+- **Integrated Subdermal Armor Mk II** — CyberneticAugmentation · enhancement · prototype
+- **Intelligence Augment (Basic)** — ItemModification · augment · standard
+- **Intelligence Augment (Champion)** — ItemModification · augment · artifact
+- **Intelligence Augment (Exceptional)** — ItemModification · augment · legendary
+- **Intelligence Augment (Fine)** — ItemModification · augment · premium
+- **Intelligence Augment (Improved)** — ItemModification · augment · prototype
+- **Intelligence Augment (Superior)** — ItemModification · augment · advanced
+- **Intelligence Enhancement (Basic)** — CyberneticAugmentation · enhancement · standard · pré-req: Intelligence 11
+- **Intelligence Stim (Basic)** — Consumable · stimpac · standard
+- **Intelligence Stim (Champion)** — Consumable · stimpac · artifact
+- **Intelligence Stim (Exceptional)** — Consumable · stimpac · legendary
+- **Intelligence Stim (Fine)** — Consumable · stimpac · premium
+- **Intelligence Stim (Improved)** — Consumable · stimpac · prototype
+- **Intelligence Stim (Superior)** — Consumable · stimpac · advanced
+- **Intelligence Weave (Basic)** — ItemModification · clothing · standard
+- **Intelligence Weave (Exceptional)** — ItemModification · clothing · legendary
+- **Intelligence Weave (Improved)** — ItemModification · clothing · prototype
+- **Interface Protocol** — DroidCustomization · protocol · standard
+- **Interfaced Assistance Protocol** — DroidCustomization · protocol · standard
+- **Interfaced Crafting Protocol** — DroidCustomization · protocol · standard
+- **Interfaced Distraction Protocol** — DroidCustomization · protocol · standard
+- **Interfaced Healing Protocol** — DroidCustomization · protocol · standard
+- **Interfaced Tracking Protocol** — DroidCustomization · protocol · standard
+- **Interlocking Shielding** — ItemModification · armor · premium
+- **Interlocking Shielding Mk II** — ItemModification · armor · advanced
+- **Interlocking Shielding Mk III** — ItemModification · armor · artifact
+- **Intuitive Facial Prosthesis** — CyberneticAugmentation · replacement · standard
+- **Investigator's Pattern (Basic)** — ItemModification · clothing · standard
+- **Investigator's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Investigator's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Investigator's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Investigator's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Investigator's Pattern (Fine)** — ItemModification · clothing · premium
+- **Ion Amplifying Core** — ItemModification · blaster · premium · pré-req: Ion damage
+- **Iridonian Grav-lev Arm** — CyberneticAugmentation · replacement · premium · pré-req: Constitution 13
+- **J-19 Bo-Rifle** — Weapon · bo-rifle · premium
+- **Jedi Knight's Robe** — AdventuringGear · body · prototype · sintonia
+- **Jedi Master's Robe** — AdventuringGear · body · advanced · sintonia
+- **Jedi Padawan's Robe** — AdventuringGear · body · premium · sintonia
+- **Jensaarai Armor** — Armor · any medium · prototype · sintonia
+- **Jensaarai Cloak** — AdventuringGear · shoulders · premium · sintonia
+- **Jensaarai Headgear** — AdventuringGear · head · advanced · sintonia
+- **Jetpack (Champion)** — AdventuringGear · back · artifact
+- **Jetpack (Exceptional)** — AdventuringGear · back · legendary
+- **Jetpack (Fine)** — AdventuringGear · back · premium
+- **Jetpack (Improved)** — AdventuringGear · back · prototype
+- **Jetpack (Superior)** — AdventuringGear · back · advanced
+- **Karrak (Fine)** — Consumable · substance · premium
+- **Karrak (High Quality)** — Consumable · substance · advanced
+- **Karrak (Potent)** — Consumable · substance · legendary
+- **Karrak (Pure)** — Consumable · substance · artifact
+- **Karrak (Uncut)** — Consumable · substance · prototype
+- **Keen Beam** — ItemModification · lightweapon · premium
+- **Keen Beam (Deadly)** — ItemModification · lightweapon · advanced
+- **Keen Beam (Devastating)** — ItemModification · lightweapon · artifact
+- **Keen Core** — ItemModification · blaster · premium
+- **Keen Core (Deadly)** — ItemModification · blaster · advanced
+- **Keen Core (Devastating)** — ItemModification · blaster · artifact
+- **Keen Oscillator** — ItemModification · vibroweapon · premium
+- **Keen Oscillator (Deadly)** — ItemModification · vibroweapon · advanced
+- **Keen Oscillator (Devastating)** — ItemModification · vibroweapon · artifact
+- **Krayt Dragon Pearl (Flawless)** — ItemModification · lightweapon · legendary
+- **Krayt Dragon Pearl (Perfect)** — ItemModification · lightweapon · artifact
+- **Krayt Dragon Pearl (Regular)** — ItemModification · lightweapon · advanced
+- **Lambent Shielding** — ItemModification · armor · standard
+- **Leg Reinforcements** — DroidCustomization · part · standard
+- **Light Cell** — ItemModification · lightweapon · premium
+- **Light Core** — ItemModification · blaster · premium
+- **Light Oscillator** — ItemModification · vibroweapon · premium
+- **Lightweapon Chassis (Advanced)** — Weapon · any lightweapon · advanced · sintonia
+- **Lightweapon Chassis (Artifact)** — Weapon · any lightweapon · artifact · sintonia
+- **Lightweapon Chassis (Legendary)** — Weapon · any lightweapon · legendary · sintonia
+- **Lightweapon Chassis (Premium)** — Weapon · any lightweapon · premium · sintonia
+- **Lightweapon Chassis (Prototype)** — Weapon · any lightweapon · prototype · sintonia
+- **Lightweapon Chassis (Standard)** — Weapon · any lightweapon · standard · sintonia
+- **Lightweight Reinforcement** — ItemModification · armor · standard
+- **Lightweight Stabilizer Frame** — ItemModification · lightweapon · advanced · pré-req: Two-handed property
+- **Lightweight Weave** — ItemModification · clothing · standard
+- **Lingering Subroutine** — ItemModification · wristpad · Prototype
+- **Loremaster's Pattern (Basic)** — ItemModification · clothing · standard
+- **Loremaster's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Loremaster's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Loremaster's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Loremaster's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Loremaster's Pattern (Fine)** — ItemModification · clothing · premium
+- **Machinist's Catalyzer Mk I** — Consumable · technology · standard
+- **Machinist's Catalyzer Mk II** — Consumable · technology · premium
+- **Machinist's Catalyzer Mk III** — Consumable · technology · prototype
+- **Machinist's Catalyzer Mk IV** — Consumable · technology · advanced
+- **Mag-lock Boots** — AdventuringGear · feet · standard
+- **Magnetic Forearm Enhancement** — CyberneticAugmentation · replacement · standard
+- **Magnetic-Lock Grip** — ItemModification · lightweapon · standard
+- **Magnetized Shield** — ItemModification · armor · standard · pré-req: Physical shield
+- **Magnetized Shield (Champion)** — ItemModification · armor · artifact · pré-req: Physical shield
+- **Magnetized Shield (Exceptional)** — ItemModification · armor · legendary · pré-req: Physical shield
+- **Magnetized Shield (Fine)** — ItemModification · armor · premium · pré-req: Physical shield
+- **Magnetized Shield (Improved)** — ItemModification · armor · prototype · pré-req: Physical shield
+- **Magnetized Shield (Superior)** — ItemModification · armor · advanced · pré-req: Physical shield
+- **Manageability Armoring** — ItemModification · armor · standard · pré-req: Armor
+- **Mandalorian Beskar'gam** — Armor · any · prototype · sintonia
+- **Mandalorian Helmet** — AdventuringGear · head · premium · sintonia
+- **Mandalorian Shuk'orok** — AdventuringGear · hands · advanced · sintonia
+- **Manipulator Upgrade** — DroidCustomization · part · standard · pré-req: Class II droid
+- **Mantle of the Anomic** — AdventuringGear · shoulders · prototype · sintonia · pré-req: at least 3 levels in sentinel
+- **Maser Core** — ItemModification · blaster · standard
+- **Matrix Armor** — Armor · any heavy · premium
+- **Mechanic** — DroidCustomization · part · standard
+- **Medic** — DroidCustomization · part · standard
+- **Medic's Pattern (Basic)** — ItemModification · clothing · standard
+- **Medic's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Medic's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Medic's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Medic's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Medic's Pattern (Fine)** — ItemModification · clothing · premium
+- **Medpac (Champion)** — Consumable · medpac · artifact
+- **Medpac (Exceptional)** — Consumable · medpac · legendary
+- **Medpac (Fine)** — Consumable · medpac · premium
+- **Medpac (Improved)** — Consumable · medpac · prototype
+- **Medpac (Superior)** — Consumable · medpac · advanced
+- **MerenData Excelcior** — ItemModification · wristpad · standard
+- **Microphasic Hypervisor** — CyberneticAugmentation · replacement · prototype · pré-req: Constitution 13
+- **Mighty Athlete Package** — CyberneticAugmentation · enhancement · legendary · pré-req: Strength 15
+- **Mighty Build** — DroidCustomization · part · premium · pré-req: Class V droid
+- **Mighty Core** — ItemModification · blaster · premium · pré-req: Lacks strength property
+- **Mine, Corrosive (Average)** — Consumable · explosive · premium
+- **Mine, Corrosive (Deadly)** — Consumable · explosive · advanced
+- **Mine, Corrosive (Devastating)** — Consumable · explosive · artifact
+- **Mine, Corrosive (Lethal)** — Consumable · explosive · legendary
+- **Mine, Corrosive (Major)** — Consumable · explosive · prototype
+- **Mine, Cryo (Average)** — Consumable · explosive · premium
+- **Mine, Cryo (Deadly)** — Consumable · explosive · advanced
+- **Mine, Cryo (Devastating)** — Consumable · explosive · artifact
+- **Mine, Cryo (Lethal)** — Consumable · explosive · legendary
+- **Mine, Cryo (Major)** — Consumable · explosive · prototype
+- **Mine, Deafening (Average)** — Consumable · explosive · premium
+- **Mine, Deafening (Deadly)** — Consumable · explosive · advanced
+- **Mine, Deafening (Devastating)** — Consumable · explosive · artifact
+- **Mine, Deafening (Lethal)** — Consumable · explosive · legendary
+- **Mine, Deafening (Major)** — Consumable · explosive · prototype
+- **Mine, Electrifying (Average)** — Consumable · explosive · premium
+- **Mine, Electrifying (Deadly)** — Consumable · explosive · advanced
+- **Mine, Electrifying (Devastating)** — Consumable · explosive · artifact
+- **Mine, Electrifying (Lethal)** — Consumable · explosive · legendary
+- **Mine, Electrifying (Major)** — Consumable · explosive · prototype
+- **Mine, Flash (Average)** — Consumable · explosive · premium
+- **Mine, Flash (Deadly)** — Consumable · explosive · advanced
+- **Mine, Flash (Devastating)** — Consumable · explosive · artifact
+- **Mine, Flash (Lethal)** — Consumable · explosive · legendary
+- **Mine, Flash (Major)** — Consumable · explosive · prototype
+- **Mine, Fragmentation (Average)** — Consumable · explosive · premium
+- **Mine, Fragmentation (Deadly)** — Consumable · explosive · advanced
+- **Mine, Fragmentation (Devastating)** — Consumable · explosive · artifact
+- **Mine, Fragmentation (Lethal)** — Consumable · explosive · legendary
+- **Mine, Fragmentation (Major)** — Consumable · explosive · prototype
+- **Mine, Gas (Average)** — Consumable · explosive · premium
+- **Mine, Gas (Deadly)** — Consumable · explosive · advanced
+- **Mine, Gas (Devastating)** — Consumable · explosive · artifact
+- **Mine, Gas (Lethal)** — Consumable · explosive · legendary
+- **Mine, Gas (Major)** — Consumable · explosive · prototype
+- **Mine, Incendiary (Average)** — Consumable · explosive · premium
+- **Mine, Incendiary (Deadly)** — Consumable · explosive · advanced
+- **Mine, Incendiary (Devastating)** — Consumable · explosive · artifact
+- **Mine, Incendiary (Lethal)** — Consumable · explosive · legendary
+- **Mine, Incendiary (Major)** — Consumable · explosive · prototype
+- **Mine, Ion (Average)** — Consumable · explosive · premium
+- **Mine, Ion (Deadly)** — Consumable · explosive · advanced
+- **Mine, Ion (Devastating)** — Consumable · explosive · artifact
+- **Mine, Ion (Lethal)** — Consumable · explosive · legendary
+- **Mine, Ion (Major)** — Consumable · explosive · prototype
+- **Mine, Panic (Average)** — Consumable · explosive · premium
+- **Mine, Panic (Deadly)** — Consumable · explosive · advanced
+- **Mine, Panic (Devastating)** — Consumable · explosive · artifact
+- **Mine, Panic (Lethal)** — Consumable · explosive · legendary
+- **Mine, Panic (Major)** — Consumable · explosive · prototype
+- **Mine, Plasma (Average)** — Consumable · explosive · premium
+- **Mine, Plasma (Deadly)** — Consumable · explosive · advanced
+- **Mine, Plasma (Devastating)** — Consumable · explosive · artifact
+- **Mine, Plasma (Lethal)** — Consumable · explosive · legendary
+- **Mine, Plasma (Major)** — Consumable · explosive · prototype
+- **Mine, Stun (Average)** — Consumable · explosive · premium
+- **Mine, Stun (Deadly)** — Consumable · explosive · advanced
+- **Mine, Stun (Devastating)** — Consumable · explosive · artifact
+- **Mine, Stun (Lethal)** — Consumable · explosive · legendary
+- **Mine, Stun (Major)** — Consumable · explosive · prototype
+- **Missile, Fragmentation (Average)** — Consumable · ammunition · premium
+- **Missile, Fragmentation (Deadly)** — Consumable · ammunition · advanced
+- **Missile, Fragmentation (Devastating)** — Consumable · ammunition · artifact
+- **Missile, Fragmentation (Lethal)** — Consumable · ammunition · legendary
+- **Missile, Fragmentation (Major)** — Consumable · ammunition · prototype
+- **Missile, Incendiary (Average)** — Consumable · ammunition · premium
+- **Missile, Incendiary (Deadly)** — Consumable · ammunition · advanced
+- **Missile, Incendiary (Devastating)** — Consumable · ammunition · artifact
+- **Missile, Incendiary (Lethal)** — Consumable · ammunition · legendary
+- **Missile, Incendiary (Major)** — Consumable · ammunition · prototype
+- **Missile, Ion (Average)** — Consumable · ammunition · premium
+- **Missile, Ion (Deadly)** — Consumable · ammunition · advanced
+- **Missile, Ion (Devastating)** — Consumable · ammunition · artifact
+- **Missile, Ion (Lethal)** — Consumable · ammunition · legendary
+- **Missile, Ion (Major)** — Consumable · ammunition · prototype
+- **Mitigating Channel (Adept)** — ItemModification · focus generator · advanced
+- **Mitigating Channel (Ancient)** — ItemModification · focus generator · artifact
+- **Mitigating Channel (Apprentice)** — ItemModification · focus generator · premium
+- **Mitigating Channel (Journeyman)** — ItemModification · focus generator · prototype
+- **Mitigating Channel (Master)** — ItemModification · focus generator · legendary
+- **Mitigating Channel (Novice)** — ItemModification · focus generator · standard
+- **Mitigating Processor Mk I** — ItemModification · wristpad · standard
+- **Mitigating Processor Mk II** — ItemModification · wristpad · premium
+- **Mitigating Processor Mk III** — ItemModification · wristpad · prototype
+- **Mitigating Processor Mk IV** — ItemModification · wristpad · advanced
+- **Mitigating Processor Mk V** — ItemModification · wristpad · legendary
+- **Mitigating Processor Mk VI** — ItemModification · wristpad · artifact
+- **Monk Defensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in monk
+- **Monk Offensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in monk
+- **Monomolecular Oscillator Mk I** — ItemModification · vibroweapon · premium
+- **Monomolecular Oscillator Mk II** — ItemModification · vibroweapon · advanced
+- **Multispectral Optics (Champion)** — ItemModification · blaster · artifact
+- **Mummergy (Aged)** — Consumable · substance · advanced
+- **Mummergy (Fine)** — Consumable · substance · premium
+- **Mummergy (Matured)** — Consumable · substance · prototype
+- **Mummergy (Reserve)** — Consumable · substance · legendary
+- **Mummergy (Special)** — Consumable · substance · artifact
+- **Muon Gold (Fine)** — Consumable · substance · premium
+- **Muon Gold (High Quality)** — Consumable · substance · advanced
+- **Muon Gold (Potent)** — Consumable · substance · legendary
+- **Muon Gold (Pure)** — Consumable · substance · artifact
+- **Muon Gold (Uncut)** — Consumable · substance · prototype
+- **Nagai Edge (Basic)** — ItemModification · vibroweapon · standard
+- **Nagai Edge (Exceptional)** — ItemModification · vibroweapon · legendary
+- **Nagai Edge (Improved)** — ItemModification · vibroweapon · prototype
+- **Naturalist's Pattern (Basic)** — ItemModification · clothing · standard
+- **Naturalist's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Naturalist's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Naturalist's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Naturalist's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Naturalist's Pattern (Fine)** — ItemModification · clothing · premium
+- **Necklace of Determination** — AdventuringGear · neck · prototype · sintonia · pré-req: at least 3 levels in monk
+- **Net (Champion)** — Weapon · net · artifact
+- **Net (Exceptional)** — Weapon · net · legendary
+- **Net (Fine)** — Weapon · net · premium
+- **Net (Improved)** — Weapon · net · prototype
+- **Net (Superior)** — Weapon · net · advanced
+- **Neuralizing Oscillator** — ItemModification · vibroweapon · standard
+- **Neuralizing Oscillator Mk II** — ItemModification · vibroweapon · premium
+- **Neuralizing Oscillator Mk III** — ItemModification · vibroweapon · prototype
+- **Neuralizing Oscillator Mk IV** — ItemModification · vibroweapon · advanced
+- **Neuralizing Oscillator Mk V** — ItemModification · vibroweapon · legendary
+- **Neuralizing Oscillator Mk VI** — ItemModification · vibroweapon · artifact
+- **Neutronium Edge (Average)** — ItemModification · vibroweapon · premium
+- **Neutronium Edge (Deadly)** — ItemModification · vibroweapon · advanced
+- **Neutronium Edge (Major)** — ItemModification · vibroweapon · prototype
+- **Neutronium Edge (Minor)** — ItemModification · vibroweapon · standard
+- **Nighthawk Ocular Implant** — CyberneticAugmentation · replacement · premium · pré-req: Intelligence 13
+- **Novanian Grog (Aged)** — Consumable · substance · advanced
+- **Novanian Grog (Fine)** — Consumable · substance · premium
+- **Novanian Grog (Matured)** — Consumable · substance · prototype
+- **Novanian Grog (Reserve)** — Consumable · substance · legendary
+- **Novanian Grog (Special)** — Consumable · substance · artifact
+- **Obscured Armoring** — ItemModification · armor · premium · pré-req: Armor
+- **Obscured Stitching** — ItemModification · clothing · premium
+- **Operative Defensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in operative
+- **Operative Offensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in operative
+- **Optimized Actuators Mk I** — ItemModification · armor · standard · pré-req: Armor
+- **Orbalisk Armor** — Armor · heavy exoskeleton · prototype
+- **Oscillating Amplifier Mk I** — ItemModification · vibroweapon · standard
+- **Oscillating Amplifier Mk II** — ItemModification · vibroweapon · premium
+- **Oscillating Amplifier Mk III** — ItemModification · vibroweapon · prototype
+- **Oscillating Amplifier Mk IV** — ItemModification · vibroweapon · advanced
+- **Oscillating Rangefinder Mk I** — ItemModification · vibroweapon · standard
+- **Oscillating Rangefinder Mk II** — ItemModification · vibroweapon · premium
+- **Oscillating Rangefinder Mk III** — ItemModification · vibroweapon · prototype
+- **Oscillating Rangefinder Mk IV** — ItemModification · vibroweapon · advanced
+- **Oscillation Calibrator (Average)** — Consumable · ammunition · premium
+- **Oscillation Calibrator (Deadly)** — Consumable · ammunition · advanced
+- **Oscillation Calibrator (Devastating)** — Consumable · ammunition · artifact
+- **Oscillation Calibrator (Lethal)** — Consumable · ammunition · legendary
+- **Oscillation Calibrator (Major)** — Consumable · ammunition · prototype
+- **Ossus Dueling Lens** — ItemModification · lightweapon · prototype
+- **Ossus Fighting Lens** — ItemModification · lightweapon · premium
+- **Ossus Mastery Lens** — ItemModification · lightweapon · advanced
+- **Ossus Training Lens** — ItemModification · lightweapon · standard
+- **Ostrine Crystal (Flawless)** — ItemModification · lightweapon · legendary
+- **Ostrine Crystal (Perfect)** — ItemModification · lightweapon · artifact
+- **Ostrine Crystal (Regular)** — ItemModification · lightweapon · advanced
+- **Ostrine Edge (Deadly)** — ItemModification · vibroweapon · advanced
+- **Ostrine Edge (Devastating)** — ItemModification · vibroweapon · artifact
+- **Ostrine Edge (Lethal)** — ItemModification · vibroweapon · legendary
+- **Ostrine Splitter Mk I** — ItemModification · blaster · advanced
+- **Ostrine Splitter Mk II** — ItemModification · blaster · legendary
+- **Ostrine Splitter Mk III** — ItemModification · blaster · artifact
+- **Overlay Amplifier (Adept)** — ItemModification · armor · advanced
+- **Overlay Amplifier (Apprentice)** — ItemModification · armor · premium
+- **Overlay Amplifier (Journeyman)** — ItemModification · armor · prototype
+- **Overlay Amplifier (Novice)** — ItemModification · armor · standard
+- **Overlay Rangefinder (Adept)** — ItemModification · armor · advanced
+- **Overlay Rangefinder (Apprentice)** — ItemModification · armor · premium
+- **Overlay Rangefinder (Journeyman)** — ItemModification · armor · prototype
+- **Overlay Rangefinder (Novice)** — ItemModification · armor · standard
+- **Overload Shield** — ItemModification · armor · standard · pré-req: Shield generator
+- **Pacnorval Chem Integrator** — ItemModification · vibroweapon · premium
+- **Panic Calibrator (Average)** — Consumable · ammunition · premium
+- **Panic Calibrator (Deadly)** — Consumable · ammunition · advanced
+- **Panic Calibrator (Devastating)** — Consumable · ammunition · artifact
+- **Panic Calibrator (Lethal)** — Consumable · ammunition · legendary
+- **Panic Calibrator (Major)** — Consumable · ammunition · prototype
+- **Panic Collimator (Average)** — Consumable · ammunition · premium
+- **Panic Collimator (Deadly)** — Consumable · ammunition · advanced
+- **Panic Collimator (Devastating)** — Consumable · ammunition · artifact
+- **Panic Collimator (Lethal)** — Consumable · ammunition · legendary
+- **Panic Collimator (Major)** — Consumable · ammunition · prototype
+- **Panic Dart (Average)** — Consumable · ammunition · premium
+- **Panic Dart (Deadly)** — Consumable · ammunition · advanced
+- **Panic Dart (Devastating)** — Consumable · ammunition · artifact
+- **Panic Dart (Lethal)** — Consumable · ammunition · legendary
+- **Panic Dart (Major)** — Consumable · ammunition · prototype
+- **Pants Chassis (Advanced)** — AdventuringGear · legs · advanced · sintonia
+- **Pants Chassis (Artifact)** — AdventuringGear · legs · artifact · sintonia
+- **Pants Chassis (Legendary)** — AdventuringGear · legs · legendary · sintonia
+- **Pants Chassis (Premium)** — AdventuringGear · legs · premium · sintonia
+- **Pants Chassis (Prototype)** — AdventuringGear · legs · prototype · sintonia
+- **Pants Chassis (Standard)** — AdventuringGear · legs · standard · sintonia
+- **Pauldron of Retribution** — AdventuringGear · shoulders · prototype · sintonia · pré-req: at least 3 levels in berserker
+- **Perceptive Pattern (Basic)** — ItemModification · clothing · standard
+- **Perceptive Pattern (Choice)** — ItemModification · clothing · advanced
+- **Perceptive Pattern (Elite)** — ItemModification · clothing · legendary
+- **Perceptive Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Perceptive Pattern (Favored)** — ItemModification · clothing · prototype
+- **Perceptive Pattern (Fine)** — ItemModification · clothing · premium
+- **Performer's Pattern (Basic)** — ItemModification · clothing · standard
+- **Performer's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Performer's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Performer's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Performer's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Performer's Pattern (Fine)** — ItemModification · clothing · premium
+- **Phobium Echoer (Improved)** — ItemModification · focus generator · prototype
+- **Phobium Echoer (Superior)** — ItemModification · focus generator · advanced
+- **Physical Barrier Mk I** — Consumable · barrier · standard
+- **Physical Barrier Mk II** — Consumable · barrier · premium
+- **Physical Barrier Mk III** — Consumable · barrier · prototype
+- **Physical Barrier Mk IV** — Consumable · barrier · advanced
+- **Physical Barrier Mk V** — Consumable · barrier · legendary
+- **Physical Barrier Mk VI** — Consumable · barrier · artifact
+- **Piercing Cell** — ItemModification · lightweapon · premium
+- **Piercing Cell (Deadly)** — ItemModification · lightweapon · advanced
+- **Piercing Cell (Devastating)** — ItemModification · lightweapon · artifact
+- **Piercing Core** — ItemModification · blaster · premium
+- **Piercing Core (Deadly)** — ItemModification · blaster · advanced
+- **Piercing Core (Devastating)** — ItemModification · blaster · artifact
+- **Piercing Oscillator** — ItemModification · vibroweapon · premium
+- **Piercing Oscillator (Deadly)** — ItemModification · vibroweapon · advanced
+- **Piercing Oscillator (Devastating)** — ItemModification · vibroweapon · artifact
+- **Pinpoint Subroutine** — ItemModification · wristpad · Premium
+- **Poison (Average)** — Consumable · poison · premium
+- **Poison (Deadly)** — Consumable · poison · advanced
+- **Poison (Devastating)** — Consumable · poison · artifact
+- **Poison (Lethal)** — Consumable · poison · legendary
+- **Poison (Major)** — Consumable · poison · prototype
+- **Portable Teleporter Mk I** — Consumable · technology · standard
+- **Portable Teleporter Mk II** — Consumable · technology · premium
+- **Portable Teleporter Mk III** — Consumable · technology · prototype
+- **Portable Teleporter Mk IV** — Consumable · technology · advanced
+- **Portable Teleporter Mk V** — Consumable · technology · legendary
+- **Portable Teleporter Mk VI** — Consumable · technology · artifact
+- **Power Cell (Average)** — Consumable · ammunition · premium
+- **Power Cell (Deadly)** — Consumable · ammunition · advanced
+- **Power Cell (Devastating)** — Consumable · ammunition · artifact
+- **Power Cell (Lethal)** — Consumable · ammunition · legendary
+- **Power Cell (Major)** — Consumable · ammunition · prototype
+- **Power Generator (Average)** — Consumable · ammunition · premium
+- **Power Generator (Deadly)** — Consumable · ammunition · advanced
+- **Power Generator (Devastating)** — Consumable · ammunition · artifact
+- **Power Generator (Lethal)** — Consumable · ammunition · legendary
+- **Power Generator (Major)** — Consumable · ammunition · prototype
+- **Power Supply Port** — DroidCustomization · part · standard · pré-req: Class V droid
+- **Powered Armoring Mk I** — ItemModification · armor · standard · pré-req: Armor
+- **Powered Armoring Mk II** — ItemModification · armor · premium · pré-req: Armor
+- **Powered Armoring Mk III** — ItemModification · armor · prototype · pré-req: Armor
+- **Powered Armoring Mk IV** — ItemModification · armor · advanced · pré-req: Armor
+- **Powered Armoring Mk V** — ItemModification · armor · legendary · pré-req: Armor
+- **Powered Armoring Mk VI** — ItemModification · armor · artifact · pré-req: Armor
+- **Precision Chamber Mk I** — ItemModification · blaster · standard
+- **Precision Chamber Mk II** — ItemModification · blaster · premium
+- **Precision Chamber Mk III** — ItemModification · blaster · prototype
+- **Precision Chamber Mk IV** — ItemModification · blaster · advanced
+- **Precision Chamber Mk V** — ItemModification · blaster · legendary
+- **Precision Chamber Mk VI** — ItemModification · blaster · artifact
+- **Processing Amplifier (Dueling)** — ItemModification · wristpad · prototype
+- **Processing Amplifier (Fighting)** — ItemModification · wristpad · premium
+- **Processing Amplifier (Mastery)** — ItemModification · wristpad · advanced
+- **Processing Amplifier (Training)** — ItemModification · wristpad · standard
+- **Processing Rangefinder (Dueling)** — ItemModification · wristpad · prototype
+- **Processing Rangefinder (Fighting)** — ItemModification · wristpad · premium
+- **Processing Rangefinder (Mastery)** — ItemModification · wristpad · advanced
+- **Processing Rangefinder (Training)** — ItemModification · wristpad · standard
+- **Projector Canister, Corrosive (Average)** — Consumable · ammunition · premium
+- **Projector Canister, Corrosive (Deadly)** — Consumable · ammunition · advanced
+- **Projector Canister, Corrosive (Devastating)** — Consumable · ammunition · artifact
+- **Projector Canister, Corrosive (Lethal)** — Consumable · ammunition · legendary
+- **Projector Canister, Corrosive (Major)** — Consumable · ammunition · prototype
+- **Projector Canister, Cryo (Average)** — Consumable · ammunition · premium
+- **Projector Canister, Cryo (Deadly)** — Consumable · ammunition · advanced
+- **Projector Canister, Cryo (Devastating)** — Consumable · ammunition · artifact
+- **Projector Canister, Cryo (Lethal)** — Consumable · ammunition · legendary
+- **Projector Canister, Cryo (Major)** — Consumable · ammunition · prototype
+- **Projector Canister, Incendiary (Average)** — Consumable · ammunition · premium
+- **Projector Canister, Incendiary (Deadly)** — Consumable · ammunition · advanced
+- **Projector Canister, Incendiary (Devastating)** — Consumable · ammunition · artifact
+- **Projector Canister, Incendiary (Lethal)** — Consumable · ammunition · legendary
+- **Projector Canister, Incendiary (Major)** — Consumable · ammunition · prototype
+- **Projector Tank, Corrosive (Average)** — Consumable · ammunition · premium
+- **Projector Tank, Corrosive (Deadly)** — Consumable · ammunition · advanced
+- **Projector Tank, Corrosive (Devastating)** — Consumable · ammunition · artifact
+- **Projector Tank, Corrosive (Lethal)** — Consumable · ammunition · legendary
+- **Projector Tank, Corrosive (Major)** — Consumable · ammunition · prototype
+- **Projector Tank, Cryo (Average)** — Consumable · ammunition · premium
+- **Projector Tank, Cryo (Deadly)** — Consumable · ammunition · advanced
+- **Projector Tank, Cryo (Devastating)** — Consumable · ammunition · artifact
+- **Projector Tank, Cryo (Lethal)** — Consumable · ammunition · legendary
+- **Projector Tank, Cryo (Major)** — Consumable · ammunition · prototype
+- **Projector Tank, Incendiary (Average)** — Consumable · ammunition · premium
+- **Projector Tank, Incendiary (Deadly)** — Consumable · ammunition · advanced
+- **Projector Tank, Incendiary (Devastating)** — Consumable · ammunition · artifact
+- **Projector Tank, Incendiary (Lethal)** — Consumable · ammunition · legendary
+- **Projector Tank, Incendiary (Major)** — Consumable · ammunition · prototype
+- **Quantum Splitter Mk I** — ItemModification · blaster · prototype
+- **Quantum Splitter Mk II** — ItemModification · blaster · advanced
+- **Quantum Splitter Mk III** — ItemModification · blaster · legendary
+- **Quantum Splitter Mk IV** — ItemModification · blaster · artifact
+- **Quick Savant Package** — CyberneticAugmentation · enhancement · legendary · pré-req: Intelligence 15
+- **Quick-Fingered Pattern (Basic)** — ItemModification · clothing · standard
+- **Quick-Fingered Pattern (Choice)** — ItemModification · clothing · advanced
+- **Quick-Fingered Pattern (Elite)** — ItemModification · clothing · legendary
+- **Quick-Fingered Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Quick-Fingered Pattern (Favored)** — ItemModification · clothing · prototype
+- **Quick-Fingered Pattern (Fine)** — ItemModification · clothing · premium
+- **Quickened Subroutine** — ItemModification · wristpad · Prototype
+- **RZ-3 Extender Frame** — ItemModification · vibroweapon · advanced
+- **Raava (Aged)** — Consumable · substance · advanced
+- **Raava (Fine)** — Consumable · substance · premium
+- **Raava (Matured)** — Consumable · substance · prototype
+- **Raava (Reserve)** — Consumable · substance · legendary
+- **Raava (Special)** — Consumable · substance · artifact
+- **Ranging Dataport (Ascendancy)** — ItemModification · wristpad · artifact
+- **Ranging Dataport (Fighting)** — ItemModification · wristpad · premium
+- **Ranging Dataport (Mastery)** — ItemModification · wristpad · advanced
+- **Ranging Emitter (Ascendancy)** — ItemModification · focus generator · artifact
+- **Ranging Emitter (Fighting)** — ItemModification · focus generator · premium
+- **Ranging Emitter (Mastery)** — ItemModification · focus generator · advanced
+- **Rapid Core** — ItemModification · blaster · premium · pré-req: Blaster that uses cells or cartridges
+- **Rapid Core (Champion)** — ItemModification · blaster · artifact · pré-req: Blaster that uses cells or cartridges
+- **Rapid Core (Superior)** — ItemModification · blaster · advanced · pré-req: Blaster that uses cells or cartridges
+- **Reactive Armoring** — ItemModification · armor · premium · pré-req: Armor
+- **Reactive Armoring Mk II** — ItemModification · armor · advanced · pré-req: Armor
+- **Reactive Armoring Mk III** — ItemModification · armor · artifact · pré-req: Armor
+- **Reactive Stitching (Adequate)** — ItemModification · clothing · premium
+- **Reactive Stitching (Excellent)** — ItemModification · clothing · advanced
+- **Reactive Stitching (Prime)** — ItemModification · clothing · artifact
+- **Reactive Ultrachrome Armor** — Armor · heavy exoskeleton · legendary · sintonia
+- **Recoil Dampener** — ItemModification · blaster · standard
+- **Recoil Dampener (Champion)** — ItemModification · blaster · artifact
+- **Recoil Dampener (Exceptional)** — ItemModification · blaster · legendary
+- **Recoil Dampener (Fine)** — ItemModification · blaster · premium
+- **Recoil Dampener (Improved)** — ItemModification · blaster · prototype
+- **Recoil Dampener (Superior)** — ItemModification · blaster · advanced
+- **Reflex Enhancer Mk I** — CyberneticAugmentation · enhancement · premium · pré-req: Intelligence 13
+- **Reflex Enhancer Mk II** — CyberneticAugmentation · enhancement · advanced · pré-req: Dexterity 13
+- **Reflex Enhancer Mk III** — CyberneticAugmentation · enhancement · artifact · pré-req: Dexterity and Intelligence 15
+- **Reflex Protocol Mk I** — DroidCustomization · protocol · premium · sintonia
+- **Reflex Protocol Mk II** — DroidCustomization · protocol · advanced · sintonia
+- **Reflex Protocol Mk III** — DroidCustomization · protocol · artifact · sintonia
+- **Refocused Subroutine** — ItemModification · wristpad · Prototype
+- **Regulated Reinforcement** — ItemModification · armor · premium
+- **Regulated Weave** — ItemModification · clothing · premium
+- **Reinforced Armoring** — ItemModification · armor · standard · pré-req: Armor
+- **Reinforced Chassis** — DroidCustomization · part · standard
+- **Reinforced Stitching (Basic)** — ItemModification · clothing · standard
+- **Reinforced Stitching (Fine)** — ItemModification · clothing · premium
+- **Reinforced Stitching (Improved)** — ItemModification · clothing · prototype
+- **Reinforced Stitching (Superior)** — ItemModification · clothing · advanced
+- **Reinforced Underlay (Basic)** — ItemModification · armor · standard
+- **Reinforced Underlay (Fine)** — ItemModification · armor · premium
+- **Reinforced Underlay (Improved)** — ItemModification · armor · prototype
+- **Reinforced Underlay (Superior)** — ItemModification · armor · advanced
+- **Remote Detonator (Champion)** — AdventuringGear · artifact
+- **Remote Detonator (Exceptional)** — AdventuringGear · legendary
+- **Remote Detonator (Fine)** — AdventuringGear · premium
+- **Remote Detonator (Improved)** — AdventuringGear · prototype
+- **Remote Detonator (Superior)** — AdventuringGear · advanced
+- **Rendcasting Channel (Dueling)** — ItemModification · focus generator · prototype
+- **Rendcasting Channel (Fighting)** — ItemModification · focus generator · premium
+- **Rendcasting Channel (Mastery)** — ItemModification · focus generator · advanced
+- **Rendcasting Channel (Training)** — ItemModification · focus generator · standard
+- **Rendcasting Core (Dueling)** — ItemModification · blaster · prototype
+- **Rendcasting Core (Fighting)** — ItemModification · blaster · premium
+- **Rendcasting Core (Mastery)** — ItemModification · blaster · advanced
+- **Rendcasting Core (Training)** — ItemModification · blaster · standard
+- **Rendcasting Crystal (Dueling)** — ItemModification · lightweapon · prototype
+- **Rendcasting Crystal (Fighting)** — ItemModification · lightweapon · premium
+- **Rendcasting Crystal (Mastery)** — ItemModification · lightweapon · advanced
+- **Rendcasting Crystal (Training)** — ItemModification · lightweapon · standard
+- **Rendcasting Guard (Adept)** — ItemModification · vibroweapon · advanced
+- **Rendcasting Guard (Apprentice)** — ItemModification · vibroweapon · premium
+- **Rendcasting Guard (Journeyman)** — ItemModification · vibroweapon · prototype
+- **Rendcasting Guard (Novice)** — ItemModification · vibroweapon · standard
+- **Rendcasting Inlay (Adept)** — ItemModification · clothing · advanced
+- **Rendcasting Inlay (Apprentice)** — ItemModification · clothing · premium
+- **Rendcasting Inlay (Journeyman)** — ItemModification · clothing · prototype
+- **Rendcasting Inlay (Novice)** — ItemModification · clothing · standard
+- **Rendcasting Oscillator Mk I** — ItemModification · vibroweapon · standard
+- **Rendcasting Oscillator Mk II** — ItemModification · vibroweapon · premium
+- **Rendcasting Oscillator Mk III** — ItemModification · vibroweapon · prototype
+- **Rendcasting Oscillator Mk IV** — ItemModification · vibroweapon · advanced
+- **Rendcasting Overlay (Adept)** — ItemModification · armor · advanced
+- **Rendcasting Overlay (Apprentice)** — ItemModification · armor · premium
+- **Rendcasting Overlay (Journeyman)** — ItemModification · armor · prototype
+- **Rendcasting Overlay (Novice)** — ItemModification · armor · standard
+- **Rendcasting Processor (Dueling)** — ItemModification · wristpad · prototype
+- **Rendcasting Processor (Fighting)** — ItemModification · wristpad · premium
+- **Rendcasting Processor (Mastery)** — ItemModification · wristpad · advanced
+- **Rendcasting Processor (Training)** — ItemModification · wristpad · standard
+- **Rendcasting Stitching Mk I** — ItemModification · clothing · standard
+- **Rendcasting Stitching Mk II** — ItemModification · clothing · premium
+- **Rendcasting Stitching Mk III** — ItemModification · clothing · prototype
+- **Rendcasting Stitching Mk IV** — ItemModification · clothing · advanced
+- **Rendcasting Underlay Mk I** — ItemModification · armor · standard
+- **Rendcasting Underlay Mk II** — ItemModification · armor · premium
+- **Rendcasting Underlay Mk III** — ItemModification · armor · prototype
+- **Rendcasting Underlay Mk IV** — ItemModification · armor · advanced
+- **Rending Amplifier (Ascendancy)** — ItemModification · wristpad · artifact
+- **Rending Amplifier (Fighting)** — ItemModification · wristpad · premium
+- **Rending Amplifier (Mastery)** — ItemModification · wristpad · advanced
+- **Rending Conductor (Ascendancy)** — ItemModification · focus generator · artifact
+- **Rending Conductor (Fighting)** — ItemModification · focus generator · premium
+- **Rending Conductor (Mastery)** — ItemModification · focus generator · advanced
+- **Repair Kit Mk II** — Consumable · technology · premium
+- **Repair Kit Mk III** — Consumable · technology · prototype
+- **Repair Kit Mk IV** — Consumable · technology · advanced
+- **Repair Kit Mk V** — Consumable · technology · legendary
+- **Repair Kit Mk VI** — Consumable · technology · artifact
+- **Repelling Cycler (Chipped)** — ItemModification · focus generator · premium
+- **Repelling Cycler (Cracked)** — ItemModification · focus generator · standard
+- **Repelling Cycler (Flawed)** — ItemModification · focus generator · prototype
+- **Repelling Cycler (Flawless)** — ItemModification · focus generator · legendary
+- **Repelling Cycler (Perfect)** — ItemModification · focus generator · artifact
+- **Repelling Cycler (Regular)** — ItemModification · focus generator · advanced
+- **Repelling Motherboard (Adequate)** — ItemModification · wristpad · premium
+- **Repelling Motherboard (Excellent)** — ItemModification · wristpad · advanced
+- **Repelling Motherboard (Leading)** — ItemModification · wristpad · prototype
+- **Repelling Motherboard (Outstanding)** — ItemModification · wristpad · legendary
+- **Repelling Motherboard (Prime)** — ItemModification · wristpad · artifact
+- **Repelling Motherboard (Simple)** — ItemModification · wristpad · standard
+- **Repulsor Lifts (Basic)** — DroidCustomization · part · standard
+- **Repulsor Lifts (Champion)** — DroidCustomization · part · artifact
+- **Repulsor Lifts (Exceptional)** — DroidCustomization · part · legendary
+- **Repulsor Lifts (Fine)** — DroidCustomization · part · premium
+- **Repulsor Lifts (Improved)** — DroidCustomization · part · prototype
+- **Repulsor Lifts (Superior)** — DroidCustomization · part · advanced
+- **Resourceful Drive** — DroidCustomization · part · standard · pré-req: Class III droid
+- **Respiration Facilitator** — AdventuringGear · neck · prototype
+- **Responsive Shielding Mk I** — ItemModification · armor · premium
+- **Responsive Shielding Mk II** — ItemModification · armor · advanced
+- **Responsive Shielding Mk III** — ItemModification · armor · artifact
+- **Restraining Bolt (Champion)** — AdventuringGear · artifact
+- **Restraining Bolt (Exceptional)** — AdventuringGear · legendary
+- **Restraining Bolt (Fine)** — AdventuringGear · premium
+- **Restraining Bolt (Improved)** — AdventuringGear · prototype
+- **Restraining Bolt (Superior)** — AdventuringGear · advanced
+- **Returning Weapon Guard** — ItemModification · vibroweapon · artifact · pré-req: Thrown property
+- **Returning Weapon Hilt** — ItemModification · lightweapon · standard · pré-req: Thrown property
+- **Reverse-Engineered Crushgaunts** — AdventuringGear · hands · premium · sintonia
+- **Ring of Adept Force Storing** — AdventuringGear · finger · advanced · sintonia
+- **Ring of Ancient Force Storing** — AdventuringGear · finger · artifact · sintonia
+- **Ring of Apprentice Force Storing** — AdventuringGear · finger · premium · sintonia
+- **Ring of Journeyman Force Storing** — AdventuringGear · finger · prototype · sintonia
+- **Ring of Master Force Storing** — AdventuringGear · finger · legendary · sintonia
+- **Ring of Novice Force Storing** — AdventuringGear · finger · standard · sintonia
+- **Ring of Tech Storing Mk I** — AdventuringGear · finger · standard · sintonia
+- **Ring of Tech Storing Mk II** — AdventuringGear · finger · premium · sintonia
+- **Ring of Tech Storing Mk III** — AdventuringGear · finger · prototype · sintonia
+- **Ring of Tech Storing Mk IV** — AdventuringGear · finger · advanced · sintonia
+- **Ring of Tech Storing Mk V** — AdventuringGear · finger · legendary · sintonia
+- **Ring of Tech Storing Mk VI** — AdventuringGear · finger · artifact · sintonia
+- **Rocket Boots (Champion)** — AdventuringGear · feet · artifact
+- **Rocket Boots (Exceptional)** — AdventuringGear · feet · legendary
+- **Rocket Boots (Fine)** — AdventuringGear · feet · premium
+- **Rocket Boots (Improved)** — AdventuringGear · feet · prototype
+- **Rocket Boots (Superior)** — AdventuringGear · feet · advanced
+- **Rocket, Fragmentation (Average)** — Consumable · ammunition · premium
+- **Rocket, Fragmentation (Deadly)** — Consumable · ammunition · advanced
+- **Rocket, Fragmentation (Devastating)** — Consumable · ammunition · artifact
+- **Rocket, Fragmentation (Lethal)** — Consumable · ammunition · legendary
+- **Rocket, Fragmentation (Major)** — Consumable · ammunition · prototype
+- **Rocket, Incendiary (Average)** — Consumable · ammunition · premium
+- **Rocket, Incendiary (Deadly)** — Consumable · ammunition · advanced
+- **Rocket, Incendiary (Devastating)** — Consumable · ammunition · artifact
+- **Rocket, Incendiary (Lethal)** — Consumable · ammunition · legendary
+- **Rocket, Incendiary (Major)** — Consumable · ammunition · prototype
+- **Rocket, Ion (Average)** — Consumable · ammunition · premium
+- **Rocket, Ion (Deadly)** — Consumable · ammunition · advanced
+- **Rocket, Ion (Devastating)** — Consumable · ammunition · artifact
+- **Rocket, Ion (Lethal)** — Consumable · ammunition · legendary
+- **Rocket, Ion (Major)** — Consumable · ammunition · prototype
+- **Rocketpack (Champion)** — AdventuringGear · back · artifact
+- **Rocketpack (Exceptional)** — AdventuringGear · back · legendary
+- **Rocketpack (Fine)** — AdventuringGear · back · premium
+- **Rocketpack (Improved)** — AdventuringGear · back · prototype
+- **Rocketpack (Superior)** — AdventuringGear · back · advanced
+- **Rylith Power Core** — ItemModification · blaster · prototype
+- **Scholar Defensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in scholar
+- **Scholar Offensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in scholar
+- **Scout Defensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in scout
+- **Scout Offensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in scout
+- **Security Spike (Champion)** — Consumable · technology · artifact
+- **Security Spike (Fine)** — Consumable · technology · premium
+- **Security Spike (Superior)** — Consumable · technology · advanced
+- **Seeking Subroutine** — ItemModification · wristpad · Prototype
+- **Semiauto Core** — ItemModification · blaster · prototype · pré-req: Auto property
+- **Sentinel Defensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in sentinel
+- **Sentinel Offensive Augment** — ItemModification · augment · prototype · pré-req: At least 3 levels in sentinel
+- **Sentry** — DroidCustomization · part · standard
+- **Serrated Edge Mk I** — ItemModification · vibroweapon · prototype
+- **Serrated Edge Mk II** — ItemModification · vibroweapon · advanced
+- **Serrated Edge Mk III** — ItemModification · vibroweapon · legendary
+- **Serrated Edge Mk IV** — ItemModification · vibroweapon · artifact
+- **Shield (Champion)** — Shield · any · artifact
+- **Shield (Exceptional)** — Shield · any · legendary
+- **Shield (Fine)** — Shield · any · premium
+- **Shield (Improved)** — Shield · any · prototype
+- **Shield (Superior)** — Shield · any · advanced
+- **Shield Amplifier** — ItemModification · armor · standard · pré-req: Shield generator
+- **Shield Anchor** — ItemModification · armor · premium · pré-req: Physical shield
+- **Shield Chassis (Advanced)** — Shield · any · advanced · sintonia
+- **Shield Chassis (Artifact)** — Shield · any · artifact · sintonia
+- **Shield Chassis (Legendary)** — Shield · any · legendary · sintonia
+- **Shield Chassis (Premium)** — Shield · any · premium · sintonia
+- **Shield Chassis (Prototype)** — Shield · any · prototype · sintonia
+- **Shield Chassis (Standard)** — Shield · any · standard · sintonia
+- **Ship Armor (Fine)** — ShipArmor · any · premium
+- **Ship Armor (Improved)** — ShipArmor · any · prototype
+- **Ship Armor (Superior)** — ShipArmor · any · advanced
+- **Ship Shield (Fine)** — ShipShield · any · premium
+- **Ship Shield (Improved)** — ShipShield · any · prototype
+- **Ship Shield (Superior)** — ShipShield · any · advanced
+- **Ship Weapon (Fine)** — ShipWeapon · any · premium
+- **Ship Weapon (Improved)** — ShipWeapon · any · prototype
+- **Ship Weapon (Superior)** — ShipWeapon · any · advanced
+- **Shock Arm** — DroidCustomization · part · premium · pré-req: Class II droid
+- **Shocking Oscillator** — ItemModification · vibroweapon · standard
+- **Shocking Oscillator Mk II** — ItemModification · vibroweapon · premium
+- **Shocking Oscillator Mk III** — ItemModification · vibroweapon · prototype
+- **Shocking Oscillator Mk IV** — ItemModification · vibroweapon · advanced
+- **Shocking Oscillator Mk V** — ItemModification · vibroweapon · legendary
+- **Shocking Oscillator Mk VI** — ItemModification · vibroweapon · artifact
+- **Shotgun Axe** — Weapon · shotgun · premium
+- **Shoulder Cannon (Champion)** — Weapon · shoulder cannon · artifact
+- **Shoulder Cannon (Exceptional)** — Weapon · shoulder cannon · legendary
+- **Shoulder Cannon (Fine)** — Weapon · shoulder cannon · premium
+- **Shoulder Cannon (Improved)** — Weapon · shoulder cannon · prototype
+- **Shoulder Cannon (Superior)** — Weapon · shoulder cannon · advanced
+- **Siege Weapon** — ItemModification · blaster · standard
+- **Sienar Starfire X-Force Mk I** — ItemModification · wristpad · prototype
+- **Sienar Starfire X-Force Mk II** — ItemModification · wristpad · legendary
+- **Silencer** — ItemModification · blaster · standard
+- **Silent Armoring** — ItemModification · armor · premium · pré-req: Armor
+- **Silent Stitching** — ItemModification · clothing · premium
+- **Silver-Tongued Pattern (Basic)** — ItemModification · clothing · standard
+- **Silver-Tongued Pattern (Choice)** — ItemModification · clothing · advanced
+- **Silver-Tongued Pattern (Elite)** — ItemModification · clothing · legendary
+- **Silver-Tongued Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Silver-Tongued Pattern (Favored)** — ItemModification · clothing · prototype
+- **Silver-Tongued Pattern (Fine)** — ItemModification · clothing · premium
+- **Sith Acolyte's Robe** — AdventuringGear · body · premium · sintonia
+- **Sith Lord's Robe** — AdventuringGear · body · advanced · sintonia
+- **Sith Strength Belt** — AdventuringGear · waist · legendary · sintonia
+- **Sith Warrior's Robe** — AdventuringGear · body · prototype · sintonia
+- **Skills Enhancement Package** — CyberneticAugmentation · enhancement · advanced · pré-req: Intelligence 15
+- **Slipstream Kickers** — AdventuringGear · feet · prototype · sintonia
+- **Slug Cartridge (Average)** — Consumable · ammunition · premium
+- **Slug Cartridge (Deadly)** — Consumable · ammunition · advanced
+- **Slug Cartridge (Devastating)** — Consumable · ammunition · artifact
+- **Slug Cartridge (Lethal)** — Consumable · ammunition · legendary
+- **Slug Cartridge (Major)** — Consumable · ammunition · prototype
+- **Smart Interface (Basic)** — ItemModification · blaster · standard
+- **Smart Interface (Champion)** — ItemModification · blaster · artifact
+- **Smart Interface (Exceptional)** — ItemModification · blaster · legendary
+- **Smart Interface (Fine)** — ItemModification · blaster · premium
+- **Smart Interface (Improved)** — ItemModification · blaster · prototype
+- **Smart Interface (Superior)** — ItemModification · blaster · advanced
+- **Smugglepack (Champion)** — AdventuringGear · back · artifact
+- **Smugglepack (Exceptional)** — AdventuringGear · back · legendary
+- **Smugglepack (Fine)** — AdventuringGear · back · premium
+- **Smugglepack (Improved)** — AdventuringGear · back · prototype
+- **Smugglepack (Superior)** — AdventuringGear · back · advanced
+- **Snare (Champion)** — Consumable · ammunition · artifact
+- **Snare (Exceptional)** — Consumable · ammunition · legendary
+- **Snare (Fine)** — Consumable · ammunition · premium
+- **Snare (Improved)** — Consumable · ammunition · prototype
+- **Snare (Superior)** — Consumable · ammunition · advanced
+- **Sonorous Oscillator** — ItemModification · vibroweapon · standard
+- **Sonorous Oscillator Mk II** — ItemModification · vibroweapon · premium
+- **Sonorous Oscillator Mk III** — ItemModification · vibroweapon · prototype
+- **Sonorous Oscillator Mk IV** — ItemModification · vibroweapon · advanced
+- **Sonorous Oscillator Mk V** — ItemModification · vibroweapon · legendary
+- **Sonorous Oscillator Mk VI** — ItemModification · vibroweapon · artifact
+- **Sorcerer's Adrenal (Basic)** — Consumable · adrenal · standard
+- **Sorcerer's Adrenal (Fine)** — Consumable · adrenal · premium
+- **Sorcerer's Adrenal (Improved)** — Consumable · adrenal · prototype
+- **Sorcerer's Adrenal (Superior)** — Consumable · adrenal · advanced
+- **Sparkles** — Weapon · light pistol · premium
+- **Spicebrew (Aged)** — Consumable · substance · advanced
+- **Spicebrew (Fine)** — Consumable · substance · premium
+- **Spicebrew (Matured)** — Consumable · substance · prototype
+- **Spicebrew (Reserve)** — Consumable · substance · legendary
+- **Spicebrew (Special)** — Consumable · substance · artifact
+- **Spiked Shielding** — ItemModification · armor · premium
+- **Spiked Shielding Mk II** — ItemModification · armor · advanced
+- **Spiked Shielding Mk III** — ItemModification · armor · artifact
+- **Stabilizer Ascendancy Cell** — ItemModification · lightweapon · artifact
+- **Stabilizer Dueling Cell** — ItemModification · lightweapon · prototype
+- **Stabilizer Fighting Cell** — ItemModification · lightweapon · premium
+- **Stabilizer Mastery Cell** — ItemModification · lightweapon · advanced
+- **Stabilizer Supremacy Cell** — ItemModification · lightweapon · legendary
+- **Stabilizer Training Cell** — ItemModification · lightweapon · standard
+- **Staggering Oscillator** — ItemModification · vibroweapon · standard
+- **Stamina Adrenal (Basic)** — Consumable · adrenal · standard
+- **Stamina Adrenal (Champion)** — Consumable · adrenal · artifact
+- **Stamina Adrenal (Exceptional)** — Consumable · adrenal · legendary
+- **Stamina Adrenal (Fine)** — Consumable · adrenal · premium
+- **Stamina Adrenal (Improved)** — Consumable · adrenal · prototype
+- **Stamina Adrenal (Superior)** — Consumable · adrenal · advanced
+- **Steadfast Reinforcement** — ItemModification · armor · standard
+- **Stealthy Pattern (Basic)** — ItemModification · clothing · standard
+- **Stealthy Pattern (Choice)** — ItemModification · clothing · advanced
+- **Stealthy Pattern (Elite)** — ItemModification · clothing · legendary
+- **Stealthy Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Stealthy Pattern (Favored)** — ItemModification · clothing · prototype
+- **Stealthy Pattern (Fine)** — ItemModification · clothing · premium
+- **Stitching Amplifier Mk I** — ItemModification · clothing · standard
+- **Stitching Amplifier Mk II** — ItemModification · clothing · premium
+- **Stitching Amplifier Mk III** — ItemModification · clothing · prototype
+- **Stitching Amplifier Mk IV** — ItemModification · clothing · advanced
+- **Stitching Rangefinder Mk I** — ItemModification · clothing · standard
+- **Stitching Rangefinder Mk II** — ItemModification · clothing · premium
+- **Stitching Rangefinder Mk III** — ItemModification · clothing · prototype
+- **Stitching Rangefinder Mk IV** — ItemModification · clothing · advanced
+- **Storing Dataport (Basic)** — ItemModification · wristpad · standard
+- **Storing Dataport (Champion)** — ItemModification · wristpad · artifact
+- **Storing Dataport (Exceptional)** — ItemModification · wristpad · legendary
+- **Storing Dataport (Fine)** — ItemModification · wristpad · premium
+- **Storing Dataport (Improved)** — ItemModification · wristpad · prototype
+- **Storing Dataport (Superior)** — ItemModification · wristpad · advanced
+- **Storing Emitter (Basic)** — ItemModification · focus generator · standard
+- **Storing Emitter (Champion)** — ItemModification · focus generator · artifact
+- **Storing Emitter (Exceptional)** — ItemModification · focus generator · legendary
+- **Storing Emitter (Fine)** — ItemModification · focus generator · premium
+- **Storing Emitter (Improved)** — ItemModification · focus generator · prototype
+- **Storing Emitter (Superior)** — ItemModification · focus generator · advanced
+- **Strength Augment (Basic)** — ItemModification · augment · standard
+- **Strength Augment (Champion)** — ItemModification · augment · artifact
+- **Strength Augment (Exceptional)** — ItemModification · augment · legendary
+- **Strength Augment (Fine)** — ItemModification · augment · premium
+- **Strength Augment (Improved)** — ItemModification · augment · prototype
+- **Strength Augment (Superior)** — ItemModification · augment · advanced
+- **Strength Enhancement (Basic)** — CyberneticAugmentation · enhancement · standard · pré-req: Strength 11
+- **Strength Enhancer** — AdventuringGear · waist · prototype · sintonia
+- **Strength Stim (Basic)** — Consumable · stimpac · standard
+- **Strength Stim (Champion)** — Consumable · stimpac · artifact
+- **Strength Stim (Exceptional)** — Consumable · stimpac · legendary
+- **Strength Stim (Fine)** — Consumable · stimpac · premium
+- **Strength Stim (Improved)** — Consumable · stimpac · prototype
+- **Strength Stim (Superior)** — Consumable · stimpac · advanced
+- **Strength Weave (Basic)** — ItemModification · clothing · standard
+- **Strength Weave (Exceptional)** — ItemModification · clothing · legendary
+- **Strength Weave (Improved)** — ItemModification · clothing · prototype
+- **Surging Processor Mk I** — ItemModification · wristpad · standard
+- **Surging Processor Mk II** — ItemModification · wristpad · premium
+- **Surging Processor Mk III** — ItemModification · wristpad · prototype
+- **Surging Processor Mk IV** — ItemModification · wristpad · advanced
+- **Surging Processor Mk V** — ItemModification · wristpad · legendary
+- **Surging Processor Mk VI** — ItemModification · wristpad · artifact
+- **Surveillance Implant** — CyberneticAugmentation · replacement · standard
+- **Survival and Surveillance Implant** — CyberneticAugmentation · replacement · premium · pré-req: Intelligence 13
+- **Survival and Surveillance Implant Mk II** — CyberneticAugmentation · replacement · prototype · pré-req: Intelligence 15
+- **Survivalist's Pattern (Basic)** — ItemModification · clothing · standard
+- **Survivalist's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Survivalist's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Survivalist's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Survivalist's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Survivalist's Pattern (Fine)** — ItemModification · clothing · premium
+- **T-Cycle Reinforcer (Basic)** — ItemModification · focus generator · standard
+- **T-Cycle Reinforcer (Improved)** — ItemModification · focus generator · premium
+- **Taozin Amulet** — AdventuringGear · neck · premium · sintonia
+- **Targeting Amplifier (Dueling)** — ItemModification · blaster · prototype
+- **Targeting Amplifier (Fighting)** — ItemModification · blaster · premium
+- **Targeting Amplifier (Mastery)** — ItemModification · blaster · advanced
+- **Targeting Amplifier (Training)** — ItemModification · blaster · standard
+- **Targeting Rangefinder (Dueling)** — ItemModification · blaster · prototype
+- **Targeting Rangefinder (Fighting)** — ItemModification · blaster · premium
+- **Targeting Rangefinder (Mastery)** — ItemModification · blaster · advanced
+- **Targeting Rangefinder (Training)** — ItemModification · blaster · standard
+- **Techie's Pattern (Basic)** — ItemModification · clothing · standard
+- **Techie's Pattern (Choice)** — ItemModification · clothing · advanced
+- **Techie's Pattern (Elite)** — ItemModification · clothing · legendary
+- **Techie's Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Techie's Pattern (Favored)** — ItemModification · clothing · prototype
+- **Techie's Pattern (Fine)** — ItemModification · clothing · premium
+- **Telgorn Jolt Stabilizer (Improved)** — ItemModification · lightweapon · advanced
+- **Thermal Detonator (Average)** — Consumable · explosive · premium
+- **Thermal Detonator (Deadly)** — Consumable · explosive · advanced
+- **Thermal Detonator (Devastating)** — Consumable · explosive · artifact
+- **Thermal Detonator (Lethal)** — Consumable · explosive · legendary
+- **Thermal Detonator (Major)** — Consumable · explosive · prototype
+- **Threatening Pattern (Basic)** — ItemModification · clothing · standard
+- **Threatening Pattern (Choice)** — ItemModification · clothing · advanced
+- **Threatening Pattern (Elite)** — ItemModification · clothing · legendary
+- **Threatening Pattern (Exquisite)** — ItemModification · clothing · artifact
+- **Threatening Pattern (Favored)** — ItemModification · clothing · prototype
+- **Threatening Pattern (Fine)** — ItemModification · clothing · premium
+- **Throwing Weapon Guard (Basic)** — ItemModification · vibroweapon · standard
+- **Throwing Weapon Guard (Champion)** — ItemModification · vibroweapon · artifact
+- **Throwing Weapon Guard (Exceptional)** — ItemModification · vibroweapon · legendary
+- **Throwing Weapon Guard (Fine)** — ItemModification · vibroweapon · premium
+- **Throwing Weapon Guard (Improved)** — ItemModification · vibroweapon · prototype
+- **Throwing Weapon Guard (Superior)** — ItemModification · vibroweapon · advanced
+- **Throwing Weapon Hilt (Basic)** — ItemModification · lightweapon · standard
+- **Throwing Weapon Hilt (Champion)** — ItemModification · lightweapon · artifact
+- **Throwing Weapon Hilt (Exceptional)** — ItemModification · lightweapon · legendary
+- **Throwing Weapon Hilt (Fine)** — ItemModification · lightweapon · premium
+- **Throwing Weapon Hilt (Improved)** — ItemModification · lightweapon · prototype
+- **Throwing Weapon Hilt (Superior)** — ItemModification · lightweapon · advanced
+- **Tihaar (Aged)** — Consumable · substance · advanced
+- **Tihaar (Fine)** — Consumable · substance · premium
+- **Tihaar (Matured)** — Consumable · substance · prototype
+- **Tihaar (Reserve)** — Consumable · substance · legendary
+- **Tihaar (Special)** — Consumable · substance · artifact
+- **Tool (Basic)** — AdventuringGear · standard
+- **Tool (Champion)** — AdventuringGear · artifact
+- **Tool (Exceptional)** — AdventuringGear · legendary
+- **Tool (Fine)** — AdventuringGear · premium
+- **Tool (Improved)** — AdventuringGear · prototype
+- **Tool (Superior)** — AdventuringGear · advanced
+- **Tool Integration** — DroidCustomization · part · standard
+- **Torchy** — Weapon · blaster pistol · prototype
+- **Torpedo Launcher (Fine)** — Weapon · torpedo launcher · premium
+- **Torpedo Launcher (Improved)** — Weapon · torpedo launcher · prototype
+- **Torpedo Launcher (Superior)** — Weapon · torpedo launcher · advanced
+- **Torpedo, Fragmentation (Average)** — Consumable · ammunition · premium
+- **Torpedo, Fragmentation (Deadly)** — Consumable · ammunition · advanced
+- **Torpedo, Fragmentation (Devastating)** — Consumable · ammunition · artifact
+- **Torpedo, Fragmentation (Lethal)** — Consumable · ammunition · legendary
+- **Torpedo, Fragmentation (Major)** — Consumable · ammunition · prototype
+- **Torpedo, Plasma (Average)** — Consumable · ammunition · premium
+- **Torpedo, Plasma (Deadly)** — Consumable · ammunition · advanced
+- **Torpedo, Plasma (Devastating)** — Consumable · ammunition · artifact
+- **Torpedo, Plasma (Lethal)** — Consumable · ammunition · legendary
+- **Torpedo, Plasma (Major)** — Consumable · ammunition · prototype
+- **Tsiraki (Aged)** — Consumable · substance · advanced
+- **Tsiraki (Fine)** — Consumable · substance · premium
+- **Tsiraki (Matured)** — Consumable · substance · prototype
+- **Tsiraki (Reserve)** — Consumable · substance · legendary
+- **Tsiraki (Special)** — Consumable · substance · artifact
+- **Tunic Chassis (Advanced)** — AdventuringGear · body · advanced · sintonia
+- **Tunic Chassis (Artifact)** — AdventuringGear · body · artifact · sintonia
+- **Tunic Chassis (Legendary)** — AdventuringGear · body · legendary · sintonia
+- **Tunic Chassis (Premium)** — AdventuringGear · body · premium · sintonia
+- **Tunic Chassis (Prototype)** — AdventuringGear · body · prototype · sintonia
+- **Tunic Chassis (Standard)** — AdventuringGear · body · standard · sintonia
+- **Twinned Subroutine** — ItemModification · wristpad · Prototype
+- **Uncanniness Motivator** — DroidCustomization · protocol · premium · pré-req: Class III droid
+- **Underlay Amplifier Mk I** — ItemModification · armor · standard
+- **Underlay Amplifier Mk II** — ItemModification · armor · premium
+- **Underlay Amplifier Mk III** — ItemModification · armor · prototype
+- **Underlay Amplifier Mk IV** — ItemModification · armor · advanced
+- **Underlay Rangefinder Mk I** — ItemModification · armor · standard
+- **Underlay Rangefinder Mk II** — ItemModification · armor · premium
+- **Underlay Rangefinder Mk III** — ItemModification · armor · prototype
+- **Underlay Rangefinder Mk IV** — ItemModification · armor · advanced
+- **Vambraces of the Outrider** — AdventuringGear · forearms · prototype · sintonia · pré-req: at least 3 levels in scout
+- **Vayerbok (Aged)** — Consumable · substance · advanced
+- **Vayerbok (Fine)** — Consumable · substance · premium
+- **Vayerbok (Matured)** — Consumable · substance · prototype
+- **Vayerbok (Reserve)** — Consumable · substance · legendary
+- **Vayerbok (Special)** — Consumable · substance · artifact
+- **Venomous Oscillator** — ItemModification · vibroweapon · prototype
+- **Ventilation Stabilizer** — ItemModification · lightweapon · premium
+- **Verpine Auto-Shielding Unit** — Shield · medium shield generator · advanced · sintonia
+- **Versatile Frame** — ItemModification · vibroweapon · premium · pré-req: Lacks double or two-handed property
+- **Versatile Frame (Champion)** — ItemModification · vibroweapon · artifact · pré-req: Lacks double or two-handed property
+- **Versatile Frame (Superior)** — ItemModification · vibroweapon · advanced · pré-req: Lacks double or two-handed property
+- **Versatile Handle** — ItemModification · lightweapon · premium · pré-req: Lacks double or two-handed property
+- **Versatile Handle (Champion)** — ItemModification · lightweapon · artifact · pré-req: Lacks double or two-handed property
+- **Versatile Handle (Superior)** — ItemModification · lightweapon · advanced · pré-req: Lacks double or two-handed property
+- **Versatile Shielding** — ItemModification · armor · premium
+- **Versatile Shielding Mk II** — ItemModification · armor · advanced
+- **Versatile Shielding Mk III** — ItemModification · armor · artifact
+- **Versatility Motivator** — DroidCustomization · part · standard · pré-req: Class I droid
+- **Vibroweapon Chassis (Advanced)** — Weapon · any vibroweapon · advanced · sintonia
+- **Vibroweapon Chassis (Artifact)** — Weapon · any vibroweapon · artifact · sintonia
+- **Vibroweapon Chassis (Legendary)** — Weapon · any vibroweapon · legendary · sintonia
+- **Vibroweapon Chassis (Premium)** — Weapon · any vibroweapon · premium · sintonia
+- **Vibroweapon Chassis (Prototype)** — Weapon · any vibroweapon · prototype · sintonia
+- **Vibroweapon Chassis (Standard)** — Weapon · any vibroweapon · standard · sintonia
+- **Vicious Ascendancy Core** — ItemModification · blaster · artifact
+- **Vicious Ascendancy Guard** — ItemModification · vibroweapon · artifact
+- **Vicious Ascendancy Hilt** — ItemModification · lightweapon · artifact
+- **Vicious Fighting Core** — ItemModification · blaster · premium
+- **Vicious Fighting Guard** — ItemModification · vibroweapon · premium
+- **Vicious Fighting Hilt** — ItemModification · lightweapon · premium
+- **Vicious Mastery Core** — ItemModification · blaster · advanced
+- **Vicious Mastery Guard** — ItemModification · vibroweapon · advanced
+- **Vicious Mastery Hilt** — ItemModification · lightweapon · advanced
+- **Viir Agathys's Armor** — Armor · any · premium
+- **Viir Agathys's Armoring** — ItemModification · armor · prototype · pré-req: Armor
+- **Vitapac (Basic)** — Consumable · medpac · standard
+- **Vitapac (Champion)** — Consumable · medpac · artifact
+- **Vitapac (Exceptional)** — Consumable · medpac · legendary
+- **Vitapac (Fine)** — Consumable · medpac · premium
+- **Vitapac (Improved)** — Consumable · medpac · prototype
+- **Vitapac (Superior)** — Consumable · medpac · advanced
+- **Vocoder (Basic)** — DroidCustomization · part · standard
+- **Vocoder (Champion)** — DroidCustomization · part · artifact
+- **Vocoder (Exceptional)** — DroidCustomization · part · legendary
+- **Vocoder (Fine)** — DroidCustomization · part · premium
+- **Vocoder (Improved)** — DroidCustomization · part · prototype
+- **Vocoder (Superior)** — DroidCustomization · part · advanced
+- **Weapon (Champion)** — Weapon · any · artifact
+- **Weapon (Exceptional)** — Weapon · any · legendary
+- **Weapon (Fine)** — Weapon · any · premium
+- **Weapon (Improved)** — Weapon · any · prototype
+- **Weapon (Superior)** — Weapon · any · advanced
+- **Weapon Integration Armoring** — ItemModification · armor · standard · pré-req: Armor
+- **Will Enhancer Mk I** — CyberneticAugmentation · enhancement · premium · pré-req: Charisma 13
+- **Will Enhancer Mk II** — CyberneticAugmentation · enhancement · advanced · pré-req: Wisdom 13
+- **Will Enhancer Mk III** — CyberneticAugmentation · enhancement · artifact · pré-req: Wisdom and Charisma 15
+- **Will Protocol Mk I** — DroidCustomization · protocol · premium · sintonia
+- **Will Protocol Mk II** — DroidCustomization · protocol · advanced · sintonia
+- **Will Protocol Mk III** — DroidCustomization · protocol · artifact · sintonia
+- **Wisdom Augment (Basic)** — ItemModification · augment · standard
+- **Wisdom Augment (Champion)** — ItemModification · augment · artifact
+- **Wisdom Augment (Exceptional)** — ItemModification · augment · legendary
+- **Wisdom Augment (Fine)** — ItemModification · augment · premium
+- **Wisdom Augment (Improved)** — ItemModification · augment · prototype
+- **Wisdom Augment (Superior)** — ItemModification · augment · advanced
+- **Wisdom Enhancement (Basic)** — CyberneticAugmentation · enhancement · standard · pré-req: Wisdom 11
+- **Wisdom Stim (Basic)** — Consumable · stimpac · standard
+- **Wisdom Stim (Champion)** — Consumable · stimpac · artifact
+- **Wisdom Stim (Exceptional)** — Consumable · stimpac · legendary
+- **Wisdom Stim (Fine)** — Consumable · stimpac · premium
+- **Wisdom Stim (Improved)** — Consumable · stimpac · prototype
+- **Wisdom Stim (Superior)** — Consumable · stimpac · advanced
+- **Wisdom Weave (Champion)** — ItemModification · clothing · artifact
+- **Wisdom Weave (Fine)** — ItemModification · clothing · premium
+- **Wisdom Weave (Superior)** — ItemModification · clothing · advanced
+- **Wise Sage Package** — CyberneticAugmentation · enhancement · legendary · pré-req: Wisdom 15
+- **Withercasting Channel (Dueling)** — ItemModification · focus generator · prototype
+- **Withercasting Channel (Fighting)** — ItemModification · focus generator · premium
+- **Withercasting Channel (Mastery)** — ItemModification · focus generator · advanced
+- **Withercasting Channel (Training)** — ItemModification · focus generator · standard
+- **Withercasting Core (Dueling)** — ItemModification · blaster · prototype
+- **Withercasting Core (Fighting)** — ItemModification · blaster · premium
+- **Withercasting Core (Mastery)** — ItemModification · blaster · advanced
+- **Withercasting Core (Training)** — ItemModification · blaster · standard
+- **Withercasting Crystal (Dueling)** — ItemModification · lightweapon · prototype
+- **Withercasting Crystal (Fighting)** — ItemModification · lightweapon · premium
+- **Withercasting Crystal (Mastery)** — ItemModification · lightweapon · advanced
+- **Withercasting Crystal (Training)** — ItemModification · lightweapon · standard
+- **Withercasting Guard (Adept)** — ItemModification · vibroweapon · advanced
+- **Withercasting Guard (Apprentice)** — ItemModification · vibroweapon · premium
+- **Withercasting Guard (Journeyman)** — ItemModification · vibroweapon · prototype
+- **Withercasting Guard (Novice)** — ItemModification · vibroweapon · standard
+- **Withercasting Inlay (Adept)** — ItemModification · clothing · advanced
+- **Withercasting Inlay (Apprentice)** — ItemModification · clothing · premium
+- **Withercasting Inlay (Journeyman)** — ItemModification · clothing · prototype
+- **Withercasting Inlay (Novice)** — ItemModification · clothing · standard
+- **Withercasting Oscillator Mk I** — ItemModification · vibroweapon · standard
+- **Withercasting Oscillator Mk II** — ItemModification · vibroweapon · premium
+- **Withercasting Oscillator Mk III** — ItemModification · vibroweapon · prototype
+- **Withercasting Oscillator Mk IV** — ItemModification · vibroweapon · advanced
+- **Withercasting Overlay (Adept)** — ItemModification · armor · advanced
+- **Withercasting Overlay (Apprentice)** — ItemModification · armor · premium
+- **Withercasting Overlay (Journeyman)** — ItemModification · armor · prototype
+- **Withercasting Overlay (Novice)** — ItemModification · armor · standard
+- **Withercasting Processor (Dueling)** — ItemModification · wristpad · prototype
+- **Withercasting Processor (Fighting)** — ItemModification · wristpad · premium
+- **Withercasting Processor (Mastery)** — ItemModification · wristpad · advanced
+- **Withercasting Processor (Training)** — ItemModification · wristpad · standard
+- **Withercasting Stitching Mk I** — ItemModification · clothing · standard
+- **Withercasting Stitching Mk II** — ItemModification · clothing · premium
+- **Withercasting Stitching Mk III** — ItemModification · clothing · prototype
+- **Withercasting Stitching Mk IV** — ItemModification · clothing · advanced
+- **Withercasting Underlay Mk I** — ItemModification · armor · standard
+- **Withercasting Underlay Mk II** — ItemModification · armor · premium
+- **Withercasting Underlay Mk III** — ItemModification · armor · prototype
+- **Withercasting Underlay Mk IV** — ItemModification · armor · advanced
+- **Withering Channel (Ascendancy)** — ItemModification · focus generator · artifact
+- **Withering Channel (Fighting)** — ItemModification · focus generator · premium
+- **Withering Channel (Mastery)** — ItemModification · focus generator · advanced
+- **Withering Processor (Ascendancy)** — ItemModification · wristpad · artifact
+- **Withering Processor (Fighting)** — ItemModification · wristpad · premium
+- **Withering Processor (Mastery)** — ItemModification · wristpad · advanced
+- **Wrist Mount Attachment** — ItemModification · blaster · standard
+- **Wrist Mount Guard** — ItemModification · vibroweapon · standard
+- **Wrist Mount Hilt** — ItemModification · lightweapon · standard
+- **Wrist-Mounted Grappling Hook** — AdventuringGear · forearm · standard
+- **Wristpad (Fine)** — Focus · tech · premium · sintonia
+- **Wristpad (Improved)** — Focus · tech · prototype · sintonia
+- **Wristpad (Superior)** — Focus · tech · advanced · sintonia
+- **Wristpad Chassis (Advanced)** — Focus · tech · advanced · sintonia
+- **Wristpad Chassis (Artifact)** — Focus · tech · artifact · sintonia
+- **Wristpad Chassis (Legendary)** — Focus · tech · legendary · sintonia
+- **Wristpad Chassis (Premium)** — Focus · tech · premium · sintonia
+- **Wristpad Chassis (Prototype)** — Focus · tech · prototype · sintonia
+- **Wristpad Chassis (Standard)** — Focus · tech · standard · sintonia
+- **Xerrol Nightstinger Rifle** — Weapon · nightstinger rifle · premium
+- **Yaladai (Fine)** — Consumable · substance · premium
+- **Yaladai (High Quality)** — Consumable · substance · advanced
+- **Yaladai (Potent)** — Consumable · substance · legendary
+- **Yaladai (Pure)** — Consumable · substance · artifact
+- **Yaladai (Uncut)** — Consumable · substance · prototype
+- **Yarrock (Fine)** — Consumable · substance · premium
+- **Yarrock (High Quality)** — Consumable · substance · advanced
+- **Yarrock (Potent)** — Consumable · substance · legendary
+- **Yarrock (Pure)** — Consumable · substance · artifact
+- **Yarrock (Uncut)** — Consumable · substance · prototype

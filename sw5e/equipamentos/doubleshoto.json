@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "cost": 700,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Doubleshoto",
+  "properties": [
+    "Double (1d6 energy)",
+    "finesse",
+    "light",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Double": "Double (1d6 energy)",
+    "Finesse": "finesse",
+    "Light": "light",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Doubleshoto",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "MartialLightweapon",
+  "weight": "1.75"
+}

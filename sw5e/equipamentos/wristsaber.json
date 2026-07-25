@@ -1,0 +1,33 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "cost": 375,
+  "damageDiceDieTypeEnum": 4,
+  "damageDieModifier": 0,
+  "damageDieType": 4,
+  "damageNumberOfDice": 1,
+  "damageType": "Energy",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Wristsaber",
+  "properties": [
+    "Finesse",
+    "fixed",
+    "light",
+    "luminous"
+  ],
+  "propertiesMap": {
+    "Finesse": "Finesse",
+    "Fixed": "fixed",
+    "Light": "light",
+    "Luminous": "luminous"
+  },
+  "rowKey": "Wristsaber",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleLightweapon",
+  "weight": "1"
+}

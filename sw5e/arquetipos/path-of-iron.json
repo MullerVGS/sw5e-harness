@@ -1,0 +1,17 @@
+{
+  "casterRatio": 0.0,
+  "casterType": "None",
+  "classCasterType": "Force",
+  "className": "Sentinel",
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "featureRowKeys": null,
+  "features": null,
+  "imageUrls": [],
+  "leveledTable": null,
+  "leveledTableHeaders": null,
+  "name": "Path of Iron",
+  "rowKey": "Path of Iron",
+  "text": "\r\nMany sentinels choose to focus on a discipline that demands physical strength, reflexes, and fortitude. Those sentinels who follow the Path of Iron train their bodies to their physical peak, able to withstand nigh intolerable punishment and bolster their physical combat capabilities. \r\n\r\n### Form Combat Training\r\n_**Path of Iron:** 3rd level_\r\nYou learn one lightsaber form, as detailed in the Customization Options document for Expanded Content. \r\n\r\nAdditionally, you gain proficiency in all martial light- and vibro- weapons.\r\n\r\n### Physical Conditioning\r\n_**Path of Iron:** 3rd level_\r\nYou've undergone special training, increasing your physical capabilities. You gain the following benefits: \r\n- You gain proficiency in medium armor. If you are already proficient in medium armor, you then gain proficiency in heavy armor. While you are wearing light or medium armor, you can use your Wisdom or Charisma modifier (your choice) instead of your Dexterity modifier when determining your AC.\r\n- Your hit point maximum increases by 3, and it increases by 1 again whenever you gain a level in this class.\r\n\r\n### Enhanced Force-Empowered Self\r\n_**Path of Iron:** 7th level_\r\nThrough intense physical training, you've improved your body's ability to access and channel the force flowing within you. \r\n\r\nWhen you would use a Force-Empowered Self option, you can choose to bolster the option, gaining an additional effect as listed below. You can only bolster a Force-Empowered Self option once per turn. \r\n\r\nYou can use these features a combined three times. You gain an additional use at 9th, 13th, and 17th level. You regain any expended uses when you finish a short or long rest.\r\n\r\nWhile you have no remaining uses of this feature, you can instead expend 1 force point to use it.\r\n\r\n#### Aegis\r\nWhen you bolster Deflection, when an attack would hit you before the start of your next turn, you subtract the same value rolled for Deflection from the damage taken.\r\n\r\n#### Cleave\r\nWhen you bolster Double Strike, you choose another creature within 5 feet of your target. They take damage of the same type equal to the result of the die rolled for Double Strike.\r\n\r\n#### Momentum\r\nWhen you bolster Slow Time, until the end of your turn you ignore difficult terrain, and can move along vertical surfaces and across liquids without falling during the move.\r\n\r\n### Follow Through\r\n_**Path of Iron:** 13th level_\r\nWhen you take the Attack action on your turn, you can spend 2 force points and forgo one of your attacks to cast an at-will force power which requires you to make a melee weapon attack.\r\n\r\n### Kinetic Mastery\r\n_**Path of Iron:** 18th level_\r\nChoose a lightsaber form you know. Once on each of your turns, you can use the chosen form without using your bonus action. \r\n\r\nYou can do so six times. You regain all expended uses when you complete a long rest.\r\n\r\nWhile you have no remaining uses of this feature, you can instead expend 1 force point to use it.",
+  "text2": null
+}

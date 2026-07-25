@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "Other",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Wristpad Chassis (Legendary)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": true,
+  "rowKey": "Wristpad Chassis (Legendary)",
+  "searchableRarity": "Legendary",
+  "subtype": "tech",
+  "text": "_**Requires attunement**_\r\nThis modifiable wristpad chassis comes with vacant modification slots for wristpad modifications, as well as two augment slots. It can house modifications of legendary rarity or lower.",
+  "type": "Focus",
+  "valuableType": "None",
+  "valueText": null
+}

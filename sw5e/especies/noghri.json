@@ -1,0 +1,87 @@
+{
+  "abilitiesIncreased": [
+    [
+      {
+        "abilities": [
+          "Dexterity"
+        ],
+        "amount": 2
+      },
+      {
+        "abilities": [
+          "Strength"
+        ],
+        "amount": 1
+      }
+    ]
+  ],
+  "colorScheme": null,
+  "contentSource": "EC",
+  "contentType": "ExpandedContent",
+  "distinctions": "Advanced olfactory senses, claws, hunting prowess.",
+  "eyeColorOptions": "Brown",
+  "features": [],
+  "flavorText": "### Biology and Appearance\r\nNoghri are a primitive humanoid species hailed from the planet Honoghr with steely gray-blue skin that are renowned assassins. A natural gift for stealth and hand-to-hand combat, Noghri are efficient killing machines with their rending claws and strong olfactory sense that can often determine familial lineage. Their smaller size belies their ruthlessness and potent hunting skills.\r\n\r\n### Society and Culture\r\nNoghri culture relies heavily on honor, with society being clan-based, revolving around the Dukha, a community center in each village. The greatest strength of the Noghri stems from their loyalty and secrecy; when a Noghri takes a job, they always fulfill it, even if it would result in their death. As such, they make exceptional, albeit expensive bodyguards.\r\n\r\nNoghri are loathe to fight with weapons larger than small daggers, believing combat to be a personal celebration to be sullied by use of heavier weapons. As such, it is rare (though not impossible) to see a Noghri wielding a weapon larger than their forearm.\r\n\r\nEach Noghri clan village centers around the Dukha, with each clan being led by a Dynast. The Dukha is inhabited by the clan's Maitrakh, who functions as the storyteller, spiritual leader, and lore keep of the clan.\r\n\r\n### Names\r\nNoghri names vary from short to long, with female names being typically softer. Surnames are clan-based.\r\n\r\n**Male Names.** Cakhmaim, Ezrakh, Khabarakh, Rukh\r\n\r\n**Female Names.** Cilnaas, Edvir, Kahr'corvh, Meewalh\r\n\r\n**Surnames.** Bakh'tor, Eikh'mir, Hakh'khar, Khim'bar",
+  "hairColorOptions": "None",
+  "halfHumanTableEntries": {},
+  "heightAverage": "4'5\"",
+  "heightRollMod": "+2d6\"",
+  "homeworld": "Honoghr",
+  "imageUrls": [
+    "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_noghri.png"
+  ],
+  "language": "Honoghran",
+  "manufacturer": null,
+  "name": "Noghri",
+  "rowKey": "Noghri",
+  "size": "Medium",
+  "skinColorOptions": "Bluish-gray",
+  "traits": [
+    {
+      "description": "Your Dexterity score increases by 2, and your Strength score increases by 1.",
+      "name": "Ability Score Increase"
+    },
+    {
+      "description": "Noghri reach adulthood in their late teens and live less than a century.",
+      "name": "Age"
+    },
+    {
+      "description": "Noghri's honorable society causes them to tend toward a lawful alignment, though there are exceptions.",
+      "name": "Alignment"
+    },
+    {
+      "description": "Noghri typically stand about 5 feet tall and weigh around 150 lbs. Regardless of your position in that range, your size is Medium.",
+      "name": "Size"
+    },
+    {
+      "description": "Your base walking speed is 30 feet.",
+      "name": "Speed"
+    },
+    {
+      "description": "You are proficient in Survival and Stealth.",
+      "name": "Hunter"
+    },
+    {
+      "description": "You have advantage on Wisdom (Perception) checks that rely on smell.",
+      "name": "Keen Smell"
+    },
+    {
+      "description": "If you jump at least 10 feet in a straight line before hitting with a melee weapon attack, you can attempt to trip the target prone as part of the same attack. Once you use this trait, you can't use it again until you finish a short or long rest.",
+      "name": "Powerful Leap"
+    },
+    {
+      "description": "When you make a long jump, you can cover a number of feet up to twice your Strength score. When you make a high jump, you can leap a number of feet up into the air equal to 3 + twice your Strength modifier.",
+      "name": "Strong-Legged"
+    },
+    {
+      "description": "Your unarmed strikes deal 1d4 kinetic damage and have the finesse property.",
+      "name": "Unarmed Combatant"
+    },
+    {
+      "description": "You can speak, read, and write Galactic Basic and Honorghran. Honorghran is characterized by its scratchy, gutteral sounds.",
+      "name": "Languages"
+    }
+  ],
+  "weightAverage": "115 lb.",
+  "weightRollMod": "x(2d4) lb."
+}

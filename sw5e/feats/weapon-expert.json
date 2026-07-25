@@ -1,0 +1,13 @@
+{
+  "attributesIncreased": [
+    "Strength",
+    "Dexterity",
+    "Constitution"
+  ],
+  "contentSource": "PHB",
+  "contentType": "Core",
+  "name": "Weapon Expert",
+  "prerequisite": null,
+  "rowKey": "Weapon Expert",
+  "text": "You have practiced extensively with a variety of weapons, gaining the following benefits:\r\n- Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.\r\n- You gain proficiency with all blasters. If you are already proficient with all blasters, instead once per turn when you would roll weapon damage using a blaster, you can choose to have advantage.\r\n- You gain proficiency with all lightweapons. If you are already proficient with all lightweapons, instead once per turn when you would roll weapon damage using a lightweapon, you can choose to have advantage.\r\n- You gain proficiency with all vibroweapons. If you are already proficient with all vibroweapons, instead once per turn when you would roll weapon damage using a vibroweapon, you can choose to have advantage.\r\n\r\nYou can take this feat twice. \r\n"
+}

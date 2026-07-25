@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Darkvision Visor",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Premium"
+  ],
+  "rarityText": "premium",
+  "requiresAttunement": false,
+  "rowKey": "Darkvision Visor",
+  "searchableRarity": "Premium",
+  "subtype": "armor",
+  "text": "While wearing this armor, you have darkvision to a range of 60 feet. If you already have darkvision, this modification increases its range by 30 feet.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

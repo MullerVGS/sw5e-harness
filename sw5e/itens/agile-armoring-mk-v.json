@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": true,
+  "itemModificationType": "None",
+  "name": "Agile Armoring Mk V",
+  "prerequisite": " Armor",
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Agile Armoring Mk V",
+  "searchableRarity": "Legendary",
+  "subtype": "armor",
+  "text": "This armor gains the agile 19 property. If it already has the agile property, its agile number increases by five steps (from 11 to 21).",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}

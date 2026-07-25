@@ -1,0 +1,31 @@
+{
+  "ac": null,
+  "armorClassification": "Unknown",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cost": 300,
+  "damageDiceDieTypeEnum": 6,
+  "damageDieModifier": 0,
+  "damageDieType": 6,
+  "damageNumberOfDice": 1,
+  "damageType": "Kinetic",
+  "description": null,
+  "equipmentCategory": "Weapon",
+  "modes": [],
+  "name": "Diresword",
+  "properties": [
+    "Dexterity 11",
+    "dire 1",
+    "heavy"
+  ],
+  "propertiesMap": {
+    "Dexterity": "Dexterity 11",
+    "Dire": "dire 1",
+    "Heavy": "heavy"
+  },
+  "rowKey": "Diresword",
+  "stealthDisadvantage": false,
+  "strengthRequirement": null,
+  "weaponClassification": "SimpleVibroweapon",
+  "weight": "3.75"
+}

@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "Part",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "None",
+  "name": "Reinforced Chassis",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Standard"
+  ],
+  "rarityText": "standard",
+  "requiresAttunement": false,
+  "rowKey": "Reinforced Chassis",
+  "searchableRarity": "Standard",
+  "subtype": "part",
+  "text": "You've reinforced your chassis. When you don't have armor integrated, your AC is 13 + your Dexterity modifier.",
+  "type": "DroidCustomization",
+  "valuableType": "None",
+  "valueText": null
+}

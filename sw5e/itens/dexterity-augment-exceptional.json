@@ -1,0 +1,28 @@
+{
+  "adventuringGearType": "None",
+  "consumableType": "None",
+  "contentSource": "WH",
+  "contentType": "Core",
+  "cyberneticAugmentationType": "None",
+  "droidCustomizationType": "None",
+  "enhancedArmorType": "None",
+  "enhancedShieldType": "None",
+  "enhancedWeaponType": "None",
+  "focusType": "None",
+  "hasPrerequisite": false,
+  "itemModificationType": "Augment",
+  "name": "Dexterity Augment (Exceptional)",
+  "prerequisite": null,
+  "rarityOptions": [
+    "Legendary"
+  ],
+  "rarityText": "legendary",
+  "requiresAttunement": false,
+  "rowKey": "Dexterity Augment (Exceptional)",
+  "searchableRarity": "Legendary",
+  "subtype": "augment",
+  "text": "Your Dexterity score increases by 2, and your maximum for this score increases by 1.",
+  "type": "ItemModification",
+  "valuableType": "None",
+  "valueText": null
+}
