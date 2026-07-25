@@ -1,0 +1,87 @@
+{
+  "esquema": "sw5e-ficha/1",
+  "tipo": "npc",
+  "campanha": "tauo-dos-vitoriosos",
+  "base": "sw5e/monstros/drk-1-tracker-droid.json",
+  "identidade": {
+    "nome": "B3-SK",
+    "especie": "droid",
+    "idade": 11,
+    "alinhamento": "sem alinhamento",
+    "aparencia": "Esfera do tamanho de um capacete, com três sensores no equador — fotorreceptor central, imageador magnético e térmico. O casco é remendado de placa que não combina, cada camada de uma reconstrução diferente, e a solda mais recente não tem a mão de Kael. Flutua à altura do ombro esquerdo dele e cai meio metro toda vez que o repulsor engasga."
+  },
+  "narrativa": {
+    "conceito": "Droid sonda que Kael Arvek montou de refugo e já reconstruiu cinco ou seis vezes; é o olho que entra na sala antes de todo mundo e a única coisa que já era dele antes da adoção pelo clã.",
+    "ganchos": [
+      "Carrega peça de todas as reconstruções, e há uma que Kael jura não ter instalado.",
+      "Kael quer transformá-lo em algo que ande sozinho de verdade, e para isso ainda faltam os astrotech's implements."
+    ]
+  },
+  "atributos": {
+    "Strength": 3,
+    "Dexterity": 13,
+    "Constitution": 8,
+    "Intelligence": 2,
+    "Wisdom": 12,
+    "Charisma": 7
+  },
+  "derivados": {
+    "modificadores": {
+      "Strength": -4,
+      "Dexterity": 1,
+      "Constitution": -1,
+      "Intelligence": -4,
+      "Wisdom": 1,
+      "Charisma": -2
+    },
+    "bonusProficiencia": 2,
+    "pv": 1,
+    "ca": 11,
+    "iniciativa": 1,
+    "deslocamento": "5 pés, voo 60 pés"
+  },
+  "proficiencias": {
+    "salvaguardas": [],
+    "pericias": ["Perception", "Stealth", "Survival"],
+    "idiomas": []
+  },
+  "equipamento": {
+    "itens": [
+      { "nome": "peças de refugo das reconstruções anteriores, soldadas ao casco", "qtd": 1 }
+    ]
+  },
+  "ataques": [
+    {
+      "nome": "Shockprod",
+      "bonus": 3,
+      "dano": "1",
+      "tipo": "Lightning",
+      "alcance": "corpo a corpo, 5 pés"
+    }
+  ],
+  "features": [
+    {
+      "nome": "Circuitry",
+      "origem": "base",
+      "resumo": "desvantagem em salvaguardas contra efeitos que causem dano ion ou lightning"
+    },
+    {
+      "nome": "Interfaced Tracking Protocol",
+      "origem": "base",
+      "resumo": "enquanto interfaceado, dá vantagem ao conjurador em testes de Wisdom (Survival) para rastrear um alvo que o droid também rastreia — ou, se já houver vantagem, permite rerrolar um dos dados uma vez"
+    },
+    {
+      "nome": "Tracker Droid Interface",
+      "origem": "Tracker Droid Interface",
+      "resumo": "link permanente com o tech focus do Kael: age sozinho na iniciativa dele e obedece seus comandos, transmite visão e audição a até 100 pés, e entrega por reação os poderes tech de toque que ele conjura, usando o bônus de ataque do Kael"
+    }
+  ],
+  "fontes": {
+    "Perception": "sw5e/pericias/perception.json",
+    "Stealth": "sw5e/pericias/stealth.json",
+    "Survival": "sw5e/pericias/survival.json",
+    "Tracker Droid Interface": "sw5e/poderes/tracker-droid-interface.json",
+    "Repair Droid": "sw5e/poderes/repair-droid.json"
+  },
+  "notas": "Bloco fiel: nada foi alterado do DRK-1 Tracker Droid, e qualquer melhoria futura tem que aparecer aqui. O bônus de proficiência +2 não está no bloco — sai do CR 0. As três perícias fecham como modificador + 2. Darkvision 120 pés, passive Perception 13, resistência a Necrotic, Poison e Psychic, vulnerabilidade a Ion e imunidade a poison e disease ficam no base e não viraram campo. O deslocamento é string porque o voo 60 é o número que a mesa usa; o 5 pés no chão só vale com o repulsor desligado. A espécie é o tipo de criatura do bloco, não as espécies jogáveis Droid, Class I–V: a build é bloco de monstro, não níveis de classe. Idiomas vazio porque o bloco traz \"—\" — o B3-SK não fala, e a comunicação com Kael é pelo tech focus dentro de 100 pés, o que casa com o hábito dele de responder no lugar do droid. Shockprod é arma do chassi e não tem fatia em equipamentos, por isso não ganha linha em fontes; o bloco escreve o dano como 1 fixo, não como dado. O link vem do poder tracker droid interface do Kael, que custa 2 tech points e 1 hora de conjuração para restabelecer — se o B3-SK for destruído, o droid reconstruído precisa ser reinterfaceado, e Kael só mantém um por vez. Com 1 PV ele cai em qualquer acerto; repair droid, que o Techie concede ao Kael 1x por descanso longo sem gastar tech point, cura 1d8+3 e sempre o devolve inteiro."
+}
