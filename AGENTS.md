@@ -74,6 +74,6 @@ Vivem em `.agents/skills/<nome>/SKILL.md`. As regras acima valem para todas e **
 
 O esqueleto está de pé; o resto está em construção, rastreado no mapa `.scratch/sw5e-harness/map.md` e nos tickets em `.scratch/sw5e-harness/issues/`, na raiz do workspace (`/root/projetos`).
 
-Ainda **não existem**: o espelho `sw5e/` e o `tools/sync-espelho.py` que o produz (issue 03), o esquema `sw5e-ficha/1` documentado (issue 04) e as cinco skills (issues 05, 06 e 07). Até cada um chegar, as regras acima descrevem o alvo, não o presente — não finja que a peça existe.
+Ainda **não existem**: o espelho `sw5e/` e o `tools/sync-espelho.py` que o produz (issue 03), o esquema `sw5e-ficha/1` documentado (issue 04) e quatro das cinco skills — só `nova-campanha` está escrita (issue 05); faltam as outras (issues 06 e 07). Até cada um chegar, as regras acima descrevem o alvo, não o presente — não finja que a peça existe.
 
 Apague esta seção quando a issue 07 fechar.
