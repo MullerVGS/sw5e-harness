@@ -7,7 +7,10 @@ Jogador · 25 BBY, Legends · clã mercenário mandaloriano sem trono, vivendo d
 - **Nível do grupo**: 1
 - **Atributos**: rolagem — os valores já foram tirados fora da harness; o Jogador informa os dele na criação da ficha
 - **Fontes**: tudo o que está no Espelho
-- **Casa-regras**: todos são mandalorianos. Quem escolhe outro background ganha por cima `Mando'a` e `Child of Mandalore` do background `Mandalorian`, sem perder nada do que escolheu — perícias, feat e equipamento do `Mandalorian` não entram.
+- **Casa-regras**:
+  - Todos são mandalorianos. Quem escolhe outro background ganha por cima `Mando'a` e `Child of Mandalore` do background `Mandalorian`, sem perder nada do que escolheu — perícias, feat e equipamento do `Mandalorian` não entram.
+  - Cada personagem tem uma proficiência de perícia a mais, à escolha, acima do que classe e background dão.
+  - Peça de beskar entra na ficha como equipamento inicial concedido pelo clã, sem custo nem pré-requisito de nível.
 
 ## O grupo
 
