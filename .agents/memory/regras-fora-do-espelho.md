@@ -11,11 +11,24 @@ que falta e onde achar, verificado em 2026-07-25:
 - **Custo de conjuração**: um poder de nível N custa **N + 1 pontos** de Força ou
   de tech. Poder de nível 1 = **2 pontos**. Poder at-will = grátis. É a
   simplificação do spell point variant do DMG, e não está em Fatia nenhuma.
-- **O que cada kit faz**: as Fatias de `Slicer's kit`, `Security kit`,
-  `Tinker's implements` e `Astrotech's implements` têm **só custo e peso**. As
-  descrições seguem o padrão do Xanathar's — cada kit dá *insight* em perícias
-  específicas e tem uma habilidade de calibração (teste DC 15 num descanso, que
-  concede um dado de bônus até o bônus de proficiência, ou o dobro com expertise).
+- **O que cada kit faz**: as Fatias das ferramentas têm **só custo e peso** — a
+  descrição de escopo está no **PHB cap. 5** (`/api/playerHandbookRule`, `rowKey`
+  `"5"`). Cada _artisan's implements_ ganha uma linha de ofício explícita, e é ela
+  que decide **quem conserta o quê**:
+  - **Armstech's implements** → cria e **repara blasters e vibroweapons** (é a
+    ferramenta de consertar arma pessoal — inclui slug pistol, que é `SimpleBlaster`).
+  - **Armormech's implements** → cria e repara armaduras e escudos.
+  - **Artificer's implements** → cria lightweapons. **Astrotech's** → cria e
+    modifica droids. **Cybertech's** → wristpads. **Biotech's** → augmentações
+    cibernéticas. **Gadgeteer's** → jet packs, friction-grip e afins.
+  - **Mechanic's kit** → cria e repara **veículos e naves**, não arma de mão.
+  - **Tinker's implements** → "general use", cria pequenos trinkets — a esticada
+    plausível quando falta a ferramenta dedicada.
+  - Specialist's kits (Slicer's, Security, Forgery, Poisoner's, Disguise, etc.)
+    são de propósito, não de ofício: Slicer's fura defesa/trava computadorizada,
+    Security fura trava física, e assim por diante.
+  O padrão Xanathar's (insight + calibração DC 15) pode existir por cima em
+  variante, mas a linha de ofício do PHB é a regra que resolve reparo na mesa.
 - **Feat no 1º nível**: todo personagem ganha um, e mais em 3, 6, 9, 12, 15 e 18.
   Não há Fatia que diga isso; o que o Espelho mostra é o `featOptions` de todo
   background.
