@@ -74,6 +74,5 @@ Vivem em `.agents/skills/<nome>/SKILL.md`. As regras acima valem para todas e **
 ## Regras gerais
 
 - Idioma da conversa: **PT-BR**.
-- Commits sem trailer de coautoria.
 - Descoberta operacional durável vira memória em `.agents/memory/`, não comentário em arquivo.
 - A harness ainda está sendo construída: o mapa e os tickets vivem em `.scratch/sw5e-harness/`, na raiz do workspace (`/root/projetos`).
