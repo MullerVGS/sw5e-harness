@@ -59,7 +59,7 @@
     },
     "bonusProficiencia": 2,
     "pv": 10,
-    "ca": 12,
+    "ca": 13,
     "iniciativa": 1,
     "deslocamento": 30,
     "dcPoder": 13,
@@ -109,7 +109,7 @@
       { "nome": "Clothes, common", "qtd": 1 },
       { "nome": "Clothes, traveler's", "qtd": 1 },
       { "nome": "troféu de uma vitória passada do clã", "qtd": 1 },
-      { "nome": "capacete de beskar, única peça do conjunto", "qtd": 1 },
+      { "nome": "Mandalorian Helmet", "qtd": 1 },
       { "nome": "B3-SK, droid flutuante reconstruído", "qtd": 1 },
       { "nome": "droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento)", "qtd": 3 },
       { "nome": "antena transceptora velha", "qtd": 1 },
@@ -168,6 +168,11 @@
       "resumo": "códigos de uma estação distribuidora dão informação diária sobre um tema, de confiabilidade variável"
     },
     {
+      "nome": "Mandalorian Helmet",
+      "origem": "casa-regra",
+      "resumo": "sintonizado: +1 de CA e absorptive 1 contra dano de energia de arma, mais headcomm, holorecorder e darkvision 60 pés"
+    },
+    {
       "nome": "Child of Mandalore",
       "origem": "Mandalorian",
       "resumo": "mandalorianos o reconhecem e lhe dão abrigo, comida e cura, salvo rixa entre clãs; os do próprio clã ajudam mesmo a custo próprio"
@@ -193,6 +198,7 @@
     "Execute Command": "sw5e/poderes/execute-command.json",
     "Repair Droid": "sw5e/poderes/repair-droid.json",
     "Combat suit": "sw5e/equipamentos/combat-suit.json",
+    "Mandalorian Helmet": "sw5e/itens/mandalorian-helmet.json",
     "Wristpad": "sw5e/equipamentos/wristpad.json",
     "Vibrodagger": "sw5e/equipamentos/vibrodagger.json",
     "Blaster pistol": "sw5e/equipamentos/blaster-pistol.json",
@@ -207,5 +213,5 @@
     "Clothes, traveler's": "sw5e/equipamentos/clothes-traveler-s.json",
     "DRK-1 Tracker Droid": "sw5e/monstros/drk-1-tracker-droid.json"
   },
-  "notas": "Intelligence 17 = 14 rolado + 2 (Arkanian) + 1 (Techie); Wisdom 14 = 13 rolado + 1 (Arkanian). Tech Points 5 = nível x 2 + modificador de Intelligence, e não o 2 da coluna da tabela. O Techie concede o poder repair droid, que fica fora de poderes.tech por ser concedido: ele é conjurável 1x por descanso longo sem wristpad e sem gastar tech point. Technology é proficiência do Engineer e o Techie a converte em expertise. Origem de cada proficiência de ferramenta, que a Tool Expertise do 2º nível precisa saber: Tinker's implements e Slicer's kit vêm do Engineer (e são as duas que ganham expertise no 2º nível); Mechanic's kit e Security kit vêm do Holonet Technician; Astrotech's implements vem do Crafters do Arkanian. Astrotech's implements é proficiência, mas o item ainda não foi comprado — ele é pré-requisito do arquétipo Astrotech Engineering no 3º nível. O Blaster rifle é MartialBlaster e o Engineer só tem proficiência em Simple blasters: o ataque com ele não soma bônus de proficiência. Short Circuit entra em ataques por ser o ataque de todo dia do personagem, embora o exemplo do FICHA.md só liste armas. B3-SK usa o bloco DRK-1 Tracker Droid e depende do poder tracker droid interface, que leva 1 hora para conjurar e mantém link com um droid por vez; os outros três droids-ferramenta são cor, sem mecânica. Encrypted Message exige que o alvo tenha um commlink, e nenhum foi comprado ainda. Lore não vem do Engineer nem do Holonet Technician: é a perícia extra que o Tutti concedeu por casa-regra, e por isso não tem feature que a justifique. Mando'a e Child of Mandalore vêm da casa-regra da mesa, que faz todo personagem mandaloriano: o background Mandalorian empresta o idioma e a feature social, e o Holonet Technician continua valendo por inteiro — perícias, os dois kits e Holonet Access. Não se aplicaram as perícias, o feat nem o equipamento do Mandalorian. A regra de que todo personagem recebe um feat no 1º nível não existe como fatia no Espelho — o que existe é featOptions em todo background, e Techie está na lista do Holonet Technician."
+  "notas": "Intelligence 17 = 14 rolado + 2 (Arkanian) + 1 (Techie); Wisdom 14 = 13 rolado + 1 (Arkanian). Tech Points 5 = nível x 2 + modificador de Intelligence, e não o 2 da coluna da tabela. O Techie concede o poder repair droid, que fica fora de poderes.tech por ser concedido: ele é conjurável 1x por descanso longo sem wristpad e sem gastar tech point. Technology é proficiência do Engineer e o Techie a converte em expertise. Origem de cada proficiência de ferramenta, que a Tool Expertise do 2º nível precisa saber: Tinker's implements e Slicer's kit vêm do Engineer (e são as duas que ganham expertise no 2º nível); Mechanic's kit e Security kit vêm do Holonet Technician; Astrotech's implements vem do Crafters do Arkanian. Astrotech's implements é proficiência, mas o item ainda não foi comprado — ele é pré-requisito do arquétipo Astrotech Engineering no 3º nível. O Blaster rifle é MartialBlaster e o Engineer só tem proficiência em Simple blasters: o ataque com ele não soma bônus de proficiência. Short Circuit entra em ataques por ser o ataque de todo dia do personagem, embora o exemplo do FICHA.md só liste armas. B3-SK usa o bloco DRK-1 Tracker Droid e depende do poder tracker droid interface, que leva 1 hora para conjurar e mantém link com um droid por vez; os outros três droids-ferramenta são cor, sem mecânica. Encrypted Message exige que o alvo tenha um commlink, e nenhum foi comprado ainda. CA 13 = combat suit 11 + Dexterity 1 + 1 do Mandalorian Helmet, e o +1 do capacete é casa-regra: RAW o item não dá CA nenhuma, só headcomm, holorecorder e darkvision 60 pés — os bônus de CA do conjunto pertencem todos à Mandalorian Beskar'gam, que o Kael não tem. O absorptive 1 contra energia também é casa-regra do Tutti, e usa o vocabulário da propriedade de armadura: reduz em 1 o dano de arma, sem zerar. Fica em aberto se ele valia como resistência de metade do dano e se alcança dano de energia que não vem de arma. A darkvision do capacete não empilha com a do Arkanian. O capacete exige sintonia e é a única do Kael, que pode ter três. Lore não vem do Engineer nem do Holonet Technician: é a perícia extra que o Tutti concedeu por casa-regra, e por isso não tem feature que a justifique. Mando'a e Child of Mandalore vêm da casa-regra da mesa, que faz todo personagem mandaloriano: o background Mandalorian empresta o idioma e a feature social, e o Holonet Technician continua valendo por inteiro — perícias, os dois kits e Holonet Access. Não se aplicaram as perícias, o feat nem o equipamento do Mandalorian. A regra de que todo personagem recebe um feat no 1º nível não existe como fatia no Espelho — o que existe é featOptions em todo background, e Techie está na lista do Holonet Technician."
 }
