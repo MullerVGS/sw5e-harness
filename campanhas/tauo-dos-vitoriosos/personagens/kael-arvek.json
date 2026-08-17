@@ -113,7 +113,8 @@
       { "nome": "B3-SK, droid flutuante reconstruído", "qtd": 1 },
       { "nome": "droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento)", "qtd": 3 },
       { "nome": "antena transceptora velha", "qtd": 1 },
-      { "nome": "mochila de viagem", "qtd": 1 }
+      { "nome": "mochila de viagem", "qtd": 1 },
+      { "nome": "container de minério para extratora, descarregado (achado na mina de Vanquor, S02)", "qtd": 6 }
     ]
   },
   "ataques": [

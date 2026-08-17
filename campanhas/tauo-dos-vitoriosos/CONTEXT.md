@@ -34,10 +34,12 @@ _nenhuma_ — Legends como é.
 
 ## Situação
 
-Vanquor, depois da S01. O clã tem um puck do clã de Jaster Mereel para caçar Tross Kohima,
-o Montross — que Heff Egoya (fundador da cidade, dono do general store) só descreveu como
-perigoso. Próximo objetivo: limpar a mina de Vanquor, recém-infestada por gundarks
-(infestação nova, tida como simples), serviço arrancado do Chefe 1 (o gordão); feito isso, ele
-promete contar o que sabe de Montross. Só Kael tem ficha; Bat-seba Nul, Tuth Gex e Darxen
-Mak jogaram mas ainda não têm ficha no repo. A postura de Sundari, do Death Watch e de quem
-contrata o clã ainda não foi estabelecida pelo Tutti.
+Vanquor, dentro da mina abandonada de minério explosivo (a especialidade do planeta), no meio da
+S02. O grupo limpou uma emboscada de quatro gundarks jovens e avançou até o fundo: combate suspenso,
+de frente para a matriarca, que alimenta uma nova leva de jovens cercada de gundarks guardas e de
+cogumelos explosivos. Matar a matriarca espalha a infestação em vez de encerrá-la; o plano do Tuth é
+detoná-la numa explosão em cadeia. Pano de fundo: o clã tem o puck do clã de Jaster Mereel para caçar
+Tross Kohima, o Montross (só descrito como perigoso por Heff Egoya), e o Chefe 1 (o gordão) só conta o
+que sabe de Montross depois da mina limpa. Só Kael tem ficha; Bat-seba Nul, Tuth Gex e Darxen Mak
+jogaram mas ainda não têm ficha no repo. A postura de Sundari, do Death Watch e de quem contrata o
+clã ainda não foi estabelecida pelo Tutti.
