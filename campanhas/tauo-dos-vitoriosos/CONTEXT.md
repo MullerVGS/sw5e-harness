@@ -17,7 +17,7 @@ Jogador · 25 BBY, Legends · clã mercenário mandaloriano sem trono, vivendo d
 Mestre: Tutti. Todos os personagens são mandalorianos, sem lealdade a Sundari nem ao Death Watch.
 
 - **Kael Arvek (Arthur)** — Arkanian Engineer 1, adotado pelo clã. Slicer e construtor de droids; age por discrição, vira o sistema da sala contra quem está nela e reaproveita peças achadas em viagem. Anda com B3-SK, droid flutuante que ele já reconstruiu várias vezes, e três droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento). Quase não tira o `Mandalorian Helmet` — é a única peça do conjunto que tem, e a luz forte o cega.
-- **Bat-seba Nul (Vih)** — _ficha a criar_
+- **Bat-seba Nul (Vih)** — _ficha a criar_; pela ótica do Kael, é quem pensa no grupo.
 - **Tuth Gex (Brunin)** — _ficha a criar_
 - **Darxen Mak (Thata)** — _ficha a criar_
 
@@ -31,7 +31,10 @@ _nenhuma_ — Legends como é.
 
 ## Situação
 
-A mesa começou em Vanquor (S01). O clã recebeu um puck de contrato assinado pelo clã de
-Jaster Mereel, com alvo Tross Kohima (alias Montross). Só Kael tem ficha;
-Bat-seba Nul, Tuth Gex e Darxen Mak jogaram mas ainda não têm ficha no repo. A postura de
-Sundari, do Death Watch e de quem contrata o clã ainda não foi estabelecida pelo Tutti.
+A mesa começou em Vanquor (S01). O clã pegou um puck do clã de Jaster Mereel para caçar
+Tross Kohima, o Montross — que Heff Egoya (fundador da cidade, dono do general store) só
+descreveu como perigoso. Gancho aberto: três figuras da chefia local vão retomar uma
+conversa reservada no dia seguinte, depois da confusão que a Bat-seba causou no bar. Só
+Kael tem ficha; Bat-seba Nul, Tuth Gex e Darxen Mak jogaram mas ainda não têm ficha no
+repo. A postura de Sundari, do Death Watch e de quem contrata o clã ainda não foi
+estabelecida pelo Tutti.

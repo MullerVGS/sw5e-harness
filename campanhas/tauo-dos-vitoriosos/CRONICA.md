@@ -9,12 +9,15 @@ aconteceu nomeando quem apareceu, e **Promovido** com o que subiu para o
 ## S01 — 2026-08-08 · Vanquor
 **Presentes**: Kael Arvek (Arthur), Bat-seba Nul (Vih), Tuth Gex (Brunin), Darxen Mak (Thata).
 
-Kael, Tuth Gex e Darxen Mak estavam num bar em Vanquor quando chegou um puck de
-contrato com pouquíssima informação — assinado pelo clã de Jaster Mereel, apontando
-um único alvo: Tross Kohima, também conhecido como Montross. Os três foram ao
-espaçoporto atrás de Bat-seba Nul e fecharam o grupo para pegar o contrato.
+O contrato chegou num puck do clã de Jaster Mereel a Kael, Tuth Gex e Darxen Mak num
+bar de Vanquor: pouca informação, um único alvo — Tross Kohima, o Montross. Foram ao
+espaçoporto buscar Bat-seba Nul e fechar o grupo. Heff Egoya, fundador da cidade e dono
+do general store, só confirmou que Montross é perigoso. À noite, com os mineradores de
+volta do turno, o grupo caiu de novo no bar: Bat-seba no capote, Kael de disfarce
+dançando enquanto o drone escutava três figuras da chefia local. Bat-seba arrumou briga,
+desviou de um tiro e decepou a mão do atirador; os três chefes reclamaram e encerraram,
+marcando de retomar a conversa num lugar reservado no dia seguinte.
 
-_Registro parcial (v0): a sessão continua daqui; o Jogador ainda vai trazer o resto._
-
-**Promovido**: os três nomes de personagem em `O grupo` e a `Situação` (mesa começou
-em Vanquor com o contrato). Contratante e alvo ficam só aqui até o relato cheio.
+**Promovido**: os três nomes em `O grupo`, o traço da Bat-seba (pela ótica do Kael) e a
+`Situação` (contrato contra Montross em curso, gancho da reunião dos chefes locais).
+Heff Egoya e os três chefes ficam só aqui — apareceram, sem postura firmada.
