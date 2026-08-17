@@ -23,7 +23,10 @@ Mestre: Tutti. Todos os personagens são mandalorianos, sem lealdade a Sundari n
 
 ## Facções e figuras
 
-_nenhuma_
+- **Chefe 1 — "o gordão"** _(apelido provisório; nome real a perguntar ao mestre)_ — um dos
+  três chefes locais de Vanquor; chefe do capanga que a Bat-seba desarmou (literalmente) no
+  bar. Veio à nave com dez droids cobrar compensação, foi intimidado e virou patrono
+  condicional: deu ao grupo o serviço da mina e segura o que sabe de Montross até ele estar feito.
 
 ## Divergência do cânon
 
@@ -31,10 +34,10 @@ _nenhuma_ — Legends como é.
 
 ## Situação
 
-A mesa começou em Vanquor (S01). O clã pegou um puck do clã de Jaster Mereel para caçar
-Tross Kohima, o Montross — que Heff Egoya (fundador da cidade, dono do general store) só
-descreveu como perigoso. Gancho aberto: três figuras da chefia local vão retomar uma
-conversa reservada no dia seguinte, depois da confusão que a Bat-seba causou no bar. Só
-Kael tem ficha; Bat-seba Nul, Tuth Gex e Darxen Mak jogaram mas ainda não têm ficha no
-repo. A postura de Sundari, do Death Watch e de quem contrata o clã ainda não foi
-estabelecida pelo Tutti.
+Vanquor, depois da S01. O clã tem um puck do clã de Jaster Mereel para caçar Tross Kohima,
+o Montross — que Heff Egoya (fundador da cidade, dono do general store) só descreveu como
+perigoso. Próximo objetivo: limpar a mina de Vanquor, recém-infestada por gundarks
+(infestação nova, tida como simples), serviço arrancado do Chefe 1 (o gordão); feito isso, ele
+promete contar o que sabe de Montross. Só Kael tem ficha; Bat-seba Nul, Tuth Gex e Darxen
+Mak jogaram mas ainda não têm ficha no repo. A postura de Sundari, do Death Watch e de quem
+contrata o clã ainda não foi estabelecida pelo Tutti.
