@@ -32,6 +32,6 @@ _nenhuma_ — Legends como é.
 ## Situação
 
 A mesa começou em Vanquor (S01). O clã recebeu um puck de contrato assinado pelo clã de
-Jaster Mereel, com alvo Tross Kohima / Montross (nome ainda incerto). Só Kael tem ficha;
+Jaster Mereel, com alvo Tross Kohima (alias Montross). Só Kael tem ficha;
 Bat-seba Nul, Tuth Gex e Darxen Mak jogaram mas ainda não têm ficha no repo. A postura de
 Sundari, do Death Watch e de quem contrata o clã ainda não foi estabelecida pelo Tutti.
