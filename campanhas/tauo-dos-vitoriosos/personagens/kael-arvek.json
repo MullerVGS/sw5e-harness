@@ -36,9 +36,16 @@
   },
   "build": {
     "nivel": 1,
-    "classes": [{ "classe": "Engineer", "nivel": 1 }],
+    "classes": [
+      {
+        "classe": "Engineer",
+        "nivel": 1
+      }
+    ],
     "background": "Holonet Technician",
-    "feats": ["Techie"]
+    "feats": [
+      "Techie"
+    ]
   },
   "atributos": {
     "Strength": 11,
@@ -71,11 +78,28 @@
     "Potent Aptitude": "d4"
   },
   "proficiencias": {
-    "salvaguardas": ["Constitution", "Intelligence"],
-    "pericias": ["Insight", "Investigation", "Lore", "Piloting", "Stealth", "Technology"],
-    "expertise": ["Technology"],
-    "armas": ["Simple blasters", "Simple vibroweapons"],
-    "armaduras": ["Light armor"],
+    "salvaguardas": [
+      "Constitution",
+      "Intelligence"
+    ],
+    "pericias": [
+      "Insight",
+      "Investigation",
+      "Lore",
+      "Piloting",
+      "Stealth",
+      "Technology"
+    ],
+    "expertise": [
+      "Technology"
+    ],
+    "armas": [
+      "Simple blasters",
+      "Simple vibroweapons"
+    ],
+    "armaduras": [
+      "Light armor"
+    ],
     "ferramentas": [
       "Tinker's implements",
       "Mechanic's kit",
@@ -83,7 +107,11 @@
       "Security kit",
       "Astrotech's implements"
     ],
-    "idiomas": ["Galactic Basic", "Arkanian", "Mando'a"]
+    "idiomas": [
+      "Galactic Basic",
+      "Arkanian",
+      "Mando'a"
+    ]
   },
   "poderes": {
     "tech": [
@@ -97,24 +125,74 @@
   },
   "equipamento": {
     "itens": [
-      { "nome": "Combat suit", "qtd": 1 },
-      { "nome": "Wristpad", "qtd": 1 },
-      { "nome": "Vibrodagger", "qtd": 1 },
-      { "nome": "Blaster pistol", "qtd": 1 },
-      { "nome": "Power cell", "qtd": 2 },
-      { "nome": "Blaster rifle", "qtd": 1 },
-      { "nome": "Tinker's implements", "qtd": 1 },
-      { "nome": "Slicer's kit", "qtd": 1 },
-      { "nome": "Security kit", "qtd": 1 },
-      { "nome": "Clothes, common", "qtd": 1 },
-      { "nome": "Clothes, traveler's", "qtd": 1 },
-      { "nome": "troféu de uma vitória passada do clã", "qtd": 1 },
-      { "nome": "Mandalorian Helmet", "qtd": 1 },
-      { "nome": "B3-SK, droid flutuante reconstruído", "qtd": 1 },
-      { "nome": "droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento)", "qtd": 3 },
-      { "nome": "antena transceptora velha", "qtd": 1 },
-      { "nome": "mochila de viagem", "qtd": 1 },
-      { "nome": "container de minério para extratora, descarregado (achado na mina de Vanquor, S02)", "qtd": 6 }
+      {
+        "nome": "Combat suit",
+        "qtd": 1
+      },
+      {
+        "nome": "Wristpad",
+        "qtd": 1
+      },
+      {
+        "nome": "Vibrodagger",
+        "qtd": 1
+      },
+      {
+        "nome": "Blaster pistol",
+        "qtd": 1
+      },
+      {
+        "nome": "Power cell",
+        "qtd": 2
+      },
+      {
+        "nome": "Blaster rifle",
+        "qtd": 1
+      },
+      {
+        "nome": "Tinker's implements",
+        "qtd": 1
+      },
+      {
+        "nome": "Slicer's kit",
+        "qtd": 1
+      },
+      {
+        "nome": "Security kit",
+        "qtd": 1
+      },
+      {
+        "nome": "Clothes, common",
+        "qtd": 1
+      },
+      {
+        "nome": "Clothes, traveler's",
+        "qtd": 1
+      },
+      {
+        "nome": "troféu de uma vitória passada do clã",
+        "qtd": 1
+      },
+      {
+        "nome": "Mandalorian Helmet",
+        "qtd": 1
+      },
+      {
+        "nome": "B3-SK, droid flutuante reconstruído",
+        "qtd": 1
+      },
+      {
+        "nome": "droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento)",
+        "qtd": 3
+      },
+      {
+        "nome": "antena transceptora velha",
+        "qtd": 1
+      },
+      {
+        "nome": "mochila de viagem",
+        "qtd": 1
+      }
     ]
   },
   "ataques": [
@@ -153,11 +231,32 @@
       "origem": "Arkanian",
       "resumo": "soma 1d4 a uma rolagem de Intelligence depois de rolar, 1x por descanso"
     },
-    { "nome": "Crafters", "origem": "Arkanian", "resumo": "proficiência em uma ferramenta à escolha", "escolha": "Astrotech's implements" },
-    { "nome": "Darkvision", "origem": "Arkanian", "resumo": "enxerga 60 pés no escuro, em tons de cinza" },
-    { "nome": "Honed Mind", "origem": "Arkanian", "resumo": "vantagem em salvaguardas de Int, Wis e Cha contra poderes de Força e tech" },
-    { "nome": "Infrared Sight", "origem": "Arkanian", "resumo": "conta como tendo expertise em Perception quando o teste depende da visão" },
-    { "nome": "Sunlight Sensitivity", "origem": "Arkanian", "resumo": "desvantagem em ataque e em Perception de visão sob luz solar direta" },
+    {
+      "nome": "Crafters",
+      "origem": "Arkanian",
+      "resumo": "proficiência em uma ferramenta à escolha",
+      "escolha": "Astrotech's implements"
+    },
+    {
+      "nome": "Darkvision",
+      "origem": "Arkanian",
+      "resumo": "enxerga 60 pés no escuro, em tons de cinza"
+    },
+    {
+      "nome": "Honed Mind",
+      "origem": "Arkanian",
+      "resumo": "vantagem em salvaguardas de Int, Wis e Cha contra poderes de Força e tech"
+    },
+    {
+      "nome": "Infrared Sight",
+      "origem": "Arkanian",
+      "resumo": "conta como tendo expertise em Perception quando o teste depende da visão"
+    },
+    {
+      "nome": "Sunlight Sensitivity",
+      "origem": "Arkanian",
+      "resumo": "desvantagem em ataque e em Perception de visão sob luz solar direta"
+    },
     {
       "nome": "Potent Aptitude",
       "origem": "Engineer 1",

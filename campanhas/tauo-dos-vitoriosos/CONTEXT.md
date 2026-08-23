@@ -20,13 +20,15 @@ Mestre: Tutti. Todos os personagens são mandalorianos, sem lealdade a Sundari n
 - **Bat-seba Nul (Vih)** — _ficha a criar_; pela ótica do Kael, é quem pensa no grupo.
 - **Tuth Gex (Brunin)** — _ficha a criar_
 - **Darxen Mak (Thata)** — _ficha a criar_
+- **Mekkit (Jonas)** — _ficha a criar_; Jawa mandaloriano, entrou no grupo em Vanquor na S03.
 
 ## Facções e figuras
 
-- **Chefe 1 — "o gordão"** _(apelido provisório; nome real a perguntar ao mestre)_ — um dos
-  três chefes locais de Vanquor; chefe do capanga que a Bat-seba desarmou (literalmente) no
-  bar. Veio à nave com dez droids cobrar compensação, foi intimidado e virou patrono
-  condicional: deu ao grupo o serviço da mina e segura o que sabe de Montross até ele estar feito.
+- **Jighe Jaynon** — ithoriano, dono da mina e um dos três chefes locais de Vanquor; era o "Chefe 1,
+  o gordão" do apelido provisório, e de gordo não tinha tanto. Chefe do capanga que a Bat-seba
+  desarmou (literalmente) no bar: veio à nave com dez droids cobrar compensação, foi intimidado e
+  trocou a cobrança pelo serviço da mina. Mina limpa, pagou o que prometia sobre Montross — dívida
+  quitada dos dois lados.
 
 ## Divergência do cânon
 
@@ -34,12 +36,12 @@ _nenhuma_ — Legends como é.
 
 ## Situação
 
-Vanquor, dentro da mina abandonada de minério explosivo (a especialidade do planeta), no meio da
-S02. O grupo limpou uma emboscada de quatro gundarks jovens e avançou até o fundo: combate suspenso,
-de frente para a matriarca, que alimenta uma nova leva de jovens cercada de gundarks guardas e de
-cogumelos explosivos. Matar a matriarca espalha a infestação em vez de encerrá-la; o plano do Tuth é
-detoná-la numa explosão em cadeia. Pano de fundo: o clã tem o puck do clã de Jaster Mereel para caçar
-Tross Kohima, o Montross (só descrito como perigoso por Heff Egoya), e o Chefe 1 (o gordão) só conta o
-que sabe de Montross depois da mina limpa. Só Kael tem ficha; Bat-seba Nul, Tuth Gex e Darxen Mak
-jogaram mas ainda não têm ficha no repo. A postura de Sundari, do Death Watch e de quem contrata o
-clã ainda não foi estabelecida pelo Tutti.
+Vanquor, de volta à cidade. A mina do Jighe Jaynon está limpa — a matriarca dos gundarks e a ninhada
+morreram, ao custo de a Bat-seba Nul quase cair. Na saída, o grupo extraiu oito containers de ridonio
+(dois muito bem processados, quatro normais, dois fracos), todos guardados no compartimento de
+contrabando da nave. Mekkit entrou no grupo. Com o serviço cumprido, Jighe Jaynon pagou a informação
+prometida: Tross Kohima, o Montross — alvo do puck do clã de Jaster Mereel, e só descrito como
+perigoso por Heff Egoya — está numa vila perto da mina, tocando trabalho de milícia e cobrando dos
+moradores por segurança. É para lá que o grupo vai. Só Kael tem ficha; Bat-seba Nul, Tuth Gex, Darxen
+Mak e Mekkit jogaram mas ainda não têm ficha no repo. A postura de Sundari, do Death Watch e de quem
+contrata o clã ainda não foi estabelecida pelo Tutti.

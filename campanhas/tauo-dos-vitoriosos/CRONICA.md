@@ -38,3 +38,24 @@ frente para ela, com Tuth — atirador de elite — já com o rifle sacado, mira
 **Promovido**: a `Situação` passa a ser o combate suspenso de frente para a matriarca, dentro da mina,
 e fixa que matá-la espalha a infestação. Os seis containers descarregados entraram no inventário do
 Kael. A extratora (com o Tuth) e o detalhe de quem matou cada gundark ficam só aqui.
+
+## S03 — 2026-08-22 · Vanquor, mina abandonada e cidade
+**Presentes**: Kael Arvek (Arthur), Bat-seba Nul (Vih), Tuth Gex (Brunin), Darxen Mak (Thata), Mekkit (Jonas, entra no fim da sessão).
+
+O plano da explosão em cadeia saiu torto: o tiro do Tuth Gex acertou a própria matriarca em vez do
+cogumelo, e a ninhada inteira virou contra o grupo. Um segundo tiro do Tuth num explosivo matou seis
+gundarks de uma vez, sobrando a matriarca e um adulto — que morreu no caminho, sem chegar a alcançar
+ninguém. A matriarca alcançou: tirou 19 de dano da Bat-seba Nul, que ficou com 1 de vida, e passou um
+slash de raspão na Darxen Mak. O grupo despejou dano nela e o Tuth Gex finalizou. Na saída da caverna
+acharam um veio de ridonio e extraíram oito containers — dois muito bem processados, quatro normais,
+dois fracos. De volta à cidade, largaram tudo no compartimento de contrabando da nave e encontraram
+Mekkit, Jawa mandaloriano, que já tinha puxado conversa no bar com o dono da mina: Jighe Jaynon,
+ithoriano — o "gordão" do apelido provisório, que de gordo não tinha tanto. Com o serviço cumprido,
+Jighe pagou o que devia: Montross está numa vila perto da mina, tocando trabalho de milícia e
+cobrando dos moradores por segurança.
+
+**Promovido**: `O grupo` ganha Mekkit (Jonas). O Chefe 1 / "o gordão" vira **Jighe Jaynon**, ithoriano
+dono da mina, com a dívida da informação quitada. A `Situação` passa a ser a vila da milícia do
+Montross como próximo destino, com a mina limpa e os oito containers de ridonio no contrabando da
+nave. O detalhe do combate — o tiro errado, os seis gundarks de uma detonação, os 19 de dano na
+Bat-seba — fica só aqui.
