@@ -9,3 +9,4 @@ Esta memória é do workspace de SW5e: aprendizados sobre as mesas, sobre o espe
 - [Regras fora do Espelho](regras-fora-do-espelho.md) — custo de conjuração é nível+1, o que cada kit faz, feat de 1º nível, e o documento de Companions em GMBinder
 - [Import JSON do sheet SW5e no Roll20](roll20-sheet-sw5e-import.md) — o import limpa tudo e não recalcula nada: derivados e rollbase vão prontos, e selects traduzidos gravam texto pt-BR
 - [Companheiros na percepção do Kael](companheiros-na-percepcao-do-kael.md) — na Tauó, os PCs dos outros jogadores viram NPCs vistos pelo Kael, sem o rigor mecânico da criar-personagem
+- [Fabricar item e o Multitool](crafting-e-multitool.md) — material é metade do mercado e 250 cr/dia; tinker's implements substitui os outros kits que você já sabe usar

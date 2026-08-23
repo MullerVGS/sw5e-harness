@@ -59,3 +59,20 @@ dono da mina, com a dívida da informação quitada. A `Situação` passa a ser 
 Montross como próximo destino, com a mina limpa e os oito containers de ridonio no contrabando da
 nave. O detalhe do combate — o tiro errado, os seis gundarks de uma detonação, os 19 de dano na
 Bat-seba — fica só aqui.
+
+## S04 — 2026-08-22 · Vanquor, cidade
+**Presentes**: Kael Arvek (Arthur), Tuth Gex (Brunin), Darxen Mak (Thata), Mekkit (Jonas). Bat-seba Nul (Vih) ficou na nave.
+
+Continuação da mesma noite de jogo da S03, depois do encontro com Jighe Jaynon. A Bat-seba Nul ficou
+na nave e mandou 600 créditos para o grupo gastar; Kael Arvek pegou 200 do pote, somados aos 200 que
+já tinha. A loja vendia um `DUM-Series PIT Droid` por 100 créditos — que o Kael comprou de olho em
+usá-lo como droid-bomba, aproveitando o Powerful Build para carregar a carga e correr — e commlinks
+por 150, três vezes o preço de tabela. O Kael reclamou do preço na cara do vendedor, sliceou o
+sistema da loja e levou um commlink de graça, comprando só o segundo: 250 gastos, 150 no bolso. Um
+dos commlinks foi para o Mekkit. Fabricação de explosivo ficou combinada como trabalho do Tuth Gex e
+da Bat-seba Nul, que têm a ferramenta para isso. Todos subiram para o 2º nível.
+
+**Promovido**: `Nível do grupo` vai a 2. O `DUM-Series PIT Droid`, o `Astrotech's implements` (dado
+pelo Tutti) e o commlink que sobrou entraram na ficha do Kael; a `Situação` registra o grupo pronto
+para a vila e os explosivos como frente do Tuth e da Bat-seba. Os 150 créditos no bolso do Kael ficam
+só aqui — crédito é estado de mesa e não entra em ficha.
