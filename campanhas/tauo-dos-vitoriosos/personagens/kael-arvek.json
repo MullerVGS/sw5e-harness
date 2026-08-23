@@ -31,15 +31,15 @@
     "ganchos": [
       "O B3-SK carrega peça de todas as reconstruções — e há uma que Kael jura não ter instalado.",
       "Os códigos da estação distribuidora ainda funcionam, e o empregador que os emitiu não sabe que ele saiu.",
-      "Ele quer transformar o B3-SK em algo que ande sozinho de verdade, e para isso precisa de astrotech's implements, que ainda não tem."
+      "Com o astrotech's implements na mão, ele quer fazer o B3-SK andar sozinho de verdade — e o PIT droid recém-comprado é a cobaia que ele pretende mandar correr com uma bomba."
     ]
   },
   "build": {
-    "nivel": 1,
+    "nivel": 2,
     "classes": [
       {
         "classe": "Engineer",
-        "nivel": 1
+        "nivel": 2
       }
     ],
     "background": "Holonet Technician",
@@ -65,7 +65,7 @@
       "Charisma": 0
     },
     "bonusProficiencia": 2,
-    "pv": 10,
+    "pv": 14,
     "ca": 13,
     "iniciativa": 1,
     "deslocamento": 30,
@@ -73,7 +73,7 @@
     "bonusAtaquePoder": 5
   },
   "recursos": {
-    "Tech Points": 5,
+    "Tech Points": 7,
     "Max Power Level": 1,
     "Potent Aptitude": "d4"
   },
@@ -91,7 +91,9 @@
       "Technology"
     ],
     "expertise": [
-      "Technology"
+      "Technology",
+      "Tinker's implements",
+      "Slicer's kit"
     ],
     "armas": [
       "Simple blasters",
@@ -120,7 +122,8 @@
       "On/Off",
       "Encrypted Message",
       "Tracker Droid Interface",
-      "Execute Command"
+      "Execute Command",
+      "Fabricate Minor Trap"
     ]
   },
   "equipamento": {
@@ -158,7 +161,15 @@
         "qtd": 1
       },
       {
+        "nome": "Astrotech's implements",
+        "qtd": 1
+      },
+      {
         "nome": "Security kit",
+        "qtd": 1
+      },
+      {
+        "nome": "Commlink",
         "qtd": 1
       },
       {
@@ -191,6 +202,10 @@
       },
       {
         "nome": "mochila de viagem",
+        "qtd": 1
+      },
+      {
+        "nome": "DUM-Series PIT Droid",
         "qtd": 1
       }
     ]
@@ -263,6 +278,17 @@
       "resumo": "ação bônus dá a um aliado a até 60 pés um d4 para somar a um teste, ataque ou salvaguarda; 2 usos por descanso"
     },
     {
+      "nome": "Infuse Item",
+      "origem": "Engineer 2",
+      "resumo": "no fim de um descanso longo, toca um objeto unenhanced (armadura, escudo ou arma simple/martial) e ele vira enhanced até o próximo descanso longo: +1 de CA se armadura ou escudo, +1 em ataque e dano se arma; 1 uso por descanso longo"
+    },
+    {
+      "nome": "Tool Expertise",
+      "origem": "Engineer 2",
+      "resumo": "expertise nas proficiências de ferramenta vindas do Engineer",
+      "escolha": "Tinker's implements e Slicer's kit"
+    },
+    {
       "nome": "Holonet Access",
       "origem": "Holonet Technician",
       "resumo": "códigos de uma estação distribuidora dão informação diária sobre um tema, de confiabilidade variável"
@@ -311,7 +337,10 @@
     "Astrotech's implements": "sw5e/equipamentos/astrotech-s-implements.json",
     "Clothes, common": "sw5e/equipamentos/clothes-common.json",
     "Clothes, traveler's": "sw5e/equipamentos/clothes-traveler-s.json",
-    "DRK-1 Tracker Droid": "sw5e/monstros/drk-1-tracker-droid.json"
+    "DRK-1 Tracker Droid": "sw5e/monstros/drk-1-tracker-droid.json",
+    "Commlink": "sw5e/equipamentos/commlink.json",
+    "DUM-Series PIT Droid": "sw5e/monstros/dum-series-pit-droid.json",
+    "Fabricate Minor Trap": "sw5e/poderes/fabricate-minor-trap.json"
   },
-  "notas": "Intelligence 17 = 14 rolado + 2 (Arkanian) + 1 (Techie); Wisdom 14 = 13 rolado + 1 (Arkanian). Tech Points 5 = nível x 2 + modificador de Intelligence, e não o 2 da coluna da tabela. O Techie concede o poder repair droid, que fica fora de poderes.tech por ser concedido: ele é conjurável 1x por descanso longo sem wristpad e sem gastar tech point. Technology é proficiência do Engineer e o Techie a converte em expertise. Origem de cada proficiência de ferramenta, que a Tool Expertise do 2º nível precisa saber: Tinker's implements e Slicer's kit vêm do Engineer (e são as duas que ganham expertise no 2º nível); Mechanic's kit e Security kit vêm do Holonet Technician; Astrotech's implements vem do Crafters do Arkanian. Astrotech's implements é proficiência, mas o item ainda não foi comprado — ele é pré-requisito do arquétipo Astrotech Engineering no 3º nível. O Blaster rifle é MartialBlaster e o Engineer só tem proficiência em Simple blasters: o ataque com ele não soma bônus de proficiência. Short Circuit entra em ataques por ser o ataque de todo dia do personagem, embora o exemplo do FICHA.md só liste armas. B3-SK usa o bloco DRK-1 Tracker Droid e depende do poder tracker droid interface, que leva 1 hora para conjurar e mantém link com um droid por vez; os outros três droids-ferramenta são cor, sem mecânica. Encrypted Message exige que o alvo tenha um commlink, e nenhum foi comprado ainda. CA 13 = combat suit 11 + Dexterity 1 + 1 do Mandalorian Helmet, e o +1 do capacete é casa-regra: RAW o item não dá CA nenhuma, só headcomm, holorecorder e darkvision 60 pés — os bônus de CA do conjunto pertencem todos à Mandalorian Beskar'gam, que o Kael não tem. O absorptive 1 contra energia também é casa-regra do Tutti, e usa o vocabulário da propriedade de armadura: reduz em 1 o dano de arma, sem zerar. Fica em aberto se ele valia como resistência de metade do dano e se alcança dano de energia que não vem de arma. A darkvision do capacete não empilha com a do Arkanian. O capacete exige sintonia e é a única do Kael, que pode ter três. Lore não vem do Engineer nem do Holonet Technician: é a perícia extra que o Tutti concedeu por casa-regra, e por isso não tem feature que a justifique. Mando'a e Child of Mandalore vêm da casa-regra da mesa, que faz todo personagem mandaloriano: o background Mandalorian empresta o idioma e a feature social, e o Holonet Technician continua valendo por inteiro — perícias, os dois kits e Holonet Access. Não se aplicaram as perícias, o feat nem o equipamento do Mandalorian. A regra de que todo personagem recebe um feat no 1º nível não existe como fatia no Espelho — o que existe é featOptions em todo background, e Techie está na lista do Holonet Technician."
+  "notas": "Intelligence 17 = 14 rolado + 2 (Arkanian) + 1 (Techie); Wisdom 14 = 13 rolado + 1 (Arkanian). Tech Points 5 = nível x 2 + modificador de Intelligence, e não o 2 da coluna da tabela. O Techie concede o poder repair droid, que fica fora de poderes.tech por ser concedido: ele é conjurável 1x por descanso longo sem wristpad e sem gastar tech point. Technology é proficiência do Engineer e o Techie a converte em expertise. Origem de cada proficiência de ferramenta, que a Tool Expertise do 2º nível precisa saber: Tinker's implements e Slicer's kit vêm do Engineer (e são as duas que ganham expertise no 2º nível); Mechanic's kit e Security kit vêm do Holonet Technician; Astrotech's implements vem do Crafters do Arkanian. Astrotech's implements foi concedido pelo Tutti fora de compra, na S03, e é pré-requisito do arquétipo Astrotech Engineering no 3º nível. O Blaster rifle é MartialBlaster e o Engineer só tem proficiência em Simple blasters: o ataque com ele não soma bônus de proficiência. Short Circuit entra em ataques por ser o ataque de todo dia do personagem, embora o exemplo do FICHA.md só liste armas. B3-SK usa o bloco DRK-1 Tracker Droid e depende do poder tracker droid interface, que leva 1 hora para conjurar e mantém link com um droid por vez; os outros três droids-ferramenta são cor, sem mecânica. Encrypted Message exige que o alvo tenha um commlink: os capacetes do grupo já têm um embutido, e dos dois avulsos da S03 um ficou com o Mekkit e um está sobrando. CA 13 = combat suit 11 + Dexterity 1 + 1 do Mandalorian Helmet, e o +1 do capacete é casa-regra: RAW o item não dá CA nenhuma, só headcomm, holorecorder e darkvision 60 pés — os bônus de CA do conjunto pertencem todos à Mandalorian Beskar'gam, que o Kael não tem. O absorptive 1 contra energia também é casa-regra do Tutti, e usa o vocabulário da propriedade de armadura: reduz em 1 o dano de arma, sem zerar. Fica em aberto se ele valia como resistência de metade do dano e se alcança dano de energia que não vem de arma. A darkvision do capacete não empilha com a do Arkanian. O capacete exige sintonia e é a única do Kael, que pode ter três. Lore não vem do Engineer nem do Holonet Technician: é a perícia extra que o Tutti concedeu por casa-regra, e por isso não tem feature que a justifique. Mando'a e Child of Mandalore vêm da casa-regra da mesa, que faz todo personagem mandaloriano: o background Mandalorian empresta o idioma e a feature social, e o Holonet Technician continua valendo por inteiro — perícias, os dois kits e Holonet Access. Não se aplicaram as perícias, o feat nem o equipamento do Mandalorian. A regra de que todo personagem recebe um feat no 1º nível não existe como fatia no Espelho — o que existe é featOptions em todo background, e Techie está na lista do Holonet Technician. O DUM-Series PIT Droid comprado na S03 tem Crafter Protocol (proficiência em três ferramentas, escolhidas na fabricação — as do droid comprado ainda não foram fixadas com o Tutti), Interfaced Crafting Protocol (vantagem em teste de ferramenta que o droid também tenha, enquanto interfaceado) e Powerful Build. A interface do tracker droid interface é de um droid por vez, então ele e o B3-SK não ficam ligados ao mesmo tempo. No 2º nível: PV 14 = 10 do 1º + 2 rolados no d8 + 2 de Constitution, com a mesa usando rolagem; Tech Points 7 = 2 x 2 + modificador de Intelligence, recuperados em descanso curto ou longo. A Tool Expertise só alcança ferramenta vinda do Engineer — Tinker's implements e Slicer's kit —, e não Mechanic's kit, Security kit nem Astrotech's implements, que vieram de background e espécie. Isso casa com o Multitool do tinker's implements (Wretched Hives cap. 8): usando tinker's no lugar do slicer's, a expertise atravessa porque existe nas duas. O bônus do Infuse Item não está embutido em derivados.ca nem em ataques: é escolha feita a cada descanso longo, e o alvo padrão é o Combat suit (CA 14)."
 }
