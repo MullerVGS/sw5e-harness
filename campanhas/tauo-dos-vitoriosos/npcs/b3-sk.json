@@ -2,48 +2,70 @@
   "esquema": "sw5e-ficha/1",
   "tipo": "npc",
   "campanha": "tauo-dos-vitoriosos",
-  "base": "sw5e/monstros/drk-1-tracker-droid.json",
   "identidade": {
     "nome": "B3-SK",
     "especie": "droid",
     "idade": 11,
     "alinhamento": "sem alinhamento",
-    "aparencia": "Esfera do tamanho de um capacete, com três sensores no equador — fotorreceptor central, imageador magnético e térmico. O casco é remendado de placa que não combina, cada camada de uma reconstrução diferente, e a solda mais recente não tem a mão de Kael. Flutua à altura do ombro esquerdo dele e cai meio metro toda vez que o repulsor engasga."
+    "aparencia": "Esfera do tamanho de um capacete, com três sensores no equador — fotorreceptor central, imageador magnético e térmico — e, desde a sétima reconstrução, um emissor de camuflagem no polo. O casco é remendado de placa que não combina, cada camada de uma reconstrução diferente, e a solda mais antiga não tem a mão de Kael. Flutua à altura do ombro esquerdo dele e cai meio metro toda vez que o repulsor engasga."
   },
   "narrativa": {
-    "conceito": "Droid sonda que Kael Arvek montou de refugo e já reconstruiu cinco ou seis vezes; é o olho que entra na sala antes de todo mundo e a única coisa que já era dele antes da adoção pelo clã.",
+    "conceito": "Droid sonda que Kael Arvek montou de refugo e reconstruiu pela sétima vez em Vanquor, agora como companheiro de verdade; é o olho que entra na sala antes de todo mundo e a única coisa que já era dele antes da adoção pelo clã.",
     "ganchos": [
-      "Carrega peça de todas as reconstruções, e há uma que Kael jura não ter instalado.",
-      "Kael quer transformá-lo em algo que ande sozinho de verdade, e para isso ainda faltam os astrotech's implements."
+      "Carrega peça de todas as reconstruções, e há uma que Kael jura não ter instalado — ela sobreviveu à sétima.",
+      "Com voo e camuflagem, é ele quem entra na vila da milícia antes do grupo; se for visto, é um droid mandaloriano dentro do território do Montross."
+    ]
+  },
+  "build": {
+    "nivel": 3,
+    "classes": [
+      {
+        "classe": "Follower",
+        "nivel": 3,
+        "arquetipo": "Engineer"
+      }
     ]
   },
   "atributos": {
-    "Strength": 3,
-    "Dexterity": 13,
-    "Constitution": 8,
-    "Intelligence": 2,
-    "Wisdom": 12,
-    "Charisma": 7
+    "Strength": 6,
+    "Dexterity": 14,
+    "Constitution": 12,
+    "Intelligence": 16,
+    "Wisdom": 10,
+    "Charisma": 8
   },
   "derivados": {
     "modificadores": {
-      "Strength": -4,
-      "Dexterity": 1,
-      "Constitution": -1,
-      "Intelligence": -4,
-      "Wisdom": 1,
-      "Charisma": -2
+      "Strength": -2,
+      "Dexterity": 2,
+      "Constitution": 1,
+      "Intelligence": 3,
+      "Wisdom": 0,
+      "Charisma": -1
     },
     "bonusProficiencia": 2,
-    "pv": 1,
-    "ca": 11,
-    "iniciativa": 1,
-    "deslocamento": "5 pés, voo 60 pés"
+    "pv": 13,
+    "ca": 12,
+    "iniciativa": 2,
+    "deslocamento": "20 pés, voo 30 pés",
+    "dcPoder": 13,
+    "bonusAtaquePoder": 5
+  },
+  "recursos": {
+    "Max Power Level": 1,
+    "Potent Aptitude": "d4"
   },
   "proficiencias": {
-    "salvaguardas": [],
-    "pericias": ["Perception", "Stealth", "Survival"],
-    "idiomas": []
+    "salvaguardas": ["Constitution", "Intelligence"],
+    "pericias": ["Investigation", "Perception", "Piloting", "Stealth", "Technology"],
+    "expertise": [],
+    "armas": ["Simple blasters", "Simple vibroweapons"],
+    "armaduras": ["Light armor"],
+    "ferramentas": ["Slicer's kit", "Tinker's implements", "Security kit"],
+    "idiomas": ["Binary", "Galactic Basic", "Mando'a"]
+  },
+  "poderes": {
+    "tech": ["Short Circuit", "Tracer Bolt"]
   },
   "equipamento": {
     "itens": [
@@ -53,35 +75,122 @@
   "ataques": [
     {
       "nome": "Shockprod",
-      "bonus": 3,
+      "bonus": 4,
       "dano": "1",
       "tipo": "Lightning",
-      "alcance": "corpo a corpo, 5 pés"
+      "alcance": "corpo a corpo, 5 pés, finesse"
+    },
+    {
+      "nome": "Short Circuit",
+      "bonus": 5,
+      "dano": "1d8",
+      "tipo": "Lightning",
+      "alcance": "120 pés, ataque tech à distância"
+    },
+    {
+      "nome": "Tracer Bolt",
+      "bonus": 5,
+      "dano": "4d6",
+      "tipo": "Energy",
+      "alcance": "120 pés, ataque tech à distância; 1x por descanso curto ou longo, e o próximo ataque contra o alvo tem vantagem"
     }
   ],
   "features": [
     {
-      "nome": "Circuitry",
-      "origem": "base",
-      "resumo": "desvantagem em salvaguardas contra efeitos que causem dano ion ou lightning"
+      "nome": "Droid Resistances",
+      "origem": "Tracker Droid Companion",
+      "resumo": "resistência a dano necrotic, poison e psychic; imune a poison e a doença"
     },
     {
-      "nome": "Interfaced Tracking Protocol",
-      "origem": "base",
-      "resumo": "enquanto interfaceado, dá vantagem ao conjurador em testes de Wisdom (Survival) para rastrear um alvo que o droid também rastreia — ou, se já houver vantagem, permite rerrolar um dos dados uma vez"
+      "nome": "Droid Vulnerabilities",
+      "origem": "Tracker Droid Companion",
+      "resumo": "vulnerável a dano ion, e desvantagem em salvaguardas contra efeitos que causem dano ion ou lightning"
+    },
+    {
+      "nome": "Droid Systems",
+      "origem": "Tracker Droid Companion",
+      "resumo": "não come nem bebe, conjura tech sem tech focus, e é alvo válido do tracker droid interface"
+    },
+    {
+      "nome": "Droid Weaponry",
+      "origem": "Tracker Droid Companion",
+      "resumo": "shockprod integrado, finesse, 1 de dano lightning; não sai dele enquanto estiver consciente"
+    },
+    {
+      "nome": "Force Insensitive",
+      "origem": "Tracker Droid Companion",
+      "resumo": "não usa poderes de Força"
+    },
+    {
+      "nome": "Maintenance Mode",
+      "origem": "Tracker Droid Companion",
+      "resumo": "em vez de dormir, faz 3 horas de manutenção no descanso longo, com desvantagem em Perception nesse tempo; descanso interrompido só precisa ser completado, não reiniciado"
+    },
+    {
+      "nome": "Attitude",
+      "origem": "Tracker Droid Companion",
+      "resumo": "obedece ao Kael e age no turno dele; sem comando por ação bônus, só Dash, Dodge, Disengage, Guard ou Hide; iniciativa é a menor das duas rolagens; se Kael estiver incapacitado ou ausente, age sozinho"
+    },
+    {
+      "nome": "Aerial Travel Package",
+      "origem": "Follower 1",
+      "resumo": "voo de 30 pés, e ataques de oportunidade contra ele têm desvantagem"
+    },
+    {
+      "nome": "Camouflage Module",
+      "origem": "Follower 1",
+      "resumo": "ação para ficar invisível com tudo que carrega, e ação para reaparecer; orçamento de 2 horas descontado em minutos, que recupera 1 hora a cada 12 horas sem uso"
+    },
+    {
+      "nome": "Techcasting Range Protocol",
+      "origem": "Astrotech Engineering (Companion) 3",
+      "resumo": "enquanto interfaceado, Kael conjura através dele qualquer poder tech de alcance 5 pés ou mais, com o B3-SK a até 5 pés do alvo; sobe para 10 pés no 5º nível"
+    },
+    {
+      "nome": "Darkvision Optics",
+      "origem": "Astrotech Engineering (Companion) 3",
+      "resumo": "darkvision 60 pés, que Kael herda quando vê pelos sensores dele"
+    },
+    {
+      "nome": "Helpful",
+      "origem": "Follower 2",
+      "resumo": "Help como ação bônus, mas só para ajudar o Kael"
+    },
+    {
+      "nome": "Techcasting",
+      "origem": "Engineer 3",
+      "resumo": "dois poderes tech de até 1º nível, com Intelligence (DC 13, +5); não tem tech points: conjura o de 1º nível uma vez por descanso curto ou longo, e o at-will só escala no 11º e no 18º nível"
+    },
+    {
+      "nome": "Potent Aptitude",
+      "origem": "Engineer 3",
+      "resumo": "ação bônus dá a uma criatura a até 60 pés um d4 para somar a um teste, ataque ou salvaguarda nos próximos 10 minutos; 3 usos por descanso longo"
+    },
+    {
+      "nome": "Droid Companion",
+      "origem": "Astrotech Engineering (Companion) 3",
+      "resumo": "vínculo com o Kael: a até 10 pés dele, conjura com a própria ação um poder tech de 1º nível do Kael usando DC 13 e +5 próprios, 4 usos por descanso longo do Kael; Kael pode gastar a reação e um Potent Aptitude para somar d4 ao ataque e ao dano dele"
     },
     {
       "nome": "Tracker Droid Interface",
       "origem": "Tracker Droid Interface",
-      "resumo": "link permanente com o tech focus do Kael: age sozinho na iniciativa dele e obedece seus comandos, transmite visão e audição a até 100 pés, e entrega por reação os poderes tech de toque que ele conjura, usando o bônus de ataque do Kael"
+      "resumo": "link permanente com o tech focus do Kael: comunicação a até 100 pés, Kael vê e ouve pelos sensores dele com uma ação, e entrega por reação os poderes de toque que Kael conjura"
     }
   ],
   "fontes": {
+    "Astrotech Engineering (Companion)": "sw5e/arquetipos/astrotech-engineering-companion.json",
+    "Investigation": "sw5e/pericias/investigation.json",
     "Perception": "sw5e/pericias/perception.json",
+    "Piloting": "sw5e/pericias/piloting.json",
     "Stealth": "sw5e/pericias/stealth.json",
-    "Survival": "sw5e/pericias/survival.json",
+    "Technology": "sw5e/pericias/technology.json",
+    "Short Circuit": "sw5e/poderes/short-circuit.json",
+    "Tracer Bolt": "sw5e/poderes/tracer-bolt.json",
     "Tracker Droid Interface": "sw5e/poderes/tracker-droid-interface.json",
-    "Repair Droid": "sw5e/poderes/repair-droid.json"
+    "Repair Droid": "sw5e/poderes/repair-droid.json",
+    "Slicer's kit": "sw5e/equipamentos/slicer-s-kit.json",
+    "Tinker's implements": "sw5e/equipamentos/tinker-s-implements.json",
+    "Security kit": "sw5e/equipamentos/security-kit.json"
   },
-  "notas": "Bloco fiel: nada foi alterado do DRK-1 Tracker Droid, e qualquer melhoria futura tem que aparecer aqui. O bônus de proficiência +2 não está no bloco — sai do CR 0. As três perícias fecham como modificador + 2. Darkvision 120 pés, passive Perception 13, resistência a Necrotic, Poison e Psychic, vulnerabilidade a Ion e imunidade a poison e disease ficam no base e não viraram campo. O deslocamento é string porque o voo 60 é o número que a mesa usa; o 5 pés no chão só vale com o repulsor desligado. A espécie é o tipo de criatura do bloco, não as espécies jogáveis Droid, Class I–V: a build é bloco de monstro, não níveis de classe. Idiomas vazio porque o bloco traz \"—\" — o B3-SK não fala, e a comunicação com Kael é pelo tech focus dentro de 100 pés, o que casa com o hábito dele de responder no lugar do droid. Shockprod é arma do chassi e não tem fatia em equipamentos, por isso não ganha linha em fontes; o bloco escreve o dano como 1 fixo, não como dado. O link vem do poder tracker droid interface do Kael, que custa 2 tech points e 1 hora de conjuração para restabelecer — se o B3-SK for destruído, o droid reconstruído precisa ser reinterfaceado, e Kael só mantém um por vez. Com 1 PV ele cai em qualquer acerto; repair droid, que o Techie concede ao Kael 1x por descanso longo sem gastar tech point, cura 1d8+3 e sempre o devolve inteiro."
+  "notas": "Companion do Astrotech Engineering (Companion) do Kael Arvek, no 3º nível do Engineer. A build vem do documento de Companions do SW5e Expanded Content em GMBinder (https://www.gmbinder.com/share/-MD4vx8qLc1ObQaxb5-X), que a fatia do arquétipo cita e o espelho não guarda: Follower é a classe de companion do documento (tabela The Follower), Engineer é a Companion Class escolhida no 3º nível dela, e Tracker Droid Companion é a natureza; nenhum dos três é fatia, por isso não têm linha em fontes, e as features com essas origens apontam para seções do documento. A natureza tracker droid foi tomada pelo parágrafo Alternative Companions, que prevê um astrotech preferir tracker droid ao droid de classe I–V com acordo do mestre; o Tutti ainda não confirmou, e se negar a ficha vira Class II Droid (Small, d6, 25 pés, sem voo até o 9º nível). O bloco DRK-1 Tracker Droid que servia de base foi aposentado: a sétima reconstrução é esta. Atributos pelo varied standard array do tracker droid (16, 14, 12, 10, 8, 6). PV 13 = 4 + 1 no 1º nível + (3 + 1) por nível nos dois seguintes, valor fixo do documento, não rolagem. CA 12 = 10 + Dexterity; tracker droid não veste nem integra armadura, então a proficiência em Light armor da classe Engineer de companion não tem uso. Iniciativa +2, mas age na menor entre a rolagem dele e a do Kael. Perícias: Perception e Stealth são as duas do chassi, Investigation, Piloting e Technology as três da classe; Slicer's kit é a ferramenta integrada do chassi, Tinker's implements e Security kit as da classe. Idiomas: fala só Binary; entende Galactic Basic e Mando'a sem falar. Quatro traits: dois do Follower e dois do Droid Companion do arquétipo, e os dois do arquétipo custam ao Kael 1 de Tech Points cada por excederem o bônus de proficiência dele (9 vira 7); o arquétipo deixa trocar um trait por descanso longo. Suplentes que valem a pena: Ranged Interface Protocol (+50 pés de link), Keen Sight, Sentry Dish (alarm 1x por descanso longo) e Storage. A conta do Techcasting Range Protocol: o poder parte do B3-SK, então Kael não precisa ver o alvo — só o droid precisa estar a 5 pés dele. Shockprod +4 = Dexterity 2 + proficiência 2 (finesse). Tracer Bolt é o poder de 1º nível, conjurado uma vez por descanso curto ou longo pela regra de Techcasting da classe; Short Circuit é o at-will e não escala no 5º nível. O Droid Companion do arquétipo é um segundo canal de conjuração, com regra própria: são poderes do Kael conjurados pelo droid, contam 4 usos por descanso longo do Kael e exigem os dois a 10 pés. Se for destruído, repair droid do Kael (Techie, 1x por descanso longo) cura 1d8+3, e o link do tracker droid interface precisa ser refeito em 1 hora e 2 tech points."
 }

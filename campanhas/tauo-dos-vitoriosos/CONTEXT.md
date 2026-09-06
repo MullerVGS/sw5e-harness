@@ -4,7 +4,7 @@ Jogador · 25 BBY, Legends · clã mercenário mandaloriano sem trono, vivendo d
 
 ## Mesa
 
-- **Nível do grupo**: 2
+- **Nível do grupo**: 3
 - **PV por nível**: rolagem
 - **Atributos**: rolagem — os valores já foram tirados fora da harness; o Jogador informa os dele na criação da ficha
 - **Fontes**: tudo o que está no Espelho
@@ -17,7 +17,7 @@ Jogador · 25 BBY, Legends · clã mercenário mandaloriano sem trono, vivendo d
 
 Mestre: Tutti. Todos os personagens são mandalorianos, sem lealdade a Sundari nem ao Death Watch.
 
-- **Kael Arvek (Arthur)** — Arkanian Engineer 2, adotado pelo clã. Slicer e construtor de droids; age por discrição, vira o sistema da sala contra quem está nela e reaproveita peças achadas em viagem. Anda com B3-SK, droid flutuante que ele já reconstruiu várias vezes, e três droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento). Quase não tira o `Mandalorian Helmet` — é a única peça do conjunto que tem, e a luz forte o cega.
+- **Kael Arvek (Arthur)** — Arkanian Engineer 3, Astrotech Engineering (Companion), adotado pelo clã. Slicer e construtor de droids; age por discrição, vira o sistema da sala contra quem está nela e reaproveita peças achadas em viagem. Anda com B3-SK, tracker droid companion que reconstruiu pela sétima vez em Vanquor — voa, se camufla e conjura, e a natureza tracker droid ainda espera o OK do Tutti —, três droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento) e um PIT droid comprado para ser kamikaze. Quase não tira o `Mandalorian Helmet` — é a única peça do conjunto que tem, e a luz forte o cega.
 - **Bat-seba Nul (Vih)** — _ficha a criar_; pela ótica do Kael, é quem pensa no grupo.
 - **Tuth Gex (Brunin)** — _ficha a criar_
 - **Darxen Mak (Thata)** — _ficha a criar_
