@@ -29,13 +29,17 @@ que falta e onde achar, verificado em 2026-07-25:
     Security fura trava física, e assim por diante.
   O padrão Xanathar's (insight + calibração DC 15) pode existir por cima em
   variante, mas a linha de ofício do PHB é a regra que resolve reparo na mesa.
-- **Feat no 1º nível**: todo personagem ganha um, e mais em 3, 6, 9, 12, 15 e 18.
-  Não há Fatia que diga isso; o que o Espelho mostra é o `featOptions` de todo
+- **Feat só no 1º nível e trocando ASI**: PHB cap. 4 (`rowKey "4"`, "Background
+  Feat") diz que todo background dá um feat inicial, e cap. 6 diz que fora disso
+  feat só entra no lugar de um Ability Score Improvement, como regra opcional.
+  **Não há feat em 3, 6, 9** — esta memória dizia isso e estava errada;
+  corrigido em 2026-09-05. O que o Espelho mostra é o `featOptions` de todo
   background.
 - **Regras de companheiro** — o "Customization Options document for Expanded
   Content" que os arquétipos `(Companion)` citam é o
   [Workspace 24 — Companions](https://www.gmbinder.com/share/-MD4vx8qLc1ObQaxb5-X),
-  em GMBinder. **Não está na API**, então o sync nunca vai baixá-lo.
+  em GMBinder. **Não está na API**, então o sync nunca vai baixá-lo. O que ele
+  diz e como baixá-lo está em [[companions-doc-sw5e]].
 - **Não há lista de poderes por classe**: a feature de casting dá acesso à lista
   inteira de Força ou de tech, o que torna o `INDEX.md` de `poderes/` a única
   restrição real na escolha.

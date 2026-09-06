@@ -16,8 +16,10 @@ Quem quer um droid companheiro não precisa esperar o arquétipo.
   `ID9 Seeker Droid` e `Sith Probe Droid` são blocos vizinhos do mesmo porte.
 - **`Astrotech Engineering (Companion)`** (3º nível) é o que faz o droid crescer
   — e a Fatia manda criar o droid pela "Companions section of the Customization
-  Options document for Expanded Content", **que não está no Espelho**. Sem essa
-  prosa, o arquétipo não é jogável como escrito.
+  Options document for Expanded Content", **que não está no Espelho**. O
+  documento foi baixado e lido em 2026-09-05: ver [[companions-doc-sw5e]]. O
+  Kael Arvek da Tauó é o primeiro caso, com o B3-SK como tracker droid
+  companion.
 - O `Astrotech Engineering` **base** é outra coisa: guerra eletrônica anti-droid,
   sem companheiro nenhum. Os dois nomes quase iguais decidem builds opostas.
 

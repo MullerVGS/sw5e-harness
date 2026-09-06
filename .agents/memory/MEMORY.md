@@ -10,3 +10,4 @@ Esta memória é do workspace de SW5e: aprendizados sobre as mesas, sobre o espe
 - [Import JSON do sheet SW5e no Roll20](roll20-sheet-sw5e-import.md) — o import limpa tudo e não recalcula nada: derivados e rollbase vão prontos, e selects traduzidos gravam texto pt-BR
 - [Companheiros na percepção do Kael](companheiros-na-percepcao-do-kael.md) — na Tauó, os PCs dos outros jogadores viram NPCs vistos pelo Kael, sem o rigor mecânico da criar-personagem
 - [Fabricar item e o Multitool](crafting-e-multitool.md) — material é metade do mercado e 250 cr/dia; tinker's implements substitui os outros kits que você já sabe usar
+- [O documento de Companions do SW5e](companions-doc-sw5e.md) — Follower, naturezas, droid de classe I–V, tracker droid com OK do mestre e o custo dos traits em tech points; baixa com curl, não com WebFetch
