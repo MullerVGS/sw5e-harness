@@ -49,5 +49,33 @@ sections: [{section_name, rows:[{campo: valor}]}]}`. Verificado no código em 20
   `show_desc` é literalmente `"@{description}"`, e o `rollbase` do ramo de ataque
   é o template `npcatk` com os links `~repeating_npcaction_npc_dmg`/`_npc_crit`.
 
+Aprendido na evolução do Kael para o 3º nível (2026-09-05), partindo do **export do
+Jogador** em vez de gerar do zero — o export preserva o estado de jogo, e o script
+só aplica o delta da ficha do repo:
+
+- O HTML do sheet baixa direto com `curl` de
+  `https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/StarWars5E/StarWars5E_HTML.html`
+  (~1 MB); grepar `name="attr_..."` dá os 617 nomes de campo e as options dos selects.
+- **Arquétipo** é `subclass`, input de texto livre; não sai no export quando vazio.
+- `atkattr_base` do ataque de poder é literalmente `power` (as outras options são
+  `@{<atributo>_mod}` e `0`). Concentração num poder é `powerconcentration:
+  "{{concentration=1}}"` (senão `"0"`). Expertise de ferramenta é
+  `toolbonus_base: "(@{pb}*2)"`, com `toolbonus` já somado.
+- **Flags de perícia e salvaguarda de NPC**: o worker processa em ordem alfabética
+  **inversa**, e a primeira processada leva flag `2` — ou seja, `2` vai na perícia
+  alfabeticamente **última** entre as que têm valor (`4` se negativa), `1` nas
+  outras (`3` se negativa), `0` nas sem valor. Nas salvaguardas a ordem de
+  processamento é cha, wis, int, con, dex, str. `npc_skills_flag` e
+  `npc_saving_flag` são só a concatenação dos valores, servem como "não vazio".
+- NPC conjurador: `npcpowercastingflag: "1"`, `powercasting_ability`,
+  `power_save_dc`, `power_attack_bonus`, e os poderes nas mesmas
+  `repeating_power-*` do PC. Ação de NPC sem ataque usa
+  `rollbase: "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}"`.
+- Estado que se preserva do export: PV corrente vira `corrente + (novo máximo −
+  máximo antigo)`; `tech_power_points_expended` (que é *remaining*) idem;
+  `inspiration`, `class_resource` corrente e `rtype` ficam como o Jogador deixou.
+- Os JSONs gerados vivem em `tmp/` do repo, que está no `.gitignore` — nunca
+  commitados, como manda a regra da harness.
+
 A conversão da ficha do Kael foi gerada por script descartável (morreu no chat, como
 manda a regra); o JSON entregue ao Jogador não vira arquivo do repo.

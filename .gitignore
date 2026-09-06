@@ -5,3 +5,6 @@ __pycache__/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Exports e conversões de VTT — nunca entram no repo
+tmp/
