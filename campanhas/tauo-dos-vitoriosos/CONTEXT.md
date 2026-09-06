@@ -11,13 +11,14 @@ Jogador · 25 BBY, Legends · clã mercenário mandaloriano sem trono, vivendo d
 - **Casa-regras**:
   - Todos são mandalorianos. Quem escolhe outro background ganha por cima `Mando'a` e `Child of Mandalore` do background `Mandalorian`, sem perder nada do que escolheu — perícias, feat e equipamento do `Mandalorian` não entram.
   - Cada personagem tem uma proficiência de perícia a mais, à escolha, acima do que classe e background dão.
+  - `Astrotech Engineering (Companion)` pode criar um tracker droid companion em vez de um droid de classe I–V, pelo parágrafo Alternative Companions do documento de Companions. Aprovado para o B3-SK do Kael.
   - Peça de beskar entra na ficha como equipamento inicial concedido pelo clã, sem custo nem pré-requisito de nível. O `Mandalorian Helmet` sozinho dá +1 de CA e `absorptive 1` contra dano de energia — RAW ele não dá proteção nenhuma, e os bônus de CA do conjunto são todos da `Mandalorian Beskar'gam`.
 
 ## O grupo
 
 Mestre: Tutti. Todos os personagens são mandalorianos, sem lealdade a Sundari nem ao Death Watch.
 
-- **Kael Arvek (Arthur)** — Arkanian Engineer 3, Astrotech Engineering (Companion), adotado pelo clã. Slicer e construtor de droids; age por discrição, vira o sistema da sala contra quem está nela e reaproveita peças achadas em viagem. Anda com B3-SK, tracker droid companion que reconstruiu pela sétima vez em Vanquor — voa, se camufla e conjura, e a natureza tracker droid ainda espera o OK do Tutti —, três droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento) e um PIT droid comprado para ser kamikaze. Quase não tira o `Mandalorian Helmet` — é a única peça do conjunto que tem, e a luz forte o cega.
+- **Kael Arvek (Arthur)** — Arkanian Engineer 3, Astrotech Engineering (Companion), adotado pelo clã. Slicer e construtor de droids; age por discrição, vira o sistema da sala contra quem está nela e reaproveita peças achadas em viagem. Anda com B3-SK, tracker droid companion que reconstruiu pela sétima vez em Vanquor — voa, enxerga no escuro e conjura —, três droids-ferramenta pequenos (câmera, sensor de presença, reconhecimento) e um PIT droid comprado para ser kamikaze. Quase não tira o `Mandalorian Helmet` — é a única peça do conjunto que tem, e a luz forte o cega.
 - **Bat-seba Nul (Vih)** — _ficha a criar_; pela ótica do Kael, é quem pensa no grupo.
 - **Tuth Gex (Brunin)** — _ficha a criar_
 - **Darxen Mak (Thata)** — _ficha a criar_

@@ -7,13 +7,13 @@
     "especie": "droid",
     "idade": 11,
     "alinhamento": "sem alinhamento",
-    "aparencia": "Esfera do tamanho de um capacete, com três sensores no equador — fotorreceptor central, imageador magnético e térmico — e, desde a sétima reconstrução, um emissor de camuflagem no polo. O casco é remendado de placa que não combina, cada camada de uma reconstrução diferente, e a solda mais antiga não tem a mão de Kael. Flutua à altura do ombro esquerdo dele e cai meio metro toda vez que o repulsor engasga."
+    "aparencia": "Esfera do tamanho de um capacete, com três sensores no equador — fotorreceptor central, imageador magnético e térmico. O casco é remendado de placa que não combina, cada camada de uma reconstrução diferente, e a solda mais antiga não tem a mão de Kael. Flutua à altura do ombro esquerdo dele e cai meio metro toda vez que o repulsor engasga."
   },
   "narrativa": {
     "conceito": "Droid sonda que Kael Arvek montou de refugo e reconstruiu pela sétima vez em Vanquor, agora como companheiro de verdade; é o olho que entra na sala antes de todo mundo e a única coisa que já era dele antes da adoção pelo clã.",
     "ganchos": [
       "Carrega peça de todas as reconstruções, e há uma que Kael jura não ter instalado — ela sobreviveu à sétima.",
-      "Com voo e camuflagem, é ele quem entra na vila da milícia antes do grupo; se for visto, é um droid mandaloriano dentro do território do Montross."
+      "Voando e enxergando no escuro, é ele quem entra na vila da milícia antes do grupo; se for visto, é um droid mandaloriano dentro do território do Montross. Kael ainda não construiu o emissor de camuflagem que quer pôr nele."
     ]
   },
   "build": {
@@ -56,20 +56,48 @@
     "Potent Aptitude": "d4"
   },
   "proficiencias": {
-    "salvaguardas": ["Constitution", "Intelligence"],
-    "pericias": ["Investigation", "Perception", "Piloting", "Stealth", "Technology"],
+    "salvaguardas": [
+      "Constitution",
+      "Intelligence"
+    ],
+    "pericias": [
+      "Investigation",
+      "Perception",
+      "Piloting",
+      "Stealth",
+      "Technology"
+    ],
     "expertise": [],
-    "armas": ["Simple blasters", "Simple vibroweapons"],
-    "armaduras": ["Light armor"],
-    "ferramentas": ["Slicer's kit", "Tinker's implements", "Security kit"],
-    "idiomas": ["Binary", "Galactic Basic", "Mando'a"]
+    "armas": [
+      "Simple blasters",
+      "Simple vibroweapons"
+    ],
+    "armaduras": [
+      "Light armor"
+    ],
+    "ferramentas": [
+      "Slicer's kit",
+      "Tinker's implements",
+      "Security kit"
+    ],
+    "idiomas": [
+      "Binary",
+      "Galactic Basic",
+      "Mando'a"
+    ]
   },
   "poderes": {
-    "tech": ["Short Circuit", "Tracer Bolt"]
+    "tech": [
+      "Short Circuit",
+      "Tracer Bolt"
+    ]
   },
   "equipamento": {
     "itens": [
-      { "nome": "peças de refugo das reconstruções anteriores, soldadas ao casco", "qtd": 1 }
+      {
+        "nome": "peças de refugo das reconstruções anteriores, soldadas ao casco",
+        "qtd": 1
+      }
     ]
   },
   "ataques": [
@@ -137,13 +165,8 @@
       "resumo": "voo de 30 pés, e ataques de oportunidade contra ele têm desvantagem"
     },
     {
-      "nome": "Camouflage Module",
-      "origem": "Follower 1",
-      "resumo": "ação para ficar invisível com tudo que carrega, e ação para reaparecer; orçamento de 2 horas descontado em minutos, que recupera 1 hora a cada 12 horas sem uso"
-    },
-    {
       "nome": "Techcasting Range Protocol",
-      "origem": "Astrotech Engineering (Companion) 3",
+      "origem": "Follower 1",
       "resumo": "enquanto interfaceado, Kael conjura através dele qualquer poder tech de alcance 5 pés ou mais, com o B3-SK a até 5 pés do alvo; sobe para 10 pés no 5º nível"
     },
     {
@@ -192,5 +215,5 @@
     "Tinker's implements": "sw5e/equipamentos/tinker-s-implements.json",
     "Security kit": "sw5e/equipamentos/security-kit.json"
   },
-  "notas": "Companion do Astrotech Engineering (Companion) do Kael Arvek, no 3º nível do Engineer. A build vem do documento de Companions do SW5e Expanded Content em GMBinder (https://www.gmbinder.com/share/-MD4vx8qLc1ObQaxb5-X), que a fatia do arquétipo cita e o espelho não guarda: Follower é a classe de companion do documento (tabela The Follower), Engineer é a Companion Class escolhida no 3º nível dela, e Tracker Droid Companion é a natureza; nenhum dos três é fatia, por isso não têm linha em fontes, e as features com essas origens apontam para seções do documento. A natureza tracker droid foi tomada pelo parágrafo Alternative Companions, que prevê um astrotech preferir tracker droid ao droid de classe I–V com acordo do mestre; o Tutti ainda não confirmou, e se negar a ficha vira Class II Droid (Small, d6, 25 pés, sem voo até o 9º nível). O bloco DRK-1 Tracker Droid que servia de base foi aposentado: a sétima reconstrução é esta. Atributos pelo varied standard array do tracker droid (16, 14, 12, 10, 8, 6). PV 13 = 4 + 1 no 1º nível + (3 + 1) por nível nos dois seguintes, valor fixo do documento, não rolagem. CA 12 = 10 + Dexterity; tracker droid não veste nem integra armadura, então a proficiência em Light armor da classe Engineer de companion não tem uso. Iniciativa +2, mas age na menor entre a rolagem dele e a do Kael. Perícias: Perception e Stealth são as duas do chassi, Investigation, Piloting e Technology as três da classe; Slicer's kit é a ferramenta integrada do chassi, Tinker's implements e Security kit as da classe. Idiomas: fala só Binary; entende Galactic Basic e Mando'a sem falar. Quatro traits: dois do Follower e dois do Droid Companion do arquétipo, e os dois do arquétipo custam ao Kael 1 de Tech Points cada por excederem o bônus de proficiência dele (9 vira 7); o arquétipo deixa trocar um trait por descanso longo. Suplentes que valem a pena: Ranged Interface Protocol (+50 pés de link), Keen Sight, Sentry Dish (alarm 1x por descanso longo) e Storage. A conta do Techcasting Range Protocol: o poder parte do B3-SK, então Kael não precisa ver o alvo — só o droid precisa estar a 5 pés dele. Shockprod +4 = Dexterity 2 + proficiência 2 (finesse). Tracer Bolt é o poder de 1º nível, conjurado uma vez por descanso curto ou longo pela regra de Techcasting da classe; Short Circuit é o at-will e não escala no 5º nível. O Droid Companion do arquétipo é um segundo canal de conjuração, com regra própria: são poderes do Kael conjurados pelo droid, contam 4 usos por descanso longo do Kael e exigem os dois a 10 pés. Se for destruído, repair droid do Kael (Techie, 1x por descanso longo) cura 1d8+3, e o link do tracker droid interface precisa ser refeito em 1 hora e 2 tech points."
+  "notas": "Companion do Astrotech Engineering (Companion) do Kael Arvek, no 3º nível do Engineer. A build vem do documento de Companions do SW5e Expanded Content em GMBinder (https://www.gmbinder.com/share/-MD4vx8qLc1ObQaxb5-X), que a fatia do arquétipo cita e o espelho não guarda: Follower é a classe de companion do documento (tabela The Follower), Engineer é a Companion Class escolhida no 3º nível dela, e Tracker Droid Companion é a natureza; nenhum dos três é fatia, por isso não têm linha em fontes, e as features com essas origens apontam para seções do documento. A natureza tracker droid foi tomada pelo parágrafo Alternative Companions, que prevê um astrotech preferir tracker droid ao droid de classe I–V com acordo do mestre; o Tutti aprovou em 2026-09-05, na abertura da S05. O bloco DRK-1 Tracker Droid que servia de base foi aposentado: a sétima reconstrução é esta. Atributos pelo varied standard array do tracker droid (16, 14, 12, 10, 8, 6). PV 13 = 4 + 1 no 1º nível + (3 + 1) por nível nos dois seguintes, valor fixo do documento, não rolagem. CA 12 = 10 + Dexterity; tracker droid não veste nem integra armadura, então a proficiência em Light armor da classe Engineer de companion não tem uso. Iniciativa +2, mas age na menor entre a rolagem dele e a do Kael. Perícias: Perception e Stealth são as duas do chassi, Investigation, Piloting e Technology as três da classe; Slicer's kit é a ferramenta integrada do chassi, Tinker's implements e Security kit as da classe. Idiomas: fala só Binary; entende Galactic Basic e Mando'a sem falar. Três traits instalados: Aerial Travel Package e Techcasting Range Protocol pelo Follower, Darkvision Optics pelo Droid Companion do arquétipo; o arquétipo dá direito a um quarto, e cada trait acima do bônus de proficiência do Kael custa a ele 1 de Tech Points (9 vira 8 com três; seria 7 com quatro). O Jogador deixou o quarto slot vazio de propósito: o Camouflage Module (invisível por ação, orçamento de 2 horas) é o que ele quer, mas o B3-SK ainda não tem o emissor — entra num descanso longo quando Kael o construir, e o arquétipo deixa instalar ou trocar um trait por descanso longo. Outros suplentes: Ranged Interface Protocol (+50 pés de link), Keen Sight, Sentry Dish (alarm 1x por descanso longo) e Storage. A conta do Techcasting Range Protocol: o poder parte do B3-SK, então Kael não precisa ver o alvo — só o droid precisa estar a 5 pés dele. Shockprod +4 = Dexterity 2 + proficiência 2 (finesse). Tracer Bolt é o poder de 1º nível, conjurado uma vez por descanso curto ou longo pela regra de Techcasting da classe; Short Circuit é o at-will e não escala no 5º nível. O Droid Companion do arquétipo é um segundo canal de conjuração, com regra própria: são poderes do Kael conjurados pelo droid, contam 4 usos por descanso longo do Kael e exigem os dois a 10 pés. Se for destruído, repair droid do Kael (Techie, 1x por descanso longo) cura 1d8+3, e o link do tracker droid interface precisa ser refeito em 1 hora e 2 tech points."
 }
