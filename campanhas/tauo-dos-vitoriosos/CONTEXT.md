@@ -34,7 +34,8 @@ Mestre: Tutti. Todos os personagens são mandalorianos, sem lealdade a Sundari n
 - **Rando Ohnaka** — cruzou com o grupo no bar de Vanquor, conversando com Jighe Jaynon. Perseguido e
   derrotado em combate, comprou a saída com informação: o Montross tomou uma carga, ele sabe onde ela
   está guardada e propôs 50/50 se o grupo roubar. Não disse o que é a carga nem nomeou o lugar; fugiu
-  vivo e não acompanha o grupo. Pista não verificada.
+  vivo e não acompanha o grupo. A pista se provou verdadeira em parte — a carga existe e é de
+  disruptor —, mas o esconderijo que ele diz conhecer segue por confirmar.
 
 ## Divergência do cânon
 
@@ -42,13 +43,14 @@ _nenhuma_ — Legends como é.
 
 ## Situação
 
-Vanquor, cidade — o grupo nunca chegou a sair dela. Alugou um carro por uma semana e o prazo corre
-desde então. No bar, de saída para a vila, deu de cara com Rando Ohnaka em conversa com Jighe
-Jaynon; a perseguição virou combate e ele comprou a saída com uma pista: o Montross tomou uma carga,
-ele sabe onde está e ofereceu 50/50 pelo roubo — sem dizer o que é a carga nem onde fica. O grupo
-decide agora entre esse alvo e a vila da milícia do Montross, que segue em aberto; a próxima sessão
-abre com descanso longo. Os oito containers de ridonio (dois muito bem processados, quatro normais,
-dois fracos) seguem no compartimento de contrabando da nave, e os explosivos continuam como frente do
-Tuth Gex e da Bat-seba Nul. Só Kael tem ficha; Bat-seba Nul, Tuth Gex, Darxen Mak e Mekkit jogaram
-mas ainda não têm ficha no repo. A postura de Sundari, do Death Watch e de quem contrata o clã ainda
-não foi estabelecida pelo Tutti.
+Vanquor, deserto — o grupo saiu da cidade pela pista do Rando Ohnaka e achou uma quadjumper caída na
+areia, vinda de Morlana One, abatida por arma de EMP e com a tripulação morta dentro. As caixas de
+carga estavam vazias: a carga que o Montross tomou é de disruptor (`AZID-disruptors`, marca `DPR
+102`), e o esconderijo dela continua sendo o destino. A sessão parou com o grupo no topo do morro de
+onde a nave foi derrubada, ainda por investigar, com o carro alugado em cima da rocha e o prazo de
+uma semana correndo; embaixo, na areia, uma criatura grande parecida com lacraia segue viva, ferida e
+enterrada. A vila da milícia do Montross continua em aberto. Os oito containers de ridonio (dois muito
+bem processados, quatro normais, dois fracos) seguem no compartimento de contrabando da nave, e os
+explosivos continuam como frente do Tuth Gex e da Bat-seba Nul. Só Kael tem ficha; Bat-seba Nul, Tuth
+Gex, Darxen Mak e Mekkit jogaram mas ainda não têm ficha no repo. A postura de Sundari, do Death Watch
+e de quem contrata o clã ainda não foi estabelecida pelo Tutti.

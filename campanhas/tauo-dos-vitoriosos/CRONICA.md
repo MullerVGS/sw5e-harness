@@ -93,3 +93,22 @@ concorre com a pista do Rando. Todos subiram para o 3º nível.
 verificada. A `Situação` vira a decisão em aberto entre a vila e a carga do Montross, com o carro
 alugado correndo o prazo de uma semana. `Nível do grupo` vai a 3 — é esta sessão que o deu, não a
 S04. O combate, a fuga do Rando e o fato de ele estar falando com o Jighe ficam só aqui.
+
+## S06 — 2026-09-19 · Vanquor, deserto — destroço de uma quadjumper
+**Presentes**: Kael Arvek (Arthur), Tuth Gex (Brunin), Darxen Mak (Thata), Mekkit (Jonas). Bat-seba Nul (Vih) não jogou.
+
+Depois do descanso longo, o grupo deixou a vila da milícia de lado e seguiu a pista do Rando Ohnaka
+no carro alugado. O rastro acabou numa quadjumper caída na areia, tripulação morta dentro e corpos
+ressecados; Mekkit mandou todo mundo sair da areia, e o drone do Kael não achou nada do alto. Três
+criaturas parecidas com lacraias saíram do chão — as duas pequenas morreram, a grande se enterrou
+ferida e não voltou. Darxen Mak leu as caixas de carga, todas vazias: `AZID-disruptors` e `DPR 102`.
+Kael acessou a caixa preta — a nave vinha de Morlana One, foi abatida por arma de EMP com todos os
+circuitos fritos e caiu do alto do morro ao lado. Tuth Gex buscou o carro, o grupo subiu na rocha e a
+sessão terminou lá. O PIT droid do Kael está quebrado desde a compra: metade das peças já comprada, a
+última depende do sucateiro da cidade.
+
+**Promovido**: a `Situação` vira o topo do morro sobre o destroço, com a carga do Montross
+identificada como disruptores e as caixas já vazias — o esconderijo continua sendo o destino. A linha
+do **Rando Ohnaka** deixa de dizer pista não verificada: a carga existe e é de disruptor, só o lugar
+segue por confirmar. O PIT droid quebrado entra na ficha do Kael. O combate, os corpos ressecados e a
+lacraia enterrada ficam só aqui.

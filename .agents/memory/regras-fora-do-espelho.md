@@ -40,6 +40,13 @@ que falta e onde achar, verificado em 2026-07-25:
   [Workspace 24 — Companions](https://www.gmbinder.com/share/-MD4vx8qLc1ObQaxb5-X),
   em GMBinder. **Não está na API**, então o sync nunca vai baixá-lo. O que ele
   diz e como baixá-lo está em [[companions-doc-sw5e]].
+- **Tipos de dano, e o que ion faz**: PHB cap. 9 (`rowKey "9"`), seção de tipos
+  de dano. **Ion** é descrito como "most effective against droids and constructs"
+  e desabilita eletrônica simples até ela ser reiniciada — mas **não há redução
+  de dano contra criatura orgânica**: 2d4 de `shocking ray` entram inteiros num
+  bicho. O que existe do outro lado é a **vulnerabilidade a ion dos droids**, que
+  dobra o dano — e vale contra o companion tanto quanto contra o inimigo. EMP na
+  ficção da mesa é dano ion na linguagem do sistema. Verificado em 2026-09-20.
 - **Não há lista de poderes por classe**: a feature de casting dá acesso à lista
   inteira de Força ou de tech, o que torna o `INDEX.md` de `poderes/` a única
   restrição real na escolha.
