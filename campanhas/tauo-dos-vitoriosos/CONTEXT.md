@@ -31,6 +31,10 @@ Mestre: Tutti. Todos os personagens são mandalorianos, sem lealdade a Sundari n
   desarmou (literalmente) no bar: veio à nave com dez droids cobrar compensação, foi intimidado e
   trocou a cobrança pelo serviço da mina. Mina limpa, pagou o que prometia sobre Montross — dívida
   quitada dos dois lados.
+- **Rando Ohnaka** — cruzou com o grupo no bar de Vanquor, conversando com Jighe Jaynon. Perseguido e
+  derrotado em combate, comprou a saída com informação: o Montross tomou uma carga, ele sabe onde ela
+  está guardada e propôs 50/50 se o grupo roubar. Não disse o que é a carga nem nomeou o lugar; fugiu
+  vivo e não acompanha o grupo. Pista não verificada.
 
 ## Divergência do cânon
 
@@ -38,13 +42,13 @@ _nenhuma_ — Legends como é.
 
 ## Situação
 
-Vanquor, de volta à cidade. A mina do Jighe Jaynon está limpa — a matriarca dos gundarks e a ninhada
-morreram, ao custo de a Bat-seba Nul quase cair. Na saída, o grupo extraiu oito containers de ridonio
-(dois muito bem processados, quatro normais, dois fracos), todos guardados no compartimento de
-contrabando da nave. Mekkit entrou no grupo. Com o serviço cumprido, Jighe Jaynon pagou a informação
-prometida: Tross Kohima, o Montross — alvo do puck do clã de Jaster Mereel, e só descrito como
-perigoso por Heff Egoya — está numa vila perto da mina, tocando trabalho de milícia e cobrando dos
-moradores por segurança. É para lá que o grupo vai — reabastecidos na loja da cidade, com os explosivos combinados como
-frente do Tuth Gex e da Bat-seba Nul, que têm a ferramenta para fabricá-los. Só Kael tem ficha; Bat-seba Nul, Tuth Gex, Darxen
-Mak e Mekkit jogaram mas ainda não têm ficha no repo. A postura de Sundari, do Death Watch e de quem
-contrata o clã ainda não foi estabelecida pelo Tutti.
+Vanquor, cidade — o grupo nunca chegou a sair dela. Alugou um carro por uma semana e o prazo corre
+desde então. No bar, de saída para a vila, deu de cara com Rando Ohnaka em conversa com Jighe
+Jaynon; a perseguição virou combate e ele comprou a saída com uma pista: o Montross tomou uma carga,
+ele sabe onde está e ofereceu 50/50 pelo roubo — sem dizer o que é a carga nem onde fica. O grupo
+decide agora entre esse alvo e a vila da milícia do Montross, que segue em aberto; a próxima sessão
+abre com descanso longo. Os oito containers de ridonio (dois muito bem processados, quatro normais,
+dois fracos) seguem no compartimento de contrabando da nave, e os explosivos continuam como frente do
+Tuth Gex e da Bat-seba Nul. Só Kael tem ficha; Bat-seba Nul, Tuth Gex, Darxen Mak e Mekkit jogaram
+mas ainda não têm ficha no repo. A postura de Sundari, do Death Watch e de quem contrata o clã ainda
+não foi estabelecida pelo Tutti.

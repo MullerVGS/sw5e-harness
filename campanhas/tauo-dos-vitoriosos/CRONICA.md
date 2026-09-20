@@ -76,3 +76,20 @@ da Bat-seba Nul, que têm a ferramenta para isso. Todos subiram para o 2º níve
 pelo Tutti) e o commlink que sobrou entraram na ficha do Kael; a `Situação` registra o grupo pronto
 para a vila e os explosivos como frente do Tuth e da Bat-seba. Os 150 créditos no bolso do Kael ficam
 só aqui — crédito é estado de mesa e não entra em ficha.
+
+## S05 — 2026-09-05 · Vanquor, cidade
+**Presentes**: Kael Arvek (Arthur), Bat-seba Nul (Vih), Tuth Gex (Brunin), Darxen Mak (Thata), Mekkit (Jonas).
+
+De saída para a vila da milícia do Montross, o grupo alugou um carro por uma semana — e não chegou a
+usar o prazo. No bar, antes de partir, deram de cara com Rando Ohnaka conversando com Jighe Jaynon,
+o ithoriano dono da mina que tinha passado o serviço anterior. Foram atrás dele para tirar o que ele
+soubesse; ele tentou escapar e a perseguição virou combate. Rando levou a pior e comprou a saída com
+informação: o Montross tomou uma carga, ele sabe onde ela está guardada, e propôs 50/50 se o grupo
+roubar. Não disse o que é a carga, não nomeou o lugar e fugiu vivo — não vai junto. Ninguém do grupo
+caiu, todos terminaram inteiros. O grupo não saiu da cidade: a vila continua em aberto e agora
+concorre com a pista do Rando. Todos subiram para o 3º nível.
+
+**Promovido**: `Facções e figuras` ganha **Rando Ohnaka**, que fugiu vivo e deixou uma pista não
+verificada. A `Situação` vira a decisão em aberto entre a vila e a carga do Montross, com o carro
+alugado correndo o prazo de uma semana. `Nível do grupo` vai a 3 — é esta sessão que o deu, não a
+S04. O combate, a fuga do Rando e o fato de ele estar falando com o Jighe ficam só aqui.
