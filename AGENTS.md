@@ -1,6 +1,6 @@
 # AGENTS.md — sw5e-harness
 
-Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador conduz; o agente pergunta pouco, monta a ficha, confere e grava. O vocabulário desta ferramenta vive em `CONTEXT.md` (raiz) — use-o com precisão.
+Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador conduz; o agente pergunta pouco, monta a ficha, confere e grava. O vocabulário desta ferramenta vive em `GLOSSARY.md` (raiz) — use-o com precisão.
 
 ## Papéis
 
@@ -12,11 +12,11 @@ Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador cond
 
 | Caminho | O que é |
 | --- | --- |
-| `CONTEXT.md` | Vocabulário da harness |
-| `CONTEXT-MAP.md` | Mapa das campanhas |
+| `GLOSSARY.md` | Vocabulário da harness |
+| `GLOSSARY-MAP.md` | Mapa das campanhas |
 | `FICHA.md` | O esquema `sw5e-ficha/1`, campo por campo, com exemplo — leia antes de escrever ficha |
 | `sw5e/` | Espelho de regras: uma fatia por entidade, mais `INDEX.md` por coleção |
-| `campanhas/<slug>/CONTEXT.md` | Estado da mesa |
+| `campanhas/<slug>/GLOSSARY.md` | Estado da mesa |
 | `campanhas/<slug>/CRONICA.md` | Histórico da mesa, append-only |
 | `campanhas/<slug>/personagens/` | PCs do Jogador |
 | `campanhas/<slug>/npcs/` | Aliados, contatos, tripulação |
@@ -27,8 +27,8 @@ Workspace de criação de personagens e NPCs de **Star Wars 5e**. O Jogador cond
 
 ## Ritual de abertura
 
-1. Identifique a campanha. Se o Jogador não nomear e houver mais de uma no `CONTEXT-MAP.md`, pergunte — é a única pergunta que vale fazer antes de ler qualquer coisa.
-2. Leia o `CONTEXT.md` da campanha **inteiro** e as últimas entradas da `CRONICA.md`.
+1. Identifique a campanha. Se o Jogador não nomear e houver mais de uma no `GLOSSARY-MAP.md`, pergunte — é a única pergunta que vale fazer antes de ler qualquer coisa.
+2. Leia o `GLOSSARY.md` da campanha **inteiro** e as últimas entradas da `CRONICA.md`.
 3. Responda em uma ou duas linhas dizendo onde a mesa está e o que ele quer fazer. Nada de relatório.
 
 ## Regras duras
@@ -47,9 +47,9 @@ Três coleções não são escolha e sim regra que a fatia referencia: `propried
 
 O arquivo da fatia é o nome da entidade em slug (`Bo-rifle` → `bo-rifle.json`). Onde dois nomes colidem, o índice traz o arquivo entre backticks na linha — são poucos casos, e o índice é quem manda. A fatia não é cópia crua da API: saem dela as duplicações do mesmo dado e o plumbing de armazenamento, e nada mais.
 
-**Cânon não vira arquivo.** A era, os planetas e as facções do Star Wars você já conhece. O `CONTEXT.md` da campanha registra apenas onde a mesa **diverge** do cânon ou o que ela inventou.
+**Cânon não vira arquivo.** A era, os planetas e as facções do Star Wars você já conhece. O `GLOSSARY.md` da campanha registra apenas onde a mesa **diverge** do cânon ou o que ela inventou.
 
-**Estado e histórico são coisas diferentes.** `CONTEXT.md` é o que é verdade agora e é lido inteiro antes de toda ficha, então tem que ficar pequeno. `CRONICA.md` é append-only e quase nunca é lido inteiro. Ao registrar uma sessão, promova ao `CONTEXT.md` só o que virou estado permanente; na dúvida, não promova.
+**Estado e histórico são coisas diferentes.** `GLOSSARY.md` é o que é verdade agora e é lido inteiro antes de toda ficha, então tem que ficar pequeno. `CRONICA.md` é append-only e quase nunca é lido inteiro. Ao registrar uma sessão, promova ao `GLOSSARY.md` só o que virou estado permanente; na dúvida, não promova.
 
 **Nomes de entidade ficam em inglês.** A conversa é em PT-BR, mas todo valor que nomeia uma entidade do espelho — espécie, classe, arquétipo, background, perícia, poder, item — é gravado com o nome original, exatamente como no espelho, ou a busca para de casar. Texto livre, alinhamento, alcance e aparência ficam em PT-BR.
 

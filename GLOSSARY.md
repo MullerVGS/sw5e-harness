@@ -18,11 +18,11 @@ O agente de IA que executa a harness. Pergunta pouco, monta a ficha consultando 
 ### Campanha
 
 **Campanha**:
-Uma mesa, materializada como subpasta de `campanhas/` com Contexto, Crônica e as fichas de PCs, NPCs e inimigos. Registrada no `CONTEXT-MAP.md` da raiz.
+Uma mesa, materializada como subpasta de `campanhas/` com Contexto, Crônica e as fichas de PCs, NPCs e inimigos. Registrada no `GLOSSARY-MAP.md` da raiz.
 _Avoid_: mesa (na conversa é sinônimo; como termo de arquivo, use Campanha)
 
 **Contexto da campanha**:
-O `CONTEXT.md` de uma Campanha: o que é verdade **agora** — era, tom, nível do grupo, método de atributos, fontes permitidas, quem é o grupo, facções relevantes e casa-regras. Lido inteiro antes de toda ficha, então precisa caber numa tela.
+O `GLOSSARY.md` de uma Campanha: o que é verdade **agora** — era, tom, nível do grupo, método de atributos, fontes permitidas, quem é o grupo, facções relevantes e casa-regras. Lido inteiro antes de toda ficha, então precisa caber numa tela.
 _Avoid_: descrição da campanha, lore
 
 **Crônica**:

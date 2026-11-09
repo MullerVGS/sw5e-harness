@@ -1,6 +1,6 @@
 ---
 name: registrar-sessao
-description: Registra uma sessão jogada — escreve a entrada na CRONICA.md da Campanha e promove ao CONTEXT.md só o que virou estado permanente. Use quando ele disser que jogou, pedir para registrar a sessão, ou simplesmente começar a contar o que aconteceu na mesa.
+description: Registra uma sessão jogada — escreve a entrada na CRONICA.md da Campanha e promove ao GLOSSARY.md só o que virou estado permanente. Use quando ele disser que jogou, pedir para registrar a sessão, ou simplesmente começar a contar o que aconteceu na mesa.
 ---
 
 # registrar-sessao

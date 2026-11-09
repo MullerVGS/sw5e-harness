@@ -9,7 +9,7 @@ Abre uma mesa. O que sair daqui é o que toda ficha vai ler depois — e o que o
 
 ## Ler antes
 
-`CONTEXT-MAP.md` da raiz, só para não colidir de slug. Campanha nova não tem contexto para ler: é você que vai criá-lo.
+`GLOSSARY-MAP.md` da raiz, só para não colidir de slug. Campanha nova não tem contexto para ler: é você que vai criá-lo.
 
 Se o slug já estiver lá, é a mesma mesa — pergunte antes de tocar em qualquer coisa.
 
@@ -37,7 +37,7 @@ Slug: nome em minúsculas, sem acento, com hífen — "O Cerco de Mandalore" →
 
 Não crie pasta vazia. `personagens/`, `npcs/` e `inimigos/` nascem com a primeira ficha.
 
-### `campanhas/<slug>/CONTEXT.md`
+### `campanhas/<slug>/GLOSSARY.md`
 
 Cabe numa tela, ou não é Contexto. Seção sem conteúdo fica com `_nenhuma_` — a Promoção precisa de onde escrever depois.
 
@@ -83,7 +83,7 @@ Uma entrada por sessão, a mais recente por último. Formato:
 
 `## S<NN> — <AAAA-MM-DD> · <lugar>`, **Presentes**, 3 a 8 linhas do que
 aconteceu nomeando quem apareceu, e **Promovido** com o que subiu para o
-`CONTEXT.md` — ou `nada`.
+`GLOSSARY.md` — ou `nada`.
 ```
 
 E uma entrada fica assim:
@@ -105,12 +105,12 @@ Se a mesa já rodava antes do registro, a primeira entrada é `## S00 — <data 
 
 `Promovido` é o que fecha o ciclo: lendo a entrada, dá para saber se o Contexto já absorveu aquilo. `nada` é resposta boa e frequente.
 
-### `CONTEXT-MAP.md`
+### `GLOSSARY-MAP.md`
 
 Registre a campanha na seção Campanhas, no formato que já está lá. Se ainda estiver com `_(nenhuma campanha ainda)_`, substitua a linha.
 
 ## Fechar
 
-Mostre o `CONTEXT.md` inteiro no chat — ele é pequeno — e pergunte o que está errado. É o momento mais barato de consertar.
+Mostre o `GLOSSARY.md` inteiro no chat — ele é pequeno — e pergunte o que está errado. É o momento mais barato de consertar.
 
 Commite (`campanha: <Nome>`) e diga qual é o próximo passo: `criar-personagem`.
